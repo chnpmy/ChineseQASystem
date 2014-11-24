@@ -10,6 +10,7 @@ import org.dom4j.io.SAXReader;
 
 /**
  * Created by chnpmy on 2014/11/7.
+ * 大家只要看Main类就好了
  */
 
 public class Main {
@@ -21,6 +22,10 @@ public class Main {
     }
     static final int docsCount = 100;//sample.xml里面的问题数量
 
+    /**
+     * 输入文件：Sample.xml（原始的问题集）
+     * 输出文件：*.xml，表示每一个问题对应的搜索引擎结果
+     */
     private static void createDocs() {
         String format = "xml";
         File sourceFile = new File("resource\\Sample.xml");
@@ -58,6 +63,8 @@ public class Main {
     /**
      * 将原始的xml文档转化为只有维基正文内容的txt文件，方便窦芃处理
      * 这部分交给奚远完成
+     * 输入：*.xml
+     * 输出：*.txt
      */
     private static void xmlDocsToText(){
         for (int i = 1; i <= docsCount; i++){
@@ -93,6 +100,8 @@ public class Main {
      * 调用分词工具对奚远生成的.txt文件进行分词，时间会比较长，而且会出各种问题
      * 之后考虑把NIU换成IK吧
      * （之前应该再加一步繁体转简体的工作）
+     * 输入：*.txt
+     * 输出：*.out
      */
     private static void getSentences(){
         SegmentThread segmentThread = new SegmentThread(docsCount);
@@ -102,6 +111,8 @@ public class Main {
     /**
      * 这部分是姚畅的工作吧
      * 将分词后的结果进行词数统计，方便窦芃处理
+     * 输入：*.out
+     * 输出：*.count.out
      */
     private static void wordCount(){
         new WordCount(docsCount).work();
@@ -109,9 +120,21 @@ public class Main {
 
     /**
      * 将问题分割
-     * 然后调用窦芃的程序得到
+     * 然后调用窦芃的程序得到每个问题对应的包含答案的句子
+     * 输入：*.count.out
+     * 输出：*.sen
      */
     private static void getSentence(){
-        return;
+
+    }
+
+    /**
+     * 这部分是刘铭名的工作吧
+     * 得到最后的答案
+     * 输入：*.sen
+     * 输出：Answer.xml
+     */
+    private static void getAnswer(){
+
     }
 }
