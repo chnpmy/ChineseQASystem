@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">哪些能源属于可再生能源？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="650848" start="0">
+  <doc>
+    <str name="id">965513</str>
+    <str name="text">{{About||[[中国]][[广西壮族自治区]][[桂林市]]下辖的县级行政区|资源县}}
+
+{{Unreferenced |time=2009-01-28T17:02:29+00:00 }}
+'''资源'''是指任何一种有形或者无形、可利用性有限的[[实体|物体]]，或者是任何有助于维持生计的[[事物]]。在大多数情况下，在商业上或者甚至出于[[道德规范]]方面的因素会要求通过[[资源管理]]来实现[[资源分配]]。
+
+==附属于资源的价值类型==
+[[Image:Drinking_water.jpg|thumb|清洁的[[饮用水]]是所有人都需要的一种资源。]]
+资源对于人类来说非常重要，因此我们将某些信息[[价值 (经济学)|价值]]与其联系在一起。资源有助于生产商品，因而具有[[经济]]价值。[[森林]]、山脉之类的[[自然资源]]如此之美，因而具有审[[美]]价值。大自然的馈赠，诸如[[水资源]]，还具有[[法律]]价值，因为我们有权享用之。另一方面，资源还具有[[伦理]]价值，为后世子孙保护和保留这些资源是基于道德上的责任。
+资源包含可再生资源和不可再生资源；可再生资源使用后可以循环利用，比如水，不可再生资源使用后就消失了，比如石油。
+
+==资源的特性==
+资源主要具有三种特性： [[实用性]]、数量（常常依据的是其[[稀缺性|可利用性]]）以及在生产其他资源方面的用途。不过，有些人并不接受这种定义。例如，&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: Red;"&gt;'''[[生态学家]]'''（{{lang|en|''deep ecologists''}}）&lt;/span&gt;&lt;/span&gt;就认为非人为要素独立于人类[[价值]]。
+
+一种资源的数量指的是特定某种[[原材料]]的总量，而不是经济学上所说的[[储备量]]。在资源数量方面，可能会发生[[瓶颈]]问题，使一些资源无法获得，造成[[供应紧张]]（[[:en:Supply shock|supply shocks]]）。随着[[投机者]]提高资源的[[商品价值]]，或者当[[地缘政治]]问题等造成风险时，资源[[价格]]往往会出现上涨。资源价格被视为一个与资源供应的安全有关的影响因素。
+
+资源就是那些可以真正组合起来，用于生产[[商品]]和[[服务]]的事物。
+
+{{seealso|基础设施}}
+
+== 资源的价值 ==
+
+[[大自然]]之馈赠的价值或重要性取决于下列几个因素：
+
+;人们的需求
+在世界范围内，人类的需求并非千篇一律。随着[[人类社会]]的进步，人类的需求也在不断发展，并且变得日益[[复杂性|复杂]]。在非常发达的社会里，人们使用的是形形色色经过高度加工处理的[[产品]]。另一方面，在[[发展中国家]]，对于经过加工处理的商品的[[消费]]要少得多，而在诸如[[非洲]][[俾格米人]]（[[:en:Pygmies|Pygmies]]）之类的[[原始部落]]当中，几乎不使用任何经过加工处理的物品。
+
+;人们所拥有的技术水平
+[[技术水平]]也会影响对于资源的[[利用]]。例如，美洲印第安人曾经居住在[[北美洲|北美]][[大草原]]上，而他们是将这些大草原作为[[狩猎场]]来使用的。后来，当[[欧洲]][[移民]]到达这里之后，后者则将这些大草原用于[[农业生产]]。如今，这些大草原则以商业化种植[[小麦]]和饲养[[牲畜]]而著称。
+
+;时间
+资源的价值还会随着时间的推移而发生变化。例如，早期的人类只是将水纯粹用于满足个人需要。后来，人类将水用于农业用途，即农田[[灌溉]]。再后来，水还被用作一种[[交通运输]]手段，从而人们造出用于渡水的船只。如今，人们还利用水来[[发电]]。
+
+[[Walter Youngquist]]认为，在经济增长期间，对于供应某种资源的需求通常会因为消费的增加而增加，而这些消费不仅来自于人口增长，同时还源于[[生活标准]]的提高以及对特定资源使用的增多。
+
+==资源的类型==
+===自然资源===
+{{main|自然资源}}
+
+自然资源，又称为天然资源，源自于[[自然环境]]。其中，许多自然资源是我们[[生存]]所必不可少的，而其他自然资源则用于满足我们的种种需求和愿望。可以采用不同的方式对自然资源加以[[分类]]。
+
+;根据来源的不同，可将自然资源划分为：
+:* '''[[生物资源]]''' - 生物资源是指从[[生物圈]]之中获取的资源。重要的例子包括[[森林]]及其产物、[[动物]]、[[鸟类]]及其产物、[[鱼类]]及其他[[海洋生物]]。[[煤炭]]和[[石油]]之类的矿物也属于此类，因为它们是由腐烂的有机物质形成的。
+:* '''[[非生物资源]]''' - 非生物资源是由非生命物质构成的资源。例如，土地、水、空气以及金银铜铁之类的矿物。
+
+;根据发展阶段的不同，可将自然资源划分为：
+:* '''潜在资源''' - 潜在资源是指那些当前存在于某一区域，且将来可加以使用的资源。例如，矿物油可能存在于印度的许多具有[[沉积岩]]的地区，但是要开采出来并投入使用，仍需要花费一定的时间，因而依然属于一种潜在资源。
+
+:* '''现实资源''' - 现实资源是指那些已经过[[勘探]]，其数量和质量也已经确定，且当前正在使用。例如，从[[孟买高地]]（{{lang|en|Bombay High Fields}}）开采的[[石油]]和[[天然气]]。自然资源的[[资源开发|开发]]，如[[木材加工]]，取决于现有的[[技术]]以及所涉及的[[成本]]。在现实资源之中，可以采用现有技术加以开发且有利可图的部分称为资源储备。
+
+;根据[[可再生性]]的不同，可将自然资源划分为：
+:* '''可再生资源''' - [[可再生资源]]是指那些易于再生或复制的资源。其中，有一些资源，如阳光、空气和风等等，是持续可用的，其数量并不受人类消耗的影响。许多可再生资源可以因人类的使用而耗尽，但还可能会得以再生，从而以一定的流量维持下去。农作物之类可再生资源的补充时间较短；水之类的其他可再生资源则要花费相对较长的时间，而森林之类的其他可再生资源则需要更长的时间。
+
+:* '''不可再生资源''' - [[不可再生资源]]要经过很长的[[地理时期]]才能形成。[[矿物]]和[[化石]]就归此类。此类资源的形成速度极其缓慢，因此一旦[[资源枯竭|耗尽]]，就无法再生。其中，金属矿物可以循环利用，而[[矿物]]和[[化石]]却无法实现循环利用。
+
+;根据[[所有权]]的不同，可将自然资源划分为：
+:*[[个人所有]]的自然资源
+:*[[集体所有]]的自然资源
+:*[[国家所有]]的自然资源
+:*[[国际所有]]的自然资源
+
+===人力资源===
+{{main|人力资源}}
+[[人类]]自身也被视为一种资源，因为他们能够将[[原材料]]转变为富有[[价值]]的资源。[[人力资源]]－这条术语亦可定义为：那些用于'''生产商品或提供服务'''的技巧、精力、才能、能力以及[[知识]]。
+
+在考虑将人作为资源之时，必须将下列因素铭记在心：
+* [[人群]]的规模或数量
+* 人群之中个人的能力
+
+===信息资源===
+{{main|信息资源}}
+[[信息资源]]是指人通过一系列的认识和创造过程，采用[[符号]]形式储存在一定[[信息载体|载体]]（包括人的[[大脑]]）之上的，可供利用的全部[[信息]]。[[网络资源]]则是一种特殊的信息资源。
+
+==资源的使用与[[可持续发展]]==
+许多资源在其原始形式的情况下是无法消费或者说使用的。为了将其转变化更加方便可用的商品，就必须对它们予以加工处理。这就是所谓的'''资源开发'''。例如，将[[原油]]变为[[汽油]]。随着全球范围内[[人口]]的增多，对于资源的需求也在不断增加。然而，不同国家或地区之间的[[资源分布]]情况各不相同。[[发达国家]]所使用的资源要多于[[发展中国家]]。
+
+[[Image:Los_Angeles_Pollution.jpg|thumb|350 px|right|[[烟雾]]笼罩之下的[[美国]][[洛杉矶]]。]]
+
+与资源之[[过度消费]]相关的需求上涨已经造出了若干的问题：
+* [[资源枯竭]]
+* 资源在少数人手中的积累
+* [[环境退化]]
+*[[公地悲剧]]
+*[[资源诅咒]]
+
+==参见==
+{{wikt|资源}}
+* [[环境资源]]
+* [[人力资源]]
+* [[信息资源]]
+* [[自然资源]]
+:* [[生物资源]]
+:* [[自然资源管理]]
+* [[基于资源的观点]]
+* [[世界能量资源与消费]]
+*[[可持续发展]]
+
+==參考資料==
+&lt;div class="references-small"&gt;
+&lt;references /&gt;
+&lt;/div&gt;
+
+[[Category:资源|*]]
+
+[[pl:Resurs]]</str>
+    <str name="title">资源</str>
+    <str name="titleText">资源</str>
+    <str name="user">NigelSoft-Bot</str>
+    <int name="userId">1591267</int>
+    <int name="revision">30388204</int>
+    <date name="timestamp">2014-02-26T07:20:17Z</date>
+    <long name="_version_">1484748843282071552</long></doc>
+  <doc>
+    <str name="id">76953</str>
+    <str name="text">{{article issues
+|expand=2010-08-18T09:26:20+00:00
+|expert=2010-08-18T09:26:20+00:00
+|unreferenced=2010-08-18T09:26:20+00:00
+}}
+
+[[File:Energy-production-World2.png|thumb|440px|全球能源生產能力圖]]
+[[File:Energy corridor from Niagara Falls, near Buffalo NY. IMG 0636.jpg|thumb|240px|電力輸送網]]
+[[File:Gent - Electrabel Rodenhuize 1.jpg|thumb|240px|核電廠]]
+[[File:CPCC Tamsui Station 20070805.jpg|thumb|240px|加油站]]
+
+使用能源通過控制和適應環境使它在人類社會裡成為一個關鍵的發展。在任何一個社會都無法避免管理能源的使用。在[[工業化]]國家裡，能源資源的發展在[[農業]]，[[運輸]]，[[垃圾收集]]，[[信息技術]]和[[通訊]]是成為發達社會的先決條件。自從[[工業革命]]後，能源的使用越來越多，同時也帶來一些嚴重的問題，其中一些，如[[全球暖化]]對目前全世界有潛在嚴重的風險。另外由於[[經濟活動]]，如[[製造業]]和[[運輸業]]的密集，能源效率﹑依賴﹑安全和價格等的問題也令人關注。&lt;br /&gt;
+在人類社會背景下的能源資源:能源資源作為'''能源'''的同義詞，一般來說常指物質，例如[[燃料]]，[[石油]]加工產品和[[電力]]。這些都是可利用的能源來源，因為它們可以很容易地轉化為其他為特定的用處種類的能源。&lt;br /&gt;
+在自然界中，能源可以採取幾種不同的形式存在：[[熱]]，[[化學能]]，[[電]]，[[輻射]]等。許多這些形式可以很容易轉化為另一種的幫助下，如利用裝置；從[[化學能]]到[[電能]]使用的[[電池]]。但我們大多數現有的能源來自於[[太陽]]。巨大潛在的能源闡述可由著名的公式{{lang|en|E}} = {{lang|en|mc}}&lt;sup&gt;2&lt;/sup&gt;所表示。&lt;br /&gt;
+現代能源一般可分為三類：[[可再生能源]]﹑[[可替代能源]]和[[核能]]。
+
+==能源與經濟==
+能源資源的生產與消費对于世界經濟非常重要。無論是生產商品，提供運輸，使電腦和其他設備正常運作，所有的經濟活動都需要能源資源，可以說是工業時代重要[[生產資料]]之一。
+
+==能源與環境==
+能源資源的消耗需要資源，並且會對[[環境]]具有影響。許多[[發電廠]]燃燒[[煤炭]]、[[石油]]或[[天然氣]]來發電能作為能源的需求。雖然燃燒這些[[化石燃料]]可以馬上供應電力，但是會產生的空氣污染物包括[[二氧化碳]]（CO 2），[[二氧化硫]]和[[三氧化硫]]（SOX）和[[氮氧化物]]（NOx）。二氧化碳是一種重要的溫室氣體而被認為對[[全球暖化]]影響的加快負起責任。燃燒礦物燃料發電也釋放微量金屬如鈹，鎘，鉻，銅，錳，汞，鎳，銀到環境中，也作為污染物。&lt;br /&gt;
+因此一些環保人士提倡使用[[可再生能源]]，普遍認為，最有效的辦法就是[[保護環境]]，[[節約能源]]避免擴大使用能源，從而導致環境被破壞。&lt;br /&gt;
+i i i
+
+==能源危機==
+{{main|能源危機}}
+因為能源供應短缺或是價格上漲而影響經濟。這通常涉及到石油，電力或其他自然資源的短缺。[[經濟]]和[[政治]]不穩定也可能導致[[能源危機]]，像是1973年的[[石油危機]]和1979年的[[石油危機]]。當全球石油開採率達到最高（即[[石油峰值]]）可能會促成另一[[能源危機]]。
+
+===國際能源機構===
+1974年成立的[[發達國家能源論壇性組織]]。由[[澳大利亞]]、[[加拿大]]、[[比利時]]、[[丹麥]]、[[法國]]、[[德國]]等23個國家所組成。成員國政府在發生[[石油危機]]中，合作協調能源政策，分享能源供應。並借發展[[替代能源]]，解決能源結構中的供需問題和環境問題。
+
+===傳統能源類別及其限制===
+*[[不可再生能源]] - [[石油]]、[[天然氣]]、[[核能]]……等依賴有總量限制的來源
+*[[可再生能源]] - [[水力]]、[[風力]]、[[太陽能]]……等無限制能量來源
+
+====[[核能]]的發展====
+核能發電是核能的主要應用方面，1950年代末至[[1980年代|80年代]]中是世界[[核電]]開始快速發展的時期。人們利用[[核裂變]]釋放出的熱量進行供熱及發電的技術。核子工業會產生[[放射性廢料]]，低階放射性廢料要監測約300年，待其放射性逐漸降低後可以確定其安全穩定性；而放射性較強的高階放射性廢料，則需要搭配較長時間的妥善管理及處置，以待其放射性衰減到與背景輻射相當的程度。&lt;ref&gt;Vandenbosch, Robert, and Susanne E. Vandenbosch. 2007. ''Nuclear waste stalemate''. Salt Lake City: University of Utah Press, 21.&lt;/ref&gt;
+
+====[[新能源]]和[[可再生能源]]====
+[[太陽能]]、[[風能]]、[[地熱能]]、[[生物質能]]、[[氫能]]、[[水能]]、[[海洋能]]的總稱。除生物質能外，均為[[非燃燒能源]]，又稱為[[清潔能源]]或[[綠色能源]]。
+
+====能源的来源====
+广义上来讲能源来自三个途径：1、太阳光辐射。该途径通过太阳光、植物能、化石燃料、地表温差、月球反光、水汽蒸发循环的方式体现在地球表层。来自太阳光辐射的能源总量是有限的，目前社会对该类能源的提取超过了能源充能的效率；2、地球自转运动。该途径通常包括地热、磁、以及风能、水流、潮汐等通常意义上的可再生能源。该类能源属于地球自变过程中的余热耗散，偶尔也表现为爆发性的火山喷发或者地震之类破坏性的情形。；3、核聚变、核裂变。该途径包括传统意义上的可再生能源。在产生副产品的热能的同时也会产生辐射能。
+
+== 參看 ==
+{{Portal box|能源|可再生能源}}
+* [[各国每年人均能量消耗列表]]
+* [[可再生能源商业化]]
+* [[燃烧]]
+*[[中華人民共和國能源政策]]
+*[[美國能源政策]]
+*[[各國核能發展]]
+
+==參考文獻==
+{{reflist}}
+
+==外部链接==
+{{wikisourceshas|能源管理法|中华人民共和国节约能源法|中华人民共和国可再生能源法}}
+* [http://www.greenpeace.org/china/zh/news/energy-revolution 绿色和平：掀起能源革命，遏制全球气候变化]
+{{技术}}
+
+[[Category:能源|*]]
+
+[[ca:Economia del sector energètic]]
+[[cs:Energetika]]
+[[en:Energy industry]]
+[[es:Energía (tecnología)]]
+[[fr:Énergie (secteur économique)]]
+[[ia:Energia (societate)]]
+[[hu:Energetika]]
+[[pl:Energetyka]]
+[[pt:Energia (sociedade)]]
+[[ro:Energetică]]
+[[ru:Энергия (общество)]]
+[[simple:Energy (society)]]
+[[sk:Energetika]]
+[[sl:Energetika]]
+[[sr:Енергетика]]
+[[sv:Energisystem]]
+[[uk:Енергетика]]</str>
+    <str name="title">能源</str>
+    <str name="titleText">能源</str>
+    <int name="revision">32974602</int>
+    <date name="timestamp">2014-10-14T17:51:39Z</date>
+    <long name="_version_">1484748574279335936</long></doc>
+  <doc>
+    <str name="id">2995551</str>
+    <str name="text">{{unreferenced|time=2012-09-04T05:08:38+00:00}}
+能源统计是指收集，汇编，分析和传播数据的商品，如煤炭，原油，天然气，电力，可再生能源（生物质能，地热能，风能或太阳能），当它们被用来为它们所包含的能量。能源是一些物质的能力，从而从它们的物理 - 化学性质，做工作或产生热量。一些能源商品，燃料，释放自己的能量燃烧热的时候，他们的内容。这种热量可用于运行一个内部或外部的内燃机。
+
+[[Category:能源]]
+[[Category:統計學應用領域]]</str>
+    <str name="title">能源统计</str>
+    <str name="titleText">能源统计</str>
+    <str name="user">Kolyma</str>
+    <int name="userId">400936</int>
+    <int name="revision">22718924</int>
+    <date name="timestamp">2012-09-08T02:30:25Z</date>
+    <long name="_version_">1484749263917285377</long></doc>
+  <doc>
+    <str name="id">3260326</str>
+    <str name="text">[[Image:Alternative Energies.jpg|thumb|right|180px|[[风能]]，[[太阳能]]和[[生物质能]]是三种[[可再生能源]]的来源。]]
+
+'''可再生能源商业化'''涉及到历史可以追溯到100年以上的三个世代的[[可再生能源]]技术的普及。第一代的技术，这些技术都已经成熟和有经济竞争力的，包括[[生物质]]能，[[水力发电]]，[[地热能]]发电和供热。第二代技术，市场已准备就绪，在目前正被部署，它们包括[[太阳能]]供热，[[太阳能光伏]]，[[风力发电]]，太阳能热发电站，和现代形式的[[生物能源]]。第三代技术，需要持续的[[研发]]努力，以在全球范围内作出很大的贡献，包括先进的生物质气化([[:en:Biomass gasification|Biomass gasification]])，生物炼制([[:en:Biorefinery|Biorefinery]])技术，高温岩石([[:en:hot-dry-rock|hot-dry-rock]])[[地热能]]发电和[[海洋能]]等。
+
+'''可再生能源'''的广泛使用存在一些非技术性的障碍，而且往往就是推动[[可再生能源]]技术的广泛的接受的公共政策和政治领导。在2011年，约有118个国家有自己的[[可再生能源]]未来的目标，并颁布了广泛的公共政策，以促进可再生能源。对[[气候变化]]的关注，正在推动在[[可再生能源]]产业的不断增长。领先的[[可再生能源]]公司有：[[:en:First Solar|First Solar]]，[[:en:Gamesa Corporación Tecnológica|Gamesa]]，[[:en:GE Energy|GE能源]]，[[:en:Q-Cells|Q-Cells]]，[[:en:Sharp Solar|夏普太阳能]]，[[西门子]]，[[:en:SunOpta|SunOpta]]，[[:en:Suntech Power|尚德电力]]，和[[维斯塔斯]]等公司。
+
+'''[[可再生能源商业化|更多阅读...]]'''</str>
+    <str name="title">Portal:可再生能源/特色条目及优良条目/8</str>
+    <str name="titleText">Portal:可再生能源/特色条目及优良条目/8</str>
+    <str name="user">Iokseng</str>
+    <int name="userId">43581</int>
+    <int name="revision">25273052</int>
+    <date name="timestamp">2013-03-03T16:10:14Z</date>
+    <long name="_version_">1484749329487888388</long></doc>
+  <doc>
+    <str name="id">1814969</str>
+    <str name="text">[[File:Coal mine Wyoming.jpg|thumb|right|280px|在[[懷俄明州]]的一個[[煤礦]]，煤炭是一種不可再生的資源。]]
+'''不可再生能源'''，又稱'''非再生能源'''、'''耗竭性能源'''，与[[可再生能源]]对应，是无法经过短时间内再生的能源，而且它們的消耗速度遠遠超過它們再生速度。[[煤炭]]、[[石油]]、[[天然气]]等[[化石燃料]]与[[核燃料]]、[[矿产]]等均属于不可再生能源，如該能源一旦耗盡，將不能開採出更多的可用儲備供將來使用。
+
+== 核燃料 ==
+[[File:Arandis Mine quer.jpg|thumb|位於[[納米比亞]]的露天開採鈾礦]]
+核能發電提供約6％和世界的13％-14％的電力&lt;ref&gt;[[World Nuclear Association]]. [http://www.world-nuclear-news.org/newsarticle.aspx?id=27665 Another drop in nuclear generation] ''World Nuclear News'', 05 May 2010.&lt;/ref&gt;，核技術需要[[核燃料]]作為能源，但核燃料在世界上的濃度相對很低，開採相對困難，目前只有19個國家能夠開採到[[鈾]]礦。&lt;ref&gt;{{cite web|url=http://www.world-nuclear.org/info/inf23.html|title=World Uranium Mining|publisher=World Nuclear Association|accessdate=2011-02-28}}&lt;/ref&gt; 核工業會產生出[[放射性废料]]，低放射性廢料要監測 300 年才可以確定其安全穩定性，可是有些核廢料是屬於高放射性廢料，就算監測 300 年也沒用，因為毒性是一點也不會衰退。高度危害人類和野生動物。放射性废料在環境中，會進入食品鏈，可引起致DNA突變、生產畸胎、不育、癌症和其他身體損害。放射性废料的儲存，對健康的影響繼續成為一個爭論的話題，是一種有爭議的和尚未有完善解決方法的能源。
+
+== 化石燃料 ==
+由於使用化石燃料的內燃機技術在17世紀被迅速發展，因此化石燃料被現代社會大量使用。然而化石燃料是不可再生的，目前人類使用的主要能源仍然倚賴不可再生能源，而且主要能源快速消耗的同時，需求還不斷增加。可是所有耗竭性能源都需要數百萬年時間慢慢形成，在人類的時間尺度上，它們都不能被及時再補充，是不可再生的資源。由于不可再生能源在短时间内无法被制造，而人类社会的许多活动都会消耗不可再生能源，导致其价格不断攀升。
+
+== 參見 ==
+*[[能源開發]]
+*[[能源危機]]
+*[[哈伯特顶点]]
+*[[節約能源]]
+*[[可再生能源]]
+*[[可替代能源]]
+*[[過度捕魚]]
+
+== 參考文獻 ==
+{{reflist}}
+
+== 外部链接 ==
+* [http://www.greenpeace.org/china/ch/campaigns/stop-climate-change/solutions 綠色和平：氣候變化解決方案－－可再生能源]
+* [http://re.emsd.gov.hk 香港可再生能源網]
+
+{{Sustainability|selected=resources}}
+{{电力模板}}
+
+[[Category:能源]]
+[[Category:可再生能源]]
+
+[[no:Ikke-fornybare ressurser]]</str>
+    <str name="title">不可再生能源</str>
+    <str name="titleText">不可再生能源</str>
+    <str name="user">H2NCH2COOH</str>
+    <int name="userId">1173235</int>
+    <int name="revision">31631411</int>
+    <date name="timestamp">2014-06-18T01:50:11Z</date>
+    <long name="_version_">1484749098675339264</long></doc>
+  <doc>
+    <str name="id">3329365</str>
+    <str name="text">{{Portal:可持续发展/特色条目/Layout
+  |image=Alternative Energies.jpg
+  |size=
+  |caption=风, 太阳和生物质是三种可再生能源的来源。
+  |text= '''可再生能源商业化'''涉及到历史可以追溯到100年以上的三代的[[可再生能源]]技术的普及。第一代的技术，这些技术都已经成熟和有经济竞争力的，包括[[生物质]]能，[[水力发电]]，[[地热发电]]和供热。第二代技术市场准备就绪，在目前正被部署，它们包括太阳能供热，[[太阳能光伏]]，[[风力发电]]，太阳能热发电电站，和现代形式的生物能源。第三代技术，需要持续的研发努力，以在全球范围内作出很大的贡献，包括先进的[[生物质气化]]([[:en:Biomass gasification|Biomass gasification]])，[[生物炼制]]([[:en:Biorefinery|Biorefinery]])技术，高温岩石([[:en:hot-dry-rock|hot-dry-rock]])[[地热发电]]和[[海洋能]]等。
+
+'''可再生能源'''的广泛使用存在一些非技术性的障碍，而且往往就是推动[[可再生能源]]技术的广泛的接受的公共政策和政治领导。在2011年，约有118个国家有自己的[[可再生能源]]未来的目标，并颁布了广泛的公共政策，以促进可再生能源。对[[气候变化]]的关注，正在推动在[[可再生能源]]产业的不断增长。领先的[[可再生能源]]公司有：[[:en:First Solar|First Solar]]，[[:en:Gamesa Corporación Tecnológica|Gamesa]]，[[:en:GE Energy|GE能源]]，[[:en:Q-Cells|Q-Cells]]，[[英利]]，[[:en:Sharp Solar|夏普]]，[[西门子]]，[[:en:SunOpta|SunOpta]]，[[:en:Suntech Power|尚德电力]]，和[[维斯塔斯]]等公司。
+|link=可再生能源商业化
+}}</str>
+    <str name="title">Portal:可持续发展/特色条目/1</str>
+    <str name="titleText">Portal:可持续发展/特色条目/1</str>
+    <str name="user">Joeinwiki</str>
+    <int name="userId">1298603</int>
+    <int name="revision">24979564</int>
+    <date name="timestamp">2013-02-12T18:42:51Z</date>
+    <long name="_version_">1484749346341650436</long></doc>
+  <doc>
+    <str name="id">3260262</str>
+    <str name="text">[[File:Krafla Geothermal Station.jpg|thumb|right|180px|冰岛的Krafla地热能發電廠]]
+;冰岛的可再生能源
+[[冰岛]]的大约81%初级能源供应是来自本国产的[[可再生能源]]。在2007年，其初级能源中[[地热能]]约占66%，水电能占15%，化石燃料（主要是[[石油]]）占19%。[[地热能]]的主要用途是通过广泛的地区建筑供热系统供给[[暖气]]。大约85％的冰岛房屋由地热能供暖。电力生产全部来自于[[可再生能源]]，其中70%来自于[[水力发电]]，30%来自于[[地热]]发电。大多数水力发电厂是属于冰岛国家电力公司（ Landsvirkjun）的，这是冰岛电力的主要供应商。在人均[[二氧化碳]]排放量（2003年）的国家排名中，这个国家的排名在第53位。尽管人均使用一次能源量（初级能源）比[[美国]]多，但冰岛的人均[[二氧化碳]]排放量比美国的少62%。
+
+'''[[冰岛的可再生能源|更多阅读...]]'''</str>
+    <str name="title">Portal:可再生能源/特色条目及优良条目/4</str>
+    <str name="titleText">Portal:可再生能源/特色条目及优良条目/4</str>
+    <str name="user">Joeinwiki</str>
+    <int name="userId">1298603</int>
+    <int name="revision">29588103</int>
+    <date name="timestamp">2013-12-21T05:31:54Z</date>
+    <long name="_version_">1484749329477402627</long></doc>
+  <doc>
+    <str name="id">3402493</str>
+    <str name="text">{{asbox
+| image     = Wind-turbine-icon.svg
+| pix       = 30x30
+| subject   = 
+| qualifier = 关于可再生能源
+| category  = 可再生能源小作品
+| tempsort  =  
+| name      = Template:可再生能源小作品
+
+}}&lt;noinclude&gt;
+{{Documentation}}
+==使用方法==
+加入以下文字在條目中即可。
+&lt;pre&gt;{{可再生能源小作品}}&lt;/pre&gt;
+
+置放本模板的頁面將自動加入[[:Category:可再生能源小作品]]中。
+
+[[Category:可再生能源模板|µ]]
+[[Category:可再生能源]]
+&lt;/noinclude&gt;</str>
+    <str name="title">Template:可再生能源小作品</str>
+    <str name="titleText">Template:可再生能源小作品</str>
+    <str name="user">Joeinwiki</str>
+    <int name="userId">1298603</int>
+    <int name="revision">26025906</int>
+    <date name="timestamp">2013-03-31T23:09:52Z</date>
+    <long name="_version_">1484749359383838722</long></doc>
+  <doc>
+    <str name="id">3336678</str>
+    <str name="text">&lt;div style="font-family:微軟正黑體, 微软雅黑; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; color:#f8f8ff; height:50px; {{gradient|#1C5FA7|#DDFFD3|vertical}}"&gt;[[File:People icon.svg|30px|right]][[File:Temporary cyclone north.svg|left|30px]]
+&lt;div style="margin-top:10px; margin-left:10px;font-size:25px;color:white;font-weight: bold; text-shadow: #000 1px 1px 3px;padding:6px;"&gt;維基百科可再生能源專題&lt;/div&gt;&lt;/div&gt;
+&lt;div style="display: block;border: 1px solid #BED0FF;vertical-align: top;background: #DDFFD3;color: #002124;margin-bottom: 10px;padding: 1em;margin-top: 0em;{{border-radius|0px 0px 6px 6px}};padding-top: .3em;border-top:none;"&gt;
+{{专题}} 
+歡迎來到'''可再生能源專題'''。當您在[[可再生能源]]相關條目的編寫上有任何疑惑，都可來此的討論區發問（當然您也別忘了多多利用維基百科最大的討論區：[[維基百科:互助客棧|互助客棧]]）。此外，這裡列出了建議的條目格式、相關模板等編寫資源，以及一些待完成的編輯任務。不過這些只是參考，有問題您隨時可提出來討論。
+
+'''可再生能源專題'''旨在协调[[可再生能源]]相关条目的翻译与撰写，并整理相关资源。
+&lt;/div&gt;
+{{中文维基人}}
+[[Image:Alternative Energies.jpg|thumb|right|220px|[[风能]]，[[太阳能]]和[[生物质能]]是三种[[可再生能源]]的来源。]]
+'''请参考：'''
+* [[可再生能源]] - [[:Category:可再生能源|可再生能源分类]]
+* 英文維基的可再生能源主題（{{Icon|FP}}[[:en:Portal:Renewable energy|Portal:Renewable energy]]），这个主题已经被英文维基评为特色主题。把它翻譯成中文可以很好充實中文維基的內容。希望此中文主題早日被大家評爲特色主題。
+
+== 專題基本資料 ==
+*名稱：'''可再生能源專題'''
+*其中一個目標是使日益增長的可再生能源相關條目能有統一的格式。
+*這個專題目前还沒有母專題、子專題和近似的專題。（如果有，请添加上）
+*相關主題：'''[[Portal:可再生能源]]'''
+
+== 長期目標 ==
+* 藉由創建、擴充或改善'''可再生能源'''條目，讓維基百科對可再生能源方面的收錄能更詳實。
+* 成為與維基百科'''可再生能源'''條目相關的討論中心。
+
+==近期正在进行的工作==
+* 整理已有的'''可再生能源'''相关条目
+* 为'''可再生能源'''相关条目[[Wikipedia:可再生能源专题/评级|评级]]
+* 將所有可再生能源條目加入適當的分類。
+
+==專題任務策略==
+以下作法倡議，僅僅是協助您寫作參與的指引；不表示您未遵守就無法加入此專題，或參與編輯。但若您對於「如何開始」、「該寫什麼」暫無明確想法，以下的指引或倡議或許可幫助您即時貢獻您當下的寶貴參與時間、奉獻的熱情。&lt;br/&gt;
+
+參考相對成熟、豐沛的&lt;big&gt;[[:en:Wikipedia:WikiProject_Energy|英文維基能源專題]]&lt;/big&gt;，發展相關理念，其具體作法倡議如下：
+*創建和維護所有著名、受關注的可再生能源相關人物、主題、事件。
+*保持一個有效的資訊導航分類系統，以確保所有可再生能源相關條目可以更容易地被有興趣的讀者找到。
+*創建和維護模板，有助於編輯、標準化可再生能源相關條目。
+*架構並維護一個內涵全面、結構良好、具資訊導航功能的「可再生能源[[Wikipedia:主題|主題]]Portal」，定期以不同欄目介紹具代表性之相關條目（可再生能源概念、可再生能源文獻、可再生能源人物、可再生能源組織、跨國可再生能源、各國可再生能源、可再生能源歷史、可再生能源案例等）。
+*將[[:Category:可再生能源小作品|小作品]]擴張為「初級條目」，並改善現有「初級條目」至「B級條目」。
+*準確分類（下階段）--所有可再生能源相關條目的地位、重要性。
+&lt;br/&gt;
+&lt;big&gt;[[維基百科:可再生能源專題|中文維基可再生能源專題]]&lt;/big&gt;，除了自行參考英文維基可再生能源專題作法，現階段策略性倡議如下：
+*原則：不貪心、不躁進，穩定編輯、珍惜任何「深度、中度、低度參與用戶」的編輯貢獻、觀點貢獻，彼此互補。
+*系統化基礎工作--架構中文維基的可再生能源條目體系：
+**'''對既有成果系統化加值'''：整理已存在的可再生能源基礎體系、重要條目，參考英文維基，翻譯並建立相關體系資訊導航模版，並對應中文維基條目。讓社群累積成果發揮更大價值。
+**'''翻譯基礎重要條目'''：參考英文維基，翻譯可再生能源概念、可再生能源體系、國際可再生能源，豐富化中文維基。
+**翻譯重要可再生能源相關組織/人物/事件條目。
+*即時性條目創編、整理：
+**'''即時可再生能源事件條目'''：鼓勵創編，注意其他用戶創編之相關新條目，納入可再生能源條目體系。
+*「條目評級」：由於初期人力能量有限、條目完整性不足，建議暫不進行系統化的條目「專題評級」。（但是，'''夥伴們 可先依據[[Wikipedia:可再生能源專題/評級|評級標準]]自由試評'''，未來再系統化檢討調整。）
+*參與者較多、專題上軌道後，建立「可再生能源專題公告欄」便利參與者隨時了解專題動態、即時交流。
+*邀請相關領域朋友加入維基百科，並參與可再生能源條目體系之貢獻。（註：從中文維基百科現有條目質量觀之，可再生能源領域、法律專業領域的長期用戶相對較少些，若能多邀請這方面朋友加入，即便只是「低度參與」、「觀點貢獻」、「建議而少編輯」，都能對維基可再生能源領域條目品質起到很大的促進與提昇作用。）
+
+==参与可再生能源专题==
+
+===简单参与===
+您可参与一些简单的工作，为可再生能源相关条目作出贡献：
+*改进已有的条目：一些条目可再生能源对非常重要，大部分已经创建，您如果感兴趣或较为熟悉，可以着手编辑[[Wikipedia:可再生能源专题#高重要度条目]]。
+*撰写尚不存在的条目或简短的条目：一些条目还尚未编写或者较为简短，您如果感兴趣或较为熟悉，可以着手进行编写。
+
+===进一步参与===
+如果您已不满足于上述简单的工作，您可以：
+* 将已有条目收入于可再生能源专题并评级：在相应条目讨论页中加入一段简单的代码，可标识相应条目的质量和对可再生能源的重要性，引导大家的编辑工作。具体的信息可以查看[[Wikipedia:可再生能源专题/评级]]。
+* 对[[Portal:可再生能源]]进行编辑与维护。
+* 将重要的条目提升至优良等级或以上。
+{{Qaportal|可再生能源商业化}}
+
+== 现有条目 ==
+===有关评级===
+* 请求幫助建立參與中文維基評級的一切設置。现在本主题缺少条目评级的设置。希望大家共同参与评级建设。
+
+若希望为条目评级，请参考[[:维基百科:可再生能源专题/评级]]。
+
+讨论有关评级的问题，或者提出评级请求，请到[[Wikipedia talk:可再生能源专题/评级]]。
+
+===高重要度条目===
+可再生能源有关的，并在中文维基已经被评爲優良条目(帶有標記{{Icon|GA}})：
+*{{Icon|GA}} [[长江三峡水利樞紐工程]]({{Icon|GA}}[[:en:Three Gorges Dam]])
+
+條目請求： 
+* [[聚光太阳能热发电]] ([[:en:Concentrated Solar Power]], CSP, or Concentrated Solar Thermal Power)（基礎條目）
+* [[波浪能]] （[[:en:Wave energy|Wave energy]]）（基礎條目）
+* [[微藻燃料]] ([[:en:Algae fuel|Algae fuel]])（基礎條目）
+* [[中国可再生能源行业]] ([[:en:Renewable energy in China|Renewable energy in China]])（基礎條目）
+** [[中国生物能源行业]]([[:en:Bioenergy in China|Bioenergy in China]])（基礎條目）
+** [[中国地热能行业]]([[:en:Geothermal power in China|Geothermal power in China]])（基礎條目）
+** [[中国风力发电行业]]([[:en:Wind power in China|Wind power in China]])（基礎條目）
+
+需要進行进一步翻譯或參與编写的條目：
+* [[可再生能源商业化]] ({{Icon|GA}} [[:en:Renewable energy commercialization|Renewable energy commercialization]])（基礎條目）
+* [[植物油列表]] - ({{Icon|FL}}[[:en::List of vegetable oils|List of vegetable oils]])（基礎條目）
+* [[中国太阳能行业]] ([[:en:Solar power in China|Solar power in China]])（基礎條目）
+* [[太阳能热水器]]（基礎條目）
+* [[可持續能源]]
+* [[各国可再生能源电力产量列表]]([[:en:List of countries by electricity production from renewable sources]])
+
+需大幅修改的條目：
+* [[可再生能源]]{{,}} [[清潔能源]]{{,}} [[燃料電池]]{{,}} [[能源科學]]
+* [[生物質]]{{,}} [[生物燃料]]{{,}} [[潮汐能]]
+
+===一般重要度条目===
+條目請求： 
+* [[纖維素乙醇]], [[纖維素乙醇商業化]]([[:en:Cellulosic ethanol commercialization]])
+* 200 MW[[青海]][[格尔木太阳能光伏电站]] ([[:en:Golmud Solar Park|Golmud Solar Park]])
+* 100 MW[[青海]][[锡铁山太阳能光伏电站]]
+* 102 MW[[上海东海大桥海上风电场]] ([[:en:Donghai Bridge Wind Farm|Donghai Bridge Wind Farm]])-中国第一座示范型的海上离岸风力电站。
+* [[生物质气化]]([[:en:Biomass gasification|Biomass gasification]])，
+* [[生物炼制]]([[:en:Biorefinery|Biorefinery]])
+* [[高温岩石]]([[:en:hot-dry-rock|hot-dry-rock]])[[地热发电]]
+需進行进一步翻譯或參與编写的條目：
+* [[可持续发展]]{{,}}
+
+==討論區==
+[[File:Crystal_Clear_app_kteatime.png|50px|right]]
+&lt;small&gt;這裡是提供所有編輯可再生能源相關條目的維基人意見交流之處，任何人有任何問題、想法均歡迎在此提出。&lt;/small&gt;
+
+== 参与者 ==
+&lt;small&gt;歡迎在以下簽名加入：簽名的目的在於讓我們容易找到彼此，匯整資源與意見。在上一個簽到者的下方打上&lt;nowiki&gt;#~~~~&lt;/nowiki&gt;即可。&lt;/small&gt;
+# [[User:Joeinwiki|Joeinwiki]]（[[User talk:Joeinwiki|留言]]） 2013年2月9日 (六) 03:43 (UTC) - [[Portal:可再生能源]]，[[可再生能源商业化]]等。
+#[[User:Ffgghk|Ffgghk]] ([[User talk:Ffgghk|留言]]) 2013年5月11日 (六) 14:22 (UTC) - [[Portal:可再生能源]]。国内某三流211大学土鳖研究生，学校是能源行业的，对传统能源，可再生能源略有了解，英语还凑合，可以做点翻译工作。希望能和大家交流。
+#--[[User:Wu908778|Wu908778]]（[[User talk:Wu908778|留言]]） 2013年5月12日 (日) 12:09 (UTC)一直关注新能源行业的经济学工作者，对新能源行业的发展问题可以做一些研究和探讨。
+
+== 可再生能源相關的新條目 ==
+
+歡迎在此列出您所創編、編輯、翻譯、擴充、大幅改善 的可再生能源相關新條目（最新的條目請列在最上面。編輯此板記得加上~~-{}-~~[[WP:SIG|簽名]]喔)
+&lt;!--在此列出新文章，也許能獲得其他有興趣編輯的關注改善、參與擴充。--&gt;
+{{col-begin}}
+{{col-break|width=50%}}
+::{{hilite| DYK |pink}}：標記正進行[[Wikipedia:新条目推荐/候选|新條目DYK投票]]的條目
+::{{hilite| PR |lightblue}}：標記正進行[[Wikipedia:同行评审|同行评审]]的條目
+::{{hilite| GA |#7FFF00}}：標記正進行[[Wikipedia:優良條目候選|優良條目投票]]的條目
+:: --
+::{{hilite| FA |yellow}}：標記正進行[[Wikipedia:特色條目候選|特色條目投票]]的條目
+:: --
+{{col-break|width=50%}}
+::{{Icon|DYK}}：標記當選[[Wikipedia:新条目推荐|新条目推荐]]的條目
+::{{icon|PR}}：標記通過[[Wikipedia:同行评审|同行评审]]的條目
+::{{Icon|GA}}：標記當選為[[Wikipedia:優良條目|優良條目]]的條目
+::{{Icon|DGA}}：標記曾經是[[Wikipedia:優良條目|優良條目]]的條目
+::{{Icon|FA}}：標記當選為[[Wikipedia:特色條目|特色條目]]的條目
+::{{Icon|DFA}}：標記曾經是[[Wikipedia:特色條目|特色條目]]的條目
+{{col-end}}
+
+
+====新條目====
+
+* [[可再生能源商业化]] -- [[User:Joeinwiki|Joeinwiki]]（[[User talk:Joeinwiki|留言]]） 2013年5月8日 (二) 02:40 (UTC)
+
+==專題評比==
+*{{T1|可再生能源专题}}
+可放在所有屬於可再生能源专题的條目討論頁，以標示該條目的內容質量與重要性。
+{{可再生能源专题|class=|category=no}}
+*請複製&lt;nowiki&gt;{{可再生能源专题|class=}}&lt;/nowiki&gt;，貼到條目討論頁最頂端，並根據[[Wikipedia:条目質量评级标准]]為該頁面作出評價。
+
+*'''現狀'''：
+{{Articles by Quality
+ |topic=可再生能源
+ |project=可再生能源
+ |format=TOC
+}}
+{{Articles by Importance
+ |topic=可再生能源
+ |project=可再生能源
+}}
+
+==相关模板==
+{{Template:生物能源}}
+
+{{Template:电力模板}}
+
+{{Template:發電類型}}
+
+{{Template:太阳能}}
+
+{{Template:风能}}
+
+{{Template:可再生能源}}
+&lt;br /&gt;
+
+==分类==
+&lt;div style="-moz-column-count:2; column-count:2; font-size:92%"&gt;
+&lt;categorytree&gt;可再生能源&lt;/categorytree&gt;
+&lt;/div&gt;
+
+== 相關主題 ==
+*母主題：
+** [[Portal:能源]]
+*有关主题：
+** [[Portal:可持续发展]]
+
+==小提示==
+如果想知道本页面的最新动态的话，建议对进行本页监视，在移动的右方就会看到这个指令，但是必定先注册成为用户才可以使用。
+
+==参考资源==
+*[http://ne.ciedr.com  中国产业研究院,新能源研究网]
+*[http://www.newenergy.org.cn  中国新能源网]
+*[http://www.kepu.net.cn/gb/technology/new_energy/web/index.html  新能源虚拟博物馆]
+*[http://www.cred.org.cn  国家发展和改革委员会能源研究所 可再生能源发展中心]
+*[http://www.chinaero.com.cn/index.shtml  能源观察网]
+*[http://www.greencarreports.com Green Car Report] {{En}}
+
+[[Category:科學專題]]
+[[Category:維基百科協作|興趣]]</str>
+    <str name="title">Wikipedia:可再生能源专题</str>
+    <str name="titleText">Wikipedia:可再生能源专题</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">32810797</int>
+    <date name="timestamp">2014-09-28T12:48:05Z</date>
+    <long name="_version_">1484749347617767424</long></doc>
+  <doc>
+    <str name="id">1610573</str>
+    <str name="text">'''可再生能源比例标准'''（'''''[[:en:Renewable Portfolio Standard|Renewable Portfolio Standard]]'''''）（在英国称作'''可再生能源义务'''，'''''[[:en:Renewables Obligation|Renewables Obligation]]'''''）是指给予电力公司的指标，要求他们所发的电力有一定比例来自于[[可再生能源]]。此一比例由政府确立，通常会逐年上升。这些能源可以来自[[风能]]、[[太阳能]]、[[生物质能]]或者[[地热能]]等。在实行可再生能源比例标准的地方，使用绿色能源每向电网输送1000[[千瓦·时]]的电力，就可以获得一个单位的[[可再生能源证书]]。电力公司为了满足政府规定的指标，就需要购买这些证书，直到他们攒齐足够的证书向监察当局证明其满足了指标。
+
+因为引入了[[自由市场|市场机制]]，可再生能源比例标准与[[上网电价补贴政策]]不同，并不能保证所有可再生能源都能获取固定价格的政府补贴，而是依赖市场上“证书”的自由定价。可再生能源比例标准的支持者们认为，这种市场机制会带来良性竞争，推进能源的效率，鼓励创新，最终使得可再生能源的成本可以与传统[[化石燃料]]相抗衡&lt;ref&gt;[http://www.awea.org/policy/rpsbrief.html awea.org &gt;&gt; Policy&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;。虽然，不同种类的绿色能源之间的竞争可能存在不均衡的现象，但它可以通过具体的比例和特定加乘的方法得以缓解。
+
+可再生能源比例标准已经为许多国家所采纳，包括英国、意大利、波兰、瑞典、比利时&lt;ref&gt;[http://www.pewclimate.org/docUploads/RPSReportFinal.pdf Race to the Top: The Expanding Role of U.S. State Renewable Portfolio Standards]&lt;/ref&gt;和智利。不过它最成功的地方，还是在美国。虽然当前还没有联邦一级的政策，但在美国50个州中已有30个确立了可再生能源比例标准&lt;ref name="mjbeck.emtoolbox.com"&gt;[http://mjbeck.emtoolbox.com/?page=Renewable_Portfolio_Standards Compare State Renewable Portfolio Standard Programs]&lt;/ref&gt;。这些政策与多个[[联邦税扣除]]项目一起有力地推动了美国绿色能源的应用&lt;ref&gt;[http://www.nicholas.duke.edu/ccpp/wind_web.pdf Wind Power: Barriers and Policy Solutions]&lt;/ref&gt;。
+
+电力同业公会则反对可再生能源比例标准，认为它将“导致用户电价上涨，并引起各州之间的不平等&lt;ref&gt;[http://www.eei.org/industry_issues/electricity_policy/federal_legislation/EEI_RPS.pdf Oppose the Revised Udall 15% RPS Amendment&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;。”
+
+== 参见 ==
+{{Portal|name=可再生能源|image=Wind-turbine-icon.svg|size=30}} 
+
+* [[净计量电价]]
+* [[可再生能源]]
+
+==参考材料==
+{{Reflist}}
+
+{{Electricity generation}}
+
+{{DEFAULTSORT:可再生能源比例标准}}
+
+[[Category:能源政策]]
+[[Category:節能減碳]]</str>
+    <str name="title">可再生能源比例标准</str>
+    <str name="titleText">可再生能源比例标准</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25796983</int>
+    <date name="timestamp">2013-03-15T20:07:44Z</date>
+    <long name="_version_">1484749050816233472</long></doc>
+</result>
+</response>

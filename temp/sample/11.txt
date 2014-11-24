@@ -1,0 +1,1565 @@
+{{Infobox Software
+|name = Adobe Audition
+|logo = [[File:Adobe Audition CS6 Icon.png|64px|Adobe Audition Icon]]
+|screenshot = [[File:Adobe Audition CS6 Screenshot.jpg|240px]]
+|caption = Adobe Audition CS6
+|developer = [[Adobe Systems]]
+|latest_release_version = CC (6.0)
+|latest_release_date = {{Start date and age|2013|6|17|df=yes}}
+|operating_system = [[Windows XP#Service_Pack_3|Windows XP SP3]] 以上, [[Mac OS X Leopard]] 10.5.8 以上.
+|genre = [[音訊編輯]]
+|license = [[專有軟體]]
+|website = [http://www.adobe.com/products/audition/ www.adobe.com] |right|240px
+}}
+
+'''Adobe Audition'''（前名為'''Cool Edit Pro'''），為Syntrillum出品的多音轨编辑工具，支持128条[[音轨]]、多种音频特效、多种音频格式，可以很方便地对[[音频]][[文件]]进行修改、合併。後被[[Adobe]]收购，改名为Adobe Audition。
+
+== 版本 ==
+=== 第一版 ===
+[[File:CoolEditPro20.gif|thumb|250px|right|Cool Edit Pro]]
+Adobe Audition第一版於2003年8月18日發佈。這個版本沒有新功能，其實就是重新命名的Cool Edit Pro。隨後Adobe 在2004年5月釋出了Audition 1.5版；在第一版基礎上的主要改進包含音高校正，頻率空間編輯，CD專案檢視，基礎視頻編輯和與Adobe Premiere 集成，還有一些其他的功能增強。
+
+=== 第二版 ===
+Adobe Audition 第二版於2006年7月17日發佈。此版本Audition 針對專業的數位音訊工作站市場。新功能包含ASIO（音訊流輸入/出）支援，VST（虛擬工作室技術）支援，新的控制工具（許多來自iZotope），重新設計的使用者介面（請看截圖）。同時Adobe 將Audition 第二版作為CS 2（Creative Suite）應用套裝程式的一部分。Audition 第三版並沒有併入CS，取而代之的是提供給家庭和半專業用戶的Adobe Soundbooth（見下文）。
+
+=== 第三版 ===
+Adobe Audition第三版於2007年11月8日發佈。新功能包含VSTi（虛擬樂器）支援，增強的光譜編輯，重新設計的多軌使用者界面，新音效和一些無需支付技術使用費的迴圈片段。
+
+=== 第四版（CS5.5） ===
+Adobe 稱為滿足專業用家的要求，將重新推出Audition。Adobe Audition第四版在2011年4月11日于Adobe Creative Suite 5.5 中替代Soundbooth。它可以运行在[[Windows]]和[[Mac OS X]]上。
+
+=== 第五版（CS6） ===
+2012年4月23日，Adobe发布了包含在Creative Suite 6中的Adobe Audition。
+
+=== 第六版（CC） ===
+2013年6月17日，Adobe发布了包含在Creative Cloud中的Adobe Audition。
+
+== 外部連結 ==
+[http://www.adobe.com/products/audition/main.html Adobe Audition]
+
+{{AdobeCS}}
+{{Adobe Systems}}
+
+[[Category:音樂軟件]]
+[[Category:奧多比軟體]]
+{{Infobox Software
+| name = Adobe eLearning Suite
+| screenshot = 
+| caption = 
+| author = 
+| developer = [[Adobe Systems]]
+| released = 
+| latest release version = v6
+| latest release date = 2012年6月18日
+| latest preview version =
+| latest preview date = 
+| operating system = [[Microsoft Windows|Windows]], [[Mac OS X]]
+| platform = 
+| language = 
+| status = 
+| genre = 
+| license = [[Proprietary software|Proprietary]]
+| website = [http://www.adobe.com/products/elearningsuite/ Adobe eLearning Suite] 
+}}
+Adobe eLearning Suite是Adobe Systems的专业人才、教学设计、培训管理人员、内容开发商和教育工作者的应用程序集合。该套件允许用户创作、管理、发布等，包括截屏演示、模拟、和其他互动内容的交互式教学信息。
+
+Adobe Flash和Dreamweaver在这个套件中为特殊的软件，用于改善工作流程和应用程序之间的整合。这些版本仅作为套件的一部分，不能单独购买。
+
+==版本==
+*eLearning Suite 1（2009年1月发布），包含[[Adobe Captivate|Captivate]]  4、[[Adobe Flash|Flash]] CS4 Professional、[[Adobe Dreamweaver|Dreamweaver]] CS4、Presenter 7、[[Adobe Acrobat|Acrobat]] 9 Pro、[[Adobe Photoshop|Photoshop]] CS4 Extended、[[Adobe Soundbooth|Soundbooth]] CS4、[[Adobe Device Central|Device Central]] CS4, [[Adobe Bridge|Bridge]] CS4、[[SCORM]] Packager。
+
+*eLearning Suite 2（2010年5月发布），包含[[Adobe Captivate|Captivate]] 5、[[Adobe Flash|Flash]] Professional CS5、[[Adobe Dreamweaver|Dreamweaver]] CS5、Presenter 7 (only for the windows version)、[[Adobe Acrobat|Acrobat]] 9 Pro、[[Adobe Photoshop|Photoshop]] CS5 Extended、[[Adobe Soundbooth|Soundbooth]] CS5。
+
+*eLearning Suite 2.5（2011年5月发布）,，包含[[Adobe Captivate|Captivate]] 5.5、[[Adobe Flash|Flash]] Professional CS5.5, [[Adobe Dreamweaver|Dreamweaver]] CS5.5、[[Adobe Photoshop|Photoshop]] CS5.1 Extended、Acrobat X Pro、Audition CS5.5（replacing [[Adobe Soundbooth|Soundbooth]]、which had been included in eLS 2）、Bridge CS5、[[Adobe Device Central|Device Central]] CS5.5、and Presenter 7（仅适用于Windows）。
+
+*eLearning Suite 6（2012年6月发布），包含[[Adobe Captivate|Captivate]] 6、[[Adobe Flash|Flash]] Professional CS6、[[Adobe Dreamweaver|Dreamweaver]] CS6、[[Adobe Photoshop|Photoshop]] CS6 Extended、[[Adobe Acrobat|Acrobat]] X Pro、[[Adobe Audition|Audition]] CS 6、[[Adobe Bridge|Bridge]] CS6 and Presenter 8（仅适用于Windows）。
+
+{{Adobe eLearning Suite}}
+{{Adobe Systems}}
+
+[[Category:奥多比软件]]
+{{unreferenced|time=2012-05-12T05:45:42+00:00}}
+{{Original research|time=2012-08-15T06:16:56+00:00}}
+{{noteTA
+|G1=IT
+}}
+'''矢量字体''' 是与 '''[[点阵字体]]''' 相对应的一种字体。矢量字体的每个[[字形]]都是通过数学方程来描述的，一个字形上分割出若干个关键点，相邻关键点之间由一条光滑曲线连接，这条曲线可以由有限个参数来唯一确定。矢量字的好处是字体可以无级缩放而不会产生变形。向量字體在[[顯示]]或者[[打印]]出來之前需要進行[[光柵]]化。目前主流的矢量字体格式有3种：[[Type1]]，[[TrueType]]和[[OpenType]]，这三种格式都是[[平台]]无关的。
+
+Type1全称PostScript Type1，是1985年由[[Adobe公司]]提出的一套矢量字体标准，由于这个标准是基于PostScript Description Language(PDL)，而[[PDL]]又是高端[[打印机]]首选的[[打印描述语言]]，所以Type1迅速流行起来。但是Type1是非开放字体，Adobe对使用Type1的公司征收高额的使用费。
+
+TrueType是1991年由[[Apple]]公司与[[Microsoft]]公司联合提出另一套矢量字标准。
+
+Type1使用三次贝塞尔曲线来描述字形，TrueType则使用二次[[贝塞尔曲线]]来描述字形。所以Type1的字体比TrueType字体更加精确美观。一个误解是，Type1字体比TrueType字体占用空间多。这是因为同样描述一个圆形，二次贝塞尔曲线只需要8个关键点和7段二次曲线；而三次贝塞尔曲线则需要12个关键点和11段三次曲线。然而实际情况是一般来说 Type1比TrueType要小10%左右。这是因为对于稍微复杂的字形，为了保持平滑，TrueType必须使用更多的关键点。由于现代大部分打印机都是使用PDL作为打印描述语言，所以True1字体打印的时候不会产生形变，速度快；而TrueType则需要翻译成PDL，由于曲线方程的变化，还会产生一定的形变，不如Type1美观。
+
+这么说来，Type1应该比TrueType更具有优势，为什么如今的计算机上TrueType反而比Type1使用更广泛呢？这是因为第一：Type1由于字体方程的复杂，所以在屏幕上[[渲染]]的时候花费的时间多，解决方案是大部分Type1字体嵌入了点阵字体，这样渲染快，但是边缘不光滑，比较难看。很多[[ps文档]]和ps转换的[[pdf文档]]都是这样，在计算机上浏览的时候字体很难看，但是打印出来很美观。TrueType则渲染比较快，可以平滑的显示在屏幕上，看上去很美观。
+
+第二个原因是Type1的高额使用费，使得Type1没有被所有的操作系统所支持。[[Windows]]家族只有[[OS/2]]和Windows 2000及之后的版本从操作系统级别开始支持Type1。由于这个问题，Adobe只好在其所有的产品中嵌入Adobe Type Manager(ATM)作为渲染引擎。
+
+OpenType则是Type1与TrueType之争的最终产物。1995年，Adobe公司和Microsoft公司开始联手开发一种兼容Type1和TrueType，并且真正支持[[Unicode]]的字体，后来在发布的时候，正式命名为OpenType。OpenType可以嵌入Type1和TrueType，这样就兼有了二者的特点，无论是在屏幕上察看还是打印，质量都非常优秀。可以说OpenType是一个三赢的结局，无论是Adobe，Microsoft还是最终用户，都从OpenType中得到了好处。Windows家族从Windows 2000开始，正式支持OpenType。打开系统的字体目录（一般是C:\Windows\Fonts\或C:\Winnt\Fonts），可以看到：一个红色A的图标的是点阵字体，两个重叠的T的图标是TrueType字体，一个O的图标就是OpenType字体。
+
+[[category:字体|S]]
+[[Category:计算机应用|S]]
+
+[[en:Computer font#Outline_fonts]]
+{{Infobox_Software
+|name = Adobe Photoshop Lightroom
+|developer = [[Adobe Systems]]
+|logo=[[File:Adobe Lightroom Icon.png|50px]]
+|screenshot = [[File:Adobe Photoshop Lightroom win.png|300px]]
+|caption = 在Windows XP執行Lightroom 3.3畫面。
+|latest_release_version = 5.2
+|latest_release_date = {{release date and age|2013|9|17}}
+|operating_system = [[OS X]]，[[Windows]]。
+|genre = 照片后期处理
+|license = 专有
+|website = [http://www.adobe.com/cn/products/photoshoplightroom/ 主页]
+}}
+
+'''Adobe Photoshop Lightroom''' 是由[[Adobe Systems]]公司发布的一款[[软件]]，旨在帮助专业[[摄影师]]的后期制作。它可以同时可以在[[OS X]]和[[Microsoft Windows]]系统上运行，2006年1月9日发布Mac系统试用版（Beta），7月18日发布Windows系统的试用版本，经过4个版本的测试以后，于2007年2月正式发布。它是[[Photoshop]]产品系列的一部分，这个系列还包括Photoshop CS6和Photoshop Elements。
+
+== 测试开发 ==
+Lightroom早在2002年就开始开发，早期的开发代码为Shadowland。而且值得一提的是，该程序大约40%是使用[[Lua programming language|Lua]]脚本语言编写的。2006年1月9日，Photoshop Lightroom的一个早期版本——直接命名为Lightroom的[[苹果电脑]][[麦金塔]]系统版本在 [http://labs.adobe.com Adobe Labs] 网站上发布。这是Adobe公司第一次向公众发布公开测试版本征求反馈意见。这个方法后来也被用于Adobe Photoshop CS3版本的开发。之后测试版本不断更新，2006年7月18日公布''Beta 3''，开始加入对[[微软]][[视窗]]系统的支持。9月25日公布''Beta 4''，将其加入Photoshop产品家族，之后的10月19日公布了局部修改的4.1测试版本。
+
+== 正式发布 ==
+2007年1月29日，Adobe公司宣布Lightroom将于2007年2月19日上市，公开零售价格是299[[美元]]。第一次同期发布的除了[[英语]]版本以外，还有[[法语]]、[[德语]]和[[日语]]版本。
+
+==版本==
+===3.0===
+Photoshop Lightroom 3.0 測試版本於2009年10月22日發佈。新功能如下：
+
+* 新的雜訊控制功能
+* 改善敏銳化相片功能
+* 新的匯入相片模組
+* 能加入浮水印
+* 使相片顆粒化
+* 發佈功能
+* 自行選擇列印包
+
+Photoshop Lightroom 3.0 第二個測試版本於2010年3月23日發佈。新功能如下：
+
+* 新的光度雜訊控制功能
+* 支援部份Nikon and Canon相機作拴繩拍攝（Tethered shooting） 
+* 基本影片支援Basic video file support
+* 點曲線
+
+Photoshop Lightroom 3.0 正式版本於2010年6月8日發佈，而此版本並無加進其他主要的新功能。所有在測試版本中包含的功能亦有包括內，新增了小功能如鏡頭修正、透視變換、一些功能上的改進及整體優化。
+
+[[Image:dn lightroom release history.png|thumb|400px|Lightroom發行時間表。]]
+
+===4.0===
+Photoshop Lightroom 4.0 版本於2012年3月5日發佈。由此版本開始，Lightroom 不再支援微軟作業系統 XP（[[Windows XP]]）。
+新功能如下：
+
+* 重建強光及陰影，以帶出在黑影及強光中的細節
+* 以內建模版建立相簿
+* 以拍攝地點來組織相片，將拍攝地點加到相片，並能顯示支援GPS相機的資料
+* 用白平衡點選工具去微調相片局部的白平衡
+* 更多選項去調整雜訊及移除相片局部的moiré
+* 額外支援影片組織、瀏覽、微調及編輯
+* 影片輸出工具以編輯及分享影片至[[Facebook]]及[[Flickr]]
+* 能預覽從有顏色調整的打印機所打印的相片效果
+* 從Lightroom直接發送電郵
+
+=== 5.0 ===
+Adobe Photoshop Lightroom 5.0 于2013年6月9日正式公开发布，其中于2013年4月15日发布过测试版。<ref>{{cite web|title=Lightroom 5 now available|url=http://blogs.adobe.com/photoshopdotcom/2013/06/lightroom-5-now-available.html}}</ref> 此版本需要[[OSX]] 10.7或更高, [[Windows 7]]或[[Windows 8]]。
+功能改进如下:
+
+* 径向渐变可以使用椭圆形绘图
+* 高级修复/克隆笔刷可与斑点去除工具用在同一区域
+* 智能预览可允许离线查看图像修改结果
+* 书本模块中能保存自定义输出
+* PNG文件支持
+* 在幻灯片模式下支持视频文件
+* 其他更新，包含自动透视校正并增强智能集合
+
+== 工作流程模式和特征 ==
+* 图片库：图片收藏管理
+* 开发：[[RAW]]和[[JPEG]]文件的无损编辑
+* 幻灯片：工具和导出性能
+* 打印：排版选项和参照
+* 网络：自动创建上传图库
+
+== 參見 ==
+* [[Adobe Bridge]]
+* [[Adobe Photoshop]]
+* [[蘋果公司]] [[Aperture]]
+
+==参考资料==
+{{Reflist|2}}
+
+== 外部鏈接 ==
+* [http://www.adobe.com/cn/products/photoshoplightroom/ Adobe公司產品網頁Adobe Photoshop Lightroom]{{zh-cn}}
+* [http://www.adobe.com/tw/products/photoshoplightroom/ Adobe公司產品網頁Adobe Photoshop Lightroom]{{zh-tw}}
+* [http://www.facebook.com/pages/%E8%B7%9F%E8%91%97%E6%94%9D%E5%BD%B1%E5%B8%AB%E5%AD%B8Lightroom-3/147430761996607/ Adobe Photoshop Lightroom 3 最新參考書籍]{{zh-tw}}
+{{Adobe Systems}}
+
+[[Category:位圖編輯軟件]]
+[[Category:奧多比軟件]]
+{{Infobox Software 
+| name                   =  [[File:Adobe InCopy Title.png|175px|Adobe InCopy]]
+| logo                   = Adobe InCopy CS6 (Icon).png
+| developer              = [[Adobe Systems]] 
+| latest release version = CC
+| latest release date    = {{release date|2013|06|18}} 
+| operating system       = [[Mac OS X]]、[[Microsoft Windows]]
+| genre                  = [[文字处理器]] 
+| license                = [[专有软件]] 
+| website                = http://www.adobe.com/products/incopy/
+}}
+
+'''Adobe InCopy'''是[[Adobe Systems|Adobe]]公司出品的一个专业的[[文字处理器|文字处理应用程序]]。Adobe InCopy已集成到[[Adobe InDesign]]中，同时也单独出售，但是它不包含在任何[[Creative Suite]]套件版本中<ref>[http://www.adobe.com/products/incopy/features.html].InCopy CS6特色功能</ref>。
+
+Adobe InCopy的最新版本是CC，发行于2013年6月18日，主要用于出版的报纸和杂志等的编辑工作。
+
+InCopy的编辑器用于写作、编辑和设计（风格、字体等）出版物。该软件包括标准文字处理功能，如“[[拼写检查]]”，“跟踪更改”，“字数统计”等，并有预览查看装修副本方式的文本布局，允许直观地确定每一个设计元素适用于出版物的版式使用的格式。
+
+InCopy的直接竞争对手是1991年发布的[[Quark CopyDesk]]。
+
+==参考==
+*[[Adobe InDesign]]
+*[[Quark CopyDesk]]
+
+==注释==
+{{Reflist}}
+
+==外部链接==
+*[http://www.adobe.com/products/incopy/ Adobe InCopy官方网站]
+
+{{AdobeCS}}
+{{Adobe Systems}}
+
+[[Category:排版软件]]
+[[Category:文書處理器]]
+[[Category:奥多比软件]]
+{{noteTA
+|1=zh-hans:吉卜林;zh-hk:吉百龄;zh-tw:吉百龄;
+}}
+{{Otheruses|十萬個為什麼 (專輯)|subject=科普读物|other=[[王菲]]的音乐专辑}}
+[[File:A-Chinese-Science-Book.JPG|thumb|right|250px|1970年代出版的《十万个为什么》“工农兵版”]]
+[[File:A-Chinese-Science-Book-b.JPG|thumb|right|250px|“工农兵版”《十万个为什么》的前14册（缺第九册）侧脊]]
+
+《'''十万个为什么'''》是一套以大众化、小百科全书式为特色的[[科学普及|科普]]读物。董纯才1934年將蘇聯作家[[伊利亞·雅科甫列維奇·馬爾夏克|伊林]]的作品《十萬個為什麼》首次翻譯成中文，由[[上海]][[開明書店]]出版。于1961年到1962年，中华人民共和国的[[少年儿童出版社|少年儿童出版社(沪)]]约人撰稿，发行了第一版。在港澳地區亦相當普遍。《十万个为什么》曾经作为为数不多几种普及知识的读本，产生了深远影响。在兩岸無法交流的時代，台灣也同時出版了另一版本的《十萬個為什麼》，一套10冊，在台灣是相當流行的兒童入門百科。
+
+== 由来 ==
+
+《十万个为什么》的名称源于[[苏联]]科学文艺作家伊林（真名为[[伊利亚·雅科甫列维奇·马尔夏克]]）的作品《十万个为什么》。而伊林又是从诗人[[吉百龄]]的诗句：“五千个在哪儿／七千个怎么样／十万个为什么”中，选用“十万个为什么”作书名的。其实，伊林的《十万个为什么》大约只有五万多字，是一本小书，显然书裡的为什么并没有“十万个”。“十万”（{{lang-ru|сто тысяч}}，“一百个千”）是一个虚指，用来形容许多。第一版只有900多个“为什么”，现在也只有3000多个“为什么”。
+
+虽然中国版的《十万个为什么》也没有达到“十万”，但是规模却远远大于伊林的作品，有十餘册之多，堪称一部小型百科全书。
+
+“为什么”就是《十万个为什么》丛书中的一个个条目（主题）。每一个条目就是一篇几千字的科学普及文学作品。因为丛书中条目的标题通常采用“为什么……？”的表达方式，所以许多时候都用“为什么”来指代一个问题和此问题的解答诠释。
+
+==版本==
+===中譯本===
+伊林的《十万个为什么》最早由董纯才译成中文，[[上海]][[開明書店]]於1934年出版，<ref>{{Cite book | title=《十万个为什么》 | url=http://www.worldcat.org/title/shi-wan-ge-wei-shen-me/oclc/301942063 | oclc=301942063 | author=伊林| others=董纯才译 | location=[[上海]] |publisher=[[開明書店]] |date=1934年}}</ref>是「開明青年叢書」的一部分。因为广受欢迎，《十万个为什么》不断修订，1949年3月印了第10版。<ref>{{cite web | url=http://metadata.ncl.edu.tw/blstkmc/blstkm?001869314B4A020200000000000300A000000001000000000 | title=臺灣書目整合查詢系統 | publisher=國家圖書館}}</ref>1938年，鄭繽的《十万个为什么》中譯本由中國青年出版社出版。<ref>{{cite news | url=http://cul.china.com.cn/2013-08/01/content_6172998_2.htm | title=新版《十萬個為什麼》將面世 近九成是新問題 | publisher=中國網}}</ref>
+
+=== 中华人民共和国地區===
+==== 第一版 ====
+少年儿童出版社从1958年开始酝酿出版一套大型科普读物。共计约请了200多位作者撰稿。经过半年多时间，选用了100多位作者的稿件，于1960年7月开始出版第1版，分为[[数学]]、[[物理]]、[[化学]]、[[天文]][[气象]]、[[动物]]、[[农业]]、[[地质]][[矿物]]、[[生理]][[卫生]]8个分册，共收1484个问题，100万字。到1964年4月，三年中重印11次、发行580多万册。青年作家[[叶永烈]]写了其中300多条，是写得最多的作家。
+==== 第二版 ====
+1964年开始修订、编辑第2版。第2版定为14分册，至1966年2月止出齐。在这次修订编辑中，少年儿童出版社约请了更多的科技工作者和科普作者写作，如[[茅以升]]、[[苏步青]]、[[李四光]]、[[竺可桢]]、[[张钰哲]]、[[戴文赛]]、[[钱崇澍]]、[[傅连璋]]等。
+==== 第三版，“工农兵版” ====
+[[文化大革命]]中，1971年起，根据当时的思潮，改为工农兵读物由[[上海人民出版社]]出版，并增订到二十一册，出版了第3版，即“工农兵版”。前14册封面[[橘黄色]]，[[工农兵]]高擎《[[毛泽东选集]]》图案为封面。后7册蓝色。第18和21册由少年儿童出版社出版。其发行量达到上千万册。
+
+该版本有大量政治宣传内容。比如第三册“工业”的封面有“独立自主、自力更生”的[[毛主席语录]]；再如“为什么三千吨的船台能造万吨巨轮？”条目中说：“上海船厂的工人、革命干部和技术人员实行‘[[三结合]]’……批判了叛徒、内奸、工贼[[刘少奇]]‘造船不如买船，买船不如租船’的洋奴哲学、爬行主义”。
+==== 第四版 ====
+文革之后，从1980年4月起至1981年10月，出版了第4版仍为14个分册，封面深蓝色。去掉了阶级斗争的内容，但仍有政治干涉学术的内容，譬如认为[[宇宙]]有限和[[大爆炸]]是[[唯心主义]]。
+
+1990年，在第4版14个分册的基础上又增加了10个分册的“续编本”，1993年3月一次出齐。至此，《十万个为什么》共计24个分册。
+==== 第五版 ====
+1999年，《十万个为什么》“新世纪版”出版，该版为第5版。共有12册：[[数学]]、[[物理]]、[[化学]]、[[动物]]、[[植物]]、[[人体科学]]、[[地球科学]]、[[宇宙科学]]、[[环境科学]]、[[信息科学]]、[[工程科学]]、[[索引]][[资料]]。
+==== 第六版 ====
+由上海世纪出版股份有限公司主办的《十万个为什么》第六版启动大会于2011年9月27日在北京人民大会堂召开。第六版从内容到形式都将实现重大突破，如很多问题将不再设计标准答案，并形成从图书到电子产品、网络产品的立体出版格局。第六版共18卷为全彩色图文印刷，以及黑白普及本、网络电子版等将于2013年陆续面世。其大部分问题都是从全中国少年儿童中广泛征集而来的。<ref>{{cite news|url=http://www.people.com.cn/h/2011/0928/c25408-1-591158275.html|title=《十万个为什么》第六版启动大会在京隆重召开||date=2011-09-28|accessdate=2012-10-27}}</ref>
+
+18个分册为：
+*基础卷：[[数学]]、[[物理]]、[[化学]]、[[天文]]、[[地球]]、[[生命]]。
+*专题卷：[[动物]]、[[植物]]、[[古生物]]、[[医学]]、[[建筑]]与[[交通]]、[[电子]]与[[信息]]。
+*热点卷：[[大脑]]与认知、[[海洋]]、[[能源]]与[[环境]]、[[航空]]与[[航天]]、[[武器]]与[[国防]]、[[灾难]]与防护。
+
+据《十万》官方微博消息，第六版将于2013年8月13日亮相上海书展。全书共600万字，7000余幅彩色图片，收录4500个代表科技发展前沿和青少年关心的热点问题，其中有80%是新问题。此外，还设有“科学人”、“微博士”、“实验场”、“微问题”等栏目。
+
+== 影响 ==
+虽然《十万个为什么》系列是以少年儿童为目标读者，但是由于其文字生动活泼、内容深入浅出，所以青年人乃至成年人也很喜欢读它。尤其是在文革期间，可读的图书非常少，工农兵版的《十万个为什么》发行量达到上千万册。另外，《十万个为什么》中非常多的“为什么”，都来自于日常生活，也使它极具实用性。许多人从中汲取了大量科学知识，取得了参考资料，甚至由此获得了科学的启蒙。
+
+截至1990年代末，30多年来，这套科普读物畅销不衰，发行量庞大，总计600万套（8000万册），现在每年仍有10万套的发行量。由此派生出了多种类似的科普类图书：如《小学生十万个为什么》、《幼儿十万个为什么》、《新编十万个为什么》、《社会科学十万个为什么》，等等。
+
+中国演员[[葛优]]在[[贺岁片]]《[[不见不散 (电影)|不见不散]]》有一句经典对白：他对一位问东问西的游客说：“你简直就是一‘十万个为什么’！”
+
+==参考文献==
+{{Reflist}}
+
+== 外部链接 ==
+* [http://www.phoenixtv.com/phoenixtv/76562297471893504/20051101/676441_2.shtml 叶永烈写作的滋味]
+
+* [http://std.xjtu.edu.cn/html/xinxi/2004/12/8353.html  《十万个为什么》的曲折历程]
+
+* [http://www.10why.net 在线阅读《十万个为什么》]{{zh-cn}}
+* [http://mrnick.sinaman.com/nature100whyerrata.pdf 校正《十萬個為甚麼》]{{zh-hant}}
+* [http://blog.sina.com.cn/jcphshiwan  第六版《十万个为什么》官方博客]
+
+[[Category:小百科全书]]
+[[Category:中文百科全书]]
+{{expert}}
+{{noteTA|G1=IT}}
+{{Infobox Software
+|logo = [[File:Adobe Shockwave Player logo.png]]
+| name                    = Adobe Shockwave
+| developer               = Adobe
+| latest_release_version = 12.1.1.151
+| latest_release_date = {{Start date and age|2014|05|13}}
+| operating_system         = [[Microsoft Windows|Windows]]
+| genre                    = 图像软件
+| license                  = [[專有軟件|專有]]
+| website                  = [http://www.adobe.com/products/shockwaveplayer/ Adobe Shockwave Player]
+}}
+
+'''Adobe Shockwave'''（前为Macromedia Shockwave）是Macromedia在[[Adobe Flash|Flash]]之前最成功的[[多媒体播放器]]。它能将[[Adobe Director]]制作的[[应用程序]]发布到[[互联网]]上，被安装有Shockwave[[插件]]的[[浏览器]]浏览。
+
+== 描述 ==
+
+Shockwave一般由[[Adobe]] [[Adobe Director|Director]]制作。虽然Shockwave也提供对[[Flash]]的支持，但是开發者偏向使用Director，因为它更强大。Adobe Shockwave相对于Flash的强大主要体现在更快的渲染引擎，包括3D硬件加速和对包括[[IRC]]在内的多种网络协议的支持。而且Shockwave的功能可以通过[[Xtra]]进行扩展。
+
+=== 支持的平台 ===
+
+与Flash不同，Shockwave浏览器插件不适用于[[Linux]]和[[Solaris]]平台。然而，Shockwave可以通过[[CrossOver]]安装在Linux下，或在[[Wine]]下运行被支持的浏览器来运行。
+
+历史上，Shockwave插件一般可以运行在[[Windows]]和[[Mac OS]]下，除了在2006年1月（[[苹果公司]]转向基于[[英特尔]][[Core 2 Duo]]处理器的平台时）和2008年3月（Adobe发布Shockwave 11时，对英特尔平台的苹果电脑提供原生支持的第一个版本）之间。
+
+== 应用 ==
+
+虽然Shockwave预期的定位是各种在线[[电影]]和[[动画]]，但事实上它更多地被用于[[游戏]]开发领域。它经常被使用在需要使用大量[[图像]]资源的在线应用环境上。在线学习工具涉及到物理的模拟、图表和计算，所以Shockwave也被大量应用。
+
+== 历史 ==
+
+Shockwave Player最开始是一个由Director团队成员Christan Hunt和David Walker出于实验互联网上的多媒体概念的目的而为[[Netscape]]开发的助手程序。1.0版独立于Director 4发布，它的开发计划从Director 5开始与Director系列合并，所以Shockwave没有2-4版。
+
+=== Shockwave 1 ===
+用于[[Netscape Navigator]] [[網景 (瀏覽器)#Netscape Navigator（1.0~4.08版本）|2.0]]的Shockwave插件与Afterburner一并发布于1995年。第一个使用Shockwave的网站是 [http://web.archive.org/web/19970103021015/www1.intel.com/intel/museum/25anniv/index.htm Intel微处理器25年纪念]。
+
+=== Shockwave 5 ===
+
+Afterburner作为一个Xtra被集成到了Director 5.0中。
+
+=== Shockwave 6 ===
+增加了对Shockwave Audio（swa）的支持，一种带有附加文件头的与MP3相似的音频格式。
+
+=== Shockwave 7 ===
+*增加了对于图片和剪辑的支持。
+*增加了对Shockwave Multiuser Server的支持
+
+=== Shockwave 8.5 ===
+增加了对于[[Intel|英特尔]]3D渲染技术的支持，亦是不少電子課本所使用的版本，因為這個版本是當中最穩定的版本：在這之後的版本都有往後兼容的問題，而之前的版本有很多新的內容都不能正確顯示。
+
+=== Shockwave 10 ===
+
+支持[[Mac OS X 10.3]]和更早版本操作系统的最后一个版本。
+
+=== Shockwave 11 ===
+
+支持英特尔平台的苹果电脑。
+
+== 商标與名稱的混淆 ==
+
+在1990年代末，[[Macromedia]]为了提升Shockwave的知名度，将其名下的所有多媒体播放器都冠以了“Shockwave”的前缀。虽然此举達到了预期的效果，但Shockwave和[[Adobe Flash|Flash]]变得越来越难区分。在2005年，Macromedia发布了三款浏览器插件：[[Macromedia Authorware]]、Macromedia Shockwave和[[Macromedia Flash]]。
+
+Macromedia还发布了一款在线查看[[Macromedia FreeHand]]的插件名叫Macromedia Shockwave for FreeHand。
+<ref>{{cite book
+  | last = Perry Board, Rick Luna and Derek O'Dell
+  | first = 
+  | authorlink = 
+  | coauthors = 
+  | title = Creating Shockwave Web Pages - Chapter 20 Shockwave for Freehand
+  | work = 
+  | publisher = Que Corporation
+  | date =1996
+  | isbn = 0-7897-0903-1
+  | url = http://www4.dogus.edu.tr/bim/bil_kay/pak_prog/shockwave/ch20.htm
+  | format = 
+  | doi = 
+  | accessdate = [[2008-03-30]] }}</ref>
+
+[[Adobe]]收购Macromedia后，Adobe开始缓慢地为与Shockwave相关的[[多媒体播放器]]重新命名。
+
+== 市场占有率 ==
+根据[[Adobe Systems|Adobe]]的数据，Macromedia Shockwave Player在52.3%的PC上安装。<ref>{{cite web
+  | last = Brown
+  | first = Millward
+  | authorlink = Millward Brown
+  | coauthors =
+  | title = Shockwave Player Adoption Statistics
+  | work =
+  | publisher = [[Adobe Systems]]
+  | date = [[2007-03-31]]
+  | url = http://www.adobe.com/products/player_census/shockwaveplayer/
+  | format =
+  | doi =
+  | accessdate = 2007-03-31 }}</ref>
+
+== 參考文獻 ==
+{{reflist}}
+
+{{Adobe Systems}}
+{{媒體播放器 (應用軟件)}}
+
+[[Category:媒体播放器]]
+{{expert|time=2010-06-14T13:10:10+00:00}}
+{{noteTA
+|1=zh-hans:贝塞尔曲线; zh-hant:貝茲曲線;
+|G1=IT
+}}
+{{Infobox Software
+| name                   = [[File:Adobe Illustrator Title.png|175px|Adobe Illustrator]]
+| logo                   = [[File:Adobe Illustrator Icon (CS6).svg|64px|Adobe Illustrator CS6圖示]]
+| screenshot             = 
+| caption                = Adobe Illustrator CS6 在[[Windows 7]]中執行
+| developer              = [[Adobe Systems]]
+| latest release version = CC (17.0.0)
+| latest release date    = {{release date and age|mf=yes|2013|06|17}}
+| latest preview version =
+| latest preview date    =
+| programming language   = [[C++]]
+| operating system       = [[Mac OS X]]、[[Microsoft Windows]]
+| genre                  = [[向量圖編輯]]
+| license                = [[專有軟體|專有]]
+| website                = [http://www.adobe.com/products/illustrator/ Adobe Illustrator Homepage]
+}}
+'''Adobe Illustrator'''是[[Adobe]]系统公司推出的基于[[矢量]]的图形制作软件。最初是1986年为[[苹果公司]][[麦金塔电脑]]设计开发的，1987年1月发布，在此之前它只是Adobe内部的[[字体]]开发和[[PostScript]]编辑[[软件]]。
+
+== 软件特点 ==
+最大特征在于[[貝茲曲線]]的使用，使得操作简单功能强大的[[矢量]]绘图成为可能。现在它还集成文字处理、上色等功能，不仅在插图制作，在印刷制品（如广告传单、小册子）设计制作方面也广泛使用，事实上已经成为[[桌面出版]]（DTP）业界的默认标准。它的主要竞争对手是Macromedia [[Freehand]]；但是在2005年4月18日，[[Macromedia]]被[[Adobe]]公司收購。
+
+所谓的貝茲曲線方法，在这个软件中就是通过“钢笔工具”设定“锚点”和“方向线”实现的。一般用户在一开始使用的时候都感到不太习惯，并需要一定练习；但是一旦掌握以后能够随心所欲绘制出各种线条，并直观可靠。
+
+它同时作为创意软件套装[[Creative Suite]]的重要组成部分，与兄弟软件——位图图形处理软件[[Photoshop]]有类似的界面，并能共享一些插件和功能，实现无缝连接。同时它也可以将文件输出为[[Flash]]格式。因此，可以通过Illustrator让Adobe公司的产品与Flash连接。
+
+=== 早期发布 ===
+Illustrator的发布，从很多角度来看，都是一种[[赌博]]。Macintosh并没很大的市场分额，而能输出Illustrator文件的唯一一种打印机是苹果的[[LaserWriter]]（同样是新款而高贵）；而且对于主流用户來说，使用貝茲曲線绘图也是非常新鲜的；再加上当时Macintosh只能在9英寸显示器上显示黑白图像，所以很多选项都被限制了。不过Illustrator加速了Macintosh大型显示器的开发速度。
+
+虽然在开始学习钢笔工具的时候需要一定时间，但是Illustrator的可实现性和强大功能吸引了众多用户，并成功超越了[[MacDraw]]等软件，并填补了普通绘图和CAD程序的空白。
+
+Adobe将Illustrator文档转换为PostScript文件，因此当用户要打印的时候，用户就直接将文档送到PostScript打印机，而不是从Illustrator打印。由于PostScript是一可读的文本形式，第三方开发者可以很容易地为集成Illustrator文档编写程序。
+
+=== 1.1–3版本 ===
+Illustrator 1.0很快就被1.1版本取代，并得到广泛使用。1.1版本一个有趣的特征是包含一张录像带，内容是Adobe创始人[[约翰·沃尔诺克]]对软件特征的宣传。
+之后的一个版本称为88版，因为发行时间是1988年。之后推出的3.0版本注重加强了文本排版功能，包括“沿曲线排列文本”功能。也就在这时，[[Aldus]]公司开发了Mac系统版本的Macromedia[[FreeHand]]，拥有更简易的曲线功能和更复杂界面，带有渐变填充功能。之后FreeHand与Illustrator, [[Adobe PageMaker|PageMaker]]和[[QuarkXPress]]成为桌面出版商必备的“四大件”。而对于Illustrator，用户意见最大的“真混合渐变填充”功能直到多年以后的Illustrator 5中才得以实现。
+
+Adobe在用户界面方面一直勇于创新。它不模仿其他Mac系统软件的做法，而是设置了丰富的快捷键组合方式实现了各种导航工具的快速切换。不过，现在[[Mac OS]]和[[Windows]]平台的快捷键方式并不完全相同。
+
+=== 2–5版本 ===
+虽然一开始仅为麦金塔系统使用，但是Illustrator支持其他平台。1990年代早期，Adobe发布了Illustrator的[[NeXT]]、[[Silicon Graphics]] [[IRIX]]、和[[Sun]]公司的[[Solaris]]系统平台的版本；但是由于市场反应不好，没有继续下去。Illustrator的第一个[[视窗系统]]版本是1989年初发布的2.0版，但很不成功。之后的一个视窗版本4.0被广泛批评与Illustrator 1.1过于相似，而和Mac系统用的3.0版却不搭界。因此在视窗系统上，无法超越[[CorelDraw]]。
+
+注意：2.0和4.0版本只有视窗系统版本，在4.0版中Illustrator第一次支持预览模式，而Mac用户只有等到1993年的5.0版才有这个功能。
+
+=== 6–7版本 ===
+Illustrator 6在1996年发布时，在路径编辑上作了一些改变，主要是为了和[[Photoshop]]统一，但导致一些用户的不满，一直拒绝升级。Illustrator同时也开始支持[[TrueType]]字体，从而引发了PostScript [[Type 1 font|Type 1]]和TrueType之间的“字体大战”。和Photoshop一样，Illustrator也开始支持插件，使得功能得到了极大的扩展。
+
+在1997年发布的7.0版本终于使麦金塔和视窗两个平台实现了相同功能，设计师们开始向Illustrator靠拢。Corel的其他问题颇多（比如与微软的[[WordPerfect]]竞争），他们把CorelDraw放到消费者市场，让非专业人士使用。1996年末，Corel发布Mac平台的CorelDraw 6.0反响很小。[[Aldus]]公司发布的视窗版FreeHand也不敌Illustrator。1994年Adobe收购了Aldus公司及其旗下的[[PageMaker]]软件，作为交换它把FreeHand卖给了Macromedia。
+
+7.0版本的新功能有“变形面板”、“对齐面板”、“形状工具”等等。
+
+=== 8-10版本 ===
+随着互联网络的发展，Illustrator加强了对网络出版的支持，增加了栅格化预览、[[PDF]]和[[SVG]]支持。
+
+8.0版本的新功能有“动态混合”、“笔刷”、“渐变网络”等等。这个版本运行稳定，时隔多年的今日仍有广大用户使用。
+
+9.0版本的新功能有“透明效果”、“保存Web格式”、“外观”等。但是实际使用中透明功能却经常带来麻烦，导致很多用户仍使用版本8而不升级。
+
+10.0版本也是[[Mac OS 9]]上能运行的最高版本。主要新功能有“封套”（envelope）、“符号”（Symbol）、“切片”等功能。切片功能的增加，使得可以将图形分割成小GIF、JEPG文件，明显是出于网络图像的支持。
+
+*品牌
+从1.0版本开始，Adobe选择[[波提切利]]的名画《[[维纳斯的诞生]]》中[[维纳斯]]的头像作为Illustrator的品牌形象，寄托了开发人员将这个产品给电子出版界带来新的[[文艺复兴]]的愿望。当初的市场企划人员发现这个头像也非常适合展现Illustrator的平滑曲线表现功能。多年以来，虽然每个版本中头像都有细微变化，但是一直保存至10.0版本。
+
+=== CS–CS 2版本 ===
+[[File:AIcs2.JPG|225px|thumb|Illustrator CS2|right]]
+被纳入[[Adobe Creative Suite|Creative Suite]]套装后不用数字编号，而改称CS版本，并同时拥有[[Mac OS X]]和[[微软视窗]]操作系统两个版本。维纳斯的头像从Illustrator CS（实质版本号11.0）被更新为一朵艺术化的花朵，增加创意软件的自然效果。
+CS版本新增功能有新的文本引擎（对[[OpenType]]的支持）、“3D效果”等等。
+
+Illustrator的CS2版（即12.0）。主要新增功能有“动态描摹”、“动态上色”、“控制面板”和自定义工作空间等等，在界面上和[[Photoshop]]等得到了统一。动态描摹可以将位图图像转化为矢量图型，动态上色可以让用户更灵活的给复杂对象区域上色。
+
+对于Mac用户来说，Mac平台版本都是针对PowerPC编写的，所以使用新[[英特尔]][[麦金塔]]用户需要调用[[Rosetta]]进行编码转换，导致运行速度大大减慢。
+
+=== CS 3版本 ===
+Adobe Illustrator CS3已經于2007年3月27日发布，4月发售。Mac平台版本是[[通用二进制]]版本。
+
+<ref>http://www.adobe.com/aboutadobe/pressroom/pressreleases/200703/032707CreativeSuite.html</ref>
+
+这个版本的新功能包括：
+*动态颜色（Live Color），提供根据配色理论创建的配色组合，动态的作用于所选择的物件，并可以一次改变整个作品的色调。
+* emapping控制可以从一个图像中重建颜色数量。
+*与Flash的集成，使用命名的符号和动态文本
+*增强的绘图工具和控制
+*更快的运行速度
+*橡皮擦工具：能作用于矢量物体
+*裁切区域工具
+*改进的独立模式：可以编辑隐藏的物体和组<ref>http://www.adobe.com/products/illustrator/upgrade/</ref>
+
+=== CS 4–CS 5版本 ===
+
+=== CS 6版本 ===
+CS6版本為Adobe Illustrator的第十六個版本，除了新增許多功能之外，還包括了Bug的修正。
+
+新功能包含了<ref>http://www.adobe.com/tw/products/illustrator/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html</ref>：
+*使用了全新的Adobe Mercury Performance System
+*可隨時編輯的各種圖樣重複類型
+*全新的影像描圖引擎
+*介面精簡化
+*漸層筆畫
+*面板中內嵌編輯
+*高斯模糊、色彩面板、變形面板、字型面板、控制面板增強功能
+*可固定的隱藏工具
+*具個別空間的工作區
+
+=== CC 版本 ===
+
+== 发布历史 ==
+{| class="prettytable"
+! 版本 || '''平台''' || '''发布日期''' || '''开发代号''' || '''主要特性'''
+|-
+| 1.0 || [[Mac OS]] || 1987年1月 || [[巴勃罗·毕加索|毕加索]](Picasso) ||
+|-
+| 1.1 || Mac OS || 1987年3月19日 || [[印加帝国]](Inca) ||
+|-
+| 88 || Mac OS || 1988年3月 || ||
+|-
+| 2.0 || Windows ||1989年1月 || Pinnacle ||
+|-
+| 3 || Mac OS, [[NeXT]]，其他[[Unix]] || 1990年10月 || 沙漠[[驼鹿]](Desert Moose) || 创建图形
+|-
+| 3.5 || [[IRIX]] || 1991年 || ||
+|-
+| 4 || [[Microsoft Windows|Windows]] || 1992年9月 || [[袋鼠]](Kangaroose) ||
+|-
+| 3.5 || [[Solaris (操作系统)|Solaris]] || 1993年 || 
+|-
+| 5 || Mac OS || 1993年6月 || [[土星]](Saturn) || 图层，预览模式下实时编辑
+|-
+| 5.5 || Mac OS, Solaris <ref>{{cite web|author=Michael J. Connolly (mjconnly@newton41.ckcorp.com) |url=http://www.sunmanagers.org/archives/1999/0973.html |title=1999: SUMMARY: Solaris-Adobe Products (a little long) |publisher=Sunmanagers.org |date= |accessdate=2010-12-04}}</ref> || 1994年6月 || [[雅努斯]](Janus) || 拼写检查，查找/替换文本
+|-
+| 5.5.1 || [[IRIX]] || 1995 || ||
+|-
+| 5.1 || Windows || 1998 || Pavel ||
+|-
+| 6 || Mac OS || 1996年2月 || [[大力水手]](Popeye) || 梯度，滴管，油漆桶
+|-
+| 7 || Mac/Windows ||1997年5月 || [[辛巴]](Simba) || 
+|-
+| 8 || Mac/Windows ||1998年9月 || [[猫王]](Elvis)
+|-
+| 9 || Mac/Windows || 2000年6月 || [[亨利·马蒂斯|马蒂斯]](Matisse)
+|-
+| 10 || Mac/Windows ||2001年11月 || Paloma
+|-
+| CS (11) || Mac/Windows || 2003年10月 || [[盘古大陆]](Pangaea)/Sprinkles
+|-
+| CS2 (12) || Mac/Windows || 2005年4月27日 || [[黄道带]](Zodiac)
+|-
+| CS3 (13) || Mac/Windows || 2007年4月|| [[面具杰森魔|杰森]](Jason)
+|-
+| CS4 (14) || Mac/Windows || 2008年10月|| [[十四行诗]](Sonnet)
+|-
+| CS5 (15) || Mac/Windows || 2010年4月|| [[阿旃陀]](Ajanta)
+|-
+| CS6 (16) || Mac/Windows || 2012年4月|| [[埃洛拉石窟|埃洛拉]](Ellora)
+|}
+
+== 參考資料 ==
+{{reflist}}
+
+== 外部連結 ==
+{{Wikiversity|Adobe Illustrator}}
+{{Commonscat}}
+* [http://www.adobe.com/products/illustrator/ 官方頁面]
+
+{{AdobeCS}}
+
+[[Category:图像软件]]
+[[Category:奥多比软件]]
+[[Category:向量图形编辑器]]
+[[Adobe Systems|Adobe]]产品列表。
+<!-- 请您不要加入插件或衍生产品。衍生产品应在主产品页面描述。-->
+<!-- Instead of listing each product like so, there should be a brief description of each product complemented by relevant financial data (not prices). -->
+
+== 目前 ==
+* [[Adobe Acrobat|Acrobat]] 家族
+** [[Adobe Acrobat Capture|Acrobat Capture]]
+** [[Adobe Acrobat Connect|Acrobat Connect]] ''(前為 Macromedia Breeze)''
+*** [[Adobe Presenter|Presenter]]
+** [[Adobe Acrobat Distiller|Acrobat Distiller]]
+** [[Adobe Reader|Reader]]
+* [[Adobe Audition|Audition]] ''(前為 Cool Edit Pro)''
+* [[Adobe Bridge|Bridge]]
+* [[Adobe Captivate|Captivate]] ''(前為 RoboDemo)''
+* [[Adobe Central Output Server|Central Output Server]]
+* [[Adobe ColdFusion|ColdFusion]]
+* [[Adobe Content Server|Content Server]]
+* [[Adobe Creative Suite|Creative Suite]]
+** [[Adobe Acrobat|Acrobat]]
+** [[Adobe Acrobat Connect|Acrobat Connect]]
+** [[Adobe After Effects|After Effects]]
+** [[Adobe Bridge|Bridge]]
+** [[Adobe Contribute|Contribute]]
+** [[Adobe Device Central|Device Central]]
+** [[Adobe Dreamweaver|Dreamweaver]]
+** [[Adobe Dynamic Link|Dynamic Link]]
+** [[Adobe Encore|Encore]]
+** [[Adobe Fireworks|Fireworks]]
+** [[Adobe Flash|Flash]]
+** [[Adobe Illustrator|Illustrator]]
+** [[Adobe InDesign|InDesign]]
+** [[Adobe OnLocation|OnLocation]] ''(前為 Serious Magic DV Rack)''
+** [[Adobe Photoshop|Photoshop]]
+** [[Adobe Premiere Pro|Premiere Pro]]
+** [[Adobe Version Cue|Version Cue]]
+** [[Adobe Audition|Audition]]
+* [[Adobe Digital Editions|Digital Editions]]
+* [[Digital Negative (file format)|Digital Negative]]
+* [[Adobe Director|Director]]
+* [[Adobe DNG Converter|DNG Converter]]
+* [[Adobe Document Server|Document Server]]
+* [[Adobe Document Policy Server|Document Policy Server]]
+* [[Adobe eBook Reader|eBook Reader]]
+* [[Adobe Engagement Platform|Engagement Platform]]
+* [[Adobe eLearning Suite|eLearning Suite]]
+** [[Adobe Acrobat|Acrobat]]
+** [[Adobe Bridge|Bridge]]
+** [[Adobe Captivate|Captivate]]
+** [[Adobe Device Central|Device Central]]
+** [[Adobe Dreamweaver|Dreamweaver]]
+** [[Adobe Flash|Flash]]
+** [[Adobe Photoshop|Photoshop]]
+** [[Adobe Presenter|Presenter]]
+**  [[Adobe FDK|FDK]]
+* [[Adobe Flash|Flash]] 家族
+** [[Adobe Flash Cast|Flash Cast]]
+** [[Adobe Flash Catalyst|Flash Catalyst]]
+** [[Adobe Flash Lite|Flash Lite]]
+** [[Adobe Flash Media Server|Flash Media Server]]
+** [[Adobe Flash Player|Flash Player]]
+* [[Adobe Flex|Flex]]
+* [[Adobe Font Folio|Font Folio]]
+* [[Adobe InCopy|InCopy]]
+* [[Adobe Integrated Runtime|Integrated Runtime]] ''(或簡稱 '''AIR''')''
+*[[Adobe Kuler|Kuler]]
+* [[Adobe LiveCycle|LiveCycle]] 家族
+** Assembler
+** Barcoded Forms
+** Designer
+** Document Security
+** Forms
+** Form Manager
+** PDF Generator
+** Policy Server
+** Reader Extensions
+** Security Server
+* [[Adobe Media Player|Media Player]]
+* [[Adobe Output Designer|Output Designer]]
+* [[Adobe PDF JobReady|PDF JobReady]]
+* [[Adobe Photoshop|Photoshop]] 家族
+** [[Adobe Photoshop Elements|Photoshop Elements]]
+** [[Adobe Photoshop Express|Photoshop Express]]
+** [[Adobe Photoshop Lightroom|Photoshop Lightroom]]
+* [[Adobe Premiere Elements|Premiere Elements]]
+* [[Adobe Shockwave|Shockwave]]
+* [[Adobe Source Libraries|Source Libraries]]
+* [[Adobe Visual Communicator|Visual Communicator]]
+* [[Adobe Technical Communication Suite|Technical Communication Suite]]
+** [[Adobe Acrobat|Acrobat]]
+** [[Adobe Captivate|Captivate]]
+** [[Adobe FrameMaker|FrameMaker]]
+** [[Adobe RoboHelp|RoboHelp]]
+* [[Adobe Type|Type]]
+* [[Adobe Web Output Pack|Web Output Pack]]
+* [[Serious Magic Ovation]]
+* [[Serious Magic Vlog It!]]
+
+== 中止 ==
+=== 销售和开发 ===
+* [[Adobe ActiveShare]]
+* [[Adobe Atmosphere]]
+* [[Adobe Dimensions]]
+* [[Adobe GoLive]]
+* [[Adobe FreeHand]]
+* [[Adobe ImageReady]]
+* [[Adobe ImageStyler]]
+* [[Adobe InProduction]]
+* [[Adobe License Manager]]
+* [[Adobe LiveMotion]]
+* [[Adobe PageMaker]]
+* [[Adobe PageMill]]
+* [[Adobe Persuasion]]
+* [[Adobe PhotoDeluxe]]
+* [[Adobe Photoshop Album]]
+* [[Adobe PressReady]]
+* [[Adobe PressWise]]
+* [[Adobe ScreenReady]]
+* [[Adobe SiteMill]]
+* [[Adobe Stock Photos]]
+* [[Adobe Streamline]]
+* [[Adobe Texture Maker]]
+* [[Adobe Transcript]]
+* [[Adobe TrapWise]]
+* [[Adobe Type Manager]]
+* [[Adobe TypeAlign]]
+* [[Macromedia Central]]
+* [[Adobe Soundboth]]
+*[[Adobe Fireworks]]
+
+=== 仅开发 ===
+* [[Authorware]]
+* [[Adobe SVG Viewer]]
+* [[Macromedia HomeSite]]
+
+{{Adobe Systems}}
+
+[[Category:奥多比软件| ]]
+[[Category:软件列表|Adobe软件]]
+{{noteTA
+|G1=IT
+}}
+{{Infobox Software
+| name                   = Adobe Creative Suite
+| logo                   = [[File:Adobe Creative Suite v6.0 Icon.png]]
+| screenshot             = 
+| caption                = 
+| author                 = 
+| developer              = [[Adobe Systems]]
+| released               = {{release date|2003|09|01}}
+| latest release version = Creative Suite 6(任何作業系統的最終版本)
+| latest release date    = {{release date|2012|04|23}}
+| latest preview version = 
+| latest preview date    = 
+| operating system       = [[Microsoft Windows|Windows]]、[[Mac OS X]]
+| platform               = 
+| language               = 多语言
+| status                 = 已停止开发
+| genre                  = [[数字媒体]]创作和编辑 
+| license                = [[Proprietary software|Proprietary]]
+| website                = [http://www.adobe.com/products/creativesuite/main.html Adobe Creative Suite] 
+}}
+'''Adobe Creative Suite'''是[[Adobe]]公司出品的集成了[[平面设计]]、[[视频编辑]]、[[网页设计]]等[[应用]]的产品套装。
+
+该套装最初主要包括电子文件制作程序[[Adobe Acrobat]]、矢量图形绘图程序[[Adobe Illustrator]]、排版程序[[Adobe InDesign]]、影像处理程序[[Adobe Photoshop]]等产品，在后来的版本中又加入了网页设计程序[[Adobe Dreamweaver]]、视觉特效制作程序[[Adobe After Effects]]、音频编辑程序[[Adobe Audition]]、网页图形设计程序[[Adobe Fireworks]]、矢量动画制作程序[[Adobe Flash]]、视频编辑程序[[Adobe Premiere Pro]]等。
+
+Adobe已經宣佈停止Adobe Creative Suite的銷售方法和發佈策略，改爲雲端租用的方法租用上述軟体服務[[Adobe Creative Cloud]]。
+
+== 應用軟體 ==
+以下是Adobe Creative Suite各個版本的應用軟體簡介：
+* [[Adobe Acrobat]]是專為PDF格式而設的系列軟體
+** [[Adobe Acrobat|Adobe Acrobat Standard]]與[[Adobe Acrobat|Adobe Acrobat Professional]]：用於建立[[PDF]]檔。
+** [[Adobe Reader]]：為一免費軟體（非開放原始碼），用於閱覽與列印[[PDF]]檔。
+* [[Adobe Audition]]為一「專業級」多音軌數位音效編輯工具，其定位和[[Adobe Soundbooth]]不同。
+* [[Adobe After Effects]]為一數位動畫與合成軟體，用於電影與影片後製。
+* [[Adobe Bridge]]為一檔案管理軟體，主要用途為採用檔案瀏覽器的方式，將Creative Suite各個程式與檔案連接起來。其前身為過去Photoshop內建的瀏覽器。
+* [[Adobe Contribute]]用於網站內容的編輯。由於此軟體降低了設計網站所需的技術要求，讓組織中各種人都可以更新網頁。
+* [[Adobe Device Central]]用於預覽與測試行動裝置內容。與Creative Suite各軟體相整合，提供創意專業人員、網站設計人員與開發人員預覽及測試行動裝置中的檔案，諸如Flash Lite、點陣圖、網站與影音內容。
+* [[Adobe Dreamweaver]]為一結合語法與所見即所得的網站設計程式。
+* [[Adobe Dynamic Link]]的功用是將After Effects與Premiere和Encore相結合。
+* [[Adobe Encore]]為DVD編寫工具，以半專業影音工作人員為主要用戶。此軟體會自動將檔案轉碼成MPEG-2影音與杜比數位音效。用戶還可以利用Photoshop的特殊圖層技術來建立和修改DVD選單。
+* [[Adobe Fireworks]]為一點陣圖與向量圖形的編輯軟體，以網站設計人員為主要用戶，主要功能包含切片，添加[[hotspots]]等。
+* [[Adobe Flash]]為一製作多媒體技術的系列軟體
+** [[Adobe Flash|Adobe Flash Professional]]：為一多媒體編寫程式，用途是建立網站應用程式、遊戲、影片以及手機和其他裝置內容。Flash Professional的特色是支援向量圖形與點陣圖形、[[ActionScript]]編寫語言與影音雙向串流。
+** [[Adobe Flash Player]]為可播放Adobe Flash多媒體檔案([[SWF]])的免費軟體。
+* [[Adobe Illustrator]]為一向量圖形編輯軟體。
+* [[Adobe InDesign]]為一桌面出版應用軟體。
+* [[Adobe OnLocation]]為一用於直接錄製與監測的軟體。
+* [[Adobe Photoshop]]為一點陣圖形編輯軟體，且具備部分向量圖形功能。
+* [[Adobe Premiere Pro]]為一以時間軸為基礎的即時影音編輯軟體。
+* [[Adobe Soundbooth]]為一個數位音效編輯軟體。Adobe將其稱為「Sound Edit 16與Cool Edit 2000的精神」。Soundbooth的用意不在取代 [[Adobe Audition]]，而是讓非音效專業的創意工作者也有適用軟體。
+* [[Adobe Version Cue]]可讓用戶輕易追蹤並運用檔案詮釋資料，而詮釋資料是關於電腦檔案的歷史記錄，例如一個檔案是另一舊檔案的新版本。Version Cue也將群團隊間共同的文件審視程序自動化。
+
+== 历史 ==
+=== Creative Suite ===
+CS套装的第一个版本于2002年推出。从那以后Adobe公司的创意设计软件的名称，由原来的版本号结尾（如[[Photoshop]] 8）变成由CS结尾（如Photoshop CS）。
+
+=== Creative Suite 2 ===
+[[File:Adobe Creative Suite 2 logo.svg|right|thumb|280px|Adobe Creative Suite 2徽标]]
+2005年4月，Adobe推出了新版本称为Adobe Creative Suite 2，其系列产品的新版本名称后缀也改为CS2（如Photoshop CS2 , 事实版本号 9.0）。包括两种套装，标准版和增强版。
+
+标准版包括：[[Adobe Photoshop]] CS2（事实版本号 9.0）、[[Adobe Illustrator]] CS2（事实版本号 12.0）、[[Adobe Indesign|Adobe InDesign]] CS2（事实版本号 4.0）、[[Adobe Version Cue]] CS2、[[Adobe Bridge]]和[[Adobe Stock Photos]]。增强版包含标准版所有软件，并增加[[Adobe GoLive]] CS2（事实版本号 8.0）和[[Adobe Acrobat]] 7.0 Professional。
+
+随着2006年9月[[Adobe Acrobat]] 8.0 Professional的发布，Adobe把新版本替代原来的7.0版本放入这个套件，版本号称为Creative Suite 2.3 Premium。
+
+这个套装同时有Windows和Mac两个版本，但是Mac版本是基于PowerPC编写的，并不是Universal核心，所以在[[英特尔]]苹果电脑上运行时需要调用一个叫Rosetta的脚本进行编译，导致软件运行速度明显变慢。
+
+* 简体中文版 - 相对于先前旧版本对中文支持非常不好，而且一度没有官方的中文版本问世。而Adobe Creative Suite 2套装出品了正式简体中文版和繁体中文版，这也是Adobe首次推出的全套中文软件产品，不仅在界面上全部汉化，而且加入了东亚语言相关的字符，排版功能。Abobe中国公司为了改变中国大陆地区盗版横行的局面，于2005年8月9日开始了名为“Adobe中国风暴”的活动，以相当于英文版本一半的价格发行CS2简体中文版本套装，希望就此争取更多的正版用户，打击盗版。这一举措得到了市场的强烈反响。
+
+* CS 增强版2.3 - 2006年9月，[[Adobe Acrobat]] 8正式发布。Adobe公司将其取代Adobe Acrobat 7 ，并捆绑[[Adobe Dreamweaver]]8加入Adobe Creative Suite的增强版，称为CS增强版2.3。
+
+* Adobe网络套装 - 由于Adobe公司已经将Macromedia公司收于旗下，现在还有Macromedia Studio 8产品和Creative Suite的捆绑套装，称为Adobe网络套装（Web Bundle）。
+
+於2013年1月頭，網民誤會Adobe將CS2系列改作免費軟件，Adobe在官方論壇回應，表示是因為停用CS2以及Acrobat 7的啟用伺服器，因此提供原客戶取得新序號。Adobe並無提供免費讓大家使用的意思，該服務僅提供給曾購買過CS2的老客戶使用，未購買而下載使用者，可能會接到停用警告。<ref>[http://www.ettoday.net/news/20130108/149806.htm#ixzz2HMY1s6x0 Adobe CS2非免費下載！官方恐警告網友停用]，2013年1月7日</ref><ref>[http://www.ithome.com.tw/itadm/article.php?c=78219 公開序號是為繼續服務舊版客戶]，2013年1月7日</ref>
+
+==== Production Studio ====
+'''Adobe Production Studio'''（原名 ''Adobe Video Collection''）是数码音频、影像编辑软件套装。这个套装同样有标准版和增强版本
+
+Adobe Production Studio 增强版包括：
+* [[Adobe After Effects]]专业版
+* [[Adobe Audition]]
+* [[Adobe Bridge]]
+* [[Adobe Encore DVD]]
+* [[Adobe Premiere Pro]]
+* [[Adobe Photoshop]]
+* [[Adobe Illustrator]]
+* [[Adobe Dynamic Link]]（不单独发售）
+
+标准版包括
+* [[Adobe After Effects]]标准版
+* [[Adobe Bridge]]
+* [[Adobe Premiere Pro]]
+* [[Adobe Photoshop]]
+
+==== Macromedia Studio ====
+'''Macromedia Studio'''是一套用於網站設計的軟體組合，由Macromedia所發售。在Adobe併購Macromedia之後，Macromedia Studio 8經修改及併入Adobe Creative Suite系列，為後者所取代。現在與Macromedia Studio 8最相近的軟體是Adobe Creative Suite Web Premium與Web Standard。
+
+自CS3起，Macromedia Studio的核心應用軟體已經被併入Adobe Creative Suite，其中有Flash、Dreamweaver以及Fireworks。有一些Macromedia應用軟體被現在的Adobe產品取代，例如FreeHand被Adobe Illustrator取代。而Director和ColdFusion則不屬於Adobe Creative Suite，另作為獨立軟體發售。
+
+版本發佈如下:
+* '''Macromedia Studio MX''' - 2002年5月29日發佈,包括Dreamweaver, Flash, FreeHand, Fireworks及開發版的ColdFusion。
+** '''Macromedia Studio MX Plus''' - 2003年2月10日發佈,Macromedia Studio MX的一個特別版,新增了Contribute及特別版的DevNet Resource Kit。
+* '''Macromedia Studio MX 2004''' - 2003年9月10發佈,包括Macromedia Studio MX所有軟件的更新版。
+* '''Macromedia Studio 8''' - 2005年9月13日發佈,Macromedia Studio的最後版本,包括Dreamweaver 8, Flash 8, Flash 8 Video Converter, Fireworks 8, Contribute 3及FlashPaper。
+
+=== Creative Suite 3 ===
+[[File:Adobe Creative Suite 3 logo.png|right|thumb|280px|Adobe Creative Suite 3 徽标]]
+2007年3月27日，Adobe發佈了Adobe Creative Suite 3。代號為「剝香蕉」。公司為該系列產品的[[Apple Macintosh]]版本的主要程序加入了通用二進制庫。套件家族中的一些產品亦開始使用曾應用於[[Opera]]瀏覽器的Presto佈局引擎。
+
+Adobe公司將軟件集成於6個不同的「版本」套件來發佈CS3。這與CS4的發佈相同。Design Standard/Premium和Web Standard/Premium套件於2007年4月16日開始發售，而Production Premium與Master Collection套件則於7月2日發售。現CS3的最新版本為3.3，於2008年6月2日發佈。在該版本中，Fireworks CS3已經包含於Design Premium套件中，所有套件中的Acrobat 8被替換為Acrobat 9 Pro。
+
+除Production Premium和Master Collection套件外，其他所有套件均有簡、繁體中文版。
+
+{| class="wikitable"
+! rowspan="2" | 套件
+! colspan="2" style="background:#ccccff;" | Design
+! colspan="2" style="background:#ccccff;" | Web
+! style="background:#ccccff;" rowspan="2" | Production<br />Premium
+! style="background:#ccccff;" rowspan="2" | Master<br />Collection
+|-
+! style="background:#ccccff;" | Standard
+! style="background:#ccccff;" | Premium
+! style="background:#ccccff;" | Standard
+! style="background:#ccccff;" | Premium
+|-
+|[[Adobe Photoshop|Photoshop CS3]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+|
+|
+|-
+|[[Adobe Photoshop|Photoshop CS3 Extended]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Illustrator|Illustrator CS3]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe InDesign|InDesign CS3]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Acrobat|Acrobat 9 Pro]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Flash|Flash CS3 Professional]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Dreamweaver|Dreamweaver CS3]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Fireworks|Fireworks CS3]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]<br /><small>(in v3.3)</small>
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Contribute|Contribute CS3]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe After Effects|After Effects CS3 Professional]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Premiere Pro|Premiere Pro CS3]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Soundbooth|Soundbooth CS3]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Encore|Encore CS3]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|}
+
+以上所有版本都包含共享程式與服務，包含[[Adobe Bridge]]、[[Adobe Version Cue]]（Production Premium無此功能）、[[Adobe Device Central]]、[[Adobe Acrobat Connect]]。Production Premium和Master Collection版本另包含[[Adobe Dynamic Link]]、[[Adobe OnLocation]]（限Windows版）與[[Adobe Ultra]]（限Windows版）。
+
+CS3包含許多由[[Macromedia]]開發程式，如[[Dreamweaver]]、[[Flash]]與[[Adobe Fireworks|Fireworks]]等軟體，Macromedia原本是Adobe的競爭者，在2005年被Adobe併購。另外CS3還包括由[[Serious Magic]]所開發的[[Adobe OnLocation]]和[[Adobe Ultra]]兩套軟體，此公司在2006年也被Adobe併購。
+
+Adobe自CS3系列起未收錄以下原本CS2包含的軟體：
+* [[Adobe GoLive]]（被[[Adobe Dreamweaver]]取代）
+* [[Adobe ImageReady]]（併入[[Adobe Photoshop]]且由[[Adobe Fireworks]]取代）
+* [[Adobe Audition]]（由[[Adobe Soundbooth]]取代）
+
+Adobe已經宣佈會繼續Audition研發成一獨立軟體，而GoLive則不會再延續下去。Adobe GoLive 9於2007年6月10日推出，Adobe Audition則是在2007年9月6日做為一獨立軟體推出。Adobe也不再延續ImageReady，並且以[[Fireworks]]之取代，ImageReady的一些特別功能則被併入[[Photoshop]]。
+
+=== Creative Suite 4 ===
+
+与CS3相同，CS4亦拥有6个不同的版本：
+* Creative Suite 4 设计标准版（Design Standard）
+* Creative Suite 4 设计高级版（Design Premium）
+* Creative Suite 4 网络标准版（Web Standard）
+* Creative Suite 4 网络高级版（Web Premium）
+* Creative Suite 4 制作高级版（Production Premium）
+* Creative Suite 4 大师收藏版（Master Collection）
+
+CS4在2008年10月15日正式發售。它將所有軟體皆採用一貫的操作介面，此一標籤化的介面能在單一視窗內利用標籤分頁同時開啟數個應用程式與CS4專案。此外，[[nVidia]]的[[CUDA]]技術可藉由第三方外掛程式加速[[H.264]]影像編碼。
+
+Adobe CS4能在64位元與多核心處裡器之下具有更佳的表現效能，且Adobe Photoshop CS4更是原生64位元軟體。Adobe After Effects CS4與Adobe Premiere Pro CS4雖然不是原生64位元系統，但亦針對64位元進行最佳化。經先前測試顯示，支援64位元的Adobe Photoshop CS4整體效能可提升8%至12%，而在工作中需處理龐大檔案的用戶可發現執行速度達到10倍以上的顯著效能提升。這是因為64位元應用程式可以處理更大量的記憶體以減少檔案交換需求，而這正是影響資料處理速度的最大因素之一。
+
+下表为捆绑于各个软件套件中的应用程序：
+{| class="wikitable"
+| rowspan="2" |
+! colspan="2" style="background:#ccccff;" | 设计
+! colspan="2" style="background:#ccccff;" | 网络
+! style="background:#ccccff;" rowspan="2" | 制作<br />高级
+! style="background:#ccccff;" rowspan="2" | 大师<br />收藏
+|-
+! style="background:#ccccff;" | 标准
+! style="background:#ccccff;" | 高级
+! style="background:#ccccff;" | 标准
+! style="background:#ccccff;" | 高级
+|-
+|[[Adobe Photoshop|Photoshop CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+|
+|
+|-
+|[[Adobe Photoshop|Photoshop CS4 Extended]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Illustrator|Illustrator CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe InDesign|InDesign CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Acrobat|Acrobat 9 Professional]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Flash|Flash CS4 Professional]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Dreamweaver|Dreamweaver CS4]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Fireworks|Fireworks CS4]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Contribute|Contribute CS4]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe After Effects|After Effects CS4 Professional]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Premiere Pro|Premiere Pro CS4]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Soundbooth|Soundbooth CS4]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe OnLocation|OnLocation CS4]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Encore|Encore CS4]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+! colspan="8" style="background:#ccccff;"  | 共享的功能、服务和应用程序
+|-
+|[[Adobe Bridge|Bridge CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Version Cue|Version Cue CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Device Central|Device Central CS4]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Dynamic Link|Dynamic Link]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|}
+
+[[Adobe Ultra]]，一款功能強大的視訊去背軟體，以簡單拖放的方式即可得到高質量的去背效果（[[chroma key]]），可在光源不足的環境下自動進行明暗調整，或將利用虛擬攝影技術，將視訊主體以外的背景自定為虛擬3D畫面，和原本列入CS3的[[Adobe Stock Photos]]軟體，自CS4起取消收錄於套裝軟體中。
+
+[[Adobe Encore]]與[[Adobe OnLocation]]（即先前的Serious Magic DV Rack HD2）則包含於[[Adobe Premiere Pro]]之中，不單獨發售。
+
+[[Adobe InCopy]]是一與[[Adobe InDesign]]密切結合的應用軟體，也是Creative Suite系列的一部分，但不包含在任何的CS4版本之中。InCopy可以從Adobe、第三方外掛程式開發商或系統整合商訂購。
+
+==== Adobe Creative Suite 4 Design Premium & Standard ====
+
+'''Creative Suite Design Premium'''與'''Creative Suite Design Standard'''為Creative Suite 4 系列的兩個版本，主要對象是專業印刷、網站設計、互動內容與行動裝置內容的設計者。
+
+這兩個版本的主要不同在於Premium版多了Adobe Photoshop CS4 Extended、Adobe Flash CS4 Professional、Adobe Dreamweaver CS4與Adobe Fireworks CS4。
+
+Adobe Creative Suite 4 Design Premium包括以下獨立軟體：
+* Adobe Acrobat 9 Professional
+* Adobe Dreamweaver CS4
+* Adobe Firework CS4
+* Adobe Flash CS4 Professional
+* Adobe Illustrator CS4
+* Adobe InDesign CS4
+* Adobe Photoshop CS4 Extended
+
+Adobe Creative Suite 4 Design Standard包括以下獨立軟體：
+* Adobe Acrobat 9 Professional
+* Adobe Illustrator CS4
+* Adobe InDesign CS4
+* Adobe Photoshop CS4
+
+==== Adobe Creative Suite 4 Production Premium ====
+
+'''Adobe Creative Suite 4 Production Premium'''是Creative Suite 4系列的版本之一，這套軟體針對專業豐富式媒體與影片後製專家而設計，能協助他們製作電影、影片、廣播、網站、DVD、藍光光碟與行動裝置等專案。
+
+Adobe Creative Suite 4 Production Premium包含以下獨立軟體：
+* Adobe After Effect CS4
+* Adobe Premiere Pro CS4
+* Adobe Photoshop CS4 Extended
+* Adobe Flash CS4 Professional
+* Adobe Illustrator CS4
+* Adobe Soundbooth CS4
+* Adobe Encore CS4
+* Adobe OnLocation CS4
+與Creative Suite 4 Production Premium對應的舊版軟體是[[Adobe Production Studio]]。
+
+==== Adobe Creative Suite 4 Web Premium & Standard ====
+
+'''Adobe Creative Suite 4 Web Premium'''與'''Creative Suite 4 Web Standard'''是Creative Suite 4系列中針對專業網站設計人員所製作的軟體。
+
+Adobe Creative Suite 4 Web Premium與Creative Suite 4 Web Standard的主要差異在於前者多了Adobe Illustrator CS4、Adobe Photoshop CS4 Extended、Adobe Soundbooth CS4與Adobe Acrobat 9 Professional等軟體。
+
+Adobe Creative Suite 4 Web Premium包含以下獨立軟體：
+* Adobe Acrobat 9 Professional
+* Adobe Contribute CS4
+* Adobe Dreamweaver CS4
+* Adobe Firework CS4
+* Adobe Flash CS4 Professional
+* Adobe Illustrator CS4
+* Adobe Photoshop CS4 Extended
+* Adobe Soundbooth CS4
+
+Adobe Creative Suite 4 Web Standard包含以下獨立軟體：
+* Adobe Contribute CS4
+* Adobe Dreamweaver CS4
+* Adobe Firework CS4
+* Adobe Flash CS4 Professional
+
+與Adobe Creative Suite 4 Web Premium與Standard對應的舊版軟體是[[Macromedia Studio 8]]。
+
+=== Creative Suite 5 ===
+2010年4月12日台北時間晚上11時，Adobe在網上發佈及推出Adobe Creative Suite 5。Adobe公司將軟件重新改編成5個不同的版本：
+* 設計標準版（Design Standard）
+* 設計進階版（Design Premium）
+* 網絡進階版（Web Premium）
+* 製片進階版（Production Premium）
+* 大師收藏版（Master Collection）
+
+{| class="wikitable"
+! rowspan="2" | 整合
+! colspan="2" style="background:#ccccff;" | Design
+! style="background:#ccccff;" rowspan="2" | Web<br />Premium
+! style="background:#ccccff;" rowspan="2" | Production<br />Premium
+! style="background:#ccccff;" rowspan="2" | Master<br />Collection
+|-
+! style="background:#ccccff;" | Standard
+! style="background:#ccccff;" | Premium
+|-
+|[[Adobe Photoshop|Photoshop CS5]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+|
+|-
+|[[Adobe Photoshop|Photoshop CS5 Extended]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Illustrator|Illustrator CS5]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe InDesign|InDesign CS5]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Acrobat|Acrobat X Pro]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Flash|Flash Catalyst CS5]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Flash|Flash Professional CS5]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Flash|Flash Builder 4 Standard]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Dreamweaver|Dreamweaver CS5]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Fireworks|Fireworks CS5]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Contribute|Contribute CS5]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Premiere Pro|Premiere Pro CS5]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe After Effects|After Effects CS5]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Soundbooth|Soundbooth CS5]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe OnLocation|OnLocation CS5]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Encore|Encore CS5]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+! colspan="8" style="background:#ccccff;"  | 附加的組件
+|-
+|[[Adobe Bridge|Bridge CS5]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Device Central|Device Central CS5]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+|[[Adobe Dynamic Link|Dynamic Link]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+! colspan="8" style="background:#ccccff;"  | Adobe CS整合現場在線服務
+|-
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|}
+Adobe OnLocation CS5和Encore CS5已隨附於Creative Suite 5 Production Premium和Master Collection軟體或個別銷售的Adobe Premiere Pro。
+
+==== Creative Suite 5.5 ====
+2010年4月推出CS5後，Adobe改變其產品更新週期策略，緊接著於2011年4月12日發表CS5.5期中更新版本（个别组件为CS5.1）。此版本協助內容開發商製作可出版於各式平板電腦、智慧型手機，與其他行動裝置的數位內容。
+
+2011年7月1日，Adobe宣布推出優惠轉換升級方案，已採購[[Final Cut Pro|Apple Final Cut Pro]]或[[Avid Media Composer]]任一版本的影像專業用戶，將能以半價優惠價格選購Adobe Creative Suite CS5.5 Production Premium或Adobe Premiere Pro CS5.5 。
+
+=== Creative Suite 6 ===
+2012年4月23日美國時間，Adobe在網上發佈及推出Adobe Creative Suite 6。Adobe公司將軟件重新改編成5個不同的版本：
+* 设计标准版
+* 设计与网络高级版                         
+* 制作高级版
+* 大师典藏版
+* Creative Cloud(Adobe Creative Suite網路套装)
+
+{| class="wikitable"
+|-
+! colspan="7" | Adobe Creative Suite 6
+|-
+! style="background:#ccf;"| 產品
+! style="background:#ccf;"| Design<br />Standard
+! style="background:#ccf;"| Design & <br />Web Premium
+! style="background:#ccf;"| Production<br />Premium
+! style="background:#ccf;"| Master<br />Collection
+! style="background:#ccf;"| Creative<br />Cloud
+|-
+| [[Adobe Photoshop|Photoshop CS6]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+|
+|
+|
+|-
+| [[Adobe Photoshop|Photoshop CS6 Extended]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Illustrator|Illustrator CS6]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe InDesign|InDesign CS6]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Muse|Muse]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Acrobat|Acrobat X Pro]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Flash Professional|Flash Professional CS6]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Flash Builder|Flash Builder 4.6 Premium]]
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Dreamweaver|Dreamweaver CS6]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Edge|Edge]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Fireworks|Fireworks CS6]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Premiere Pro|Premiere Pro CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe After Effects|After Effects CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Audition|Audition CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe SpeedGrade|SpeedGrade CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Prelude|Prelude CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Encore|Encore CS6]]
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+! colspan="7" style="background:#ccf;"| 共享應用
+|-
+| [[Adobe Bridge|Bridge CS6]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Media Encoder|Media Encoder CS6]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+! colspan="7" style="background:#ccf;"| 服務
+|-
+| Device and PC sync
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| Cloud storage
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Business Catalyst|Business Catalyst]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Typekit|Typekit]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|-
+| [[Adobe Story|Story Plus]]
+|
+|
+|
+|
+| style="text-align: center;" | [[File:B-check.svg|10px]]
+|}
+
+{{AdobeCS}}
+{{Adobe Systems}}
+
+== 參考資料 ==
+{{reflist}}
+
+[[Category:应用软件]]
+[[Category:奥多比软件]]

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="q">薛定谔方程的提出者的国籍是？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="1206451" start="0">
+  <doc>
+    <str name="id">3230730</str>
+    <str name="text">[[File:Erwin_Schrödinger.jpg|right|150px]]
+'''[[埃尔温·薛定諤]]'''（{{bd|1887年|8月12日|1961年|1月4日}}）。[[奥地利]][[理论物理]]学家，[[量子力学]]的奠基人之一。1926年他提出[[薛定谔方程]]，为量子力学奠定了坚实的基础。他想出[[薛定谔猫]][[思想實驗]]，试图证明[[量子力学]]在[[宏观]]条件下的不完备性。
+
+1933年，因為“发现了在原子理论裏很有用的新形式”（即[[量子力学]]的基本方程——[[薛定谔方程]]和[[狄拉克方程]]），薛定諤和[[英国]]物理学家[[保罗·狄拉克]]共同获得了[[诺贝尔物理学奖]]...</str>
+    <str name="title">Portal:科學/科學人物/10</str>
+    <str name="titleText">Portal:科學/科學人物/10</str>
+    <str name="user">老陳</str>
+    <int name="userId">331249</int>
+    <int name="revision">27755299</int>
+    <date name="timestamp">2013-07-21T19:51:42Z</date>
+    <long name="_version_">1484749318644563969</long></doc>
+  <doc>
+    <str name="id">1456268</str>
+    <str name="text">[[Image:Erwin_Schrödinger.jpg|100px|left]]
+
+[[埃尔温·薛定谔]]，奥地利理论物理学家，[[量子力学]]的奠基人之一。他1887年出生在奥地利维也纳附近的埃德伯格。第一次世界大战期间，他在苏黎世大学任教授，提出了著名的[[薛定谔方程]]，创立了[[波动力学]]学说用以来描述量子力学。1933年和英国物理学家[[狄拉克]]共同获得了[[诺贝尔物理学奖]]，被称为量子物理学之父。1944年发表著作「生命是什麼？」（What is Life?），影響頗深。薛定谔1961年病逝于维也纳，在他的墓碑上刻着以他命名的薛定谔方程。
+
+'''新'''： [[最近鄰居法]]、[[比尔－朗伯定律]]、[[唐氏综合症]]、[[葉永烜]]、[[天文單位]]</str>
+    <str name="title">Template:维基日报/数学与科学/2010年11月2日</str>
+    <str name="titleText">Template:维基日报/数学与科学/2010年11月2日</str>
+    <str name="user">Mountain</str>
+    <int name="userId">11</int>
+    <int name="revision">14818487</int>
+    <date name="timestamp">2010-11-02T18:37:36Z</date>
+    <long name="_version_">1484748993772650497</long></doc>
+  <doc>
+    <str name="id">69279</str>
+    <str name="text">{{refimprove|time=2013-10-11T06:55:03+00:00}}
+{{noteTA
+|G1=物理學
+}}
+{{Infobox_Scientist
+| name = [[File:Nobel_prize_medal.svg|20px]]薛定谔&lt;br/&gt;Erwin Schrödinger
+| image = Erwin_Schrödinger.jpg
+| box_width = 250px
+| image_width = 150px
+| birth_date = 1887年8月12日
+| birth_place = [[奥地利]][[维也纳]]
+| death_date = 1961年1月4日
+| death_place = [[奥地利]][[维也纳]]
+| residence =  [[File:Flag_of_Austria.svg|20px|]][[奥地利]] 
+| nationality = [[File:Flag_of_Austria.svg|20px|]][[奥地利]]  
+| field = [[物理学家]]
+| work_institution = [[弗罗茨瓦夫大学]]&lt;br /&gt;[[苏黎世大学]]&lt;br /&gt;[[柏林大学]]&lt;br /&gt;[[牛津大学]]&lt;br /&gt;[[格拉茨大学]]&lt;br /&gt;[[都柏林高级研究学院]]
+| alma_mater = [[维也纳大学]] 
+| doctoral_advisor = [[弗雷德里希·哈瑟诺尔]] ([[:en:Friedrich Hasenöhrl]])
+| academic_advisors = [[弗兰茨·瑟拉芬·埃克斯纳]] ([[:en:Franz S. Exner]])&lt;br/&gt;[[弗雷德里希·哈瑟诺尔]]
+| doctoral_students = &lt;br/&gt;
+| notable_students = [[File:Nobel_prize_medal.svg|20px]][[莱纳斯·鲍林]]&lt;br/&gt;[[File:Nobel_prize_medal.svg|20px]][[费利克斯·布洛赫]]
+| known_for  = [[薛定谔方程]]&lt;br /&gt;[[薛定谔猫]]&lt;br /&gt;[[薛定谔绘景]]
+| prizes = [[File:Nobel_prize_medal.svg|20px]] [[诺贝尔物理学奖]]（1933年）&lt;br/&gt;[[马克斯·普朗克奖章]]（1937年）
+|spouse = Annemarie Bertel (1920–61)&lt;ref name="Moore1992"&gt;{{cite book| first =Walter J | last = Moore|title=Schrödinger, life and thought|url=http://books.google.com/books?id=m-YF1glKWLoC&amp;pg=PR10|accessdate=7 November 2011|date= 29 May 1992|publisher= Cambridge University Press|isbn=978-0-521-43767-7|pages=10–}}&lt;/ref&gt;
+| signature = Erwin Schrödinger signature.svg
+| footnotes = 
+}}
+[[File:Erwin Schrodinger.jpg|thumb|220px|薛丁格的肖像曾经印在[[奥地利]]1000[[先令 (奧地利)|先令]]的钞票上。]]
+'''埃尔温·薛定諤'''（{{lang-de|'''Erwin Schrödinger'''}}，{{bd|1887年|8月12日|1961年|1月4日|catIdx=Schrödinger, Erwin}}），全名'''Erwin Rudolf Josef Alexander Schrödinger'''，生于[[奥地利]][[维也纳]]。[[奥地利]][[理论物理]]学家，[[量子力学]]的奠基人之一。1926年他提出[[薛定谔方程]]，为量子力学奠定了坚实的基础。他想出[[薛定谔猫]][[思想實驗]]，试图证明[[量子力学]]在[[宏观]]条件下的不完备性。
+
+1933年，因為“发现了在原子理论裏很有用的新形式”，薛定諤和[[英国]]物理学家[[保罗·狄拉克]]共同获得了[[诺贝尔物理学奖]]，以表彰他们发现了[[薛定谔方程]]和[[狄拉克方程]]。
+
+他的父亲鲁道夫·薛定諤是生产油布和防水布的工厂主同时也是一名园艺家。她的母亲格鲁吉亚娜·艾米莉·布兰达是[[维也纳科技大学]]的教授亚历山大·鲍尔的女儿。
+
+== 生平 ==
+=== 早年 ===
+薛定谔1887年出生在奥地利维也纳附近的埃德伯格，1898年进入了文理高中，从1906年至1910年在[[维也纳大学]]学习物理与数学并在1910年取得博士学位。此后在[[维也纳物理研究所]]工作，他当时的同事包括[[弗兰茨·瑟拉芬·埃克斯纳]]（Franz Serafin Exner），[[弗雷德里希·哈瑟诺尔]]（Friedrich Hasenöhrl）和[[弗里茨·柯劳什]]（Fritz Kohlrausch）。在大学期间薛定谔还同园艺家[[弗朗茨·弗利摩尔]]（Franz Frimmel）保持了很深密的友谊。
+他的母親血統是一半奧地利和一半英國，英國的一方是來自利明頓。薛丁格幾乎是在同一個時間學習英語和德語，因為他的父母二人都在家講這兩種語言。他的父親是一位天主教的信徒，而母親是一位路德教派的信徒。
+
+在1911年薛丁格成為埃克斯納的助理。在薛丁格幼年時期，他深受叔本華的影響，因此，他廣泛閱讀叔本華的作品，他的一生對色彩理論、哲學、東方宗教深感興趣。特別是印度教。
+
+=== 中年 ===
+薛定谔在1914年至1918年参加了[[第一次世界大战]]。此后在[[耶拿大学]]、[[斯图加特大学]]、[[布雷斯劳大学]]和[[苏黎世大学]]教书。特别是在苏黎世大学他所担任的理论物理学的教授以前曾由[[爱因斯坦]]和[[马克斯·冯·劳厄]]担任过。在这里他提出了著名的[[薛定谔方程]]，创立了波动力学学说用以来描述量子力学。
+
+1920年4月6日他同[[安娜玛丽·贝特尔]]（Annemarie Bertel）结婚。在同一年，薛丁格在耶拿成為{{link-en|馬克思·维恩|Max Wien}}的助理，並在1920年9月成为了副教授（ausserordentlicher Professor，ao. Prof.）。1921年，在[[布雷斯勞]]（今弗羅次瓦夫）他成為正教授（ordenticher Professor，o. Prof.）。
+
+1921年，他搬到了蘇黎世大學。1926年1月，薛丁格在[[物理年鉴]]發表文章「做為量化特徵值問題」（Quantisierung als Eigenwertproblem），也就是和波動力學以及現在所知的薛丁格方程式有關的問題。在本文中，他發表了衍生的波動方程是時間獨立的系統，並表明它給了正確的能量的特徵值得類氫原子。本文在[[二十世紀]]被認為最重要成就，創造出量子力學的革命。第二篇文章在四個星期後就交出，並給出了一個新的推導薛丁格方程式。在五月的第三篇文章顯示，他的做法等同於該海森堡，並給了斯達格效應。第四篇文章在這個最顯著的系列中說明了如何處理問題，該系統隨時間而有所變化，例如散射問題。這些文章在物理界被公認為意义重大，對他的職業生涯和成就具有重大的意義。1927年薛定谔迁往[[柏林]]，接替[[马克斯·普朗克]]在[[洪堡大学]]担任理论物理学教授，并成为了[[普鲁士科学院]]院士。在那里他感受到了自由进行科学研究的浓厚气氛。当时在柏林汇聚了世界顶尖的物理学家，比如他的同事维克托·维斯科普夫。在[[纳粹党]]1933年夺取政权后，薛定谔决定离开德国移居英国[[牛津]]，在[[牛津大学莫德林学院]]担任访问学者，同年他获得了诺贝尔物理学奖。
+
+=== 晚年 ===
+1934年，薛定谔在普林斯頓大學講學，校方希望能夠聘請他，但薛定谔拒絕了。之後，他要前往愛丁堡大學當講師，但簽證延誤，最後，1936年他只好在奧地利格拉次的大學授課。1938年薛定谔由于[[德奧合并]]而离开奧地利並迁往[[愛爾蘭]][[都柏林]]，在那里他于1940年建立了理论物理学院并一直担任主任。
+
+除了量子力學之外，1944年著有《[[生命是什么]]？》（What is Life?）。發現DNA雙螺旋的[[詹姆斯·杜威·沃森]]與[[佛朗西斯·克里克]]表示受薛丁格影響頗深。
+
+1956年薛定谔返回维也纳，在维也纳大学理论物理研究所教学直到去世。当他参加完在阿尔卑包赫村（Alpbach）举行的高校活动后，由于当地风景优美而决定死后葬在此地。薛定谔因患[[肺结核]]在1961年1月4日病逝于维也纳，死后如愿被埋在了阿尔卑包赫村，他的墓碑上刻着以他命名的薛定谔方程。
+
+===個人生活===
+薛定谔在1920年4月6日和Annemarie Bertel結婚&lt;ref&gt;''Schrödinger: Life and Thought'' by Walter John Moore, Cambridge University Press 1992 ISBN 0-521-43767-9, discusses Schrödinger's unconventional relationships, including his affair with Hildegunde March, in chapters seven and eight, "Berlin" and "Exile in Oxford".&lt;/ref&gt;。
+
+薛定谔患有[[結核]]，在1920年代曾幾次在[[阿羅薩]]的[[療養院]]中休養，波方程也是在療養院推導出來的&lt;ref&gt;{{cite book|url=http://books.google.com/?id=m-YF1glKWLoC&amp;pg=PA194&amp;lpg=PA194&amp;dq=schrodinger+arosa |title=''Schrödinger'' by Walter J. Moore: Christmas at Arosa |publisher=Books.google.co.uk |date=9 January 1926 |accessdate=13 March 2010|isbn=978-0-521-43767-7|author1=Moore, Walter J}}&lt;/ref&gt;。
+
+[[File:Grave Schroedinger.jpg|thumb|upright|安娜瑪麗和薛定谔的墓，上面刻有[[薛定谔方程]]
+{{Equation box 1
+|equation=&lt;math&gt;i \hbar \frac{\partial}{\partial t}\Psi = \hat H \Psi&lt;/math&gt;
+|cellpadding
+|border
+|border colour = #50C878
+|background colour = #ECFCF4}}]]
+
+薛定谔在73歲時，於1961年1月4日因結核逝世於[[維也納]]，葬在奧地利[[阿尔卑巴赫]]的天主教墓園中。薛定谔不是天主教徒，但因為是{{link-en|宗座科学科学院|Pontifical Academy of Sciences}}因此特別可以葬在此墓園&lt;ref&gt;{{cite book|title=Schrödinger: Life and Thought|year=1992|publisher=Cambridge University Press|isbn=9780521437677|page=482|author=Walter J. Moore|quote=There was some problem about burial in the churchyard since Erwin was not a Catholic, but the priest relented when informed that he was a member in good standing of the Papal Academy, and a plot was made available at the edge of the Friedhof.}}&lt;/ref&gt;。薛定谔的妻子安娜（生於1896年12月3日）在1965年10月3日逝世。
+
+== 成果与荣誉 ==
+1926年他提出著名的[[薛定谔方程]]，至今仍是量子力学的理论基础。象人独立工作，[[沃纳·海森堡]]在稍早的时候提出[[矩阵力学]]，薛定谔提出薛定谔方程，两者可以得到相同的结果。薛定谔随后证明，两者在数学上是等价的。薛定谔方程使用[[微分方程]]的形式，比矩阵力学容易理解，因此被广泛用于教学。
+
+1933年薛定谔获得[[诺贝尔物理学奖]]&lt;ref&gt;[http://www.nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-facts.html Erwin Schrödinger - Fact]&lt;/ref&gt;。
+
+1937年薛定谔被授予[[马克斯·普朗克奖章]]。
+
+1944年薛定谔出版了《[[生命是什么]]》，此书中提出了{{link-en|负熵|Negentropy}}的概念。他自己发展了[[分子生物学]]，想通过用物理的语言来描述生物学中的课题。他还发表了许多的科普论文，它们至今仍然是进入到[[广义相对论]]和[[统计力学]]的世界的最好向导。
+
+1956年薛定谔获得了{{link-en|奧地利科學院|Austrian Academy of Sciences}}以他為名的{{link-en|埃尔温·薛定谔獎|Erwin Schrödinger Prize}}。
+
+1957年薛定谔获得了{{link-en|奧地利科學藝術獎章|Austrian Decoration for Science and Art}}。
+
+最著名的[[思想實驗]]是[[薛定谔猫]]，在这个试验中他把量子力学中的反直观的效果转嫁到日常生活中的事物上来，并想以此来表达他对想要用一般的统计学说来解释量子物理的拒绝。
+
+此外薛定谔还发表了50余本著作涉及到不同的题目，还进行了统一的语义场论的努力。
+
+== 参见 ==
+{{Commons|Erwin Schrödinger|埃尔温·薛定谔}}
+* [[薛定谔方程]]
+* [[薛定谔猫]]
+
+== 注释 ==
+&lt;references/&gt;
+* [http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html 诺贝尔官方网站关于薛定谔简介]
+
+{{commons}}
+{{wikiquote}}
+* [http://www-personal.umich.edu/~jbourj/money1.htm Erwin Schrödinger on an Austrian banknote.]
+* {{YouTube|8GZdZUouzBY|1927 Solvay video with opening shot of Schrödinger}}
+* "''[http://www.zbp.univie.ac.at/schrodinger/bio/bio1.htm biographie]''" (in German) or
+* "''[http://www.zbp.univie.ac.at/schrodinger/ebio/bio1.htm Biography from the Austrian Central Library for Physics]''" (in English)
+* [http://www.britannica.com/eb/article-9066219/Erwin-Schrodinger Encyclopaedia Britannica article on Erwin Schrodinger]
+* "''[http://www.deutsche-biographie.de/sfz106819.html Deutsche Biographie]''"
+* [[Nobel Lecture]]s, [[Physics]] 1922–1941, "''[http://www.nobel.se/physics/laureates/1933/schrodinger-bio.html Erwin Schrödinger Biography]''" from NobelPrize.org
+* {{MacTutor Biography|id=Schrodinger}}
+* Vallabhan, C. P. Girija, "''[http://www.photonics.cusat.edu/article2.html Indian influences on Quantum Dynamics]''" [''ed.'' Schrödinger's interest in [[Vedanta]]]
+* [http://www.ch.ic.ac.uk/watoc Schrödinger Medal] of the World Association of Theoretically Oriented Chemists ([[WATOC]])
+* [http://holiker.narod.ru/four/schrodinger-speech.html ''The Discovery of New Productive Forms of Atomic Theory'' Nobel Banquet speech] (in German)
+* [http://alsos.wlu.edu/qsearch.aspx?browse=people/Schrödinger,+Erwin Annotated bibliography for Erwin Schrodinger from the Alsos Digital Library for Nuclear Issues]
+* {{it icon}} [http://www.disf.org/CosaDevoSapere/Schroedinger.asp Critical interdisciplinary review of Schrödinger's "What Is life?"]
+{{Authority control
+|PND=118823574
+|LCCN=n/50/2905
+|VIAF=56616247 
+|ISNI=0000000109035603
+|GND=118823574
+|SELIBR=235210
+|SUDOC=027128237
+|BNF=cb11924128w
+|MGP=53005
+|NLA=35482960
+|NDL=00455775
+|NKC=jn20000604972
+|BNE=XX1002945
+|CiNii=DA00036675
+}}
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]] --&gt;
+|NAME              = Schrödinger, Erwin
+|ALTERNATIVE NAMES = Schrödinger, Erwin Rudolf Josef Alexander (full name)
+|SHORT DESCRIPTION = Physicist
+|DATE OF BIRTH     = 12 August 1887
+|PLACE OF BIRTH    = Erdberg, Vienna, Austria
+|DATE OF DEATH     = 4 January 1961
+|PLACE OF DEATH    = Vienna, Austria
+}}
+
+{{诺贝尔物理学奖获得者 (1926年-1950年)}}
+{{DEFAULTSORT:Schrödinger, Erwin}}
+
+[[Category:奥地利物理学家]]
+[[Category:诺贝尔物理学奖获得者]]
+[[Category:奧地利諾貝爾獎獲得者]]
+[[Category:馬克斯·普朗克獎章獲得者]]
+[[Category:維也納大學教授]]
+[[Category:苏黎世大学教授]]
+[[Category:柏林洪堡大學教授]]
+[[Category:布雷斯勞大學教授]]
+[[Category:斯圖加特大學教授]]
+[[Category:耶拿大學教授]]
+[[Category:維也納大學校友]]
+[[Category:維也納人]]
+[[Category:量子物理学家]]
+[[Category:牛津大学麦格达伦学院校友]]</str>
+    <str name="title">埃尔温·薛定谔</str>
+    <str name="titleText">埃尔温·薛定谔</str>
+    <str name="user">Wolfch</str>
+    <int name="userId">83117</int>
+    <int name="revision">32764305</int>
+    <date name="timestamp">2014-09-23T06:42:28Z</date>
+    <long name="_version_">1484748570853638144</long></doc>
+  <doc>
+    <str name="id">3231448</str>
+    <str name="text">[[File:Dirac 4.jpg|right|150px]]
+'''[[保羅·狄拉克]]'''，[[功績勳章|OM]]，[[皇家學會#院士|FRS]]（{{bd|1902年|8月8日|1984年|10月20日|catIdx=D}}），[[英国|英國]][[理论物理学|理論物理學家]]，[[量子力学]]的奠基者之一，並對[[量子電動力學]]早期的發展作出重要貢獻。曾經主持[[剑桥大学|劍橋大學]]的[[盧卡斯數學教授席位]]，並在[[佛羅里達州立大學]]度過他人生的最後十四個年頭。
+
+他給出的[[狄拉克方程式]]可以描述[[费米子]]的物理行為，並且預測了[[反物质|反物質]]的存在。
+
+1933年，因為“发现了在原子理论裏很有用的新形式”（即[[量子力学]]的基本方程——[[薛定谔方程]]和[[狄拉克方程]]），狄拉克和[[埃尔温·薛定谔|埃爾溫·薛丁格]]共同获得了[[诺贝尔物理学奖]]。</str>
+    <str name="title">Portal:科學/科學人物/11</str>
+    <str name="titleText">Portal:科學/科學人物/11</str>
+    <str name="user">老陳</str>
+    <int name="userId">331249</int>
+    <int name="revision">24290925</int>
+    <date name="timestamp">2012-12-29T15:22:07Z</date>
+    <long name="_version_">1484749318763053061</long></doc>
+  <doc>
+    <str name="id">4017545</str>
+    <str name="text">{{otheruses|subject=[[生物學]]的熵|other=「熵」的其他意思|熵 (消歧義)}}
+
+{{unreferenced|time=2014-06-20T02:10:19+00:00}}
+'''生物熵'''是一個系統中"無秩序"的程度，也表征生命活动过程质量的一种度量。
+
+1944年[[薛定谔]]出版了《[[生命是什么]]》，此书中提出了[[负熵]]的概念，想通过用物理的语言来描述[[生物学]]中的课题。據他的理解，「[[生物]]賴負熵而生」。按[[熱力學第二定律]]，大自然會由有序變為無序，即熵會不斷增加。與之相反，生物會吸收環境中的功，而減少自身的熵，因而變得有序。例如不同之代謝過程，就是負熵的程序。
+
+但反過來說，負熵並不一定就是生物。例如洗衣機能吸取功而使無序變成有序，但洗衣機並不是生物。
+
+==參見==
+*[[埃尔温·薛定谔]]
+*[[熵]]
+*[[生命系统理论]]
+
+[[Category:生物學]]</str>
+    <str name="title">熵 (生物學)</str>
+    <str name="titleText">熵 (生物學)</str>
+    <str name="user">Cwek</str>
+    <int name="userId">886047</int>
+    <int name="revision">31646762</int>
+    <date name="timestamp">2014-06-19T18:10:20Z</date>
+    <long name="_version_">1484749486107394051</long></doc>
+  <doc>
+    <str name="id">419971</str>
+    <str name="text">'''弗洛凱理論'''是[[常微分方程]]理論的一種，討論有關下列[[微分方程]]類型的解答類別，
+
+:&lt;math&gt;\dot{x} = A(t) x&lt;/math&gt;,
+
+其中，''A(t)''是一週期為''T''的連續週期函數。
+
+弗洛凱理論的主要定理－'''弗洛凱定理'''給出了一般[[線性系統]]的每個[[基本解]]的[[正規形式]]。它給定了一[[局部坐標|座標轉變]]&lt;math&gt;y=Q^{-1}(t)x&lt;/math&gt;，其中&lt;math&gt;Q(t+2T)=Q(t)&lt;/math&gt;，用以來轉變[[週期系統]]至有常數及實[[係數]]的傳統線性系統。
+
+在[[固態物理]]中，其類比的結果(推廣至三維)為[[布洛赫定理]]。
+
+
+==弗洛凱定理==
+X=A（t）x
+　　其中，A(t)是一周期为T的连续周期函数。
+　　弗洛凯理论的主要定理－弗洛凯定理给出了一般线性系统的每个基本解的正规形式。它给定了一座标转变y = Q − 1(t)x，其中Q(t + 2T) = Q(t)，用以来转变周期系统至有常数及实系数的传统线性系统。
+　　在固态物理中，其类比的结果(推广至三维)为布洛赫定理。
+
+==結論與應用==
+量子力学中，含时薛定谔方程为&lt;math&gt;i\frac{\partial}{\partial t}|\psi(t)\rangle=\hat{H}(t)|\psi(t)\rangle&lt;/math&gt;。
+如果哈密顿量&lt;math&gt;\hat{H}(t)&lt;/math&gt;满足周期性边界条件&lt;math&gt;\hat{H}(t+T)=\hat{H}(t)&lt;/math&gt;，&lt;math&gt;T=2\pi/\omega&lt;/math&gt;，可以假定含时薛定谔方程的解为&lt;math&gt;|\psi(t)\rangle=e^{-i\epsilon t}|\phi(t)\rangle&lt;/math&gt;，其中，&lt;math&gt;|\phi(t)\rangle&lt;/math&gt;应满足&lt;math&gt;|\phi(t+T)\rangle=|\phi(t)\rangle&lt;/math&gt;。
+则原含时薛定谔方程变换为一个新的类似定态的薛定谔方程
+:&lt;math&gt;\underbrace {\left( {\hat{H(t)} - i\frac{\partial }{{\partial t}}} \right)}_{\hat{\mathcal{H}}}\left| {\phi (t)} \right\rangle  = \varepsilon \left| {\phi (t)} \right\rangle&lt;/math&gt;
+其中&lt;math&gt;\hat{\mathcal{H}}&lt;/math&gt;为新的Floquet哈密顿量，&lt;math&gt;\varepsilon&lt;/math&gt;为准能量，&lt;math&gt;|\phi (t)\rangle&lt;/math&gt;被称为Floquet态。
+==參考==
+
+*Chicone, Carmen. ''Ordinary Differential Equations with Applications.'' Springer-Verlag, New York 1999
+* Gaston Floquet, "Sur les équations différentielles linéaires à coefficients périodiques," ''Ann. École Norm. Sup.'' '''12''', 47-88 (1883).
+
+
+
+
+{{Math-stub}}
+
+
+[[Category:动态系统]]
+[[Category:微分方程]]</str>
+    <str name="title">弗洛凱理論</str>
+    <str name="titleText">弗洛凱理論</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25431547</int>
+    <date name="timestamp">2013-03-12T07:33:14Z</date>
+    <long name="_version_">1484748665227575297</long></doc>
+  <doc>
+    <str name="id">2968592</str>
+    <str name="text">'''达布变换'''是1882年法国数学家[[讓·加斯東·達布|达布]]发现的一种求[[偏微分方程]]精确显式解的变换法。达布变换在求[[KdV方程]],[[MKdV方程]]，[[高维AKNS系统]]，[[sine-Gordon方程]],[[sinh_Gordon方程]],[[高阶Broer Kaup系统]]的精确解方面，有广泛用途。
+
+1882年，达布研究一维[[薛定谔方程]]的[[特征值]]问题:&lt;ref&gt;[[谷超豪]] 《[[孤立子]]理论中的'''达布变换'''及其几何应用》1-2页 上海科学技术出版社
+&lt;/ref&gt;
+
+:&lt;math&gt;-\partial^2_x\phi-u(x)\phi=&lt;/math&gt;λ&lt;math&gt;\phi&lt;/math&gt;
+
+他发现作一个变换：
+
+::::::::(u,Φ)→ (u',Φ')
+
+其中 
+
+&lt;math&gt;u'=u+2\partial^2_x(ln(f))&lt;/math&gt;
+
+&lt;math&gt;\phi'&lt;/math&gt;(x,λ)=&lt;math&gt;\phi_x&lt;/math&gt;(x,λ）&lt;math&gt;-\frac{f_x}{f}\phi&lt;/math&gt;(x,λ)
+
+其中&lt;math&gt;f(x)=\phi(x,\lambda_0)&lt;/math&gt;是 &lt;math&gt;\lambda=\lambda_0&lt;/math&gt;时一维[[薛定谔方程]]的解，
+
+则当  f ‡0时， u' 和  Φ' 必定满足另一个相关的一维[[薛定谔方程]]： 
+
+:&lt;math&gt;-\partial^2_x\phi'-u(x)\phi'=&lt;/math&gt;λ&lt;math&gt;\phi'&lt;/math&gt;
+
+达布变换也称为[[Bäcklund变换]]达布方法，其特点在于根据已知的一个解作为种子，经过变换之后，获得完全可积的新方程组，由此得出另一个新的解。&lt;ref&gt;阎振亚著 《复杂非线性波的构造性理论及其应用》7页 科学出版社 2007年&lt;/ref&gt;。
+
+==KdV方程的达布变换==
+1977年Wahlquist等学者发现&lt;ref&gt;Wahlquist et al, ''Bäcklund transformation for solitons of the Kortweg-de Vries Equation'', Phys Rev Lett 1973,31:1386&lt;/ref&gt;，达布变换也适用于KdV方程，从而将薛定谔方程的达布变换推广为KdV方程的达布变换&lt;ref&gt;谷超豪 《孤立子理论中的达布变换及其几何应用》2-4页 上海科学技术出版社&lt;/ref&gt;
+
+KdV方程：
+
+:&lt;math&gt;\partial_t\phi+\partial^3_x\phi+6\phi\partial_x\phi=0&lt;/math&gt;
+
+是其[[LAX对]]的可积条件：
+
+:&lt;math&gt;-\partial^2_x\phi-u\phi=\lambda\phi&lt;/math&gt;
+:&lt;math&gt;\partial_t\phi=-4\partial^3_x\phi-6u\partial_x\phi-3\partial_xu\phi&lt;/math&gt;
+
+经过达布变换    (u,Φ)→ (u',Φ')得到
+
+:&lt;math&gt;-\partial^2_x\phi'-u'\phi=\lambda\phi'&lt;/math&gt;
+:&lt;math&gt;\partial_t\phi'=-4\partial^3_x\phi'-6u'\partial_x\phi'-3\partial_xu'\phi'&lt;/math&gt;
+
+因此，只要从LAX对求得一个解&lt;math&gt;\phi&lt;/math&gt;，然后通过达布变换(u,Φ)→ (u',Φ')就可以得到KdV方程的新解，还可以不断进行连锁式达布变换 (u,Φ)→ (u',Φ')→(u'',Φ'')→ (u''',Φ''')……以得到KdV方程大量的解。
+&lt;ref&gt;谷超豪 《孤立子理论中的达布变换及其几何应用》2-3页 上海科学技术出版社&lt;/ref&gt;
+
+==矩阵形式==
+
+==几何应用==
+===负常曲率曲面===
+[[File:Pseudosphere.png|thumb|right|250px|负常曲率曲面]]
+十九世纪八十年代发现一个[[负常曲率曲面]]是[[Sine-Gordon方程]]一个非零解，又发现通过[[Bäcklund变换]]可以从一个负常曲率曲面得到另一个负常曲率曲面&lt;ref&gt;[[谷超豪]] 《孤立子理论中的达布变换及其几何应用》160页 上海科学技术出版社&lt;/ref&gt;。
+====伪球线汇====
+
+==自对偶楊-米爾斯流==
+
+
+
+==参考文献==
+&lt;references/&gt;
+
+{{非线性偏微分方程理论与解法}}
+
+
+
+[[分类:偏微分方程]]</str>
+    <str name="title">达布变换</str>
+    <str name="titleText">达布变换</str>
+    <str name="user">唐戈</str>
+    <int name="userId">17977</int>
+    <int name="revision">30747805</int>
+    <date name="timestamp">2014-03-19T21:45:27Z</date>
+    <long name="_version_">1484749259703058435</long></doc>
+  <doc>
+    <str name="id">117627</str>
+    <str name="text">{{expand|time=2012-01-22T10:41:34+00:00}}
+{{noteTA
+|T=zh-cn:玻恩–奥本海默近似; zh-tw:波恩–歐本海默近似法;
+|1=zh-cn:玻恩; zh-tw:波恩;
+|G1=物理学
+}}
+'''玻恩–奥本海默近似'''（{{lang|en|Born-Oppenheimer approximation}}，简称'''BO近似'''，又称'''绝热近似'''）是一种普遍使用的解包含[[电子]]与[[原子核]]的体系的[[量子力学]]方程的近似方法。
+
+在用量子力学处理分子或其他体系时，需要通过解[[薛定谔方程|薛定锷方程]]或其他类似的偏微分方程获得体系[[波函数]]。这个过程往往由于体系自由度过多而非常困难，甚至无法进行。据波恩－奥本海默近似中，考虑到[[原子核]]的质量要比[[电子]]大很多，一般要大3-4个数量级，因而在同样的相互作用下，電子的移動速度會較原子核快很多，这一速度的差异的结果是使得电子在每一时刻仿佛运动在静止原子核构成的势场中，而原子核则感受不到电子的具体位置，而只能受到平均作用力。由此，可以实现原子核坐标与电子坐标的近似变量分离，将求解整个体系的波函数的复杂过程分解为求解电子波函数和求解原子核波函数两个相对简单得多的过程。
+
+在波恩－奥本海默近似下，体系波函数可以被写为电子波函数与原子核波函数的乘积
+:: &lt;math&gt; \Psi_\mathrm{total} = \chi_\mathrm{electronic} \times \phi_\mathrm{nuclear} &lt;/math&gt;
+
+波恩－奥本海默近似由于在大多数情况下非常精确，又极大地降低了量子力学处理的难度，被广泛应用于分子结构研究、[[凝聚体物理学]]、[[量子化学]]、[[化学反应动力学]]等领域。
+
+玻恩–奥本海默近似是由物理学家[[奥本海默]]与其导师[[玻恩]]共同提出的&lt;ref&gt;{{cite journal|author=M. Born|coauthors=R. Oppenheimer|title=Zur Quantentheorie der Molekeln|journal=Annalen der Physik|year=1927|volume=389|issue=20|pages=457-484|doi=10.1002/andp.19273892002|url=http://karin.fq.uh.cu/qct/Hartree-Fock/born27.pdf|accessdate=2010-08-05}}&lt;/ref&gt;。
+
+==利用波恩－奥本海默求解薛定锷方程的步骤==
+首先将体系的哈密顿算符分解为原子核动能算符与电子哈密顿算符两项
+:&lt;math&gt; \hat{H} = \hat{T}_n + \hat{H}_{e}
+&lt;/math&gt;
+其中电子哈密顿算符包含所有静电相互作用(电子－电子，电子－核及核－核相互作用)，以及电子的动能算符。
+
+接下来，解以下的电子[[薛定谔方程]]以获得电子波函数和绝热[[势能面]]：
+:&lt;math&gt; \hat{H}_\mathrm{e}\; \chi(\mathbf{r,R}) = E_\mathrm{e}(\mathbf{R}) \; \chi(\mathbf{r,R}) &lt;/math&gt;
+这一步一般被称为电子结构计算，由于电子的往往数量远大于原子核，这一步往往是整个计算最昂贵的一步。根据计算能力，体系复杂程度和精度的需要，可以采用各种[[从头计算法]]直接近似求解，也可以采用[[密度泛函理论]]，半经验方法，[[分子动力学|分子力学]]势场等一系列方法获得势能面。
+
+获得势能面之后，可以用其求解原子核的定态薛定谔方程得到原子核波的定态函数和体系[[能量]]
+:&lt;math&gt;
+\left[ \hat{T}_\mathrm{n} + E_\mathrm{e}(\mathbf{R})\right] \phi(\mathbf{R}) = E \phi(\mathbf{R}) &lt;/math&gt;
+或通过求解[[薛定谔方程#含时|含时薛定谔方程]]模拟原子核波函数随时间的演化 
+:&lt;math&gt;\left[ \hat{T}_\mathrm{n} + E_\mathrm{e}(\mathbf{R})\right] \phi(\mathbf{R;t})=i \hbar \frac{\partial}{\partial t}\phi(\mathbf{R;t})&lt;/math&gt;
+这两种方法获得的结果可以互相转化。原子核定态波函数描述了[[分子振动|分子的振动]]，一般用来获得振动[[零点能量|零振动点能]]，进行[[红外光谱|红外]]、[[微波光谱]]或电子光谱振动与转动结构的计算；而波函数随时间的演变则描述了化学反应的[[动力学]]过程。
+
+注意到第二步原子核薛定谔方程的求解中，需要电子态能量以原子核位置为坐标的函数，因而往往需进行多次，乃至数千万次电子结构的计算，造成计算严重的困难。即使在小分子体系中，往往也无法采用完全量子理学的方法求解波函数。由于原子核的质量比电子大得多，量子效应不如电子明显，因此这一步往往采用比电子结构步骤更高程度的近似方法，以减轻计算负担。例如常采用[[经典力学]]或者半经典近似处理原子核运动；在振动幅度较小的情况下，可将势能面近似为二次曲面，而原子核的运动则转化为[[量子諧振子]]问题而可解析解出。某些情况下亦可采用平衡态的近似，运用[[统计力学]]或[[过渡态理论]]等统计方法则，只需要在少量关键位置进行电子结构和振动计算就得到关于分子的分布或反应速率等信息。
+
+==适用性==
+波恩-奥本海默近似只有在所在电子态与其他电子态能量都足够分离的情况下才有效。当电子态出现交叉或者接近时，波恩－奥本海默近似既失效。
+
+==最低值原理==
+对于基态，不加其他近似的情况下通过波恩－奥本海默近似得出的体系总能量一定小于体系真实能量，因而给出了真实能量的下限&lt;ref&gt;{{cite journal|last=Epstein|first=Saul T.|title=Ground-State Energy of a Molecule in the Adiabatic Approximation|journal=The Journal of Chemical Physics|date=1|year=1966|month=January|volume=44|issue=2|pages=836|doi=10.1063/1.1726771|url=http://dx.doi.org/10.1063/1.1726771}}&lt;/ref&gt;。与此相对，另一绝热近似方法[[波恩－黄近似]]则给出体系真实能量的上限。
+
+==相关条目==
+*[[非绝热耦合]]
+*[[薛定谔方程]]
+*[[波恩－黄近似]]
+
+==参考文献==
+{{reflist}}
+
+[[Category:量子化学|B]]
+[[Category:分子物理学]]
+[[Category:逼近]]</str>
+    <str name="title">玻恩–奥本海默近似</str>
+    <str name="titleText">玻恩–奥本海默近似</str>
+    <str name="user">老陳</str>
+    <int name="userId">331249</int>
+    <int name="revision">31936074</int>
+    <date name="timestamp">2014-07-18T14:57:19Z</date>
+    <long name="_version_">1484748591147778048</long></doc>
+  <doc>
+    <str name="id">2870390</str>
+    <str name="text">{{expert}}
+'''自洽场方法'''（'''self-consistent field''' method, '''SCF'''）是[[量子力学]]中[[迭代]]求解多粒子系统[[薛定谔方程]]的基本方法。其基本思想是首先按照某种方法给出[[波函数]]的一个估计，然后利用这个估计来计算[[电子密度]]，再通过电子密度来得到[[哈密顿量]]中与粒子间[[相互作用]]有关的项，再进行薛定谔方程的求解得到一组改进的估计。很多情况下，自洽场方法一词也用于直接指代[[哈特里－福克方法]]。
+
+==例子==
+在[[哈特里－福克方法]]中，上述步骤具体表现为：
+# 给出波函数的估计 → 给出分子轨道中基函数线性组合系数的一个估计
+# 用估计来计算电子密度 → 计算密度矩阵
+# 计算相互作用项 → 计算福克矩阵元
+# 得到改进的估计 → 对角化福克矩阵得到其本征矢，作为新的基函数线性组合系数的估计。
+
+==种类==
+* 哈特里自洽场方法 （哈特里－福克方法的前身）
+* [[哈特里－福克方法]]
+* [[多组态自洽场方法]]
+
+==参考文献==
+{{cite book|author=Ira N. Levine|title=Quantum Chemistry|publisher=Prentice Hall|date=2004-11}}
+{{chemistry-stub}}
+
+[[Category:量子力学]]</str>
+    <str name="title">自洽场方法</str>
+    <str name="titleText">自洽场方法</str>
+    <str name="user">William915</str>
+    <int name="userId">616256</int>
+    <int name="revision">21706965</int>
+    <date name="timestamp">2012-06-24T21:41:18Z</date>
+    <long name="_version_">1484749233590370304</long></doc>
+  <doc>
+    <str name="id">384682</str>
+    <str name="text">{{noteTA
+|1=zh-hans:克莱因; zh-hant:克莱恩;
+|2=zh-hans:戈尔登; zh-hant:戈登;
+|G1=物理学
+}}
+'''克莱因-戈尔登方程式'''（Klein-Gordon equation）是[[相对论量子力学]]和[[量子场论]]中的最基本方程式，它是[[薛定谔方程式]]的[[相对论]]形式，用于描述[[自旋]]为零的[[粒子]]。克莱因-戈尔登方程式是由[[瑞典]][[理论物理]]学家[[奥斯卡·克莱因]]和[[德国]]人沃尔特·戈尔登于[[二十世纪]]二三十年代分别独立推导得出的。
+
+== 陳述 ==
+克莱因-戈尔登方程為
+
+:&lt;math&gt; \frac {1}{c^2} \frac{\partial^2}{\partial t^2} \psi - \nabla^2 \psi + \frac {m^2 c^2}{\hbar^2} \psi = 0&lt;/math&gt;。
+
+很多時候會用[[自然單位]]（[[光速|''c'']]=[[約化普朗克常數|''ħ'']]=1）寫成
+
+:&lt;math&gt; - \partial_t^2 \psi + \nabla^2 \psi = m^2 \psi&lt;/math&gt;
+
+由於[[平面波]]為此方程已知的一組解，所以方程形式由它決定：
+
+:&lt;math&gt;
+\psi = e^{-i\omega t + i k\cdot x } = e^{i k_\mu x^\mu}
+&lt;/math&gt;
+
+遵從狹義相對論的能量動量關係式
+
+:&lt;math&gt; -p_\mu p^\mu = E^2 - P^2 = \omega^2 - k^2 = - k_\mu k^\mu = m^2\,&lt;/math&gt;
+
+跟薛定諤方式不同，每一個''k''在此都對應着兩個&lt;math&gt;\omega&lt;/math&gt;，只有通過把頻率的正負部份分開，才能讓方程描述到整個相對論形式的[[波函數]]。若方程在時間流逝下不變，則其形式為
+
+:&lt;math&gt;
+\left[ \nabla^2 - \frac {m^2 c^2}{\hbar^2} \right] \psi(\mathbf{r}) = 0
+&lt;/math&gt;。
+
+== 相对论量子力学下的形式推导 ==
+自由粒子的薛定谔方程式是非相对论量子力学的最基本方程式：
+:&lt;math&gt;
+\frac{\mathbf{p}^2}{2m} \psi = i \hbar \frac{\partial}{\partial t}\psi
+&lt;/math&gt;
+其中&lt;math&gt;\mathbf{p} = -i \hbar \mathbf{\nabla}&lt;/math&gt;是[[动量]]算符。
+
+薛定谔方程式并非相对论[[协变]]的，意味着它不满足[[爱因斯坦]]的[[狭义相对论]]。
+
+利用狭义相对论中四维动量的[[不变性]]导出的相对论动量能量关系，相对论能量
+:&lt;math&gt;E = \sqrt{\mathbf{p}^2 c^2 + m^2 c^4}&lt;/math&gt;
+
+替换薛定谔方程式左边自由粒子的动能&lt;math&gt;\frac{\mathbf{p}^2}{2m}&lt;/math&gt;，
+
+并最终得到它的协变形式
+:&lt;math&gt;
+(\Box^2 + \mu^2) \psi = 0,
+&lt;/math&gt;
+
+其中&lt;math&gt; \mu = \frac{mc}{\hbar} \,&lt;/math&gt;
+
+[[达朗贝尔算符]]&lt;math&gt; \Box^2 = \frac{1}{c^2}\frac{\partial^2}{\partial t^2} - \nabla^2\,&lt;/math&gt;
+
+从相对论量子力学的观点来看，达朗贝尔算符的出现意味着克莱因-戈尔登方程式是一个量子力学的'''波方程'''。
+
+== 量子场论下的形式推导 ==
+场论中，对于[[自旋]]为零的场（[[标量]]场），[[拉格朗日量]]被写成
+:&lt;math&gt;L=\frac{1}{2}\partial_{\mu}\phi \partial^{\mu}\phi - \frac{1}{2}m^2\phi^2&lt;/math&gt;
+
+这里依照量子场论的习惯选取了[[自然单位]]，将光速&lt;math&gt;c&lt;/math&gt;和普朗克常数&lt;math&gt;\hbar&lt;/math&gt;都取作1。
+
+代入[[欧拉-拉格朗日方程]]&lt;math&gt;  \frac{\partial L}{\partial \phi} - \frac{\partial}{\partial x_{\mu}} \frac{\partial L}{\partial (\partial^{\mu}\phi)} = 0, &lt;/math&gt;可直接得到克莱因-戈尔登方程。
+
+从量子场论的观点来看，以上推导过程都在经典场论的范围之内，因此克莱因-戈尔登方程式只是一个经典场的'''场方程式'''。
+
+== 自由粒子解 ==
+相对论量子力学中自由粒子只是一个理想化的概念，但形如克莱因-戈尔登方程式这样的波方程仍然具有形式上的波包解：
+:&lt;math&gt;
+\psi(\mathbf{r}, t) = e^{i(\mathbf{k}\cdot\mathbf{r}-\omega t)}
+&lt;/math&gt;
+其中&lt;math&gt;
+-k^2+\frac{\omega^2}{c^2}=\frac{m^2c^2}{\hbar^2}.
+&lt;/math&gt;
+
+从克莱因-戈尔登方程式得出的能量[[本征值]]为
+:&lt;math&gt;E =\pm\sqrt{\mathbf{p}^2 c^2 + m^2 c^4}&lt;/math&gt;
+因而克莱因-戈尔登方程式的解包含了负能量。同时，由这个解导出相应的概率密度也不能保证是正值。这两个问题使得克莱因-戈尔登方程在很长一段时间里被认为是缺乏物理意义的.[[英国]]物理学家[[保罗·狄拉克]]为了确保概率密度具有物理意义建立了[[狄拉克方程]]，但这个方程仍然没有避免出现负能量。从那时起物理学家们逐渐意识到负能量的出现实际上意味着[[反粒子]]的存在。
+==行波解==
+克莱因-戈尔登方程有行波解&lt;ref&gt;83.Inna Shingareva, Carlos Lizárraga-Celaya,Solving Nonlinear Partial Differential Equations with Maple p64-72 Springer&lt;/ref&gt;
+{{Gallery
+|width=250
+|height=200
+|align=center
+|File:Klein Gordon equation traveling wave plot4.gif|Klein Gordon equation traveling wave plot4
+|File:Klein Gordon equation traveling wave plot5.gif|Klein Gordon equation traveling wave plot5
+|File:Klein Gordon equation traveling wave plot6.gif|Klein Gordon equation traveling wave plot6
+}}
+
+== 参见 ==
+* [[狄拉克方程式]]
+* [[量子场论]]
+
+== 参考资料 ==
+&lt;references/&gt;
+* Sakurai, J. J. (1967). Advanced Quantum Mechanics. Addison Wesley. ISBN 0-201-06710-2.
+* Greiner, W. (1990). Relativistic Quantum Mechanics. Springer-Verlag. ISBN 3-540-67457-8.
+
+{{量子力學}}
+{{量子场论}}
+[[Category:量子力学|K]]
+[[Category:量子场论|K]]
+[[Category:偏微分方程]]
+[[Category:相对论]]</str>
+    <str name="title">克莱因-戈尔登方程</str>
+    <str name="titleText">克莱因-戈尔登方程</str>
+    <str name="user">Gisling</str>
+    <int name="userId">496475</int>
+    <int name="revision">29830827</int>
+    <date name="timestamp">2014-01-12T18:45:25Z</date>
+    <long name="_version_">1484748657873911812</long></doc>
+</result>
+</response>

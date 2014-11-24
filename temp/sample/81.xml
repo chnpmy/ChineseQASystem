@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="q">快速傅里叶变换算法的时间复杂度为？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="901318" start="0">
+  <doc>
+    <str name="id">46388</str>
+    <str name="text">{{noteTA
+|G2=Math
+}}
+{{傅里叶变换}}
+'''离散傅里叶变换'''（{{lang|en|Discrete Fourier Transform}}，缩写为{{lang|en|DFT}}），是[[傅里叶变换]]在[[时域]]和[[频域]]上都呈离散的形式，将信号的时域采样变换为其[[离散时间傅里叶变换|DTFT]]的频域采样。在形式上，变换两端（时域和频域上）的序列是有限长的，而实际上这两组序列都应当被认为是[[离散信号|离散]][[周期性|周期]][[信号]]的主值序列。即使对有限长的离散信号作DFT，也应当将其看作其周期延拓的变换。在实际应用中通常采用[[快速傅里叶变换]]计算DFT。
+
+下面给出离散傅里叶变换的变换对：
+:对于''N''点序列&lt;math&gt;\left\{x[n]\right\}_{0\le n &lt;N}&lt;/math&gt;，它的离散傅里叶变换（DFT）为
+::&lt;math&gt;\hat{x}[k]=\sum_{n=0}^{N-1} e^{-i\frac{2\pi}{N}nk}x[n] \qquad k = 0,1,\ldots,N-1.&lt;/math&gt; 
+:其中&lt;math&gt;e&lt;/math&gt;是[[自然对数]]的[[底数]]，&lt;math&gt;i&lt;/math&gt;是[[虚数单位]]。通常以符号&lt;math&gt;\mathcal{F}&lt;/math&gt;表示这一变换，即
+::&lt;math&gt;\hat{x}=\mathcal{F}x&lt;/math&gt;
+
+:离散傅里叶变换的逆变换（IDFT）为：
+::&lt;math&gt;x\left[n\right]={1 \over N}\sum_{k=0}^{N-1} e^{ i\frac{2\pi}{N}nk}\hat{x}[k] \qquad n = 0,1,\ldots,N-1.&lt;/math&gt; 
+:可以记为：
+::&lt;math&gt;x=\mathcal{F}^{-1}\hat{x}&lt;/math&gt;
+:实际上，DFT和IDFT变换式中和式前面的归一化系数并不重要。在上面的定义中，DFT和IDFT前的系数分别为''1''和''1/N''。有时会将这两个系数都改成&lt;math&gt;1/\sqrt{N}&lt;/math&gt;。
+
+==从连续到离散==
+
+连续时间信号''x(t)''以及对应的[[连续傅里叶变换]]&lt;math&gt;\hat{x}(\omega)&lt;/math&gt;都是连续函数。由于数字系统只能处理有限长的[[离散信号]]，因此必须将&lt;math&gt;x&lt;/math&gt;和&lt;math&gt;\hat{x}&lt;/math&gt;都离散化，并且建立对应的傅里叶变换。
+
+假设x（t）时限于[0, L]，再通过时域采样将&lt;math&gt;x(t)&lt;/math&gt;离散化，就可以得到有限长离散信号，记为&lt;math&gt;x_{discrete}(t)&lt;/math&gt;。设采样周期为''T''，则时域采样点数''N=L/T''。
+:&lt;math&gt;x_{discrete}(t) = x(t)\sum_{n=0}^{N-1}\delta(t-nT)=\sum_{n=0}^{N-1}x(nT)\delta(t-nT)&lt;/math&gt;
+它的傅里叶变换为
+:&lt;math&gt;\hat{x}_{discrete}(\omega) = \sum_{n=0}^{N-1}x(nT)\mathcal{F}\delta(t-nT) =  \sum_{n=0}^{N-1}x(nT)e^{-i n\omega T}&lt;/math&gt;
+这就是''x(t)''在时域采样后的连续傅里叶变换，也就是[[离散时间傅里叶变换]]，它在频域依然是连续的。
+
+下面将频域信号转化为有限长离散信号。与对时域信号的处理类似，假设频域信号是带限的，再经过离散化，即可得到有限长离散信号。依据[[采样定理]]，时域采样若要能完全重建原信号，频域信号&lt;math&gt;\hat{x}(\omega)&lt;/math&gt;应当带限于（0,1/（2*T））。由于时域信号时限于[0, L]，由采样定理以及时频对偶的关系，频域的采样间隔应为1/L。故，频域采样点数为：
+:&lt;math&gt;\frac{1/T}{1/L}=N&lt;/math&gt;
+即频域采样的点数和时域采样同为''N''，频域采样点为&lt;math&gt;\{\omega_k={2\pi}k/NT\}_{0 \le k &lt; N}&lt;/math&gt;
+在DTFT频域上采样：
+:&lt;math&gt;\hat{x}[k] = \hat{x}_{discrete}(\omega_k) = \frac1{T} \sum_{n=0}^{N-1}x[nT]e^{-i\frac{2\pi}{N} nk}&lt;/math&gt;
+令''T=1''，将其归一化，就得到前面定义的离散傅里叶变换。因此，DFT就是先将信号在时域离散化，求其连续傅里叶变换后，再在频域离散化的结果。
+
+==DFT与CT==
+:&lt;small&gt;参见[[连续傅里叶变换]]&lt;/small&gt;
+下面考察离散傅里叶变换与连续傅里叶变换（CT，Continuous Fourier Transform）的关系。连续傅里叶变换
+:&lt;math&gt;\mathcal{F}x(t)=\hat{x}(\omega)=\frac1{L} \int_0^L x(t)e^{-i\omega t} dt&lt;/math&gt;
+的采样为：
+:&lt;math&gt;\hat{x}(\omega_k)=\frac1{L} \int_0^L x(t)e^{-i\omega_k t} dt&lt;/math&gt;
+将这个积分以黎曼和的形式近似，有：
+:&lt;math&gt;\hat{x}(\omega_k) \approx \frac1{L} \sum_{n=0}^{N-1} x[n] e^{-i\omega_k nT} T=\frac1{N}\hat{x}[k]&lt;/math&gt;
+这一结论指出离散傅里叶变换确实是连续傅里叶变换在某种意义上的近似。不过必须注意以下两点：
+* 时域采样必须满足采样定理
+* 离散傅里叶变换的处理对象是时限的
+为此，通常对连续信号的时域采样再做一次加窗处理（Windowing），这样就得到带限的有限长离散信号。
+
+==DFT与DTFT==
+:&lt;small&gt;参见[[离散时间傅里叶变换]]&lt;/small&gt;
+离散时间傅里叶变换（DTFT）是在时域上对[[连续傅里叶变换]]的采样。DFT则是在频域上对DTFT的均匀采样。离散信号&lt;math&gt;x[n]&lt;/math&gt;（n=0,...,N-1）的DTFT为：
+:&lt;math&gt;\hat{x}(e^{i\omega}) = \sum_{n=0}^{N-1}x[n] e^{-in\omega}&lt;/math&gt;
+对&lt;math&gt;\hat{x}(e^{i\omega})&lt;/math&gt;在离散的频点&lt;math&gt;\{\omega_k=k\frac{2\pi}{N}\}_{0 \le k &lt;N}&lt;/math&gt;上采样
+:&lt;math&gt;\hat{x}[k]=\hat{x}(e^{i\omega_k})=\sum_{n=0}^{N-1} x[n]e^{-i\frac{2\pi}{N}kn} \qquad k=0,\ldots,N-1&lt;/math&gt;
+即为''x''的DFT。由于DTFT在频域是周期的，所以在DTFT频域上的均匀采样也应是周期的。&lt;math&gt;\hat{x}[k]&lt;/math&gt;实际上是这个周期序列的主值序列。
+
+===栅栏效应===
+''N''点序列的DFT只能在有限的N个频点上观察频谱，这相当于从[[栅栏]]的缝隙中观察景色，对于了解信号在整个频域上的特性是不够的。为了观察到其他频率的信息，需要对原信号x[n]做一些处理，以便在不同的频点上采样。
+
+将原来在DTFT频域上的采样点数增加到''M''点，这样采样点位置变为&lt;math&gt;\{ \omega'_k = e^{ik\frac{2\pi}{M}}\}_{0 \le k &lt; M}&lt;/math&gt;。则对应的DFT成为
+:&lt;math&gt;\hat{x}'[k]=\hat{x}(e^{ik\omega'_k}) = \sum_{n=0}^{N-1} x[n]e^{-i\frac{2\pi}{M}kn}&lt;/math&gt;
+若在序列''x[n]''之后补上M-N个零，设为''x'[n]''，则上式变为
+:&lt;math&gt;\hat{x}'[k] = \sum_{n=0}^{M-1} x'[n]e^{-i\frac{2\pi}{M}kn} = \mathcal{F}x' &lt;/math&gt;
+因此将x[n]补零再做DFT就可以得到x[n]的DTFT在其他频率上的值，相当于移动了栅栏，因而能够从其他位置进行观察。
+
+===频谱分辨率===
+''N''点DFT的频谱分辨率是&lt;math&gt;2\pi/N&lt;/math&gt;。[[#栅栏效应|栅栏效应]]一节指出可以通过补零观察到更多的频点，但是这并不意味着补零能够提高真正的频谱分辨率。这是因为''x[n]''实际上是''x(t)''采样的主值序列，而将x[n]补零得到的''x'[n]''周期延拓之后与原来的序列并不相同，也不是''x(t)''的采样。因此&lt;math&gt;\hat{x}'&lt;/math&gt;与&lt;math&gt;\hat{x}&lt;/math&gt;是不同离散信号的频谱。对于补零至M点的x'的DFT，只能说它的分辨率&lt;math&gt;2\pi/M&lt;/math&gt;仅具有计算上的意义，&lt;math&gt;\hat{x}'&lt;/math&gt;并不是真正的、物理意义上的频谱。频谱分辨率的提高只能在满足采样定理的条件下增加时域采样长度来实现。
+
+==从空间的角度分析==
+
+周期为N的离散信号构成一个''N''维[[欧几里得空间]]&lt;math&gt;\mathbb{C}^N&lt;/math&gt;。在这一空间上两个信号''x''和''y''的[[内积]]定义为
+:&lt;math&gt;\langle x,y \rangle = \sum_{n=0}^{N-1}x[n]y^*\left[n\right]&lt;/math&gt;
+下面给出&lt;math&gt;\mathbb{C}^N&lt;/math&gt;上的一组[[正交基]]：
+:&lt;math&gt;\{ e_k[n] = e^{i\frac{2\pi}{N}kn}\}_{0 \le k &lt; N }&lt;/math&gt; 
+将信号''x''在这组正交基上分解，得
+:&lt;math&gt;x = \sum_{k=0}^{N-1}\frac{\langle x,e_k \rangle}{\Vert e_k \Vert ^2} e_k &lt;/math&gt;
+令
+:&lt;math&gt;\hat{x}[k] = \langle x, e_k \rangle = \sum_{n=0}^{N-1}x[n] e^{-i\frac{2\pi}{N}kn}&lt;/math&gt;
+此即为离散傅里叶变换。又
+:&lt;math&gt;\| e_k \| ^2=N&lt;/math&gt;
+则有
+:&lt;math&gt;x[n] = \frac1{N} \sum_{k=0}^{N-1} \hat{x}[k]e^{i\frac{2\pi}{N}kn}&lt;/math&gt;
+此即为离散傅里叶变换的逆变换。
+
+由此可知，在正交分解的角度上说，离散周期信号&lt;math&gt;x&lt;/math&gt;的离散傅里叶变换&lt;math&gt;\hat{x}&lt;/math&gt;实质上是&lt;math&gt;x&lt;/math&gt;在正交基&lt;math&gt;\{e_k\}&lt;/math&gt;上的分量。而从[[线性变换]]的角度上说，&lt;math&gt;\{e_k\}&lt;/math&gt;是[[圓周摺積|圆周卷积]]的[[特征向量]]，&lt;math&gt;\hat{x}&lt;/math&gt;则是对应的[[特征值]]。
+
+==DFT与圆周卷积==
+
+根据[[卷积定理]]，离散信号x与y的[[圓周摺積|圆周卷积]]对偶于频域上x与y离散傅里叶变换的乘积。下面揭示DFT与圆周卷积的内在关系。
+
+对长为N的离散信号&lt;math&gt;\tilde{x}&lt;/math&gt;与&lt;math&gt;\tilde{y}&lt;/math&gt;，如果要计算它们的卷积，就必须定义&lt;math&gt;\tilde{x}[n]&lt;/math&gt;与&lt;math&gt;\tilde{y}[n]&lt;/math&gt;在''0≤n&lt;N''之外的值。如果将&lt;math&gt;\tilde{x}&lt;/math&gt;与&lt;math&gt;\tilde{y}&lt;/math&gt;作周期为N的延拓，则有
+
+:&lt;math&gt;x[n] = \tilde{x}[n \mod N] \qquad y[n] = \tilde{y}[n \mod N]&lt;/math&gt;
+
+如此，周期为N的圆周卷积：
+
+:&lt;math&gt;(x \otimes y) [n] = \sum_{m=0}^{N-1} x[m] y[n-m] = \sum_{m=0}^{N-1} x[n-m] y[m]&lt;/math&gt;
+
+卷积的结果仍然是以N为周期的离散信号。
+
+前面指出，&lt;math&gt;e_k&lt;/math&gt;是DFT的特征向量，实际上它也是圆周卷积的特征向量。定义x与y的圆周卷积算子：
+:&lt;math&gt;{L}x [n] = (x \otimes y) [n] &lt;/math&gt;
+则&lt;math&gt;e_k&lt;/math&gt;与y的圆周卷积为
+:&lt;math&gt;{L} e_k [n] = e_k[n] \cdot \sum_{m=0}^{N-1} y[m] e_k[-m]&lt;/math&gt;
+
+显然，y的DFT
+:&lt;math&gt;\hat{y}[k] = \sum_{m=0}^{N-1} y[m] e_k[-m]&lt;/math&gt;
+就是圆周卷积的特征值。
+
+==性质==
+===完全性===
+离散傅里叶变换是可逆的[[线性变换]]
+:&lt;math&gt;\mathcal{F}:\mathbf{C}^N \to \mathbf{C}^N&lt;/math&gt;
+其中'''C'''表示[[复数|复数集]]。即，任意''N''-维复向量都存在DFT和IDFT，而且其DFT和IDFT也是''N''-维复向量。
+
+=== 正交性 ===
+向量组exp（2π''i kn/N''）是''N''-维复数空间上的一组正交基：
+:&lt;math&gt;\sum_{n=0}^{N-1}
+\left(e^{ \frac{2\pi i}{N} kn}\right)
+\left(e^{-\frac{2\pi i}{N} k'n}\right)
+=N~\delta_{kk'}
+&lt;/math&gt;
+其中δ&lt;sub&gt;''kn''&lt;/sub&gt;是[[Kronecker delta]]。
+
+===移位定理===
+时域信号序列&lt;math&gt;x_n&lt;/math&gt;的相位移动&lt;math&gt;\exp(2\pi i n m/N)&lt;/math&gt;（其中&lt;math&gt;m&lt;/math&gt;为整数）在频域反映为“循环移位”，即：频域信号序列&lt;math&gt;X_k&lt;/math&gt;变为&lt;math&gt;X_{((k-m))_N}&lt;/math&gt;，其中下标是指将''k-m''对''N'' [[余数|取余]]。类似的，由对偶性，时域信号序列的循环移位对应于频域信号序列的相移：
+:若&lt;math&gt;\mathcal{F}(\{x_n\})_k=X_k&lt;/math&gt;
+:则&lt;math&gt;\mathcal{F}(\{ x_n e^{\frac{2\pi i}{N}n m} \})_k=X_{k-m}&lt;/math&gt;
+:且有&lt;math&gt;\mathcal{F}(\{x_{n-m}\})_k=X_k e^{-\frac{2\pi i}{N}k m}&lt;/math&gt;
+
+=== 周期性 ===
+
+上文中[[#DFT与DTFT|DFT与DTFT]]一节已经证明，离散序列的傅里叶变换是周期的。有限长序列&lt;math&gt;x_n&lt;/math&gt;的离散傅里叶变换&lt;math&gt;X_k&lt;/math&gt;可以被看作是它的周期延拓序列&lt;math&gt;\tilde{x}_n = x_{n \ mod \ N}&lt;/math&gt;的离散时间傅里叶变换&lt;math&gt;\tilde{X}_k&lt;/math&gt;。由时频对偶性可知&lt;math&gt;X_k&lt;/math&gt;也可以被看作它的周期延拓的主值。
+
+上一节的移位定理隐含着DFT的周期性，因为DFT的幅度&lt;math&gt;|X_k|&lt;/math&gt;不受输入信号的循环移位的影响，因为时移在频域对偶于相移，循环移位仅仅使DFT的相位产生平移。周期性的边界条件在DFT的许多应用中有重要作用。解[[差分方程]]时，就假设边界条件是满足周期性的，这是一个很有用的性质（参见[[#应用|应用]]）。
+
+===普朗歇尔定理与帕塞瓦尔定理 ===
+如果''X''&lt;sub&gt;''k''&lt;/sub&gt;和''Y''&lt;sub&gt;''k''&lt;/sub&gt;分别是''x''&lt;sub&gt;''n''&lt;/sub&gt;和''y''&lt;sub&gt;''n''&lt;/sub&gt;的离散傅立叶变换，那么就有[[普朗歇尔定理]]：
+
+:&lt;math&gt;\sum_{n=0}^{N-1} x_n y^*_n = \frac{1}{N} \sum_{k=0}^{N-1} X_k Y^*_k&lt;/math&gt;
+
+其中星号表示复共扼。[[帕塞瓦尔定理]]是普朗歇尔定理的一个特例：
+
+:&lt;math&gt;\sum_{n=0}^{N-1} |x_n|^2 = \frac{1}{N} \sum_{k=0}^{N-1} |X_k|^2.&lt;/math&gt;
+
+== 应用 ==
+DFT在诸多多领域中有着重要应用，下面仅是颉取的几个例子。需要指出的是，所有DFT的实际应用都依赖于计算离散傅里叶变换及其逆变换的快速算法，即[[快速傅里叶变换]]。
+
+===快速傅里叶变换===
+{{main|快速傅里叶变换}}
+
+快速傅里叶变换（即FFT）是计算离散傅里叶变换及其逆变换的快速算法。按照DFT的定义计算一个长为n的序列的DFT需要的计算复杂度达到了&lt;math&gt;\mathcal{O}(n^2)&lt;/math&gt;，而同样长度FFT的计算复杂度仅为&lt;math&gt;\mathcal{O}(n \log n)&lt;/math&gt;。由于DFT的逆变换可以由DFT表示，所以DFT逆变换的计算同样可以由FFT完成。FFT算法的提出，使DFT得到了广泛的实际应用。
+
+=== 频谱分析 ===
+
+前面指出，[[#DFT与CT|DFT是连续傅里叶变换的近似]]。因此可以对连续信号x（t）均匀采样并截断以得到有限长的离散序列&lt;math&gt;\{x_n\}\,&lt;/math&gt;，对这一序列作离散傅里叶变换，可以分析连续信号x（t）频谱的性质。前面还提到DFT应用于频谱分析需要注意的两个问题：即采样可能导致信号混叠和截断信号引起的频谱泄漏。可以通过选择适当的采样频率（见[[奈奎斯特频率]]）消减[[混叠]]。选择适当的序列长度并加窗可以抑制频谱泄漏。
+
+===数据压缩===
+{{main|数据压缩}}
+
+由于人类感官的分辨能力存在极限，因此很多有损压缩算法利用这一点将语音、音频、图像、视频等信号的高频部分除去。高频信号对应于信号的细节，滤除高频信号可以在人类感官可以接受的范围内获得很高的压缩比。这一去除高频分量的处理就是通过离散傅里叶变换完成的。将时域或空域的信号转换到频域，仅储存或传输较低频率上的系数，在解压缩端采用逆变换即可重建信号。
+
+===解偏微分方程===
+{{main|偏微分方程}}
+
+离散傅里叶变换及其多维形式在偏微分方程的求解中也有应用。此时DFT被看作[[傅里叶级数]]的近似。傅里叶级数将函数在复指数''e''&lt;sup&gt;''inx''&lt;/sup&gt;上展开，这正是微分算子的特征方程：''d''/''dx'' ''e''&lt;sup&gt;''inx''&lt;/sup&gt; = ''in'' ''e''&lt;sup&gt;''inx''&lt;/sup&gt;。因此，通过傅里叶级数的形式，线性常微分方程被转换为代数方程，而后者是很容易求解的。此时得到的结果是偏微分方程解的级数表示，只要通过DFT逆变换即可得到其一般表示。这种方法被称作谱方法或级数解法。
+
+===长整数与多项式乘法===
+目前长[[整数]]或[[多项式]][[乘法]]最快速的算法是基于离散傅里叶变换的。由于整数（或多项式）乘法是逐位（或逐项）乘累加的形式，因此整数（或多项式）乘积的数字（或系数）可以用乘数数字（或乘式系数）的[[卷积]]表示。利用[[卷积定理]]，只要将数字（或系数）序列通过离散傅里叶变换变到频域，就可以将逐个乘累加的卷积变为对位的乘法，从而减少计算量，再以一次逆变换便可以得到乘法结果。需要注意整数乘法还有[[进位]]的问题。下面以多项式乘法为例说明这一应用：
+
+假设需要计算多项式乘法''c''(''x'') = ''a''(''x'')·''b''（''x''），这一乘积结果的各项系数的表达式实际上是线性卷积的形式。由于离散傅里叶变换对应于圆周卷积，因此需要将这两个乘式的系数按照次数升序排列，序列后“补零”，使它们的长度''d''大于两式最高项次数的和：''d'' &gt; deg(''a''(''x'')) + deg(''b''(''x''))。然后作圆周卷积：
+:&lt;math&gt;\mathbf{c} = \mathbf{a} \otimes \mathbf{b}&lt;/math&gt;
+其中'''c'''就是''c''(''x'')系数的向量。由于圆周卷积的DFT是乘积，有：
+:&lt;math&gt;\mathcal{F}\mathbf{c} = \mathcal{F}\mathbf{a} \cdot \mathcal{F}\mathbf{b}&lt;/math&gt;
+则
+:&lt;math&gt;\mathbf{c} = \mathcal{F}^{-1}(\mathcal{F}\mathbf{a} \cdot \mathcal{F}\mathbf{b})&lt;/math&gt;
+利用快速傅里叶变换，这一算法的运算复杂度为&lt;math&gt;\mathcal{O}(N \log N)&lt;/math&gt;。
+
+===OFDM===
+{{main|OFDM}}
+
+OFDM（正交频分复用）在宽带[[无线通信]]中有重要的应用。这种技术将带宽分为''N''个等间隔的子载波，可以证明这些子载波相互正交。尤其重要的是，OFDM调制可以由IDFT实现，而解调可以由DFT实现。OFDM还利用DFT的移位性质，在每个帧头部加上循环前缀（Cyclic Prefix），使得只要信道延时小于循环前缀的长度，就能消除信道延时对传输的影响。
+
+==参阅==
+
+*[[傅里叶级数]]
+*[[傅里叶变换]]
+*[[快速傅里叶变换]]
+*[[数字信号处理]]
+*[[Chirp-Z轉換]]
+*[http://l1032265.myweb.hinet.net/xfreqspe.htm 離散傅立葉轉換實作]
+
+==参考文献==
+# Oppenheim, Alan V.; Schafer, R. W.; and Buck, J. R., (1999). ''Discrete-time signal processing'', Upper Saddle River, N.J. : Prentice Hall. ISBN 0137549202
+# Mallat, S., ''A Wavelet Tour of Signal Processing, Second Edition'', Academic Press, ISBN 0-12-466606-x
+# Gill, J., ''Fourier Transform and Its Applications''（[http://www.stanford.edu/class/ee261/]）
+
+[[Category:傅里叶变换|L]]
+[[category:数字信号处理|L]]
+[[Category:酉算子]]
+
+[[cs:Fourierova transformace#Diskrétní Fourierova transformace]]
+[[fi:Fourier'n muunnos#Diskreetti Fourier'n muunnos]]
+[[pt:Transformada de Fourier#Transformada discreta de Fourier]]</str>
+    <str name="title">离散傅里叶变换</str>
+    <str name="titleText">离散傅里叶变换</str>
+    <int name="revision">31937020</int>
+    <date name="timestamp">2014-07-18T18:05:11Z</date>
+    <long name="_version_">1484748560340615168</long></doc>
+  <doc>
+    <str name="id">202665</str>
+    <str name="text">{{noteTA
+|T=zh:卷积定理; zh-hans:卷积定理; zh-hant:摺積定理;
+|1=zh:卷积; zh-hans:卷积; zh-hant:摺積;
+|G1=Communication
+}}
+'''卷积定理'''指出，函数[[卷积]]的[[傅里叶变换]]是函数傅里叶变换的乘积。即一个域中的卷积对应于另一个域中的乘积，例如[[时域]]中的卷积对应于[[频率|频域]]中的乘积。
+
+: &lt;math&gt; \mathcal{F}(f \star g) =  \mathcal{F} (f) \cdot \mathcal{F} (g)   &lt;/math&gt;
+其中&lt;math&gt;\mathcal{F}(f)&lt;/math&gt;表示''f'' 的[[傅里叶变换]]。
+
+借由傅里叶逆变换&lt;math&gt;\mathcal{F}^{-1}&lt;/math&gt;，也可以写成
+
+: &lt;math&gt;f \star g= \mathcal{F}^{-1}\big\{\mathcal{F} (f) \cdot \mathcal{F} (g)\big\}&lt;/math&gt;
+
+注意以上的写法只对特定形式定义的变换正确，变换可能由其它方式[[正规化]]，使得上面的关系式中出现其它的[[常数因子]]。
+
+这一定理对[[拉普拉斯变换]]、[[双边拉普拉斯变换]]、[[Z变换]]、[[:en:Mellin transform|Mellin变换]]和[[Hartley变换]]（参见[[:en:Mellin inversion theorem|Mellin inversion theorem]]）等各种傅里叶变换的变体同样成立。在[[调和分析]]中还可以推广到在局部紧致的[[阿贝尔群]]上定义的傅里叶变换。
+
+利用卷积定理可以简化卷积的运算量。对于长度为&lt;math&gt;n&lt;/math&gt;的序列，按照卷积的定义进行计算，需要做&lt;math&gt;2n-1&lt;/math&gt;组对位乘法，其[[计算复杂度]]为&lt;math&gt;\mathcal{O}(n^2)&lt;/math&gt;；而利用[[傅里叶变换]]将序列变换到频域上后，只需要一组对位乘法，利用傅里叶变换的[[快速傅里叶变换|快速算法]]之后，总的计算复杂度为&lt;math&gt;\mathcal{O}(n\log n)&lt;/math&gt;。这一结果可以在快速乘法计算中得到应用。
+
+==证明==
+
+:&lt;math&gt;F(\nu) = \mathcal{F}\{f\} = \int_{\mathbb{R}} f(x) e^{-2 \pi i x\cdot\nu} \,dx &lt;/math&gt;
+:&lt;math&gt;G(\nu) = \mathcal{F}\{g\} = \int_{\mathbb{R}}g(x) e^{-2 \pi i x\cdot\nu} \,dx &lt;/math&gt;.
+
+:&lt;math&gt;h(z) = \int\limits_{\mathbb{R}} f(x) g(z-x)\, \mathrm{d} x. &lt;/math&gt;
+
+:&lt;math&gt; \int\!\!\int |f(z)g(x-z)|\,dx\,dz=\int |f(z)| \int |g(z-x)|\,dx\,dz = \int |f(z)|\,\|g\|_1\,dz=\|f\|_1 \|g\|_1.&lt;/math&gt;
+
+:&lt;math&gt;
+\begin{align}
+  H(\nu) = \mathcal{F}\{h\} &amp;= \int_{\mathbb{R}} h(z) e^{-2 \pi i z\cdot\nu}\, dz \\
+                            &amp;= \int_{\mathbb{R}} \int_{\mathbb{R}^n} f(x) g(z-x)\, dx\, e^{-2 \pi i z\cdot \nu}\, dz.
+\end{align}
+&lt;/math&gt;
+
+:&lt;math&gt; |f(x)g(z-x)e^{-2\pi i z\cdot\nu}|=|f(x)g(z-x)|&lt;/math&gt; 
+
+:&lt;math&gt;H(\nu) = \int_{\mathbb{R}} f(x)\left(\int_{\mathbb{R}^n} g(z-x)e^{-2 \pi i z\cdot \nu}\,dz\right)\,dx.&lt;/math&gt;
+
+代入 &lt;math&gt;y=z-x&lt;/math&gt;; &lt;math&gt;dy = dz&lt;/math&gt;
+
+:&lt;math&gt;H(\nu) = \int_{\mathbb{R}} f(x) \left( \int_{\mathbb{R}} g(y) e^{-2 \pi i (y+x)\cdot\nu}\,dy \right) \,dx&lt;/math&gt;
+
+:::&lt;math&gt;=\int_{\mathbb{R}} f(x)e^{-2\pi i x\cdot \nu} \left( \int_{\mathbb{R}} g(y) e^{-2 \pi i y\cdot\nu}\,dy \right) \,dx&lt;/math&gt;
+
+:::&lt;math&gt;=\int_{\mathbb{R}} f(x)e^{-2\pi i x\cdot \nu}\,dx \int_{\mathbb{R}} g(y) e^{-2 \pi i y\cdot\nu}\,dy.&lt;/math&gt;
+
+:&lt;math&gt;H(\nu) = F(\nu) \cdot G(\nu),&lt;/math&gt;
+
+==相關條目==
+
+*[[卷积]]
+
+==參考資料==
+
+==外部連結==
+
+[http://mathworld.wolfram.com/ConvolutionTheorem.html Mathworld]
+
+[[Category:信号处理|J]]
+[[category:数学定理|J]]
+[[Category:傅里叶分析|J]]</str>
+    <str name="title">卷积定理</str>
+    <str name="titleText">卷积定理</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25374735</int>
+    <date name="timestamp">2013-03-09T21:02:57Z</date>
+    <long name="_version_">1484748618369859585</long></doc>
+  <doc>
+    <str name="id">46386</str>
+    <str name="text">{{NoteTA|G1=Math|G2=IT|1=zh:傅里叶; zh-hans:傅里叶; zh-hant:傅立葉;|2=zh-hans:并行;zh-hant:平行;}}
+==串行算法回顾==
+在[[快速傅里叶变换]]（FFT）的并行算法中使用了[[蝶形连接]]网络。
+==并行算法==
+*二维[[网孔连接]]网络上的FFT：
+将n个处理器排成&lt;math&gt;\sqrt {n}\times\sqrt {n}&lt;/math&gt;的二维[[网孔连接]]网络，假设输入序列&lt;math&gt;\{a_0,a_1,......,a_{n-1}\}&lt;/math&gt;已经存放在了各个处理器中。
+
+'''下面以16点变换来解释这个问题，连成的网络及编号如下图所示：
+
+根据[[快速傅里叶变换]]的算法，我们来研究这16个点计算时四次循环的具体执行情况。
+
+#同一列间隔一行的元素运算。
+#同一列间相邻行的元素运算。
+#同一行间隔一列的元素运算。
+#同一行间相邻列的元素运算。'''
+
+由上面的算法执行过程，我们发现，数据交换只在同一行或同一列之间的节点间进行。如果我们在第一，二步循环之后对网孔中的数据进行[[矩阵]]转置，那么就可以只在同一列节点之间进行运算。
+*[[超立方体连接]]网络上的FFT：
+如果我们按[[超立方体连接]]的[[格雷码]]将待变换点列填入，那么我们发现，数据交换将只在相邻节点间进行。因此数据通信代价恒为1。
+
+==算法复杂度分析==
+==可扩放性分析==
+首先，我们设[[消息传递]]并行计算机中通信模型使用的是[[Store-and-forward]]而不是[[cut-through]]模型（关于这两个模型的具体论述，请参见[[计算机网络]]）。下面令&lt;math&gt;T_o&lt;/math&gt;表示通信开销，&lt;math&gt;T_s&lt;/math&gt;表示通信开始时间，&lt;math&gt;T_w&lt;/math&gt;表示传送一个[[字]]的通信时间，&lt;math&gt;T_h&lt;/math&gt;表示数据每一跳的延迟，&lt;math&gt;z_l&lt;/math&gt;表示第l次循环时的开销，而&lt;math&gt;t_c&lt;/math&gt;表示进行一个单位运算的时间。p为处理器数，d=log(p)，n为待变换的序列大小。
+那么我们有公式：
+
+&lt;math&gt;T_o = \sum _{l=0}^{d-1}(T_s+(T_h + T_w\frac{n}{p})z_l)&lt;/math&gt;
+
+有这个公式，我们可以得出：
+#在二维网孔上的[[等效率标准]]函数为：&lt;math&gt;W = 2Kt_w\sqrt {p}\times 2^{2K\frac{t_w}{t_c}\sqrt{p}}&lt;/math&gt;
+#在超立方体上的[[等效率标准]]函数为：&lt;math&gt;W = Kt_w\times p^{K\frac{t_w}{t_c}}\times \log p&lt;/math&gt;；
+
+* 参考文献：The Scability of FFT on Parallel Computers, Anshul Gupta and Vipim Kummar。
+
+==参阅==
+[[并行计算]]
+
+[[Category:并行计算|B]]
+[[Category:傅里叶变换|B]]</str>
+    <str name="title">并行快速傅里叶变换</str>
+    <str name="titleText">并行快速傅里叶变换</str>
+    <int name="revision">27588897</int>
+    <date name="timestamp">2013-07-17T06:41:54Z</date>
+    <long name="_version_">1484748560338518016</long></doc>
+  <doc>
+    <str name="id">46389</str>
+    <str name="text">{{noteTA
+|G1=Communication|1=zh:傅里叶; zh-hans:傅里叶; zh-hant:傅立葉;
+}}
+{{傅里叶变换}}
+'''快速傅里叶变换'''（{{lang-en|'''Fast Fourier Transform, FFT'''}}），是[[离散傅里叶变换]]的快速[[算法]]，也可用于计算离散傅里叶变换的逆变换。快速傅里叶变换有广泛的应用，如[[数字信号处理]]、计算[[大整数乘法]]、求解[[偏微分方程]]等等。本条目只描述各种快速算法。
+
+对于复数序列&lt;math&gt;x_{0},\ x_{1},\ ...,\ x_{n-1}&lt;/math&gt;，离散傅里叶变换公式为：
+
+&lt;math&gt;
+ y_j = \sum_{k=0}^{n-1} e^{-{2\pi\imath \over n} j k}x_k \qquad j = 0,1,\dots,n-1.
+&lt;/math&gt;
+
+直接变换的计算复杂度是&lt;math&gt;\mathcal{O}(n^2)&lt;/math&gt;（参见[[大O符号]]）。快速傅里叶变换可以计算出与直接计算相同的结果，但只需要&lt;math&gt;\mathcal{O}(n \log n)&lt;/math&gt;的计算复杂度。通常，快速算法要求''n''能被[[因数分解]]，但不是所有的快速傅里叶变换都要求''n''是[[合数]]，对于所有的整数''n''，都存在复杂度为&lt;math&gt;\mathcal{O}(n \log n)&lt;/math&gt;的快速算法。
+
+除了指数的符号相反、并多了一个''1/n''的因子，离散傅里叶变换的正变换与逆变换具有相同的形式。因此所有的离散傅里叶变换的快速算法同时适用于正逆变换。
+
+== 一般的簡化理論 ==
+假設一個M*N型矩阵'''S'''可分解成列向量以及行向量相乘：
+
+&lt;math&gt;\mathbf{S}=\begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_m\end{bmatrix}\begin{bmatrix} b_1 &amp; b_2 &amp; \cdots &amp; b_n\end{bmatrix}&lt;/math&gt;
+
+若&lt;math&gt;\begin{bmatrix} a_1 &amp; a_2 &amp; \cdots &amp; a_m\end{bmatrix}^T&lt;/math&gt;有&lt;math&gt;M_0&lt;/math&gt;個相異的非平凡值(&lt;math&gt;a_m\ne\pm2^k,a_m\ne\pm2^ka_n &lt;/math&gt;   where  &lt;math&gt; m\ne n&lt;/math&gt;) 
+
+&lt;math&gt;\begin{bmatrix} b_1 &amp; b_2 &amp; \cdots &amp; b_n\end{bmatrix}&lt;/math&gt;有&lt;math&gt;N_0&lt;/math&gt;個相異的非平凡值
+
+則'''S'''共需要&lt;math&gt;M_0*N_0&lt;/math&gt;個乘法。
+
+&lt;math&gt;\begin{bmatrix} Z[1] \\ Z[2] \\ \vdots \\ Z[N] \end{bmatrix}= \mathbf{S}\begin{bmatrix} X[1] \\ X[2] \\ \vdots \\ X[N]\end{bmatrix}=\begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_m\end{bmatrix}\begin{bmatrix} b_1 &amp; b_2 &amp; \cdots &amp; b_n\end{bmatrix}\begin{bmatrix} X[1] \\ X[2] \\ \vdots \\ X[N]\end{bmatrix}&lt;/math&gt;
+
+Step 1：&lt;math&gt;Z_a=b_1X[1]+b_2X[2]+\cdots+b_nX[N]&lt;/math&gt;
+
+Step 2：&lt;math&gt;Z[1]=a_1Z_a,Z[2]=a_2Z_a,\cdots,Z[N]=a_mZ_a&lt;/math&gt;
+
+簡化理論的變型：
+
+&lt;math&gt;\mathbf{S}=\begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_m\end{bmatrix}\begin{bmatrix} b_1 &amp; b_2 &amp; \cdots &amp; b_n\end{bmatrix}+\mathbf{S}_1&lt;/math&gt;
+
+&lt;math&gt;S_1&lt;/math&gt;也是一個M*N的矩陣。
+
+若&lt;math&gt;S_1&lt;/math&gt;有&lt;math&gt;P_1&lt;/math&gt;個值不等於0，則&lt;math&gt;\mathbf{S}&lt;/math&gt;的乘法量上限為&lt;math&gt;M_0+N_0+P_1&lt;/math&gt;。
+
+== 快速傅立葉變換乘法量的計算 ==
+
+假設&lt;math&gt;N= P_1 \times P_2 \times \cdots \times P_k &lt;/math&gt;，其中&lt;math&gt;P_1,P_2, \cdots , P_k &lt;/math&gt;彼此互質
+
+&lt;math&gt;\mathbf{P_k}&lt;/math&gt; 點DFT的乘法量為&lt;math&gt; \mathbf{B_k}&lt;/math&gt;，則&lt;math&gt;\mathbf{N}&lt;/math&gt;點DFT的乘法量為：
+
+:&lt;math&gt;\frac{N}{P_1}B_1+\frac{N}{P_2}B_2+\cdots\cdots+\frac{N}{P_k}B_k&lt;/math&gt;
+
+假設&lt;math&gt;\mathbf{N=P^c}&lt;/math&gt;，P是一個質數。
+
+若&lt;math&gt;\mathbf{N_1=P^a}&lt;/math&gt;點的DFT需要的乘法量為&lt;math&gt;\mathbf{B_1}&lt;/math&gt;
+
+且&lt;math&gt;n_1\times n_2&lt;/math&gt; 當中 (&lt;math&gt; n_1=0,1,\cdots,N_1-1, \quad n_2=0,1, \cdots , N_2-1&lt;/math&gt;)
+
+有&lt;math&gt;D_1&lt;/math&gt;個值不為&lt;math&gt;\frac{N}{12}&lt;/math&gt;及&lt;math&gt;\frac{N}{8}&lt;/math&gt;的倍數，
+
+有&lt;math&gt;D_2&lt;/math&gt;個值為&lt;math&gt;\frac{N}{12}&lt;/math&gt;及&lt;math&gt;\frac{N}{8}&lt;/math&gt;的倍數，但不為&lt;math&gt;\frac{N}{4}&lt;/math&gt;的倍數，
+
+則N點DFT的乘法量為：
+
+:&lt;math&gt;\mathbf{N_2B_1+N_1B_2+3D_1+2D_2}&lt;/math&gt;
+
+== Cooley-Tukey算法 ==
+{{main|Cooley-Tukey快速傅里叶变换算法}} 
+
+Cooley-Tukey算法是最常见的FFT算法。这一方法以[[分治法]]为策略[[递归]]地将长度为&lt;math&gt;N=N_1 N_2&lt;/math&gt;的[[DFT]]分解为长度为&lt;math&gt;N_1&lt;/math&gt;的&lt;math&gt;N_2&lt;/math&gt;个较短序列的DFT，以及与&lt;math&gt;\mathcal{O}(N)&lt;/math&gt;个旋转因子的复数乘法。
+&lt;!--
+By far the most common FFT is the algorithm. This is a divide and conquer algorithm that recursively breaks down a DFT of any composite size N = N1N2 into many smaller DFTs of sizes N1 and N2, along with O(N) multiplications by complex roots of unity traditionally called twiddle factors (after Gentleman and Sande, 1966).
+--&gt;
+
+这种方法以及FFT的基本思路在1965年J. W. Cooley和J. W. Tukey合作发表''An algorithm for the machine calculation of complex Fourier series''之后开始为人所知。但后来发现，实际上这两位作者只是重新发明了[[高斯]]在1805年就已经提出的算法(此算法在历史上数次以各种形式被再次提出)。
+&lt;!--This method (and the general idea of an FFT) was popularized by a publication of J. W. Cooley and J. W. Tukey in 1965, but it was later discovered that those two authors had independently re-invented an algorithm known to Carl Friedrich Gauss around 1805 (and subsequently rediscovered several times in limited forms).--&gt;
+
+Cooley-Tukey算法最有名的应用，是将序列长为''N ''的DFT分割为两个长为''N/2 ''的子序列的DFT，因此这一应用只适用于序列长度为2的幂的DFT计算，即基2-FFT。实际上，如同高斯和Cooley与Tukey都指出的那样，Cooley-Tukey算法也可以用于序列长度''N ''为任意因数分解形式的DFT，即混合基FFT，而且还可以应用于其他诸如分裂基FFT等变种。尽管Cooley-Tukey算法的基本思路是采用递归的方法进行计算，大多数传统的算法实现都将显式的递归算法改写为非递归的形式。另外，因为Cooley-Tukey算法是将DFT分解为较小长度的多个DFT，因此它可以同任一种其他的DFT算法联合使用。
+&lt;!--The most well-known use of the Cooley-Tukey algorithm is to divide the transform into two pieces of size N / 2 at each step, and is therefore limited to power-of-two sizes, but any factorization can be used in general (as was known to both Gauss and Cooley/Tukey). These are called the radix-2 and mixed-radix cases, respectively (and other variants such as the split-radix FFT have their own names as well). Although the basic idea is recursive, most traditional implementations rearrange the algorithm to avoid explicit recursion. Also, because the Cooley-Tukey algorithm breaks the DFT into smaller DFTs, it can be combined arbitrarily with any other algorithm for the DFT, such as those described below.--&gt;
+
+&lt;!-- 目前最常用的快速傅里叶变换是库利-图基（Cooley-Tukey）算法。该算法利用[[分治法]]，将一个常数''n''的离散傅里叶变换[[递归]]地分解为两个常数分别为&lt;math&gt;n_1&lt;/math&gt;和&lt;math&gt;n_2&lt;/math&gt;的变换，保证&lt;math&gt;n=n_1 n_2&lt;/math&gt;，从而简化了原来的离散傅里叶变换。--&gt;
+=== 设计思想 ===
+下面，我们用'''N次单位根'''&lt;math&gt;W_{N}&lt;/math&gt;来表示&lt;math&gt;e^{-j\frac{2\pi}{N}}&lt;/math&gt;。
+
+&lt;math&gt;W_{N}&lt;/math&gt;的性质：
+# '''周期性'''，&lt;math&gt;W_{N}&lt;/math&gt;具有周期&lt;math&gt;N&lt;/math&gt;，即&lt;math&gt;W_{N}^{k+N}=W_{N}^{k}&lt;/math&gt;
+# '''对称性'''：&lt;math&gt;W_{N}^{k+\frac{N}{2}}=-W_{N}^{k}&lt;/math&gt;。
+# 若&lt;math&gt;m&lt;/math&gt;是&lt;math&gt;N&lt;/math&gt;的约数，&lt;math&gt;W_{N}^{mkn}=W_{\frac{N}{m}}^{kn}&lt;/math&gt;
+
+为了简单起见，我们下面设待变换序列长度&lt;math&gt;n=2^r&lt;/math&gt;。
+根据上面单位根的对称性，求级数&lt;math&gt;y_k=\sum_{n=0}^{N-1} W_{N}^{kn}x_n&lt;/math&gt;时，可以将求和区间分为两部分：
+
+&lt;math&gt;\begin{matrix}y_k=\sum_{n=2t} W_{N}^{kn} x_n + \sum_{n=2t+1} W_{N}^{kn}x_n\\= \sum_{t} W_{\frac{N}{2}}^{kt}x_{2t} + W_{N}^{k}\sum_{t} W_{\frac{N}{2}}^{kt}x_{2t+1}\\= F_{even}(k) + W_{N}^{k}F_{odd}(k)&amp;&amp;&amp;&amp;&amp;&amp;(i\in\mathbb{Z})\end{matrix}&lt;/math&gt;
+
+&lt;math&gt;F_{odd}(k)&lt;/math&gt; 和 &lt;math&gt;F_{even}(k)&lt;/math&gt;是两个分别关于序列&lt;math&gt;\left\{x_n\right\}_0^{N-1}&lt;/math&gt;奇数号和偶数号序列N/2点变换。由此式只能计算出&lt;math&gt;y_k&lt;/math&gt;的前N/2个点，对于后N/2个点，注意 &lt;math&gt;F_{odd}(k)&lt;/math&gt; 和 &lt;math&gt;F_{even}(k)&lt;/math&gt; 都是周期为N/2的函数，由单位根的对称性，于是有以下变换公式：
+
+* &lt;math&gt;y_{k+\frac{N}{2}} = F_{even}(k) - W_{N}^{k}F_{odd}(k)&lt;/math&gt;
+* &lt;math&gt;y_k = F_{even}(k) + W_{N}^{k}F_{odd}(k)&lt;/math&gt;。
+
+这样，一个N点变换就分解成了两个N/2点变换。照这样可继续分解下去。这就是'''库利-图基快速傅里叶变换'''算法的基本原理。根据[[主定理]]不难分析出此时算法的时间复杂度为&lt;math&gt;O(N\log N)&lt;/math&gt;
+
+&lt;!--
+===算法实现===
+*[[蝶形结]]网络和位反转(Bit Reversal)：
+**首先将&lt;math&gt;n=2^N&lt;/math&gt;个输入点列按二进制进行编号，然后对各个编号按位倒置并按此重新排序。例如，对于一个8点变换，
+001    倒置以后变成   100
+
+010  --〉            010
+ 
+011  --〉            110
+ 
+100  --〉            001
+
+101  --〉            101
+
+110  --〉            011
+ 
+111  --〉            111
+
+倒置后的编号为{0,4,2,6,1,5,3,7}。
+**然后将这n个点列作为输入传送到[[蝶形结]]网络中，注意将因子&lt;math&gt;W_{N}^{k}&lt;/math&gt;逐层加入到蝶形网络中。
+===算法复杂度===
+由于按[[蝶形结网络]]计算n点变换要进行log ''n'' 层计算，每层计算n个点的变换，故算法的时间复杂度为&lt;math&gt;\mathcal{O}(n \log n)&lt;/math&gt;。--&gt;
+
+== 其他算法 ==
+&lt;!--main articles: Prime-factor FFT algorithm, Bruun's FFT algorithm, Rader's FFT algorithm, Bluestein's FFT algorithm.--&gt;
+
+在[[Cooley-Tukey快速傅里叶变换算法|Cooley-Tukey算法]]之外还有其他DFT的快速演算法。对于长度&lt;math&gt;N = N_1N_2&lt;/math&gt;且&lt;math&gt;N_1&lt;/math&gt;与&lt;math&gt;N_2&lt;/math&gt;互质的序列，可以采用基于[[中国剩余定理]]的[[互质因子算法]]将N 长序列的DFT分解为两个子序列的DFT。与 Cooley-Tukey 算法不同的是，[[互质因子算法]]不需要旋转因子。
+
+Rader-Brenner 算法是类似于 Cooley-Tukey 算法，但是采用的旋转因子都是纯虚数，以增加加法运算和降低了数值稳定性为代价减少了乘法运算。这方法之后被split-radix variant of Cooley-Tukey所取代，与Rader-Brenner演算法相比，有一样多的乘法量，却有较少的加法量，且不牺牲数值的准确性。
+
+[[Bruun]]以及[[QFT]]演算法是不断的把DFT分成许多较小的DFT运算。(Rader-Brenner以及QFT演算法是为了2的指数所设计的演算法，但依然可以适用在可分解的整数上。Bruun演算法则可以运用在可被分成偶数个运算的数字)。尤其是Bruun演算法，把FFT看成是&lt;math&gt;z^N-1&lt;/math&gt;，并把它分解成&lt;math&gt;z^{M-1}&lt;/math&gt; 与&lt;math&gt;z^{2M}+az^M+1&lt;/math&gt; 的形式。
+
+另一个从多项式观点的快速傅立叶变换法是[[威诺格拉德快速傅立叶变换演算法|Winograd 算法]]。此演算法把&lt;math&gt;z^N-1&lt;/math&gt;分解成cyclotomic多项式，而这些多项式的系数通常为1，0，-1。这样只需要很少的乘法量(如果有需要的话)，所以winograd是可以得到最少乘法量的快速傅立叶演算法，对于较小的数字，可以找出有效率的算方式。更精确地说，winograd演算法让DFT可以用&lt;math&gt;2^k&lt;/math&gt;点的DFT来简化，但减少乘法量的同时，也增加了非常多的加法量。Winograd也可以利用剩余值定理来简化DFT。
+
+Rader演算法提出了利用点数为N(N为质数)的DFT进行长度为N-1的回旋摺积来表示原本的DFT，如此就可利用摺积用一对基本的FFT来计算DFT。另一个prime-size的FFT演算法为chirp-Z演算法。此法也是将DFT用摺积来表示，此法与Rader演算法相比，能运用在更一般的转换上，其转换的基础为Z转换(Rabiner et al., 1969)。
+&lt;!--
+There are other FFT algorithms distinct from Cooley-Tukey. For N = N1N2 with coprime N1 and N2, one can use the Prime-Factor (Good-Thomas) algorithm (PFA), based on the Chinese Remainder Theorem, to factorize the DFT similarly to Cooley-Tukey but without the twiddle factors. The Rader-Brenner algorithm (1976) is a Cooley-Tukey-like factorization but with purely imaginary twiddle factors, reducing multiplications at the cost of increased additions and reduced numerical stability. Algorithms that recursively factorize the DFT into smaller operations other than DFTs include the Bruun and QFT algorithms. (The Rader-Brenner and QFT algorithms were proposed for power-of-two sizes, but it is possible that they could be adapted to general composite n. Bruun's algorithm applies to arbitrary even composite sizes.) Bruun's algorithm, in particular, is based on interpreting the FFT as a recursive factorization of the polynomial zN − 1, here into real-coefficient polynomials of the form zM − 1 and z2M + azM + 1.
+
+Another polynomial viewpoint is exploited by the Winograd algorithm, which factorizes zN − 1 into cyclotomic polynomials—these often have coefficients of 1, 0, or −1, and therefore require few (if any) multiplications, so Winograd can be used to obtain minimal-multiplication FFTs and is often used to find efficient algorithms for small factors. Indeed, Winograd showed that the DFT can be computed with only O(N) irrational multiplications, leading to a proven achievable lower bound on the number of multiplications for power-of-two sizes; unfortunately, this comes at the cost of many more additions, a tradeoff no longer favorable on modern processors with hardware multipliers. In particular, Winograd also makes use of the PFA as well as an algorithm by Rader for FFTs of prime sizes.
+
+Rader's algorithm, exploiting the existence of a generator for the multiplicative group modulo prime N, expresses a DFT of prime size n as a cyclic convolution of (composite) size N − 1, which can then be computed by a pair of ordinary FFTs via the convolution theorem (although Winograd uses other convolution methods). Another prime-size FFT is due to L. I. Bluestein, and is sometimes called the chirp-z algorithm; it also re-expresses a DFT as a convolution, but this time of the same size (which can be zero-padded to a power of two and evaluated by radix-2 Cooley-Tukey FFTs, for example), via the identity nk = − (k − n)2 / 2 + n2 / 2 + k2 / 2.
+--&gt;
+
+== 实数或对称资料专用的演算法 ==
+在许多的运用当中，要进行DFT的资料是纯实数，如此一来经过DFT的结果会满足对称性：
+
+:&lt;math&gt;\mathbf{X}_{N-k}&lt;/math&gt;=&lt;math&gt;\mathbf{X}_k^*&lt;/math&gt;
+
+而有一些演算法是专门为这种情形设计的(e.g. Sorensen, 1987)。另一些则是利用旧有的演算法(e.g. Cooley-Tukey)，删去一些不必要的演算步骤，如此省下了记忆体的使用，也省下了时间。另一方面，也可以把一个偶数长度且纯实数的DFT，用长度为原本一半的复数型态DFT来表示(实数项为原本纯实数资料的偶数项，虚数项则为奇数项)。
+
+一度人们认为，用[[离散哈特利转换]](Discrete Hartley Transform)来处理纯实数的DFT会更有效率，但接着人们发现，对于同样点数的纯实数DFT，经过设计的FFT，可以比DHT省下更多的运算。Bruun演算法是第一个试着从减少实数输入的DFT运算量的演算法，但此法并没有成为人们普遍使用的方法。
+
+对于实数输入，且输入为偶对称或奇对称的情形，可以更进一步的省下时间以及记忆体，此时DFT可以用[[离散余弦转换]]或[[离散正弦转换]]来代替(Discrete cosine/sine transforms)。由于DCT/DST也可以设计出FFT的演算法，故在此种情形下，此方法取代了对DFT设计的FFT演算法。
+
+DFT可以应用在频谱分析以及做摺积的运算，而在此处，不同应用可以用不同的演算法来取代，列表如下：
+
+用来做[[频谱分析]]的情况下，DFT可用下列的演算法代替：
+*DCT.
+*DST.
+*DHT.
+*正交基底的扩展(orthogonal basis expantion)包括正交多项式(orthogonal polynomials)以及CDMA.
+*Walsh(Hadamard)转换.
+*Haar转换
+*小波(wavelet)转换.
+*时频分布(time-frequency distribution) 
+
+用来做[[摺积]]的情况下，DFT可用下列的演算法代替：
+*DCT.
+*DST.
+*DHT.
+*直接做摺积(direct computing)
+*分段式DFT摺积(sectioned DFT convolution)
+*[[威諾格拉德快速傅立葉變換演算法]]
+*Walsh(Hadamard)转换
+*[[数论转换]]
+
+== 複雜度以及運算量的極限 ==
+長久以來，人們對於求出快速傅立葉變換的複雜度下限以及需要多少的運算量感到很有興趣，而實際上也還有許多問題需要解決。即使是用較簡單的情形，即&lt;math&gt;2^k&lt;/math&gt;點的DFT，也還沒能夠嚴謹的證明出FFT至少需要&lt;math&gt;\Omega(NlogN)&lt;/math&gt;(比NlogN大)的運算量，目前也沒有發現複雜度更低的演算法。通常數學運算量的多寡會是運算效率好壞最主要的因素，但在現實中，有許多因素也會有很大的影響，如快取記憶體以及CPU均有很大的影響。
+
+在1978年，Winograd率先導出一個較嚴謹的FFT所需乘法量的下限：&lt;math&gt;\Theta(N)&lt;/math&gt;。當&lt;math&gt;N=2^k&lt;/math&gt;時，DFT只需要&lt;math&gt;4N-2\log_{2}^2N-2\log_{2}N-4&lt;/math&gt; 次無理實數的乘法即可以計算出來。更詳盡，且也能趨近此下限的演算法也一一被提出(Heideman &amp; Burrus, 1986; Duhamel, 1990)。很可惜的是，這些演算法，都需要很大量的加法計算，目前的硬體無法克服這個問題。
+
+對於所需加法量的數目，雖然我們可以在某些受限制的假設下，推得其下限，但目前並沒有一個精確的下限被推導出來。1973年，Morgenstern在乘法常數趨近巨大的情形下(對大部分的FFT演算法為真，但不是全部)推導出加法量的下限：&lt;math&gt;\Omega \left(N \log N \right)&lt;/math&gt;。Pan(1986)在假設FFT演算法的不同步的情形有其極限下證明出加法量的下限&lt;math&gt;\Omega(NlogN)&lt;/math&gt;，但一般來說，此假設相當的不明確。長度為&lt;math&gt;N=2^k&lt;/math&gt;的情形下，在某些假設下，Papadimitriou(1979)提出使用Cooley-Tukey演算法所需的複數加法量&lt;math&gt;N\log_{2}N&lt;/math&gt;是最少的。到目前為止，在長度為&lt;math&gt;N=2^k&lt;/math&gt;情況，還沒有任何FFT的演算法可以讓複數的加法量比&lt;math&gt;N\log_{2}N&lt;/math&gt;還少。
+
+還有一個問題是如何把乘法量與加法量的總和最小化，有時候稱作"演算複雜度"(在這裡考慮的是實際的運算量，而不是漸近複雜度)。同樣的，沒有一個嚴謹下限被證明出來。從1968年開始，&lt;math&gt;N=2^k&lt;/math&gt;點DFT而言，split-radix FFT演算法需要最少的運算量，在&lt;math&gt;N&gt;1&lt;/math&gt;的情形下，其需要&lt;math&gt;4N\log_{2}N-6N+8&lt;/math&gt; 個乘法運算以及加法運算。最近有人導出更低的運算量：&lt;math&gt;\frac{34}{9}N\log_{2}N&lt;/math&gt;。(Johnson and Frigo, 2007; Lundy and Van Buskirk, 2007)
+
+大多數嘗試要降低或者證明FFT複雜度下限的人都把焦點放在複數資料輸入的情況，因其為最簡單的情形。但是，複數資料輸入的FFT演算法，與實數資料輸入的FFT演算法，離散餘弦轉換(DCT)，離散哈特列轉換(DHT)，以及其他的演算法，均有很大的關連性。故任何一個演算法，在複雜度上有任何的改善的話，其他的演算法複雜度也會馬上獲得改善(Duhamel &amp; Vetterli, 1990)。
+
+== 参考资料 ==
+* N. Brenner and C. Rader, 1976, [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1162805 A New Principle for Fast Fourier Transformation], ''IEEE Acoustics, Speech &amp; Signal Processing'' '''24''': 264-266.
+* Cooley, James W., and [[John W. Tukey]], 1965, "An algorithm for the machine calculation of complex Fourier series," ''Math. Comput.'' '''19''': 297–301.
+* [[Thomas H. Cormen]], [[Charles E. Leiserson]], [[Ronald L. Rivest]], and [[Clifford Stein]], 2001. ''[[Introduction to Algorithms]]'', 2nd. ed. MIT Press and McGraw-Hill. ISBN 0-262-03293-7. Especially chapter 30, "Polynomials and the FFT."
+* Pierre Duhamel, 1990, {{doi-inline|10.1109/29.60070|Algorithms meeting the lower bounds on the multiplicative complexity of length-&lt;math&gt;2^n&lt;/math&gt; DFTs and their connection with practical algorithms}}, ''IEEE Trans. Acoust. Speech. Sig. Proc.'' '''38''': 1504-151.
+* ------- and M. Vetterli, 1990, {{doi-inline|10.1016/0165-1684(90)90158-U|Fast Fourier transforms: a tutorial review and a state of the art}}, ''Signal Processing'' '''19''': 259–299.
+* A. Edelman, P. McCorquodale, and S. Toledo, 1999, {{doi-inline|10.1137/S1064827597316266|The Future Fast Fourier Transform?}}, ''SIAM J. Sci. Computing'' '''20''': 1094–1114.
+* Funda Ergün, 1995, {{doi-inline|10.1145/225058.225167|Testing multivariate linear functions: Overcoming the generator bottleneck}}, ''Proc. 27th ACM Symposium on the Theory of Computing'': 407–416.
+* M. Frigo and S. G. Johnson, 2005, "[http://fftw.org/fftw-paper-ieee.pdf The Design and Implementation of FFTW3]," ''Proceedings of the IEEE'' '''93''': 216–231.
+* [[Carl Friedrich Gauss]], 1866. "Nachlass: Theoria interpolationis methodo nova tractata," ''Werke'' band '''3''', 265–327. Göttingen: Königliche Gesellschaft der Wissenschaften.
+* W. M. Gentleman and G. Sande, 1966, "Fast Fourier transforms—for fun and profit," ''Proc. AFIPS'' '''29''': 563–578.
+* H. Guo and C. S. Burrus, 1996, {{doi-inline|10.1117/12.255236|Fast approximate Fourier transform via wavelets transform}}, ''Proc. SPIE Intl. Soc. Opt. Eng.'' '''2825''': 250–259.
+* ------- and G. A. Sitton, 1994, {{doi-inline|10.1109/ICASSP.1994.389994|The Quick Discrete Fourier Transform}}, ''Proc. IEEE Conf. Acoust. Speech and Sig. Processing (ICASSP)'' '''3''': 445–448.
+* Michael T. Heideman and C. Sidney Burrus, 1986, [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1164785 On the number of multiplications necessary to compute a length-&lt;math&gt;2^n&lt;/math&gt; DFT], ''IEEE Trans. Acoust. Speech. Sig. Proc.'' '''34''': 91-95.
+* -------- and D. H. Johnson, 1984, [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1162257 Gauss and the history of the fast Fourier transform], ''IEEE ASSP Magazine'' '''1''': 14–21.
+* S. G. Johnson and M. Frigo, 2007. "[http://www.fftw.org/newsplit.pdf A modified split-radix FFT with fewer arithmetic operations]," ''IEEE Trans. Signal Processing'' '''55''' (1): 111–119.
+* T. Lundy and J. Van Buskirk, 2007. "A new matrix approach to real FFTs and convolutions of length 2&lt;sup&gt;k&lt;/sup&gt;," ''Computing'' '''80''' (1): 23-45.
+* Jacques Morgenstern, 1973, {{doi-inline|10.1145/321752.321761|Note on a lower bound of the linear complexity of the fast Fourier transform}}, ''J. ACM'' '''20''': 305-306.
+* [http://dx.doi.org/10.1007/BF01261607 M. J. Mohlenkamp, 1999, "A fast transform for spherical harmonics", ''J. Fourier Anal. Appl.'' '''5''', 159–184.] ([http://www.math.ohiou.edu/~mjm/research/MOHLEN1999P.pdf preprint])
+* H. J. Nussbaumer, 1977, {{doi-inline|10.1049/el:19770280|Digital filtering using polynomial transforms}}, ''Electronics Lett.'' '''13''': 386-387.
+* V. Pan, 1986, {{doi-inline|10.1016/0020-0190(86)90035-9|The trade-off between the additive complexity and the asyncronicity of linear and bilinear algorithms}}, ''Information Proc. Lett.'' '''22''': 11-14.
+* Christos H. Papadimitriou, 1979, {{doi-inline|10.1145/322108.322118|Optimality of the fast Fourier transform}}, ''J. ACM'' '''26''': 95-102.
+* D. Potts, G. Steidl, and M. Tasche, 2001. "[http://www.tu-chemnitz.de/~potts/paper/ndft.pdf Fast Fourier transforms for nonequispaced data: A tutorial]", in: J.J. Benedetto and P. Ferreira (Eds.), ''Modern Sampling Theory: Mathematics and Applications'' (Birkhauser).
+* Vladimir Rokhlin and Mark Tygert, 2006, "[http://pantheon.yale.edu/~mwt7/sph2.pdf Fast algorithms for spherical harmonic expansions]," ''SIAM J. Sci. Computing'' '''27''' (6): 1903-1928.
+* James C. Schatzman, 1996, [http://portal.acm.org/citation.cfm?id=240432 Accuracy of the discrete Fourier transform and the fast Fourier transform], ''SIAM J. Sci. Comput.'' '''17''': 1150–1166.
+* O. V. Shentov, S. K. Mitra, U. Heute, and A. N. Hossen, 1995, {{doi-inline|10.1016/0165-1684(94)00103-7|Subband DFT. I. Definition, interpretations and extensions}}, ''Signal Processing'' '''41''': 261–277.
+* H. V. Sorensen, D. L. Jones, M. T. Heideman, and C. S. Burrus, 1987, [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1165220 Real-valued fast Fourier transform algorithms], ''IEEE Trans. Acoust. Speech Sig. Processing'' '''ASSP-35''': 849–863. See also [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1165284 Corrections to "Real-valued fast Fourier transform algorithms"]
+* Peter D. Welch, 1969, [http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1162035 A fixed-point fast Fourier transform error analysis], ''IEEE Trans. Audio Electroacoustics'' '''17''': 151–157.
+* S. Winograd, 1978, [http://www.jstor.org/view/00255718/di970565/97p0015m/0 On computing the discrete Fourier transform], ''Math. Computation'' '''32''': 175-199.
+* Jian-Jiun Ding, Advanced Digital Signal Processing class note,the Department of Electrical Engineering, National Taiwan University (NTU), Taipei, Taiwan, 2007.
+* E. O. Brigham, The　Fast Fourier Transform,Prentice Hall,Englewood Cliffs,New Jersey,1974.
+* E.O.布赖姆著,柳群译,快速富里叶变换,上海科学技术出版社,1979.
+
+== 参阅 ==
+* [[离散傅里叶变换]]
+* [[并行快速傅里叶变换]]
+
+[[Category:数字信号处理]]
+[[Category:变换编码]]
+[[Category:傅里叶变换]]</str>
+    <str name="title">快速傅里叶变换</str>
+    <str name="titleText">快速傅里叶变换</str>
+    <str name="user">Crazyshooter</str>
+    <int name="userId">1620768</int>
+    <int name="revision">30808538</int>
+    <date name="timestamp">2014-03-26T00:39:54Z</date>
+    <long name="_version_">1484748560343760896</long></doc>
+  <doc>
+    <str name="id">2803869</str>
+    <str name="text">这个文章是'''在[[计算机科学]]中的[[未解決問題列表|有待解决的问题的列表]]'''。当该领域专家认为某些问题未解决，或当该领域中的几位专家不同意有关解决问题的办法时，这些计算机科学中的问题就被认为是未解决的。
+
+== [[计算复杂性理论]] ==
+* [[P/NP问题|P = NP问题]]。这是七个[[千禧年大奖难题]]之一.
+* {{TransHint|NC (複雜度)|NC (complexity)}}
+* [[反NP|NP = co-NP问题]]
+* [[BPP (复杂度)|P = BPP问题]]
+* [[PSPACE#与其它复杂度类的关系|P = PSPACE问题]]
+* [[BQP (复杂度)|BQP]]和[[NP (复杂度)|NP]]之间的关系是什么？
+* {{TransHint|独特的游戏猜想|unique games conjecture}}
+* {{TransHint|指数时间假说|exponential time hypothesis}}是真的吗？
+* {{TransHint|单向函数|one-way function}}存在吗？
+
+== [[算法]] ==
+* 两个n位数{{TransHint|乘法算法|Multiplication algorithm#Fast multiplication algorithms for large inputs}}速度最快的是什么？
+* {{TransHint|矩阵乘法|matrix multiplication#Algorithms_for_efficient_matrix_multiplication}}算法的速度最快的是什么？
+* 可以在[[多项式时间]]内做[[整数分解]]吗？
+* 可以在多项式时间内计算{{TransHint|离散对数|discrete logarithm#Algorithms}}吗？
+* 可以在多项式时间内解决{{TransHint|图同构问题|graph isomorphism problem}}吗？
+* 可以在多项式时间内解决{{TransHint|奇偶校验游戏|parity game}}吗？
+* [[线性规划]]是否承认一种{{TransHint|强烈的多项式|Time complexity#Strongly and weakly polynomial time}}时间算法？这是{{TransHint|Smale的问题的列表|Smale's problems}}的问题#9。
+* [[快速傅里叶变换]]算法的复杂性上下限是什么？他们能比[[大O符号#一些相关的渐近符号|Θ]]（N log N）快吗？
+* 可以在{{TransHint|次二次时间|subquadratic time}}内解决{{TransHint|3SUM|3SUM}}问题吗？
+* 伸展树{{TransHint|动态最优性猜想|Splay_tree#Dynamic_optimality_conjecture}}
+* {{TransHint|K-服务器问题|K-server problem}}
+
+== [[编程语言理论]] ==
+* {{TransHint|POPLmark|POPLmark}}
+* {{TransHint|Barendregt–Geuvers–Klop猜想|Barendregt–Geuvers–Klop conjecture}}
+* {{TransHint|广义星高问题|Generalized star height problem}}
+
+== 其他问题==
+* {{TransHint|Aanderaa–Karp–Rosenberg猜想|Aanderaa–Karp–Rosenberg conjecture}}
+
+==外部链接==
+* StackExchange上[http://cstheory.stackexchange.com/questions/174/major-unsolved-problems-in-theoretical-computer-science 计算机科学理论未解决的主要问题]。
+* Gerhard J. Woeginger的[http://www.cs.zju.edu.cn/people/yedeshi/algo09/reading/Open%20problems%20around%20exact%20algorithms.pdf 围绕精确算法的开放问题]，应用离散数学156 (2008) 397–405。
+* [http://www2.research.att.com/~dsj/nsflist.html 理论计算机科学面临的挑战]
+* [http://maven.smith.edu/~orourke/TOPP/ 开放的问题项目] - [[计算几何]]和相关的字段中的开放问题。
+* [http://rtaloop.mancoosi.univ-paris-diderot.fr/ RTA列表的开放问题] - [[:en:rewriting|重写]]中的开放问题。
+* [http://tlca.di.unito.it/opltlca/ TLCA列表的开放问题] - [[有类型λ演算]]领域中的开放问题。
+
+
+{{未解決的科學問題}}
+
+{{DEFAULTSORT:未解决的计算机科学问题}}
+[[Category:猜想|*]]
+[[Category:有待解决的问题的列表|计算机科学]]
+[[Category:计算机科学中未解决的问题| ]]</str>
+    <str name="title">未解決的計算機科學問題</str>
+    <str name="titleText">未解決的計算機科學問題</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25634070</int>
+    <date name="timestamp">2013-03-14T02:27:33Z</date>
+    <long name="_version_">1484749219925327873</long></doc>
+  <doc>
+    <str name="id">55864</str>
+    <str name="text">{{noteTA
+|T=zh:傅里叶变换; zh-cn:傅里叶变换; zh-tw:傅立葉變換;
+|G2=Math
+}}
+{{傅里叶变换}}
+'''傅里叶变换'''（{{lang-fr|Transformation de Fourier}}、{{lang-en|Fourier transform}}）是一种線性的[[积分变换]]，常在将信号在[[时域]]（或空域）和[[频域]]之间变换时使用，在[[物理学]]和[[工程学]]中有许多应用。因其基本思想首先由[[法国]]学者[[约瑟夫·傅里叶]]系统地提出，所以以其名字来命名以示纪念。
+
+经过傅里叶变换而生成的函数 &lt;math&gt;\hat f&lt;/math&gt; 称作原函数 &lt;math&gt;f&lt;/math&gt; 的傅里叶变换、亦或其'''[[频谱]]'''。傅里叶变换是可逆的，即可通过 &lt;math&gt;\hat f&lt;/math&gt; 确定其原函数 &lt;math&gt;f&lt;/math&gt;。通常情况下，&lt;math&gt;f&lt;/math&gt; 是[[实数]]函数，而 &lt;math&gt;\hat f&lt;/math&gt; 则是[[复数]]函数，用一个复数来表示[[振幅]]和[[相位]]。
+
+“傅里叶变换”一词既可以指变换操作本身（将函数 &lt;math&gt;f&lt;/math&gt; 进行傅里叶变换），又可以指该操作所生成的复数函数（&lt;math&gt;\hat f&lt;/math&gt; 是 &lt;math&gt;f&lt;/math&gt; 的傅里叶变换）。
+
+== 定义 ==
+{{main|连续傅里叶变换}}
+一般情况下，若「傅里叶变换」一词不加任何限定语，则指的是「连续傅里叶变换」（连续函数的傅里叶变换）。定义傅里叶变换有许多不同的方式。本文中采用如下的定义：(连续)傅里叶变换将[[勒貝格積分|可积]]函数&lt;math&gt;f : \mathbb R \rightarrow \mathbb C&lt;/math&gt;表示成复指数函数的积分或级数形式。
+
+:&lt;math&gt;\hat{f}(\xi) = \int_{-\infty}^\infty f(x)\ e^{- 2\pi i x \xi}\,dx&lt;/math&gt;，''ξ''为任意[[实数]]。
+
+当自变量''x''表示''时间''（以秒为单位），变换变量''ξ''表示[[频率]]（以[[赫兹]]为单位）。在适当条件下，&lt;math&gt;\hat f&lt;/math&gt;可由'''逆变换'''（inverse Fourier transform）由下式确定&lt;math&gt;f&lt;/math&gt;：
+
+:&lt;math&gt;f(x) = \int_{-\infty}^\infty \hat f(\xi)\ e^{2 \pi i \xi x}\,d\xi&lt;/math&gt;，''x''为任意实数。
+
+[[傅里叶逆定理]]提出&lt;math&gt;f&lt;/math&gt;可由&lt;math&gt;\hat f&lt;/math&gt;确定，[[约瑟夫·傅里叶|傅立叶]]在《热分析理论》(''Analytical Theory of Heat'')中首次引入这个定理。虽然现在标准下的证明直到很久以后才出现。&lt;math&gt;f&lt;/math&gt;和&lt;math&gt;\hat{f}&lt;/math&gt;常常被称为''傅立叶积分对'' 或''傅立叶变换对''。
+
+== 简介 ==
+
+{{See also|傅立叶变换家族中的关系}}
+[[File:Fourier transform time and frequency domains (small).gif|frame|right|傅里叶变换将函数的时域（红色）与频域（蓝色）相关联。频谱中的不同成分频率在频域中以峰值形式表示。]]
+
+傅里叶变换源自对[[傅里叶级数]]的研究。在对傅里叶级数的研究中，复杂的[[周期函数]]可以用一系列简单的[[正弦]]、[[余弦]]波之和表示。傅里叶变换是对傅里叶级数的扩展，由它表示的函数的周期趋近于无穷。
+
+== 中文译名 ==
+'''{{lang-en|Fourier transform}}''' 或 '''{{lang-fr|Transformée de Fourier}}''' 有多个[[中文]]译名，常见的有「'''{{lang|zh-hans|傅里叶变换}}'''」、「'''{{lang|zh-hans|傅立叶变换}}'''」、「'''{{lang|zh-hans|付立叶变换}}'''」、「'''{{lang|zh-hant|傅利葉轉換}}'''」、「'''{{lang|zh-hant|傅氏轉換}}'''」及「'''{{lang|zh-hant|傅氏變換}}'''」等等。为方便起见，本文统一写作「傅里叶变换」。
+
+== 应用 ==
+傅里叶变换在[[物理学]]、[[声学]]、[[光学]]、[[结构动力学]]、[[量子力學]]、[[数论]]、[[组合数学]]、[[概率论]]、[[统计学]]、[[信号处理]]、[[密码学]]、[[海洋学]]、[[通讯]]、[[金融]]等领域都有着广泛的应用。例如在信号处理中，傅里叶变换的典型用途是将信号分解成[[振幅]]分量和[[频率]]分量。
+
+== 基本性质 ==
+
+=== 线性性质 ===
+
+两函数之和的傅里叶变换等于各自变换之和。数学描述是：若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;和&lt;math&gt;g \left(x \right)&lt;/math&gt;的傅里叶变换&lt;math&gt;\mathcal{F}[f]&lt;/math&gt;和&lt;math&gt;\mathcal{F}[g]&lt;/math&gt;都存在，&lt;math&gt;\alpha&lt;/math&gt;和&lt;math&gt;\beta&lt;/math&gt;为任意常系数，则&lt;math&gt;\mathcal{F}[\alpha f+\beta g]=\alpha\mathcal{F}[f]+\beta\mathcal{F}[g]&lt;/math&gt;；傅里叶变换算符&lt;math&gt;\mathcal{F}&lt;/math&gt;可经[[归一化]]成为[[幺正算符]]。
+
+=== 平移性质 ===
+
+若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;存在傅里叶变换，则对任意[[实数]]&lt;math&gt;\omega_{0}&lt;/math&gt;，函数&lt;math&gt;f(x) e^{i \omega_{0} x}&lt;/math&gt;也存在傅里叶变换，且有&lt;math&gt;\mathcal{F}[f(x)e^{i \omega_{0} x}]=F(\omega - \omega _0 )&lt;/math&gt;。式中花体&lt;math&gt;\mathcal{F}&lt;/math&gt;是傅里叶变换的作用算子，平体&lt;math&gt;F&lt;/math&gt;表示变换的结果（复函数），&lt;math&gt;e&lt;/math&gt;为[[自然对数]]的底，&lt;math&gt;i&lt;/math&gt;为[[虚数]]单位&lt;math&gt;\sqrt{-1}&lt;/math&gt;。
+
+=== [[微分]]关系 ===
+
+若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;当&lt;math&gt;|x|\rightarrow\infty&lt;/math&gt;时的[[极限]]为0，而其导函数&lt;math&gt;f'(x)&lt;/math&gt;的傅里叶变换存在，则有&lt;math&gt;\mathcal{F}[f'(x)]= i \omega \mathcal{F}[f(x)]&lt;/math&gt;，即导函数的傅里叶变换等于原函数的傅里叶变换乘以因子&lt;math&gt; i\omega&lt;/math&gt;。更一般地，若&lt;math&gt;f(\pm\infty)=f'(\pm\infty)=\ldots=f^{(k-1)}(\pm\infty)=0&lt;/math&gt;，且&lt;math&gt;\mathcal{F}[f^{(k)}(x)]&lt;/math&gt;存在，则&lt;math&gt;\mathcal{F}[f^{(k)}(x)]=( i \omega)^{k} \mathcal{F}[f]&lt;/math&gt;，即''k''阶[[导数]]的傅里叶变换等于原函数的傅里叶变换乘以因子&lt;math&gt;( i \omega)^{k}&lt;/math&gt;。
+
+=== [[卷积]]特性 ===
+
+若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;及&lt;math&gt;g \left( x\right )&lt;/math&gt;都在&lt;math&gt;(-\infty,+\infty)&lt;/math&gt;上[[绝对可积]]，则卷积函数&lt;math&gt;f*g=\int_{-\infty}^{+\infty} f(x-\xi)g(\xi)d\xi&lt;/math&gt;（或者&lt;math&gt;f*g=\int_{-\infty}^{+\infty} f(\xi)g(x-\xi)d\xi&lt;/math&gt;）的傅里叶变换存在，且&lt;math&gt;\mathcal{F}[f*g]=\mathcal{F}[f]\cdot\mathcal{F}[g]&lt;/math&gt;。卷积性质的逆形式为&lt;math&gt;\mathcal{F}^{-1}[F(\omega)*G(\omega)]=2\pi\mathcal{F}^{-1}[F(\omega)]\cdot\mathcal{F}^{-1}[G(\omega)]&lt;/math&gt;，即两个函数卷积的傅里叶逆变换等于它们各自的傅里叶逆变换的乘积乘以&lt;math&gt;2\pi&lt;/math&gt;。
+
+=== [[帕塞瓦尔定理]] ===
+
+若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;[[可积]]且平方可积，则&lt;math&gt;\int_{-\infty}^{+\infty} f^2 (x)dx = \frac{1}{2\pi}\int_{-\infty}^{+\infty} |F(\omega)|^{2}d\omega&lt;/math&gt;。其中&lt;math&gt;F \left( \omega \right)&lt;/math&gt;是&lt;math&gt;f \left( x \right)&lt;/math&gt;的傅里叶变换。
+
+更一般化而言，若函数&lt;math&gt;f \left( x\right )&lt;/math&gt;和&lt;math&gt;g \left( x\right )&lt;/math&gt;皆為[[平方可積方程]]（[[:en:Square-integrable function|Square-integrable function]]），则&lt;math&gt;\int_{-\infty}^{+\infty} f(x)g^{*}(x) dx = \frac{1}{2\pi}\int_{-\infty}^{+\infty} F(\omega)G^{*}(\omega)d\omega&lt;/math&gt;。其中&lt;math&gt;F \left( \omega \right)&lt;/math&gt;和&lt;math&gt;G \left( \omega \right)&lt;/math&gt;分别是&lt;math&gt;f \left( x \right)&lt;/math&gt;和&lt;math&gt;g \left( x \right)&lt;/math&gt;的傅里叶变换, &lt;math&gt;*&lt;/math&gt;代表[[複共軛]]。
+
+== 傅里叶变换的不同变种 ==
+傅立叶变换也可以写成在[[角频率]]形式： {{nowrap|''ω'' {{=}} 2''πξ''}}其单位是[[弧度]]每秒。
+
+应用ξ=ω/（2π）到上述公式会成为下面的形式：
+
+:&lt;math&gt;\hat{f}(\omega) = \int_{\mathbf R^n} f(x) e^{-i\omega\cdot x}\,dx.&lt;/math&gt;
+
+根据这一形式，（傅里叶）逆变换变为：
+
+:&lt;math&gt;f(x) = \frac{1}{(2\pi)^n} \int_{\mathbf R^n} \hat{f}(\omega)e^{i\omega \cdot x}\,d\omega.&lt;/math&gt;
+
+若不按照本文中使用的，而像这样定义傅里叶变换，那它将不再是''L''&lt;sup&gt;2&lt;/sup&gt;('''R'''&lt;sup&gt;''n''&lt;/sup&gt;)上的一个酉变换 。另外这样的定义也使傅里叶变换与其逆变换显得不太对称。
+
+另一个形式是把(2''π'')&lt;sup&gt;''n''&lt;/sup&gt;均匀地分开给傅里叶变换和逆变换，即定义为：
+
+:&lt;math&gt; \hat{f}(\omega) = \frac{1}{(2\pi)^{n/2}} \int_{\mathbf{R}^n} f(x) e^{- i\omega\cdot x}\,dx &lt;/math&gt;
+::&lt;math&gt;f(x) = \frac{1}{(2\pi)^{n/2}} \int_{\mathbf{R}^n} \hat{f}(\omega) e^{ i\omega \cdot x}\,d\omega. &lt;/math&gt;
+
+根据这一形式，傅立叶变换是再次成为''L''&lt;sup&gt;2&lt;/sup&gt;('''R'''&lt;sup&gt;''n''&lt;/sup&gt;)上的一个幺正变换。它也恢复了傅立叶变换和逆变换之间的对称。
+
+所有三种形式的变化可以通过对正向和反向变换的复指数核取共轭来实现。核函数的符号必须是相反的。除此之外，选择是习惯问题。
+
+{| class="wikitable"
+|+常用的傅立叶变换形式总结
+|-
+!普通频率''ξ（'' 赫兹）
+!酉变换
+|  &lt;math&gt;\displaystyle \hat{f}_1(\xi)\ \stackrel{\mathrm{def}}{=}\ \int_{\mathbf{R}^n} f(x) e^{-2 \pi i x\cdot\xi}\, dx = \hat{f}_2(2 \pi \xi)=(2 \pi)^{n/2}\hat{f}_3(2 \pi \xi) &lt;/math&gt;&lt;br&gt;&lt;math&gt;\displaystyle f(x) = \int_{\mathbf{R}^n} \hat{f}_1(\xi) e^{2 \pi i x\cdot \xi}\, d\xi \ &lt;/math&gt;
+|-
+! rowspan="2"|角频率''ω（'' 弧度/秒）
+!非酉变换
+|  &lt;math&gt;\displaystyle \hat{f}_2(\omega) \ \stackrel{\mathrm{def}}{=}\int_{\mathbf{R}^n} f(x) e^{-i\omega\cdot x} \, dx \ = \hat{f}_1 \left ( \frac{\omega}{2 \pi} \right ) = (2 \pi)^{n/2}\ \hat{f}_3(\omega) &lt;/math&gt; &lt;br&gt;&lt;math&gt;\displaystyle f(x) = \frac{1}{(2 \pi)^n} \int_{\mathbf{R}^n} \hat{f}_2(\omega) e^{i \omega\cdot x} \, d \omega \ &lt;/math&gt;
+|-
+!酉变换
+|  &lt;math&gt;\displaystyle \hat{f}_3(\omega) \ \stackrel{\mathrm{def}}{=}\ \frac{1}{(2 \pi)^{n/2}} \int_{\mathbf{R}^n} f(x) \ e^{-i \omega\cdot x}\, dx = \frac{1}{(2 \pi)^{n/2}} \hat{f}_1\left(\frac{\omega}{2 \pi} \right) = \frac{1}{(2 \pi)^{n/2}} \hat{f}_2(\omega) &lt;/math&gt; &lt;br&gt;&lt;math&gt;\displaystyle f(x) = \frac{1}{(2 \pi)^{n/2}} \int_{\mathbf{R}^n} \hat{f}_3(\omega)e^{i \omega\cdot x}\, d \omega \ &lt;/math&gt;
+|}
+
+如上所讨论的，一个随机变量的[[特征函数 (概率论)|特征函数]]是相同的傅里叶变换斯蒂尔切斯其分布的测量，但在这种情况下它是典型采取不同的惯例为常数。通常情况下特征函数的定义&lt;math&gt;E(e^{it\cdot X})=\int e^{it\cdot x}d\mu_X(x)&lt;/math&gt;
+
+在上面“非统一角频率”形式的情况下，存在的2π无因子出现在任一积分的，或在指数。不同于任何约定的上面出现的，本公约采取的指数符号相反。
+
+=== 傅里叶级数 ===
+{{main|傅里叶级数}}
+连续形式的傅里叶变换其实是傅里叶级数（Fourier series）的推广，因为积分其实是一种极限形式的求和算子而已。对于周期函数，其傅里叶级数是存在的：
+
+:&lt;math&gt;f(x) = \sum_{n=-\infty}^{\infty} F_n \,e^{inx} ,&lt;/math&gt;
+
+其中&lt;math&gt;F_n&lt;/math&gt;为复振幅。对于实值函数，函数的傅里叶级数可以写成：
+
+:&lt;math&gt;f(x) = a_0 + \sum_{n=1}^\infty\left[a_n\cos(nx)+b_n\sin(nx)\right]&lt;/math&gt;
+
+其中''a''&lt;sub&gt;''n''&lt;/sub&gt;和''b''&lt;sub&gt;''n''&lt;/sub&gt;是[[实数|实]]频率分量的振幅。
+
+[[傅里叶分析]]最初是研究[[周期性]]现象，即傅里叶级数的，后来通过傅里叶变换将其推广到了非周期性现象。理解这种推广过程的一种方式是将非周期性现象视为周期性现象的一个特例，即其[[周期]]为无限长。
+
+=== 离散时间傅里叶变换 ===
+{{main|离散时间傅里叶变换}}
+
+离散傅里叶变换是[[离散时间傅里叶变换]]（DTFT）的特例（有时作为后者的近似）。DTFT在时域上离散，在频域上则是周期的。DTFT可以被看作是傅里叶级数的逆轉換。
+
+=== 离散傅里叶变换 ===
+{{main|离散傅里叶变换}}
+为了在科学计算和[[数字信号处理]]等领域使用计算机进行傅里叶变换，必须将函数''x''&lt;sub&gt;''n''&lt;/sub&gt;定义在''离散''点而非连续域内，且须满足[[有限性]]或[[周期性]]条件。这种情况下，使用离散傅里叶变换，将函数''x''&lt;sub&gt;''n''&lt;/sub&gt;表示为下面的求和形式：
+
+:&lt;math&gt;x_n = \sum_{k=0}^{N-1} X_k e^{-i\frac{2\pi}{N} kn} \qquad n = 0,\dots,N-1&lt;/math&gt;
+
+其中&lt;math&gt;X_k&lt;/math&gt;是傅里叶振幅。直接使用这个公式计算的[[计算复杂度]]为&lt;math&gt;\mathcal{O}(n^2)&lt;/math&gt;，而[[快速傅里叶变换]]（FFT）可以将复杂度改进为&lt;math&gt;\mathcal{O}(n \log n)&lt;/math&gt;。计算复杂度的降低以及数字电路计算能力的发展使得DFT成为在信号处理领域十分实用且重要的方法。
+
+=== 在阿贝尔群上的统一描述 ===
+
+以上各种傅里叶变换可以被更统一的表述成任意[[紧性|局部紧致]]的[[阿贝尔群]]上的傅里叶变换。这一问题属于[[调和分析]]的范畴。在调和分析中，一个变换从一个群变换到它的[[对偶群]]（dual group）。此外，将傅里叶变换与卷积相联系的卷积定理在调和分析中也有类似的结论。傅里叶变换的广义理论基础参见[[龐特里亞金對偶性]]（Pontryagin duality）中的介绍。
+
+=== 时频分析变换 ===
+{{main|时频分析变换}}
+[[小波变换]]，[[chirplet轉換]]和[[分数傅里叶变换]]试图得到时间信号的频率信息。同时解析频率和时间的能力在数学上受[[不确定性原理]]的限制。
+
+=== 傅里叶变换家族 ===
+主条目：[[傅立叶变换家族中的关系]]
+
+下表列出了傅里叶变换家族的成员。容易发现，函数在时（频）域的离散对应于其像函数在频（时）域的周期性.反之连续则意味着在对应域的信号的非周期性.
+
+{| align=center cellspacing="0" cellpadding="4" class=wikitable
+|- bgcolor="#CCCCCC"
+! 變換 || 時間 || 頻率
+|-
+|[[连续傅里叶变换]] || 連續，非週期性 ||連續，非週期性
+|-
+|[[傅里叶级数]]   || 連續，週期性 || 離散，非週期性
+|-
+|[[离散时间傅里叶变换]] || 離散，非週期性 || 連續，週期性
+|-
+|[[离散傅里叶变换]] || 離散，週期性 || 離散，週期性
+|}
+
+== 常用傅里叶变换表 ==
+下面的表记录了一些封闭形式的傅立叶变换。对于函数''f''(''x''), ''g''(''x'')和''h''(''x'')，它们的傅立叶变换分别表示为&lt;math&gt;\hat{f}&lt;/math&gt;, &lt;math&gt;\hat{g}&lt;/math&gt; 和&lt;math&gt;\hat{h}&lt;/math&gt;。只包含了三种最常见的形式。注意条目105给出了一个函数的傅里叶变换与其原函数，这可以看作是傅里叶变换及其逆变换的关系。
+
+=== 函数关系 ===
+下表列出的常用的傅里叶变换对可以在{{harvtxt|Erdélyi|1954}}或{{harvtxt|Kammler|2000|loc=appendix}}中找到。
+{| class="wikitable"
+! !! 函数 !! 傅立叶变换 &lt;br /&gt; 酉，普通的频率 !! 傅立叶变换 &lt;br /&gt; 酉，角频率 !! 傅立叶变换 &lt;br /&gt; 非酉，角频率 !!注释
+|-
+|
+| style="text-align:center;"|&lt;math&gt;\displaystyle f(x)\,&lt;/math&gt;
+| style="text-align:center;"|&lt;math&gt;\displaystyle \hat{f}(\xi)=&lt;/math&gt; &lt;br /&gt;
+&lt;math&gt;\displaystyle \int_{-\infty}^{\infty}f(x) e^{-2\pi i x\xi}\, dx &lt;/math&gt;
+| style="text-align:center;"|&lt;math&gt;\displaystyle \hat{f}(\omega)=&lt;/math&gt; &lt;br /&gt;
+&lt;math&gt;\displaystyle \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{\infty} f(x) e^{-i \omega x}\, dx &lt;/math&gt;
+| style="text-align:center;"|&lt;math&gt;\displaystyle \hat{f}(\nu)=&lt;/math&gt; &lt;br /&gt;
+&lt;math&gt;\displaystyle \int_{-\infty}^{\infty}f(x) e^{-i \nu x}\, dx &lt;/math&gt;
+|定义
+|-
+| 101
+|&lt;math&gt;\displaystyle a\cdot f(x) + b\cdot g(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle a\cdot \hat{f}(\xi) + b\cdot \hat{g}(\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle a\cdot \hat{f}(\omega) + b\cdot \hat{g}(\omega)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle a\cdot \hat{f}(\nu) + b\cdot \hat{g}(\nu)\,&lt;/math&gt;
+|线性
+|-
+| 102
+|&lt;math&gt;\displaystyle f(x - a)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle e^{-2\pi i a \xi} \hat{f}(\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle e^{- i a \omega} \hat{f}(\omega)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle e^{- i a \nu} \hat{f}(\nu)\,&lt;/math&gt;
+|时域平移
+|-
+| 103
+|&lt;math&gt;\displaystyle e^{ 2\pi iax} f(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f} \left(\xi - a\right)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(\omega - 2\pi a)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(\nu - 2\pi a)\,&lt;/math&gt;
+|频域平移，变换102的频域对应
+|-
+| 104
+|&lt;math&gt;\displaystyle f(a x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \frac{1}{|a|} \hat{f}\left( \frac{\xi}{a} \right)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \frac{1}{|a|} \hat{f}\left( \frac{\omega}{a} \right)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \frac{1}{|a|} \hat{f}\left( \frac{\nu}{a} \right)\,&lt;/math&gt;
+|在时域中定标。如果&lt;math&gt;\displaystyle |a|\,&lt;/math&gt;值较大，则&lt;math&gt;\displaystyle f(a x)\,&lt;/math&gt;会收缩到原点附近，而&lt;math&gt;\displaystyle \frac{1}{|a|}\hat{f} \left( \frac{\omega}{a} \right)\,&lt;/math&gt;会扩散并变得扁平。当&lt;math&gt;\displaystyle |a|\,&lt;/math&gt;趋向无穷时，成为[[狄拉克δ函数]]。
+|-
+| 105
+|&lt;math&gt;\displaystyle \hat{f}(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle f(-\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle f(-\omega)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle 2\pi f(-\nu)\,&lt;/math&gt;
+|傅里叶变换的二元性性质。这里&lt;math&gt;\hat{f}&lt;/math&gt;的计算需要运用与傅里叶变换那一列同样的方法。通过交换变量&lt;math&gt;x&lt;/math&gt;和&lt;math&gt;\xi&lt;/math&gt;或&lt;math&gt;\omega&lt;/math&gt;或&lt;math&gt;\nu&lt;/math&gt;得到。
+|-
+| 106
+|&lt;math&gt;\displaystyle \frac{d^n f(x)}{dx^n}\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle  (2\pi i\xi)^n  \hat{f}(\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle (i\omega)^n  \hat{f}(\omega)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle (i\nu)^n  \hat{f}(\nu)\,&lt;/math&gt;
+|傅里叶变换的微分性质
+|-
+| 107
+|&lt;math&gt;\displaystyle x^n f(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \left (\frac{i}{2\pi}\right)^n \frac{d^n \hat{f}(\xi)}{d\xi^n}\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle i^n \frac{d^n \hat{f}(\omega)}{d\omega^n}&lt;/math&gt;
+|&lt;math&gt;\displaystyle i^n \frac{d^n \hat{f}(\nu)}{d\nu^n}&lt;/math&gt;
+|变换106的频域对应
+|-
+| 108
+|&lt;math&gt;\displaystyle (f * g)(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(\xi) \hat{g}(\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \sqrt{2\pi} \hat{f}(\omega) \hat{g}(\omega)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(\nu) \hat{g}(\nu)\,&lt;/math&gt;
+|记号&lt;math&gt;\displaystyle f * g\,&lt;/math&gt;表示&lt;math&gt;f&lt;/math&gt;和&lt;math&gt;g&lt;/math&gt;的卷积—这就是[[卷积定理]]
+|-
+| 109
+|&lt;math&gt;\displaystyle f(x) g(x)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle (\hat{f} * \hat{g})(\xi)\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle (\hat{f} * \hat{g})(\omega) \over \sqrt{2\pi}\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \frac{1}{2\pi}(\hat{f} * \hat{g})(\nu)\,&lt;/math&gt;
+|变换108的频域对应。
+|-
+| 110
+|当&lt;math&gt;\displaystyle f(x)&lt;/math&gt;是实变函数
+|&lt;math&gt;\displaystyle \hat{f}(-\xi) = \overline{\hat{f}(\xi)}\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(-\omega) = \overline{\hat{f}(\omega)}\,&lt;/math&gt;
+|&lt;math&gt;\displaystyle \hat{f}(-\nu) = \overline{\hat{f}(\nu)}\,&lt;/math&gt;
+|埃尔米特对称。&lt;math&gt;\displaystyle \overline{z}\,&lt;/math&gt;表示[[复共轭]]。
+|-
+| 111
+|当&lt;math&gt;\displaystyle f(x)&lt;/math&gt;是实[[偶函数]]
+| colspan=3 style="text-align:center;"|&lt;math&gt;\displaystyle \hat{f}(\omega)&lt;/math&gt;, &lt;math&gt;\displaystyle \hat{f}(\xi)&lt;/math&gt;和&lt;math&gt;\displaystyle \hat{f}(\nu)\,&lt;/math&gt;都是实[[偶函数]]。
+|
+|-
+| 112
+|当&lt;math&gt;\displaystyle f(x)&lt;/math&gt;是实[[奇函数]]
+| colspan=3 style="text-align:center;"|&lt;math&gt;\displaystyle \hat{f}(\omega)&lt;/math&gt;, &lt;math&gt;\displaystyle \hat{f}(\xi)&lt;/math&gt;和&lt;math&gt;\displaystyle \hat{f}(\nu)&lt;/math&gt;都是[[虚数|虚]][[奇函数]]。
+|
+|-
+| 113
+| &lt;math&gt;\displaystyle \overline{f(x)}&lt;/math&gt;|| &lt;math&gt;\displaystyle \overline{\hat{f}(-\xi)}&lt;/math&gt; || &lt;math&gt;\displaystyle \overline{\hat{f}(-\omega)}&lt;/math&gt; || &lt;math&gt;\displaystyle \overline{\hat{f}(-\nu)}&lt;/math&gt; || [[复共轭]]，110的一般化
+|}
+
+=== 平方可积函数 ===
+{| class="wikitable"
+! !! 时域信号 !! 角频率表示的&lt;br /&gt;傅里叶变换!! 弧频率表示的&lt;br /&gt;傅里叶变换!! 注释
+|-
+|
+|align="center"|&lt;math&gt; g(t)\!\equiv\!&lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt; \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{\infty}\!\!G(\omega) e^{i \omega t} \mathrm{d} \omega \,&lt;/math&gt;
+|align="center"|&lt;math&gt; G(\omega)\!\equiv\!&lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt;\frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{\infty}\!\!g(t) e^{-i \omega t} \mathrm{d}t \,&lt;/math&gt;
+|align="center"|&lt;math&gt; G(f)\!\equiv &lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt;\int_{-\infty}^{\infty}\!\!g(t) e^{-i 2\pi f t} \mathrm{d}t \,&lt;/math&gt;
+|
+|-
+| 10
+|&lt;math&gt;\mathrm{rect}(a t) \,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2 \pi a^2}}\cdot \mathrm{sinc}\left(\frac{\omega}{2\pi a}\right)&lt;/math&gt;
+|&lt;math&gt;\frac{1}{|a|}\cdot \mathrm{sinc}\left(\frac{f}{a}\right)&lt;/math&gt;
+| [[矩形脉冲]]和归一化的[[sinc函数]]
+|-
+| 11
+|&lt;math&gt; \mathrm{sinc}(a t)\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2\pi a^2}}\cdot \mathrm{rect}\left(\frac{\omega}{2 \pi a}\right)&lt;/math&gt;
+|&lt;math&gt;\frac{1}{|a|}\cdot \mathrm{rect}\left(\frac{f}{a} \right)\,&lt;/math&gt;
+|变换10的频域对应。矩形函数是理想的低通滤波器，[[sinc函数]]是这类滤波器对[[反因果系统|反因果]]冲击的响应。 
+|-
+| 12
+|&lt;math&gt; \mathrm{sinc}^2 (a t) \,&lt;/math&gt;
+|&lt;math&gt; \frac{1}{\sqrt{2\pi a^2}}\cdot \mathrm{tri} \left( \frac{\omega}{2\pi a} \right) &lt;/math&gt;
+|&lt;math&gt; \frac{1}{|a|}\cdot \mathrm{tri} \left( \frac{f}{a} \right) &lt;/math&gt;
+| ''tri''是[[三角形函数]]
+|-
+| 13
+|&lt;math&gt; \mathrm{tri} (a t) \,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2\pi a^2}} \cdot \mathrm{sinc}^2 \left( \frac{\omega}{2\pi a} \right) &lt;/math&gt;
+|&lt;math&gt;\frac{1}{|a|}\cdot \mathrm{sinc}^2 \left( \frac{f}{a} \right) \,&lt;/math&gt;
+| 变换12的频域对应
+|-
+| 14
+|&lt;math&gt;e^{-\alpha t^2}\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2 \alpha}}\cdot e^{-\frac{\omega^2}{4 \alpha}}&lt;/math&gt;
+|&lt;math&gt;\sqrt{\frac{\pi}{\alpha}}\cdot e^{-\frac{(\pi f)^2}{\alpha}}&lt;/math&gt;
+|[[高斯函数]]&lt;math&gt;\exp(-\alpha t^2)&lt;/math&gt;的傅里叶变换是他本身.只有当&lt;math&gt;\mathrm{Re}(\alpha)&gt;0&lt;/math&gt;时，这是可积的。
+|-
+| 15
+|&lt;math&gt; e^{iat^2} = \left. e^{-\alpha t^2}\right|_{\alpha = -i a} \,&lt;/math&gt;
+|&lt;math&gt; \frac{1}{\sqrt{2 a}} \cdot e^{-i \left(\frac{\omega^2}{4 a} -\frac{\pi}{4}\right)}&lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{\pi}{a}} \cdot e^{-i \left(\frac{\pi^2 f^2}{a} -\frac{\pi}{4}\right)} &lt;/math&gt;
+| [[光学]]领域应用较多
+|-
+| 16
+|&lt;math&gt;\cos ( a t^2 ) \,&lt;/math&gt;
+|&lt;math&gt; \frac{1}{\sqrt{2 a}} \cos \left( \frac{\omega^2}{4 a} - \frac{\pi}{4} \right) &lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{\pi}{a}} \cos \left( \frac{\pi^2 f^2}{a} - \frac{\pi}{4} \right) &lt;/math&gt;
+| 
+|-
+| 17
+|&lt;math&gt;\sin ( a t^2 ) \,&lt;/math&gt;
+|&lt;math&gt; \frac{-1}{\sqrt{2 a}} \sin \left( \frac{\omega^2}{4 a} - \frac{\pi}{4} \right) &lt;/math&gt;
+|&lt;math&gt; - \sqrt{\frac{\pi}{a}} \sin \left( \frac{\pi^2 f^2}{a} - \frac{\pi}{4} \right) &lt;/math&gt;
+| 
+|-
+| 18
+|&lt;math&gt;\mathrm{e}^{-a|t|} \,&lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{2}{\pi}} \cdot \frac{a}{a^2 + \omega^2} &lt;/math&gt;
+|&lt;math&gt; \frac{2 a}{a^2 + 4 \pi^2 f^2} &lt;/math&gt;
+| ''a&gt;0''
+|-
+| 19
+|&lt;math&gt; \frac{1}{\sqrt{|t|}} \,&lt;/math&gt;
+|&lt;math&gt; \frac{1}{\sqrt{|\omega|}}&lt;/math&gt;
+|&lt;math&gt; \frac{1}{\sqrt{|f|}} &lt;/math&gt;
+| 变换本身就是一个公式
+|-
+| 20
+|&lt;math&gt; J_0 (t)\,&lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{2}{\pi}} \cdot \frac{\mathrm{rect} \left( \frac{\omega}{2} \right)}{\sqrt{1 - \omega^2}} &lt;/math&gt;
+|&lt;math&gt; \frac{2\cdot \mathrm{rect} (\pi f)}{\sqrt{1 - 4 \pi^2 f^2}} &lt;/math&gt;
+| ''J&lt;sub&gt;0&lt;/sub&gt;(t)''是[[贝塞尔函数|0阶第一类贝塞尔函数]]。
+|-
+| 21
+|&lt;math&gt; J_n (t) \,&lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{2}{\pi}} \frac{ (-i)^n T_n (\omega) \mathrm{rect} \left( \frac{\omega}{2} \right)}{\sqrt{1 - \omega^2}} &lt;/math&gt;
+|&lt;math&gt; \frac{2 (-i)^n T_n (2 \pi f) \mathrm{rect} (\pi f)}{\sqrt{1 - 4 \pi^2 f^2}} &lt;/math&gt;
+| 上一个变换的推广形式; ''T&lt;sub&gt;n&lt;/sub&gt; (t)''是[[切比雪夫多项式|第一类切比雪夫多项式]]。
+|-
+| 22
+|&lt;math&gt; \frac{J_n (t)}{t} \,&lt;/math&gt;
+|&lt;math&gt; \sqrt{\frac{2}{\pi}} \frac{i}{n} (-i)^n \cdot U_{n-1} (\omega)\,&lt;/math&gt;&lt;br /&gt;
+  &lt;math&gt;\cdot \ \sqrt{1 - \omega^2} \mathrm{rect} \left( \frac{\omega}{2} \right) &lt;/math&gt;
+|&lt;math&gt; \frac{2 \mathrm{i}}{n} (-i)^n \cdot U_{n-1} (2 \pi f)\,&lt;/math&gt;&lt;br /&gt;
+  &lt;math&gt;\cdot \ \sqrt{1 - 4 \pi^2 f^2} \mathrm{rect} ( \pi f ) &lt;/math&gt;
+| ''U&lt;sub&gt;n&lt;/sub&gt; (t)''是[[切比雪夫多项式|第二类切比雪夫多项式]]。
+|}
+
+=== 分布 ===
+{| class="wikitable"
+! !! 时域信号 !! 角频率表示的&lt;br /&gt;傅里叶变换!! 弧频率表示的&lt;br /&gt;傅里叶变换!! 注释
+|-
+| 
+|align="center"|&lt;math&gt; g(t)\!\equiv\!&lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt; \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{\infty}\!\!G(\omega) e^{i \omega t} d \omega \,&lt;/math&gt;
+|align="center"|&lt;math&gt; G(\omega)\!\equiv\!&lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt;\frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{\infty}\!\!g(t) e^{-i \omega t} dt \,&lt;/math&gt;
+|align="center"|&lt;math&gt; G(f)\!\equiv &lt;/math&gt;&lt;br /&gt;&lt;br /&gt;&lt;math&gt;\int_{-\infty}^{\infty}\!\!g(t) e^{-i 2\pi f t} dt \,&lt;/math&gt;
+|
+|-
+| 23
+|&lt;math&gt;1\,&lt;/math&gt;
+|&lt;math&gt;\sqrt{2\pi}\cdot \delta(\omega)\,&lt;/math&gt;
+|&lt;math&gt;\delta(f)\,&lt;/math&gt;
+|&lt;math&gt;\delta(\omega)&lt;/math&gt;代表[[狄拉克δ函数]]分布.这个变换展示了狄拉克δ函数的重要性：该函数是常函数的傅立叶变换
+|-
+| 24
+|&lt;math&gt;\delta(t)\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2\pi}}\,&lt;/math&gt;
+|&lt;math&gt;1\,&lt;/math&gt;
+|变换23的频域对应
+|-
+| 25
+|&lt;math&gt;e^{i a t}\,&lt;/math&gt;
+|&lt;math&gt;\sqrt{2 \pi}\cdot \delta(\omega - a)\,&lt;/math&gt;
+|&lt;math&gt;\delta(f - \frac{a}{2\pi})\,&lt;/math&gt;
+|由变换3和24得到.
+|-
+| 26
+|&lt;math&gt;\cos (a t)\,&lt;/math&gt;
+|&lt;math&gt;\sqrt{2 \pi} \frac{\delta(\omega\!-\!a)\!+\!\delta(\omega\!+\!a)}{2}\,&lt;/math&gt;
+|&lt;math&gt;\frac{\delta(f\!-\!\begin{matrix}\frac{a}{2\pi}\end{matrix})\!+\!\delta(f\!+\!\begin{matrix}\frac{a}{2\pi}\end{matrix})}{2}\,&lt;/math&gt;
+|由变换1和25得到，应用了[[欧拉公式]]：&lt;math&gt;\cos(a t) = (e^{i a t} + e^{-i a t})/2.&lt;/math&gt;
+|-
+| 27
+|&lt;math&gt;\sin( at)\,&lt;/math&gt;
+|&lt;math&gt;\sqrt{2 \pi}\frac{\delta(\omega\!-\!a)\!-\!\delta(\omega\!+\!a)}{2i}\,&lt;/math&gt;
+|&lt;math&gt;\frac{\delta(f\!-\!\begin{matrix}\frac{a}{2\pi}\end{matrix})\!-\!\delta(f\!+\!\begin{matrix}\frac{a}{2\pi}\end{matrix})}{2i}\,&lt;/math&gt;
+|由变换1和25得到
+|-
+| 28
+|&lt;math&gt;t^n\,&lt;/math&gt;
+|&lt;math&gt;i^n \sqrt{2\pi} \delta^{(n)} (\omega)\,&lt;/math&gt;
+|&lt;math&gt;\left(\frac{i}{2\pi}\right)^n \delta^{(n)} (f)\,&lt;/math&gt;
+|这里, &lt;math&gt;n&lt;/math&gt;是一个[[自然数]]. &lt;math&gt;\delta^{(n)}(\omega)&lt;/math&gt;是狄拉克δ函数分布的&lt;math&gt;n&lt;/math&gt;阶微分。这个变换是根据变换7和24得到的。将此变换与1结合使用，我们可以变换所有[[多項式]]。
+|-
+| 29
+|&lt;math&gt;\frac{1}{t}\,&lt;/math&gt;
+|&lt;math&gt;-i\sqrt{\frac{\pi}{2}}\sgn(\omega)\,&lt;/math&gt;
+|&lt;math&gt;-i\pi\cdot \sgn(f)\,&lt;/math&gt;
+|此处&lt;math&gt;\sgn(\omega)&lt;/math&gt;为[[符号函数]]；注意此变换与变换7和24是一致的.
+|-
+| 30
+|&lt;math&gt;\frac{1}{t^n}\,&lt;/math&gt;
+|&lt;math&gt;-i \begin{matrix} \sqrt{\frac{\pi}{2}}\cdot \frac{(-i\omega)^{n-1}}{(n-1)!}\end{matrix} \sgn(\omega)\,&lt;/math&gt;
+|&lt;math&gt;-i\pi \begin{matrix} \frac{(-i 2\pi f)^{n-1}}{(n-1)!}\end{matrix} \sgn(f)\,&lt;/math&gt;
+|变换29的推广.
+|-
+| 31
+|&lt;math&gt;\sgn(t)\,&lt;/math&gt;
+|&lt;math&gt;\sqrt{\frac{2}{\pi}}\cdot \frac{1}{i\ \omega }\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{i\pi f}\,&lt;/math&gt;
+|变换29的频域对应.
+|-
+| 32
+|&lt;math&gt; u(t) \,&lt;/math&gt;
+|&lt;math&gt;\sqrt{\frac{\pi}{2}} \left( \frac{1}{i \pi \omega} + \delta(\omega)\right)\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{2}\left(\frac{1}{i \pi f} + \delta(f)\right)\,&lt;/math&gt;
+|此处&lt;math&gt;u(t)&lt;/math&gt;是[[单位阶跃函数]];此变换根据变换1和31得到.
+|-
+| 33
+|&lt;math&gt; e^{- a t} u(t) \,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{\sqrt{2 \pi} (a + i \omega)}&lt;/math&gt;
+|&lt;math&gt;\frac{1}{a + i 2 \pi f}&lt;/math&gt;
+|&lt;math&gt;u(t)&lt;/math&gt;是[[单位阶跃函数]]，且&lt;math&gt;a &gt; 0&lt;/math&gt;.
+|-
+| 34
+|&lt;math&gt;\sum_{n=-\infty}^{\infty} \delta (t - n T) \,&lt;/math&gt;
+|&lt;math&gt;\begin{matrix} \frac{\sqrt{2\pi }}{T}\end{matrix} \sum_{k=-\infty}^{\infty} \delta \left( \omega -k \begin{matrix} \frac{2\pi }{T}\end{matrix} \right)\,&lt;/math&gt;
+|&lt;math&gt;\frac{1}{T} \sum_{k=-\infty}^{\infty} \delta \left( f -\frac{k }{T}\right) \,&lt;/math&gt;
+|[[狄拉克梳状函数]]（[[:en:Dirac comb|Dirac comb]]）——有助于解释或理解从连续到[[离散时间]]的转变.
+|}
+
+=== 二元函数 ===
+{| class="wikitable"
+! 
+!时域信号
+!傅立叶变换&lt;br&gt;单一，普通频率
+!傅立叶变换&lt;br&gt;酉，角频率
+!傅立叶变换&lt;br&gt;非酉，角频率
+|-
+| 400
+|  style="text-align:center"|&lt;math&gt;\displaystyle f(x,y)&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \hat{f}(\xi_x, \xi_y)=&lt;/math&gt; &lt;br&gt;&lt;math&gt;\displaystyle \iint f(x,y) e^{-2\pi i(\xi_x x+\xi_y y)}\,dx\,dy&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \hat{f}(\omega_x,\omega_y)=&lt;/math&gt; &lt;br&gt;&lt;math&gt;\displaystyle \frac{1}{2 \pi} \iint f(x,y) e^{-i (\omega_x x +\omega_y y)}\, dx\,dy&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \hat{f}(\nu_x,\nu_y)=&lt;/math&gt; &lt;br&gt;&lt;math&gt;\displaystyle \iint f(x,y) e^{-i(\nu_x x+\nu_y y)}\, dx\,dy&lt;/math&gt;
+|-
+| 401
+|  style="text-align:center"|&lt;math&gt;\displaystyle e^{-\pi\left(a^2x^2+b^2y^2\right)}&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{1}{|ab|} e^{-\pi\left(\xi_x^2/a^2 + \xi_y^2/b^2\right)}&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{1}{2\pi\cdot|ab|} e^{\frac{-\left(\omega_x^2/a^2 + \omega_y^2/b^2\right)}{4\pi}}&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{1}{|ab|} e^{\frac{-\left(\nu_x^2/a^2 + \nu_y^2/b^2\right)}{4\pi}}&lt;/math&gt;
+|-
+| 402
+| &lt;math&gt;\displaystyle \mathrm{circ}(\sqrt{x^2+y^2})&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{J_1\left(2 \pi \sqrt{\xi_x^2+\xi_y^2}\right)}{\sqrt{\xi_x^2+\xi_y^2}}&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{J_1\left(\sqrt{\omega_x^2+\omega_y^2}\right)}{\sqrt{\omega_x^2+\omega_y^2}}&lt;/math&gt;
+|  style="text-align:center"|&lt;math&gt;\displaystyle \frac{2\pi J_1\left(\sqrt{\nu_x^2+\nu_y^2}\right)}{\sqrt{\nu_x^2+\nu_y^2}}&lt;/math&gt;
+|}
+
+;注释
+
+''400：'' 变量''ξ&lt;sub&gt;x&lt;/sub&gt;''、''ξ&lt;sub&gt;y&lt;/sub&gt;''、''ω&lt;sub&gt;x&lt;/sub&gt;''、''ω&lt;sub&gt;y&lt;/sub&gt;''、''ν&lt;sub&gt;x&lt;/sub&gt;''和''ν&lt;sub&gt;y&lt;/sub&gt;''为实数。
+对整个平面积分。
+
+''401：'' 这两个函数都是高斯分布，而且可能不具有单位体积。
+
+''402：'' 此圆有单位半径，如果把circ（t）认作阶梯函数u(1-t); Airy分布用J&lt;sub&gt;1&lt;/sub&gt;（1阶[[贝塞尔函数#第一类贝塞尔函数|第一类贝塞尔函数]]）表达。{{harv|Stein|Weiss|1971|loc=Thm. IV.3.3}}
+
+=== 三元函数 ===
+{| class="wikitable"
+! 时域信号 !! 角频率表示的&lt;br /&gt;傅里叶变换!! 弧频率表示的&lt;br /&gt;傅里叶变换!! 注释
+|-
+|&lt;math&gt;\mathrm{circ}(\sqrt{x^2+y^2+z^2})&lt;/math&gt;
+|
+|&lt;math&gt; 4 \pi \frac{\sin[2 \pi f_r] - 2 \pi f_r \cos[2 \pi f_r]}{(2 \pi f_r)^3}&lt;/math&gt;
+| 此球有单位半径；f&lt;sub&gt;r&lt;/sub&gt;是频率矢量的量值{f&lt;sub&gt;x&lt;/sub&gt;,f&lt;sub&gt;y&lt;/sub&gt;,f&lt;sub&gt;z&lt;/sub&gt;}.
+|}
+
+== 参见 ==
+* [[正交变换]]
+* [[傅里叶级数]]
+* [[连续傅里叶变换]]
+* [[离散时间傅里叶变换]]
+* [[离散傅里叶变换]]
+* [[傅里叶分析]]
+* [[拉普拉斯变换]]
+* [[小波变换]]
+
+== 參考資料 ==
+{{reflist|2}}
+* R. N. Bracewell, The Fourier Transform and Its Applications, 3rd ed., Boston, McGraw Hill, 2000.
+* 電機電子類科《工程數學》，ISBN 957-584-377-0，作者陳錫冠、曾致煌老師，高立出版社。
+* {{citation|editor-last=Erdélyi|editor-first=Arthur|title=Tables of Integral Transforms|volume=1|publication-place=New Your|publisher=McGraw-Hill|year=1954}}
+* {{citation|first=David|last=Kammler|title=A First Course in Fourier Analysis|year=2000|publisher=Prentice Hall|isbn=0-13-578782-3}}
+* {{citation|last1=Stein|first1=Elias|authorlink1=Elias Stein|first2=Guido|last2=Weiss|authorlink2=Guido Weiss|title=Introduction to Fourier Analysis on Euclidean Spaces|publisher=Princeton University Press|year=1971|isbn=978-0-691-08078-9|location=Princeton, N.J. |url=http://books.google.com/books?id=YUCV678MNAIC&amp;dq=editions:xbArf-TFDSEC&amp;source=gbs_navlinks_s}}.
+
+== 外部連結 ==
+* [http://academicearth.org/courses/the-fourier-transform-and-its-applications Brad G. Osgood : The Fourier Transform and its Applications (video lectures)]
+
+[[Category:数字信号处理|F]]
+[[Category:傅里叶变换|*]]
+[[Category:积分变换|F]]
+[[Category:酉算子]]</str>
+    <str name="title">傅里叶变换</str>
+    <str name="titleText">傅里叶变换</str>
+    <str name="user">Alexander Misel</str>
+    <int name="userId">870953</int>
+    <int name="revision">33186929</int>
+    <date name="timestamp">2014-11-05T01:06:03Z</date>
+    <long name="_version_">1484748567528603649</long></doc>
+  <doc>
+    <str name="id">139286</str>
+    <str name="text">{{Expand|time=2012-01-16}}
+
+{{noteTA
+|G1=Communication|G2=Math|1=zh:傅里叶; zh-hans:傅里叶; zh-hant:傅立葉; 
+}}
+{{傅里叶变换}}
+在[[数学]]中，'''连续傅里叶变换'''是一个特殊的把一组[[函数]][[映射]]为另一组函数的[[线性算子]]。
+不严格地说，傅里叶变换就是把一个函数分解为组成该函数的连续频率谱。
+在[[数学分析]]中，信号&lt;math&gt;f(t)&lt;/math&gt;的傅里叶变换被认为是处在[[频域]]中的信号。
+这一基本思想类似于其他[[傅里叶变换]]，如周期函数的[[傅里叶级数]]。（参见[[分数阶傅里叶变换]]得到概况）
+
+假设&lt;math&gt;f&lt;/math&gt;是一个[[勒贝格积分|勒贝格可积]]的函数。
+我们定义其连续傅里叶变换&lt;math&gt;F&lt;/math&gt;也是一个复函数:
+
+对任意[[实数]] &lt;math&gt;\omega&lt;/math&gt;(这里&lt;math&gt;i&lt;/math&gt;是[[虚数单位]])，
+
+:&lt;math&gt; F(\omega) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty f(t) e^{- i\omega t}\,dt &lt;/math&gt;
+
+&lt;math&gt;\omega&lt;/math&gt; 为[[角频率]]，&lt;math&gt;F(\omega)&lt;/math&gt;为[[复数]]，并且是信号在该频率成分处的相位和幅度。
+
+傅里叶变换是[[雙射|自反映射]]，若 &lt;math&gt;F(\omega)&lt;/math&gt;如上定义，&lt;math&gt;f&lt;/math&gt;是連續的，则对于任意实数 &lt;math&gt;t&lt;/math&gt;
+
+:&lt;math&gt; f(t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{\infty} F(\omega) e^{ i\omega t}\,d\omega &lt;/math&gt;
+
+每个积分前的&lt;math&gt;1\over\sqrt{2\pi}&lt;/math&gt;为规范化因子。
+因子的选择是主观任意的，只要满足二者的乘积为&lt;math&gt;1 \over {2\pi}&lt;/math&gt;，如上取法称为归一化常数。
+另一种常见取法是前向方程和反向方程分别为&lt;math&gt;1&lt;/math&gt;和&lt;math&gt;1/2\pi&lt;/math&gt;。
+粗略估计，数学家通常使用前者（由于对称的原因），而物理学家和工程师们则常用后者。
+
+另外，傅里叶坐标&lt;math&gt;\omega&lt;/math&gt;有时可用&lt;math&gt;2 \pi \nu&lt;/math&gt;来代替，在[[频率]]&lt;math&gt;\nu&lt;/math&gt;上积分，这种情况下，归一化常数都变为单位&lt;math&gt;1&lt;/math&gt;。
+另一个主观的常规选择是，不管前向变换中的指数是&lt;math&gt;+i\omega t&lt;/math&gt;还是&lt;math&gt;-i\omega t&lt;/math&gt;，只要满足前向和反向方程中指数符号相反即可。
+
+==概述==
+
+==性质==
+
+==扩展到高维的情况==
+
+==一些重要的傅里叶变换==
+
+==参见==
+
+*[[傅里叶变换]]
+*[[傅里叶级数]]
+*[[离散傅里叶变换]]
+*[[拉普拉斯变换]]
+
+==外部链接==
+
+* [http://eqworld.ipmnet.ru/en/auxiliary/aux-inttrans.htm 积分变换表]在“数学公式世界”（EqWorld: The World of Mathematical Equations）
+
+[[Category:傅里叶变换|L]]
+
+[[de:Kontinuierliche Fourier-Transformation]]
+[[en:Continuous Fourier transform]]
+[[th:การแปลงฟูริเยร์ต่อเนื่อง]]</str>
+    <str name="title">连续傅里叶变换</str>
+    <str name="titleText">连续傅里叶变换</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25893708</int>
+    <date name="timestamp">2013-03-22T19:33:20Z</date>
+    <long name="_version_">1484748598846423041</long></doc>
+  <doc>
+    <str name="id">437125</str>
+    <str name="text">在[[线性代数]]中，'''循环矩阵'''是一种特殊形式的 [[Toeplitz矩阵]]，它的行向量的每个元素都是前一个行向量各元素依次右移一个位置得到的结果。由于可以用[[离散傅立叶变换]]快速解循环矩阵，所以在[[数值分析]]中有重要的应用。
+
+==定义==
+
+形式为
+
+:&lt;math&gt;
+C=
+\begin{bmatrix}
+c_1     &amp; c_2 &amp; c_3 &amp; \dots  &amp; c_n     \\
+c_n     &amp; c_1 &amp; c_2 &amp;        &amp; c_{n-1} \\
+c_{n-1} &amp; c_n &amp; c_1 &amp;        &amp; c_{n-2} \\
+\vdots  &amp;     &amp;     &amp; \ddots &amp; \vdots  \\
+c_2     &amp; c_3 &amp; c_4 &amp; \dots  &amp; c_1
+\end{bmatrix}
+&lt;/math&gt;
+
+的 &lt;math&gt;n\times n&lt;/math&gt; 矩阵 ''C'' 就是'''循环矩阵'''。
+
+==特性==
+循环矩阵遵循[[代数]]运算法则。对于两个循环矩阵 ''A'' 与 ''B'' 来说，''A'' + ''B'' 也是循环矩阵。''AB'' 也是循环矩阵，并且 &lt;math&gt;AB = BA&lt;/math&gt;。
+
+循环矩阵的[[特征向量]]矩阵是同样维数的离散[[傅立叶变换]]矩阵，因此循环矩阵的[[特征值]]可以很容易地通过[[快速傅立叶变换]]计算出来。
+
+==用循环矩阵来解线性方程==
+
+设矩阵方程
+:&lt;math&gt;
+\mathbf{C} \mathbf{x} = \mathbf{b}
+&lt;/math&gt;
+
+其中 ''C'' 是 ''n'' 维方形循环矩阵，这样就可以将方程表示成循环[[卷积]]
+
+:&lt;math&gt;\mathbf{c} * \mathbf{x} = \mathbf{b}&lt;/math&gt;
+
+其中 ''c'' 是循环矩阵 ''C'' 的第一列，''c''、''x''与''b''分别向每个方向循环。用[[离散傅立叶变换]]将循环卷积转换成两个变量之间的乘积
+
+:&lt;math&gt;\mathcal{F}_{n}(\mathbf{c} * \mathbf{x}) = \mathcal{F}_{n}(\mathbf{c}) \mathcal{F}_{n}(\mathbf{x}) = \mathcal{F}_{n}(\mathbf{b})&lt;/math&gt;
+
+因此
+
+:&lt;math&gt;\mathbf{x} = \mathcal{F}_{n}^{-1} 
+\left [ 
+\left (
+\frac{(\mathcal{F}_n(\mathbf{b}))_{\nu}}
+{(\mathcal{F}_n(\mathbf{c}))_{\nu}} 
+\right )_{\nu \in \mathbf{Z}}
+\right ].
+&lt;/math&gt;
+
+这个算法比标准的[[高斯消去法]]的速度要快很多，尤其是当使用[[快速傅立叶变换]]的时候更是如此。
+
+==在图论中的应用==
+
+在[[图论]]中，[[邻接矩阵]]为循环矩阵的[[图]]与[[有向图]]叫作'''轮换图'''。同样，如果图的[[自同构群]]包含全部的循环，那么图就是轮换图。[[Möbius ladder]] 就是轮换图的例子。
+
+==外部链接==
+*[http://www-ee.stanford.edu/~gray/toeplitz.pdf Toeplitz and Circulant Matrices: A Review, by R. M. Gray]
+
+[[Category:矩陣|X]]
+[[Category:数值线性代数|X]]</str>
+    <str name="title">循环矩阵</str>
+    <str name="titleText">循环矩阵</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25435449</int>
+    <date name="timestamp">2013-03-12T08:11:57Z</date>
+    <long name="_version_">1484748667769323520</long></doc>
+  <doc>
+    <str name="id">4254037</str>
+    <str name="text">{{noteTA
+|G1=教育與研究
+}}
+
+{{unreferenced|time=2014-09-24T14:49:31+00:00}}
+{{Infobox_Scientist
+| name = 约翰·图基
+| image = John Tukey.jpg
+| box_width = 
+| image_width = 220px
+
+| birth_date = {{Birth date|1915|6|16}}
+| birth_place =  [[美国]][[马萨诸塞州]]新贝德福德
+| death_date = {{death date and age|2000|7|26|1915|6|16}}
+| death_place =  美国[[新泽西州]]新不伦瑞克
+| residence =  美国
+| nationality = 美国
+| field = 数学家
+| work_institution = [[贝尔实验室]]&lt;br&gt;[[普林斯顿大学]]
+| alma_mater = [[布朗大学]]&lt;br&gt;普林斯顿大学
+| doctoral_advisor = [[所罗门·莱夫谢茨]]
+| doctoral_students = [[钟开莱]]
+| notable_students  = 
+| known_for  = [[库利－图基快速傅里叶变换算法|快速傅里叶变换]]&lt;br&gt;[[探索性数据分析]]&lt;br&gt;[[位元|比特]]&lt;br&gt;[[箱形图]]
+| influenced       = 
+| awards           = [[美国国家科学奖章]]
+| signature        =
+| footnotes =
+}}
+
+'''约翰·图基'''（{{lang|en|John Tukey}}，{{bd|1915年|6月16日|2000年|7月26日}}），美国著名数学家，[[库利－图基快速傅里叶变换算法|快速傅里叶变换]]发明人。
+曾获美国国家科学奖章，[[电气电子工程师学会]]荣誉勋章，和皇家科学院外籍院士。
+华裔概率论专家[[钟开莱]]的导师。
+{{美國學者小作品}}</str>
+    <str name="title">约翰·图基</str>
+    <str name="titleText">约翰·图基</str>
+    <str name="user">Wolffy chan</str>
+    <int name="userId">1479315</int>
+    <int name="revision">32772475</int>
+    <date name="timestamp">2014-09-24T06:49:33Z</date>
+    <long name="_version_">1484749508021583877</long></doc>
+  <doc>
+    <str name="id">330401</str>
+    <str name="text">在[[应用数学]]和[[物理学]]中，'''谱密度'''、'''功率谱密度'''和'''能量谱密度'''是一个用于信号的通用概念，它表示每赫兹的功率、每赫兹的能量这样的物理量纲。
+
+==解释==
+
+在[[物理学]]中，信号通常是波的形式，例如[[电磁波]]、[[随机振动]]或者[[声波]]。当波的频谱密度乘以一个适当的系数后将得到每单位频率波携带的[[功率]]，这被称为信号的'''功率谱密度'''（power spectral density, PSD）或者'''谱功率分布'''（spectral power distribution, SPD）。功率谱密度的单位通常用每[[赫兹]]的[[瓦特]]数（W/Hz）表示，或者使用波长而不是频率，即每纳米的瓦特数（W/nm）来表示。
+
+尽管并非一定要为信号或者它的变量赋予一定的物理量纲，下面的讨论中假设信号在时域内变化。
+
+==定义==
+
+===能量谱密度===
+
+'''能量谱密度'''描述的是信号或者[[时间序列]]的能量或者变化如何随着频率分布。如果 &lt;math&gt;f(t)&lt;/math&gt; 是一个有限能量信号，即平方可积，那么信号的谱密度 &lt;math&gt;\Phi(\omega)&lt;/math&gt; 就是信号[[连续傅里叶变换]]幅度的平方。
+
+:&lt;math&gt;\Phi(\omega)=\left|\frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty f(t)e^{-i\omega t}\,dt\right|^2 = \frac{F(\omega)F^*(\omega)}{2\pi}&lt;/math&gt;
+
+其中 &lt;math&gt;\omega&lt;/math&gt; 是角频率（循环频率的 &lt;math&gt;2\pi&lt;/math&gt; 倍），&lt;math&gt;F(\omega)&lt;/math&gt; 是 &lt;math&gt;f(t)&lt;/math&gt; 的连续傅里叶变换。 &lt;math&gt;F^*(\omega)&lt;/math&gt;是&lt;math&gt;F(\omega)&lt;/math&gt;的共轭函数。
+
+如果信号是离散的 &lt;math&gt;f_n&lt;/math&gt;，经过有限的元素之后，仍然得到能量谱密度：
+
+:&lt;math&gt;\Phi(\omega)=\left|\frac{1}{\sqrt{2\pi}}\sum_{n=-\infty}^\infty f_n e^{-i\omega n}\right|^2=\frac{F(\omega)F^*(\omega)}{2\pi}&lt;/math&gt;
+
+其中 &lt;math&gt;F(\omega)&lt;/math&gt; 是 &lt;math&gt;f_n&lt;/math&gt; 的[[离散时间傅里叶变换]]。如果所定义的数值个数是有限的，这个序列可以看作是周期性的，使用[[离散傅里叶变换]]得到离散频谱，或者用零值进行扩充从而可以作为无限序列的情况计算谱密度。
+
+乘数因子 &lt;math&gt;1/2\pi&lt;/math&gt; 经常不是绝对的，它随着不同傅里叶变换定义的归一化常数的不同而不同。
+
+===功率谱密度===
+
+上面能量谱密度的定义要求信号的傅里叶变换必须存在，也就是说信号平方可积或者平方可加。一个经常更加有用的替换表示是'''功率谱密度'''（PSD），它定义了信号或者时间序列的功率如何随频率分布。这里[[功率]]可能是实际物理上的功率，或者更经常便于表示抽象的信号被定义为信号数值的平方，也就是当信号的负载为1欧姆(ohm)时的实际功率。此瞬时功率（平均功率的中间值）可表示为：
+&lt;math&gt;
+P = s(t)^2\ .
+&lt;/math&gt;
+
+由于平均值不为零的信号不是平方可积的，所以在这种情况下就没有傅里叶变换。幸运的是[[维纳-辛钦定理]]（[[:en:Wiener-Khinchin theorem|Wiener-Khinchin theorem]]）提供了一个简单的替换方法，如果信号可以看作是平稳随机过程，那么功率谱密度就是信号[[自相关函数]]的傅里叶变换。
+
+信号的功率谱密度当且仅当信号是广义的[[平稳过程]]的时候才存在。如果信号不是平稳过程，那么自相关函数一定是两个变量的函数，这样就不存在功率谱密度，但是可以使用类似的技术估计时变谱密度。
+
+==属性==
+
+* &lt;math&gt;f(t)&lt;/math&gt; 的谱密度和 &lt;math&gt;f(t)&lt;/math&gt; 的[[自相关]]组成一个傅里叶变换对（对于功率谱密度和能量谱密度来说，使用着不同的自相关函数定义）。
+
+* 通常使用傅里叶变换技术估计谱密度，但是也可以使用如[[Welch法]]（[[:en:Welch's method|Welch's method]]）和[[最大熵]]这样的技术。
+
+* 傅里叶分析的结果之一就是[[傅里叶变换#基本性质|Parseval定理]]（[[:en:Parseval's theorem|Parseval's theorem]]），这个定理表明能量谱密度曲线下的面积等于信号幅度平方下的面积，总的能量是：
+
+::&lt;math&gt;\int_{-\infty}^\infty \left| f(t) \right|^2 dt = \int_{-\infty}^\infty \left| \Phi(\omega) \right|^2 \,d\omega.&lt;/math&gt;
+
+：上面的定理在离散情况下也是成立的。另外的一个结论是功率谱密度下总的功率与对应的总的平均信号功率相等，它是逐渐趋近于零的自相关函数。
+
+==相关概念==
+
+* 大多数“频率”图实际上仅仅表示了谱密度。有时完整的频率要用两部分来表示，一部分是对应于频率的“幅度”（它就是谱密度），另外一部分是对应于频率的“[[相位]]”（它包含了频谱中剩余的其它信息）。信号 f(t) 可以从一个完整的[[频谱]]进行恢复。需要注意的是 f(t) 不能仅仅从谱密度这一部分进行恢复——它丢失了“临时信息”。
+
+* 信号的 '''谱矩心'''（[[:en:spectral centroid|spectral centroid]]） 是谱密度函数的中点，也就是说将整个分布切分成两个相等部分的点。
+
+* 谱密度是频率的函数，而不是时间的函数。但是，也可以计算一个较长信号上一小段“窗口”的谱密度，并且根据与事件相关的窗口进行绘图，这样的图形称为[[频谱图]]（[[:en:spectrogram|spectrogram]])。这是[[短时傅里叶变换]]和[[小波]]等许多谱分析技术的基础。
+
+==应用==
+
+===电子工程===
+
+信号功率谱的概念和应用是电子工程的基础，尤其是在电子通信系统中，例如无线电和微波通信、雷达以及相关系统。人们已经花费了很大的精力和大量的金钱投入到开发、生产“[[频谱分析仪]]”这种电子设备，用来帮助电子工程师、技术人员、技工观察、测量电子信号的功率谱。频谱分析仪的价格根据带宽和精度的不同而不同，质量最好的仪器的价格超过 100，000 美元。
+
+===色度学===
+[[File:en:SPD.png|frame]]
+{{main|Colorimetry}}
+
+[[光源]]的频谱是每个频率携带的功率或者光源中“颜色”的度量。光谱通常是沿着[[可见光]]在波长空间而不是频率空间测量的不同点（通常是 31 个点）进行测量，它不是严格意义上的谱密度。一些[[分光光度计]]能够分辨高达 1 到 2 [[纳米]] 的增量精度，测量值用来计算其它的规格然后绘制出来显示光源的频谱属性。这对于分析特定光源的[[颜色]]特性来说是一个非常有用的工具。
+
+==参见==
+* [[噪声的颜色]]
+* [[谱泄漏]]
+* [[窗函数]]
+* [[频域]]
+* [[频谱]]
+* [[双谱]]
+
+==外部链接==
+
+* [http://documents.wolfram.com/applications/timeseries/UsersGuidetoTimeSeries/1.8.1.html Power Spectral Density Function] - from [[Wolfram Research]]'s "Time Series Documentation"
+
+[[Category:信号处理]]
+[[Category:振动和波]]</str>
+    <str name="title">谱密度</str>
+    <str name="titleText">谱密度</str>
+    <int name="revision">28046738</int>
+    <date name="timestamp">2013-08-02T01:02:26Z</date>
+    <long name="_version_">1484748650122838019</long></doc>
+</result>
+</response>

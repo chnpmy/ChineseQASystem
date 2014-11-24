@@ -1,0 +1,745 @@
+{{chembox
+| verifiedrevid = 371584718
+| ImageFile1 = Mercury-tetrafluoride-3D-balls.png
+| ImageFile2 = Mercury-tetrafluoride-2D.png
+| Section1 = {{Chembox Properties
+| Formula=HgF<sub>4</sub>
+| MolarMass=276.58}}
+}}
+'''四氟化汞'''是一种近期才合成的[[无机化合物]]，化学式为HgF<sub>4</sub>，它是化学家发现的一种[[汞]]的+4[[氧化态]]化合物。汞与其他[[锌族元素|IIB族元素]]（[[锌]]和[[镉]]）一样都具有ns<sup>2</sup>(n-1)d<sup>10</sup>的价[[电子构型]]，它们通常只用[[s轨道]]参与形成[[化学键]]。这意味着通常汞的最高氧化态为+2，正因为这样，汞通常被认为是[[后过渡元素]]而不是普通的[[过渡元素]]。
+
+== 历史 ==
+
+大约在20世纪70年代，化学家就开始了对汞元素高氧化态的推测，20世纪90年代的理论计算表明[[气相]]中d<sup>8</sup>电子构型的[[平面正方形]]分子能稳定存在。然而，制备它实验的直到最近的2007年才获得成功，在4[[开尔文|K]]的超低温下以固态[[氖]]和固态[[氩]]为基质，通过[[基质隔离]]技术制得了四氟化汞，并使用[[红外吸收光谱法]]进行分析。<ref>{{cite web |url=http://psichem.de/research/hg.php |title=High Oxidation States: Mercury tetrafluoride synthesized}}</ref><ref>{{cite web |url=http://www.speciation.net/Public/News/2007/10/12/3303.html |title=Elusive Hg(IV) species has been synthesized under cryogenic conditions |date=2007-10-12}}</ref>[[密度泛函理论]]的分析和[[偶合簇]][[量子化学]]计算表明，汞原子的[[d轨道]]参与了化学键的形成，这说明过去的看法是错误的，汞元素应当是一种[[过渡元素]]。<ref>{{cite journal |author=Xuefang Wang |coauthors=Lester Andrews; Sebastian Riedel; and Martin Kaupp |title=Mercury Is a Transition Metal: The First Experimental Evidence for HgF<sub>4</sub>. |journal=Angew. Chem. Int. Ed. |year=2007 |volume=46 |issue=44 |pages=8371–8375 |doi=10.1002/anie.200703710 |pmid=17899620}}</ref>但是这个结论引起了争论，[[威廉·巴里·简森]]（William Barry Jensen）认为四氟化汞只能在特殊的不平衡状态下存在，应当被看做一个特例。<ref>{{cite journal |title=Is Mercury Now a Transition Element? |author=William B. Jensen |journal=J. Chem. Educ. |year=2008 |volume=85 |pages=1182–1183 |url=http://jchemed.chem.wisc.edu/Journal/Issues/2008/Sep/abs1182.html |doi=10.1021/ed085p1182}}</ref>
+
+== 解释 ==
+
+理论研究表明汞是自然界存在的锌族元素中唯一一种能形成[[四氟化物]]的元素，这种现象可以归结于重元素的[[相对论效应]]较为明显。根据理论计算，相对论效应不明显的同族元素锌和镉所形成的四氟化物很不稳定，难以接受氟分子（F<sub>2</sub>），因此只能形成普通的金属二氟化物。此外，相对论效应更明显的112号元素——[[鎶]]形成的四氟化鎶可能会比四氟化汞更加稳定，但目前还没有任何有关实验的报道。
+
+== 其他研究 ==
+四氟化汞发现后，科学家对其他汞的高价化合物进行了研究。量子化学计算表明，三氟化汞[[键能]]很小，几乎不可能存在。而形成了两个[[氟桥]]键的二聚体{{chem|Hg|2|F|6}}稳定一些。[[阴离子]]{{chem|[HgF|4|]|-}}和{{chem|[HgF|5|]|2-}}比中性的三氟化汞更稳定。<ref>{{cite journal|coauthors=Kaupp, Martin, Pyykkö, Pekka|title=Quantum Chemical Study of Trivalent Group 12 Fluorides|journal=Inorganic Chemistry|date=2008-03-31|volume=47|issue=8|pages=3379–3383|doi=10.1021/ic702384y|last=Riedel|first=Sebastian}}</ref> 
+
+== 参考资料 ==
+{{reflist}}
+
+{{汞化合物}}
+
+[[Category:汞化合物]]
+[[Category:氟化物]]
+[[Category:金属卤化物]]
+{{nofootnotes|time=2010-11-13T02:33:12+00:00}}
+{{Elementbox
+|name=氟
+|enname=fluorine
+|pronounce={{IPAc-en|ˈ|f|l|ʊər|iː|n}}, {{IPAc-en|ˈ|f|l|ʊər|ɪ|n}}, {{IPAc-en|ˈ|f|l|ɔər|iː|n}}
+|number=9
+|symbol=F
+|left=[[氧]]
+|right=[[氖]]
+|above=-
+|below=[[氯]]
+|series=鹵素
+|series comment=
+|group=17
+|period=2
+|block=p
+|series color=ffff99
+|phase color=008000
+|appearance=氣態:淡黃色<br />液體:亮黃色<br />固態:透明(β),不透明 (α)
+|image name=Liquid fluorine tighter crop.jpg
+|image name comment=低溫中的液態氟
+|image alt=Small sample of pale yellow liquid fluorine condensed in liquid nitrogen
+|image name 2=
+|image name 2 comment=
+|atomic mass=18.9984032(5)<ref>{{cite journal|last1=Wieser|first1=Michael E.|last2=Coplen|first2=Tyler B.|journal=Pure and Applied Chemistry|title=Atomic weights of the elements 2009 (IUPAC Technical Report)|volume=83|doi=10.1351/PAC-REP-10-09-14|year=2010|accessdate=2011-06-02|pages=359–396}}</ref>
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=[氦] 2s<sup>2</sup> 2p<sup>5</sup>{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 1}}
+|electrons per shell=2, 7
+|color=
+|phase=氣態
+|phase comment=
+|density gplstp=1.696{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 2}}
+|density gpcm3nrt=
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.505<ref name="cpcv"/>
+|melting point K=53.53
+|melting point C=&minus;219.62
+|melting point F=&minus;363.32{{sfn|Dean|1999|p=3.29}}
+|boiling point K=85.03
+|boiling point C=&minus;188.12
+|boiling point F=&minus;306.62{{sfn|Dean|1999|p=3.29}}
+|triple point K=
+|triple point kPa=
+|critical point K=144.4
+|critical point MPa=5.215<ref name="cpcv"/>
+|heat fusion 2=
+|heat vaporization=6.51{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 2}}
+|heat capacity=(C<sub>p</sub>) (21.1&nbsp;°C) 825<ref name="cpcv"/> J·mol<sup>−1</sup>·K<sup>−1</sup><br />(C<sub>v</sub>) (21.1&nbsp;°C) 610<ref name="cpcv">{{cite book|author=Compressed Gas Association|title=Handbook of compressed gases|publisher=Springer|page=365|year=1999|isbn=9780412782305|accessdate=2011-06-01}}</ref>
+|vapor pressure 1=38
+|vapor pressure 10=44
+|vapor pressure 100=50
+|vapor pressure 1 k=58
+|vapor pressure 10 k=69
+|vapor pressure 100 k=85
+|vapor pressure comment=
+|crystal structure=簡單立方
+|crystal structure comment=此處的結構是指1大氣壓、熔點以下的固體氟。<ref name="phases">{{cite report|last=Young|first=David A.|publisher=Springer|title=Phase Diagrams of the Elements|page=10|year=1975|url=http://www.osti.gov/bridge/servlets/purl/4010212-0BbwUC/4010212.pdfaccess|date=2011-06-10}}</ref>
+|oxidation states=−1
+|oxidation states comment=
+|electronegativity=3.98{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 1}}
+|number of ionization energies=4
+|1st ionization energy=1,681{{sfn|Dean|1999|p=4.6}}
+|2nd ionization energy=3,374{{sfn|Dean|1999|p=4.6}}
+|3rd ionization energy=6,147{{sfn|Dean|1999|p=4.6}}
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=64{{sfn|Dean|1999|p=4.35}}
+|Van der Waals radius=135<ref name=Kim2006>{{Cite book | title = Functional dyes | year = 2006 | author = Kim, Sung-Hoon | page = 257 | isbn = 9780444521767 | publisher = Elsevier}}</ref>
+|covalent radius comment=
+|magnetic ordering=抗磁性{{sfn|Mackay|Mackay|Henderson|2002|p=72}}
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=0.02591{{sfn|Yaws|Braker|2001|p=385}}
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|EUClass=極毒 ('''T+''')
+|RPhrases={{R23/25}}, {{R33}}, {{R50/53}}
+|SPhrases={{S1/2}}, {{S20/21}}, {{S28}}, {{S45}}, {{S60}}, {{S61}}
+|NFPA-H=4
+|NFPA-F=0
+|NFPA-R=0
+|FlashPt=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7782-41-4{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 1}}
+|isotopes=
+{{Elementbox_isotopes_decay2 | mn=18 | sym=F | na=[[放射性同位素|微量]] | hl=109.77分| 
+dm1=[[正電子發射|β<sup>+</sup>]] (96.9%) | de1=0.634 | pn1=18 | ps1=[[氧|O]] |
+dm2=[[電子捕獲|ε]] (3.1%) | de2=1.656 | pn2=18 | ps2=[[氧|O]] }}
+{{Elementbox_isotopes_stable | mn=19 | sym=F | na=100% | n=10 }}
+|isotopes comment=參考文獻<ref name=Chiste>{{cite web|last=Chiste|first=V.|title=F-18|url=http://www.nucleide.org/DDEP_WG/Nuclides/F-18_tables.pdf|work=Table de radionucleides|publisher=Laboratoire National Henri Becquerel|accessdate=15 June 2011|coauthors=Be, M. M.|year=2006}}</ref>
+|predicted by=
+|prediction date=
+|discovered by=[[安德烈-瑪麗·安培]]
+|discovery date=1810
+|first isolation by=[[亨利·莫瓦桑]]{{sfn|Aigueperse et al.|2005|loc="Fluorine", p. 1}}
+|first isolation date=June 26, 1886
+|named by=[[漢弗里·戴維]]
+|named date=
+|history comment label=
+|history comment=
+}}<noinclude>
+{{Template reference list|note}}
+
+</noinclude>
+
+'''氟'''是一种[[卤素|卤族]][[化学元素]]，它的[[化学符号]]是'''F'''，它的[[原子序数]]是9。
+
+== 名稱由來 ==
+最初[[安德烈-玛丽·安培]]將之命名為Fluorine，該詞来自拉丁文fluere(意为流动)，也就是[[氟化钙]]（萤石）的最初用途——降低熔点；之後安培改稱為phthorine(Φθόριο,破壞的)，該詞来自[[希臘文]]；但是絕大部分語言多半已固定使用修改自Fluorine的名詞，因此此一新名稱只有[[希臘]]至今仍在使用。
+
+[[日文]]音譯[[德文]]Fluor的第一個發音而稱之為「弗素」。
+
+19世紀70年代化學家[[徐壽]]將H、O、N、F、Cl譯為輕氣、養氣、淡氣、弗氣、綠氣，直至1933年，化學家[[鄭貞文]]在其主持編寫出版的《化學命名原則》一書中改成氫、氧、氮、氟、氯，一直沿用至今。<ref>{{cite journal|author=劉懷樂|title=化學鑑源與略考|journal=化學教育|year=1994|issue=04|url=http://www.hxzxs.cn/html/4295.html|accessdate=2013-02-25}}</ref>
+
+== 性质 ==
+氟是一种具有极强腐蚀性的淡黄色[[双原子分子|双原子]]气体<ref>{{cite web|url = http://theodoregray.com/PeriodicTable/Samples/009.5/index.s12.html|title = Real visible fluorine|work = The Wooden Periodic Table|author =Theodore Gray}}</ref>。于是自然界电负性最强的元素（3.98鲍林标度），也是最强的单质氧化剂。在常温下，能同绝大多数[[元素]][[单质]]发生化合反应，并剧烈放热。和[[氢]]气即使在-250摄氏度的黑暗中混合也能发生爆炸，故液氟和液氢也用作高能[[火箭]]的液体燃料。由于氟的[[电负性]]是所有元素中最强的（鲍林标度），因此在所有的化合物中，氟都獲得电子，即显-1[[氧化态]]，或者说[[化合价]]是-1。在少量氟气通过冰面时反应生成不稳定的[[氟氧酸]]（HOF），其中的F仍为-1氧化态（氧为0价，氢为+1还原态）。
+
+由于氟的高度活性，[[稀有气体]]的化合物也是最早从氟或含氟化合物开始制备的。最早得到的是[[六氟合铂酸氙]]（XePtF<sub>6</sub>），此后还得到[[二氟化氙|XeF<sub>2</sub>]]、[[六氟化氙|XeF<sub>6</sub>]]、[[三氧化氙|XeO<sub>3</sub>]]以及[[氪]]的氟化物等。此外，氟单质也用于获得一些高价的[[过渡金属]]化合物，比如[[六氟合铜(IV)酸铯|Cs<sub>2</sub>CuF<sub>6</sub>]]、[[五氟化金|AuF<sub>5</sub>]]、[[六氟化铀|UF<sub>6</sub>]]等。
+
+氟及其一些化合物都有毒和较强的腐蚀性。[[氢氟酸]]可以腐蚀玻璃。而氟离子在人体组织内有渗透性。氢氟酸接触皮肤如不及时处理可以腐烂至骨而造成永久性的损伤，而氟离子可以和钙离子结合而使人发生中毒。而且氢氟酸的灼伤不易被发觉，一般是麻痹1-2小时后才有疼痛感。一旦接触氢氟酸，应该立即用大量水冲洗，并涂上20%[[氧化镁]]的[[甘油]]悬浮液。而[[氟磺酸|FSO<sub>3</sub>H]]、[[五氟化銻|SbF<sub>5</sub>]]等化合物具有远强于硫酸等一般强酸的酸性，特定比例的混合物甚至可以分解石蜡。参见[[超强酸]]。
+
+一般单质氟气以特制铜镍合金钢瓶贮存。在[[有机化学]]中使用氟气可以直接氟化[[羰基]]、[[羟基]]等[[官能团]]，其中使用的是掺有5%或10%氟的干燥氮气。
+
+链烷基上的氢可以完全或部分被氟取代。完全被氟取代的化合物通常称为“全氟代物”。与碳氢化合物不同，由于氟原子半径略大于氢原子，所以全氟碳链上的氟原子排列略呈螺旋状。这一类化合物具有与众不同的惰性。一般全氟的高分子非常稳定，耐热耐寒、抗腐蚀性强。如[[聚四氟乙烯]]（Teflon），可以耐高达260摄氏度的温度，不沾水和一般有机溶剂。故被用于制作不粘锅，以及一些化学反应容器。只有氟[[单质]]、[[三氟化氯]]、[[五氟化氯]]和熔融[[碱金属]]可以在高温下腐蚀聚四氟乙烯。全氟代有机物在室温下与一般溶剂难以互溶（[[醚]]、[[酯]]等除外），而加热后，溶解度有所增加。这类全氟代有机物用作溶剂时，在溶液中和有机溶剂、水分成单独的一个相，一般称作“氟碳相”。随着氟链的增长或者增多，全氟代有机物在有机溶剂和全氟溶剂中的[[溶解度]]都会显著下降。QSAR的计算表明，有机分子中，如果氟原子的质量比重超过60%，就可以呈现出“全氟”的特性。<ref>{{cite journal|author = Bernhard Stump, Christian Eberle, W. Bernd Schweizer, Marcel Kaiser, Reto Brun, R. Luise Krauth-Siegel, Dieter Lentz, François Diederich|doi = 10.1002/cbic.200800565|title = Pentafluorosulfanyl as a Novel Building Block for Enzyme Inhibitors: Trypanothione Reductase Inhibition and Antiprotozoal Activities of Diarylamines|year = 2009|journal = ChemBioChem|volume = 10|pages = 79|pmid = 19058274|issue = 1}}</ref>
+
+长链的简单全氟代有机物一般从长的直链单[[羧酸]]出发制备，通过[[电解]]它们和[[氟氢化钾]]的混合物，使链上的氢原子全部被氟原子取代，(如：[[全氟辛酸]])再进一步合成其他化合物。
+
+== 发现和单质制备 ==
+因为氟的化合物很稳定，所以氟单质很难分离。使用一般的化学方法，往往只能得到[[氟化氢]]。也正是这个原因，很多曾经尝试分离单质氟的化学家因此中毒，甚至献出生命。
+
+元素氟最终是由法国化学家[[亨利·莫瓦桑]]在1886年6月26日用[[铂]][[铱]]合金为阳极、金属铂为电解槽，电解氟化钾的20%无水氟化氢熔融液的方法首先分离出来的。此时距离元素氟的被发现已然近一百年，而亨利·莫瓦桑本人也因此获得1906年的[[诺贝尔化学奖]]。
+
+现在工业上仍然使用电解法制备单质氟。
+
+实验室中用化学方法制备单质氟是1986年Karl Christe报导的。以[[氟化氢|HF]]、[[氟化钾|KF]]、[[五氯化锑|SbCl<sub>5</sub>]]和[[高锰酸钾|KMnO<sub>4</sub>]]为原料，首先分别制备出K<sub>2</sub>MnF<sub>6</sub>和SbF<sub>5</sub>，再以K<sub>2</sub>MnF<sub>6</sub>和SbF<sub>5</sub>为原料制备MnF<sub>4</sub>，MnF<sub>4</sub>不稳定，可分解放出F<sub>2</sub>：
+: <math>\rm 2KMnO_4 + 2KF + 10HF + 3H_2O_2 \longrightarrow 2K_2MnF_6 + 8H_2O + 3O_2 </math>
+: <math>\rm SbCl_5 + 5HF \longrightarrow SbF_5 + 5HCl </math>
+: <math>\rm K_2MnF_6 + 2SbF_5 \longrightarrow 2KSbF_6 + MnF_4  </math> (在423K)
+: <math>\rm 2MnF_4 \longrightarrow 2MnF_3 + F_2 </math>
+
+不过该方法并无工业价值，只是证实了纯化学方法制备单质氟的可行性。
+
+== 用途 ==
+氟的用途包括：
+* 制造含氟高分子材料（如聚四氟乙烯塑料、含氟质子交换膜如[[杜邦]]公司[[Nafion]]膜等）。
+
+* 含氟农药。由于有机分子中的氟原子和三氟甲基等有强的亲酯性，故在农药分子中引入氟原子可以显著降低其用量。
+
+* 氟碳相的应用。利用氟碳相在高温与有机相互溶、低温下则不互溶的性质，可以用于萃取有机相中的含氟化合物。也可以由此特性使用亲氟或含氟的催化剂，在反应过程中使包含催化剂的氟碳相和有机相互溶，而反应完成后则降温，使大部分催化剂仍然留在氟碳相中，从而节约催化剂的用量。
+
+* 不少商家在[[牙膏]]中加入含氟化合物，但若吞食過量，可能導致休克甚至死亡。
+* [[氯氟碳化合物]]（[[氟氯代烷]]）（俗称[[氟里昂]]Freon）或者溴氟碳化合物等。被用作灭火剂和空调制冷剂。需要指出的是，导致臭氧层分解的是氟里昂因光解产生的氯自由基，而非氟原子。所以现在一些绿色冰箱制造商所打的“不含氟”口号容易造成“氟元素破坏臭氧层”的误解。其中的“氟”应为'''含氯'''的“氟里昂”。
+
+* [[六氟化铀]]（UF<sub>6</sub>），用于使用[[气体扩散法]]分离同位素[[鈾-235]]和[[鈾-238]]。和[[鈈-239]]一样，前者可以用于制造[[核弹]]。当一定形状的鈾-235超过[[临界质量]]后，中子可以引发其[[链式反应]]而瞬间释放巨大能量。而鈾-238则只能用于增殖弹。气体扩散法利用六氟化铀-235和六氟化铀-238分子质量的微小差异，通过扩散来富集前者。由于扩散速率和分子量的平方根成反比，所以这个方法需要庞大且耐腐蚀（六氟化铀易[[水解]]释放出有毒且腐蚀性的UO<sub>2</sub>F<sub>2</sub>和HF）的设备，因而代价高昂。二战时美国的“[[曼哈顿工程]]”就是通过这个方法浓缩到足够制造核弹的U-235的。
+
+
+* 人造血液。一些全氟醚类化合物可以携带氧气和部分人体需要的养料和排泄物等。在需要全身换血时，可以用它暂时代替病人体内的血液；由于其挥发性，待几天后可自行排出。因为全氟化合物很稳定，一般很少有毒副作用。
+{{Elements.links|F|9}}
+{{17族元素|F}}
+{{Diatomicelements}}
+
+[[Category:氟化剂]]
+[[Category:卤素]]
+[[Category:氟| ]]
+[[Category:第2周期元素|2G]]
+[[Category:化学元素|2G]]
+{{Link GA|cs}}
+'''同位素分离'''通过将某种[[化学元素]]的其它类型的[[同位素]]去除而达到浓缩某种特殊的同位素的目的。例如，通过同位素分离可以将天然[[铀]]分离成[[浓缩铀]]和[[贫铀]]，这是为核电站以及铀核武器制造铀燃料的关键技术。钚核武器所使用的钚在反应堆中制成，同样需要制备某种特别的同位素。同位素分离的理论由[[查尔斯·汤斯]]首先提出。化学元素的提纯可以通过化学过程，但是由于相同元素的同位素拥有几乎完全相同的化学性质，使得化学方法几乎无法分离同位素，除非是分离[[氘]]。
+
+==分离技术==
+分离同位素的方法主要有三种：
+#利用不同同位素[[相对原子质量]]的不同进行物理分离。
+#利用不同同位素相对原子质量的不同造成其在同一[[化学反应]]中[[反应速率]]的差别进行分离。
+#与同位素相对原子质量无关的方法（如[[原子核共振]]）进行分离。此方法仍在实验阶段。
+
+实际中应用的分离技术都在某种程度上利用了同位素相对原子质量上的差异。
+
+就一般情况而言，不同同位素相对原子质量的差异比较大，分离则相对容易。比如，[[氘]]的原子核的质量几乎是[[氕]]的两倍，因此，提纯氘要比在[[天然铀]]中分离[[铀-235]]与[[铀-238]]更容易。更极端的例子是将裂变物质[[钚-239]]和杂质[[钚-240]]分离，该项分离难度极大。
+
+（参见：[[浓缩铀]]）
+
+==多级浓缩==
+大规模的同位素分离方案通常会采用一系列相似的结构，每一级都将前一级的[[产物 (化学)|产物]]继续浓缩后提供给下一级，使同位素得到多次[[浓缩]]、[[富集]]。类似的，每一级产生的尾料都交返前一级再处理。这样形成的[[同位素提纯系统]]称为[[多级结构]]。
+
+影响多级结构分离同位素性能的因素主要有以下两点：
+
+#达到所需纯度的分级数。
+#[[同位素分离因子]]D（D是一个大于[[１]]的[[实数]]），其计算公式如下（M<sub>1</sub>与M<sub>2</sub>分别表示两种同位素的相对原子质量）：
+:<center><math>D=\sqrt{\frac{M_1}{M_2}}</math></center>
+
+==商业材料==
+
+到目前为止，大规模的商业化的同位素分离仅仅限于以下三种元素。每一中元素中，两种最常见的同位素中较为稀少的那个在核技术中有重要的应用，需要被浓缩提纯。
+*[[铀]]同位素需要被分离以提供[[浓缩铀]]作为[[核反应堆]]的燃料或者用于[[核武器]]中
+*[[氢]]同位素需要被分离以提供[[重水]]作为核反应堆中的中子减速剂
+*[[锂|锂-6]]需要被提纯以应用于[[热核武器]]中。
+
+其他的一些经过提纯的少量同位素会用于特殊的应用中，特别是半导体工业。经过提纯的[[硅]]会拥有更完美的[[晶体结构]]和热传导性能<ref>http://www.theregister.co.uk/2000/11/30/amd_tests_super_silicon/</ref>。
+
+同位素分离在民用和军用核技术中都有着重要应用，因此一个国家进行同位素分离的能力是其[[智库]]非常关心的问题。
+
+==替代方式==
+
+唯一能够替代同位素分离的方法是在制备所需要的同位素就将它提纯。这可以通过对一个合适的目标进行辐射，但是需要注意选择合适的目标以及注意其他的一些因素，以使得所需要的同位素是该元素惟一的产物。若生成其他元素的同位素并不是很大的问题，因为我们可以使用化学方法将它们除去。
+
+在制备核武器所使用的高纯度[[钚|钚-239]]时就需要注意这个问题。将钚-239与[[钚|钚240]]或者[[钚|钚241]]分离是非常困难的事情。[[可裂变物质|裂变物质]]钚-239通过[[铀|铀-238]]俘获一个中子而得到，但是再俘获一个中子将得到非裂变物质钚-240，更坏的情况是得到钚-241。因此，生产军用钚的铀只能接受辐射比较短的时间，以尽量减少不需要的同位素。
+
+==实际使用的分离方法==
+
+===扩散===
+
+扩散通常使用气体，但是也会使用液体。[[扩散]]方式的原理是在热平衡时，两种具有相同能量的同位素的平均速度会有所不同。较轻的原子（或者包含有该原子的分子）的速度运动的更快，也更容易穿过薄膜。由于速度之比与与质量比的平方根成正比，分离的效率其实并不高，因此为了得到高纯度需要很多级来进行分离。由于需要推动气体穿过薄膜，同时需要非常多的分级扩散装置，这种方法的成本非常高。
+
+美国在[[橡树岭国家实验室]]建成了世界上第一个大型气体扩散分离工厂，以大规模分离[[铀]]的同位素。该工厂是[[曼哈顿工程]]的一部分。工厂中使用了[[六氟化铀]]气体来进行分离。<ref>Rhodes, Richard, The Making of the Atomic Bomb, 1986, p. 494.</ref> 另见 [[气体扩散]].
+
+===气体离心法===
+{{main|气体离心法}}
+[[Image:Gas centrifuge cascade.jpg|right|150px|thumb|美国铀浓缩工厂中使用的多级气体离心机。]]
+
+[[气体离心法]]利用[[离心作用]]通过快速地旋转物质，使不同核素分离。该过程通常通过使用[[Z型离心机]]分离气体完成。
+
+利用[[离心机]]来分离同位素的方法首先由[[弗朗西斯·阿斯顿|阿斯顿]]和 Lindemann于1919年提出，<ref>F. A. Lindemann and F. W. Aston, The possibility of separating isotopes, ''Philos. Mag.'', 1919, '''37''', p. 523.</ref>在1936年，Beams和Haynes使用这种方法成功分离了[[氯]]的同位素。然而，在曼哈顿工程中，这种方式因产量太低而未被选用。但是在现代，这种方式仍为了分离铀的同位素的主要方式，气体离心法也因此成为了一种相对保密的技术，阻碍了各国对这个技术的理解及掌握。
+
+外界气体离心法的主要了解有：气体离心法的大致过程为UF<sub>6</sub>气体先被送进中心层，随后送入其他级。<ref>Stanley Whitley, Review of the gas centrifuge until 1962. Part I: Principles of separation	physics, Rev. Mod. Phys., 1984, '''56''', pp. 41-66.</ref> 由于达到同样的浓度气体离心法需要的级数比较少，消耗的能量也就大幅度下降。实际上，在如今生产浓缩铀的过程中，气体离心技术已经替代了气体扩散技术。
+
+由于达到同样的浓度需要的能量比较少，工厂的规模也得以大幅减小，使得一些较小的国家也有可能试图生产[[核武器]]。[[巴基斯坦]]的核武器中的铀很可能就是采用这种方式进行生产的。
+
+====其他离心分离技术====
+*[[南非]]在其的[[赫利孔涡流分离]]中使用了[[涡流管]]来进行同位素分离。气体被注入一个有特殊几何形状的空间后，空间的特殊形状可以使气流旋转得非常快，并使同位素分离。由于涡流管没有可移动的零件，这种方式非常简单，但是需要大量的能量。这种方式所需的能量大约是气体离心法的50倍。
+
+*一个七赫利孔涡流分离但较为简单的名为“[[喷气机喷口]]”的方法后来在[[德国]]创立，德国在[[巴西]]建造了一个示范工厂，同时正努力建造一个能够提供他们国家国家核电站所需燃料的工厂。
+
+===电磁场===
+
+[[Image:Diagram of uranium isotope separation in the calutron.png|thumb|right|200px|使用[[电磁同位素分离器]]对铀同位素素分离的示意图]] 
+
+这种方法是一种[[质谱]]法，同时这也是该方法的另一个名字。它利用带电粒子在磁场作用下会发生偏转，而偏移量于例子的质量有关这个性质将同位素分离。由于这种方法的产量极低，通过该方法分离同位素的成本非常高昂，但是分离的纯度相当高。这种方法经常被用来处理很少量纯粹的同位素为研究或者其他特殊的应用（如[[同位素示踪]]）使用，但是无法用于大规模的工业化生产。
+
+在[[橡树岭 (田纳西州)|橡树岭]]和[[伯克利加州大学]]， [[欧内斯特·劳伦斯]]研究了电磁法分离铀。美国第一颗原子弹使用的大部分铀都是由这个方法提供的（参见[[曼哈顿工程]]）。使用这个原理分离的设备被称为[[电磁同位素分离器|卡留管]]。战后，由于这种方法很不实用而几乎被舍弃。它仅仅在不计代价的保证需要足够的核原料的情况下才被采用。它在战后的主要工作是将气体扩散工厂生成的核原料进行进一步的浓缩。
+
+===激光===
+
+在这种方法中，[[激光]]被调整为某一个适当的波长使得核原料中仅仅某一中同位素可以被激发和电离。同位素对光的共振吸收与原子核的质量和某种电子与原子核间[[超精细结构|超精细作用]]有关，因此可以通过精确调节激光的波长使其仅与某种特定的同位素发生作用。原子核电离以后，它可以通过施加一个外加的[[电场]]从样品中移除。这种方式经常被称为[[原子蒸汽激光同位素分离]]。这种方法在近年来激光技术改进后才发展起来，但是现在仍然没有大规模使用。然而，由于于其它方法相比，这种方法可能成本更加低，也更容易被隐藏，这种方法在[[核扩散]]领域内引起广泛关注。这种方法中使用的[[可调谐激光]]包括[[染料激光]]<ref>[[F. J. Duarte]] and L.W. Hillman (Eds.), Dye Laser Principles (Academic, New York, 1990) Chapter 9.</ref>和更新的[[激光二极管]]。
+
+激光同位素分离的第二种方法被称为[[分子激光同位素分离]]。这种方法使用红外激光来照射[[六氟化铀]]气体，并将那些包含有铀-235原子核的分子激发。第二个激光可以将一个[[氟]]原子从被激发的分子中释放出来，形成[[五氟化铀]]，而这种物质可以从气体中沉淀出来。由于这种方法的产物五氟化铀必须重新被氟化成六氟化铀才能进行下一级提纯，这种方法很难以被多极化。这种方法如今正在被改进，以使得仅仅通过一级就可以将铀-235的浓度提升至95%。这个方法目前仍无法工业化。
+
+最后，由[[澳大利亚]]的[[西勒克斯系统公司]]开发的第三代激光铀浓缩技术[[SILEX]]最近被授权给[[通用电气]]，以建立一个小规模的浓缩工厂。这种方法同样使用六氟化铀作为原料，在同位素被电离以后使用磁场将其分离出去。进一步的技术细节没有被透露。
+
+===化学方法===
+
+尽管通常情况下人们认为同种元素的不同同位素拥有相同的化学性质，但严格来说这并不成立。其实，原子质量会非常轻微的影响[[反应速度]]。
+
+利用化学方法进行分离较轻的原子核将会更加有效，比如分离[[氢]]的同位素。轻一些的同位素更容易发生反应，蒸发的也比重同位素快，这样就可以通过化学方法将他们分离。这也是商业化[[重水]]的生产方法，技术细节参见[[Girdler硫化过程]]。轻一些的同位素在电场的作用下分离的更快。在德国[[尤坎]]的重水生产基地就利用这个性质进行了多级工业化生产。
+
+利用[[动力学同位素效应]]对同位素进行分离的备选方案可能最终被用于分离[[氚]]。将氚化的甲酸阴离子氧化为氚化水的效应如下：
+
+<table class="wikitable"> 
+<tr><td width="200">k(HCO<sub>2-</sub>) = 9.54 M<sup>−1</sup>s<sup>−1</sup>
+<td width="200">k(H)/k(D) = 38
+
+<tr><td>k(DCO<sub>2-</sub>) = 9.54 M<sup>−1</sup>s<sup>−1</sup>
+<td>k(D)/k(T) = 8.1
+
+<tr><td>k(TCO<sub>2-</sub>) = 9.54 M<sup>−1</sup>s<sup>−1</sup>
+<td>k(H)/k(T) = 305
+</table>
+
+===重力===
+
+[[碳]]、[[氧]]和[[氮]]的同位素可以通过在很高的分离塔（大约70到200米）中将它们的气体单质或者气体化合物冷却至接近液化温度从而得到分离。比较重的元素会下沉，而比较轻的元素会上浮，这样就很容易被收集了。这种方式在1960年代末由[[洛斯阿拉莫斯国家实验室]]的科学家发明[http://www.lanl.gov/quarterly/q_w03/spotlight.shtml]。 这种方式也被称为''低温蒸馏''[http://www.lanl.gov/orgs/pa/News/080801.html]。
+
+==分离功单位==
+
+''分离功单位''是一个复杂的计量单位。它是用于处理的铀的数量和得到的纯度的函数，也就是铀-235在经过浓缩以后的所增加的比例。如果原料和产物的数量都使用千克进行计算，这个计量单位被用于衡量分离单位质量的同位素所小号的能量。
+
+例如，如果有100千克天然铀，那么需要60SWU易产生10千克的U-235纯度为4.5%的铀。
+
+==参考==
+{{reflist}}
+
+==外部链接==
+
+
+{{核技术}}
+
+[[Category:核能科技|T]]
+
+[[sv:Anrikning]]
+{{Infobox scientist
+|name = 亨利·莫瓦桑<br>Henri Moissan
+|image = Henri_Moissan.jpg
+|image_size = 180px
+|birth_date = {{Birth date|1852|9|28|mf=y}}
+|birth_place = 法国巴黎
+|nationality = {{FRA}}
+|death_date = {{death date and age|1907|2|20|1852|9|28}}
+|death_place =  法国巴黎
+|field = [[化学]]
+|work_institution = [[Sorbonne]]
+|alma_mater = [[Collège de Meaux]]<br>[[高等研究应用学院]]
+|doctoral_advisor = [[Pierre Paul Dehérain]]
+|doctoral_students = [[Paul Lebeau]]<br/>[[Maurice Meslans]]
+|known_for  =制备了[[氟]]单质
+|prizes =   [[Elliott Cresson Medal]]（1898年）<br>[[File:Nobel_prize_medal.svg|20px]][[诺贝尔化学奖]]（1906年）
+|religion = Christian
+|signature=Henri Moissan signature 2.jpg
+|footnotes = 
+|spouse=Marie Léonie Lugan Moissan (m. 1882; 1 child)
+}}
+
+'''亨利·莫瓦桑'''（{{lang-fr|'''Henri Moissan'''}}，{{bd|1852年|9月28日|1907年|2月20日|catIdx=M}}），[[法国]][[化学家]]，获得1906年[[诺贝尔化学奖]]。
+
+莫瓦桑长期从事[[无机化学]]的研究，他在不良的实验室条件下，首次成功地离析了元素[[氟]](1886年)；深入研究[[氟化物]]和金属[[氢化物]]的性质；1892年他发明了[[电炉]]，将实验室[[化学反应]]的温度成功地提高到2000[[摄氏度]]，利用它制得金属[[碳化物]]、[[碳化硅]]和人造[[金刚石]]。
+
+莫瓦桑1886年任巴黎药学院毒物学教授，1889年起任[[巴黎大学]]科学学院教授。先后获得[[法国科学院]]、[[英国皇家学会]]、[[德国化学会]]等机构颁发的多项奖金。1907年莫瓦桑死于心脏病，临终前他承认，氟夺走了他十年的生命。
+
+== 求学经历 ==
+莫瓦桑生于一个铁路职工家庭，家境贫寒，甚至难以供给他读书，直到莫瓦桑12岁时才开始入读小学。莫瓦桑读书时非常勤奋，成绩很好，对化学很有兴趣，但由于家境扃困，中学尚未毕业便不得不辍学以谋生计。20岁时莫瓦桑进入一家药店做学徒工，在药店的工作使他获得了很多学习化学知识的机会。1872年，[[法国自然博物馆]]馆长化学家弗雷米招聘助理实验员，莫瓦桑前往应聘，成功地进入了弗雷米的实验室工作。1874年，莫瓦桑通过了法国中学会考，获得了中学毕业的学历，同年他转投巴黎药学院台赫伦教授的实验室。1877年莫瓦桑获得理学[[学士]]学位。获得学士学位后，莫瓦桑继续在巴黎药学院从事研究工作，其研究课题是自然铁，他经过实验验证了自然铁是高度分散的金属[[铁]]，否定了此前德国化学家提出的自然铁是[[氧化亚铁]]的理论，由于莫瓦桑在这一领域的出色工作，1879年莫瓦桑被任命为巴黎药学院实验室主任，不久后获得巴黎大学授予的[[博士]]学位。
+
+== 制备氟单质 ==
+制备单质氟是莫瓦桑一生中最重要的工作之一，正是这项出色的工作使他获得了1906年的诺贝尔化学奖。制备单质氟是化学史上最困难的工作之一，1810年，法国化学家安培第一次提出氟这种元素的存在。在此后的76年中，戴维、诺克斯兄弟、鲁耶特、戈尔以及莫瓦桑的导师弗雷米等著名化学家先后进行过制备单质氟的尝试，均以失败而告终，一些人甚至因此而中毒死亡。
+
+莫瓦桑首先尝试用[[氟化磷]]与[[氧气]]反应制备氟气单质，但是实验得到的是[[氟氧化磷]]。随后莫瓦桑开始寻找低温条件下处于液态的氟化合物，以进行低温电解实验制备氟气。他首先尝试了氟化砷，氟化砷室温下是一种液体，为了提高[[电导率]]，莫瓦桑向氟化砷中加入了[[氟化钾]]，但是反应过程中沉积在阴极的单质[[砷]]阻碍了电流的传导。莫瓦桑本人则因为长期接触氟化砷而中毒，不得不暂时中止了实验。
+
+经过一段时间休养之后，莫瓦桑的健康状况有所好转，他随即重新开始制备氟的实验。这一次他选择液化的[[氟化氢]]作为[[电解液]]，在[[萤石]]质地的反应容器中用[[铂铱合金]]的[[电极]]进行电解，并且终于获得成功。
+
+1886年6月28日莫瓦桑在巴黎药学院的导师德布雷致信法国科学院，介绍了莫瓦桑的实验。不久法国科学院组织了一个审查委员会，对莫瓦桑的实验进行审查。然而在第一次审查中，莫瓦桑的电解装置没有[[电流]]通过，也没有制备出氟气。莫瓦桑检查实验之后发现由于使用的氟化氢纯度过高，电导率很低，导致实验失败。数日后莫瓦桑在液态氟化氢中加入一定量的氟化钾重新实验，这一次实验成功并获得审查委员会的承认。为了奖励莫瓦桑，[[法国科学院]]发给他一万[[法郎]]的拉·卡泽奖金。四个月后，莫瓦桑被任命为巴黎药学院毒物学教授，并建立了一间私人实验室。两年后莫瓦桑获评为法国医学科学院院士，三年后获评为法国科学院院士。
+
+== 其他研究 ==
+除了运用电解法制备出氟气，莫瓦桑还进行很多研究。莫瓦桑研究了纯化氟气的方法，他用液态空气冷凝法去除氟气中的氟化氢。莫瓦桑还深入研究了高纯度氟气的化学性质，他首次指出干燥而纯净的氟气并非像此前人们想象的那么活泼，它甚至能够短时间的存贮于[[玻璃]]器皿中。
+
+莫瓦桑研究了氟的化合物，他先后合成了氟与[[铂]]、[[铱]]、[[碱土金属]]等的无机氟化合物；制备了氟代烃，并测定了这种化合物的性质；制备了六氟化硫并测定了其性质。由莫瓦桑首先制备的[[氟代烃]]是现在应用最广的制冷剂[[氟利昂]]的前身，而[[六氟化硫]]的化学性质非常稳定，在高温下亦不会分解，是应用非常广泛的气体绝缘材料。莫瓦桑对氟的研究最终发表于《氟及其化合物》(''Le fluor et ses composes'')一书中。从1890年代起，莫瓦桑开始研究单质硼的制备，他在[[氢气]]气氛下用金属[[镁]][[还原反应|还原]][[三氧化二硼]]获得高纯度的单质硼。
+
+在制备单质硼的同时，莫瓦桑还从事人造金刚石的研究。他试图建立一种模拟天然金刚石形成的条件，将[[石墨]]和[[无定形碳]]转化为金刚石。莫瓦桑以铁为介质模拟必须的环境，他用[[石墨]][[坩锅]]将金属铁加热熔融，在此过程中铁被碳饱和，随即迅速将熔融的铁液倒入水中冷却，由于含碳的铁在凝固过程中会发生膨胀，铁块的内部压强会迅速上升，从而模拟出一种高温高压的环境，待铁完全固化，用酸将金属融蚀便获得黑色的人造金刚石。用这种方法制造的金刚石粒度很小，不能作为宝石，但是可以用于工业用途。
+
+莫瓦桑还长期从事[[金属氢化物]]的研究，他用氢气与多种金属反应制备了[[氢化钙]]、[[氢化钠]]、[[氢化钾]]、[[氢化铷]]等多种化合物并深入研究了其性质。莫瓦桑在这一领域的研究是具有开创性的。
+
+莫瓦桑的另一项杰出贡献是发明了电炉。电炉又称作[[莫氏炉]]，其原理是利用[[电极]]间的[[弧光放电]]获得高温，这种电炉使得化学反应的温度提升到2000℃从而开创了[[高温化学]]这一新的研究领域。
+
+== 荣誉 ==
+由于莫瓦桑在诸多领域的杰出贡献，他一生获得了很多荣誉。他曾经获得英国皇家学会的[[戴维奖]]、法国科学院的[[拉·卡泽奖]]、德国化学会颁发的[[霍夫曼奖]]。1906年莫瓦桑获得了诺贝尔化学奖。莫瓦桑病逝后，其独子死于[[第一次世界大战]]，他的遗产由巴黎药学院设立了两个奖学金，以莫瓦桑夫妇的名字分别命名为莫瓦桑化学奖和路更药学奖。
+
+== 参考资料 ==
+* [http://nobelprize.org/nobel_prizes/chemistry/laureates/1907/buchner-bio.html 诺贝尔官方网站关于亨利·莫瓦桑介绍]
+
+{{诺贝尔化学奖获得者 (1901年－1925年)}}
+
+{{DEFAULTSORT:Moissan, Henri}}
+[[Category:法国化学家]]
+[[Category:诺贝尔化学奖获得者]]
+[[Category:法兰西科学院院士]]
+[[Category:化學元素發現者]]
+{{Distinguish|氧化数|化合价}}
+'''氧化态'''（英文：Oxidation State）表示一个[[化合物]]中某个[[原子]]的[[氧化]]程度。形式氧化态是通过假设所有异核[[化学键]]都为100%[[离子键]]而算出来的。氧化态用[[阿拉伯数字]]表示，可以为正数、负数或是零。
+
+氧化态的升高称为[[氧化]]，降低则称为[[还原]]。这两个过程涉及[[电子]]的形式转移，即总体上看，还原是获得电子的过程，而氧化是失去电子的过程。
+
+[[IUPAC]]对氧化态的定义为：<ref>[http://www.iupac.org/goldbook/O04365.pdf IUPAC Gold Book]</ref>
+
+<blockquote>“'''氧化态'''：一种[[化学物质]]中某个原子氧化程度的量度。根据以下公认的规则可计算该原子的电荷：
+#[[单质]]的氧化态为零；
+#对于单原子[[离子]]，该原子的氧化态与离子的净电荷相等；
+#大多数化合物中，[[氢]]的氧化态为+1，[[氧]]的氧化态为-2（例外有：活泼金属[[氢化物]]中，氢的氧化态为-1；[[过氧化物]]中，氧的氧化态为-1）；
+#中性分子中，各原子氧化态的代数和为零；离子中，各原子氧化态代数和与离子的电荷相等。例如，H<sub>2</sub>S，S<sub>8</sub> （单质硫），SO<sub>2</sub>，SO<sub>3</sub> 和 H<sub>2</sub>SO<sub>4</sub> 中，硫原子的氧化态分别为：-2，0，+4，+6 和 +6。某原子的氧化态越高，其氧化程度越高；某原子的氧化态越低，其还原程度越高。” </blockquote>
+
+== 形式氧化态的计算 ==
+有两种方法可以计算化合物中某原子的氧化态。第一种方法适用于容易画出[[路易斯结构]]的[[分子]]，通常情况下为[[有机化合物|有机分子]]；而第二种方法不需要路易斯结构，也不必为分子，适用于较简单的化合物。
+
+需要注意的是，一个原子的氧化态并不等于这个原子的实际电荷。尤其对于高氧化态的原子而言，其生成高价[[阳离子]]的[[电离能]]可能要比[[化学反应]]中实际的能量高出很多。原子之间氧化态的分配纯粹是形式上的。这种方法有助于理解化学反应的机理。
+
+=== 从路易斯结构计算 ===
+当一个分子的路易斯结构可以被画出来时，很明显氧化态可通过比较中性原子的[[价电子]]数和路易斯结构中该原子所拥有的电子数来计算。为了计算，异核化学键的成键电子归属于[[电负性]]较强的原子；同核化学键的成键电子在两个原子间平等分配；而[[孤对电子]]则归属于其相应含有孤对电子的原子。
+
+例如，对于[[乙酸]]：
+
+:[[File:Acetic acid structures4.png|400px]]
+
+由于碳电负性高于氢，因此[[甲基]]中的碳原子可以从三个氢原子“得到”6个价电子。同理，由于是同核化学键，因而这个碳原子在 C-C 键中获得1个价电子。加上前面的6个则总共有7个价电子。中性碳原子有4个价电子（碳位于第14族），因此甲基碳的氧化态为 4 - 7 = -3（C<sup>3−</sup>），当然这是在假设所有键都是离子键的前提下得出的。
+
+使用相同的规则可以得出，[[羧基]]中碳原子的氧化态为+3。具体过程为：C-C 键中碳原子分得一个价电子；C=O 键和 C-O 键中，由于氧电负性大于碳，因此所有的成键电子都归属于氧。中性碳原子的4个价电子减去1个价电子即得到+3氧化态。而所有氧原子的氧化态则为-2（6-[(4+4)+2]），所有氢原子的氧化态都为+1。
+
+氧化态可被用于[[氧化还原反应]]方程式的配平，因为氧化反应和还原反应中电子转移是相等的。例如：在[[托伦试剂]]（[[银氨溶液]]）氧化[[乙醛]]为[[乙酸]]的反应中，[[羰基]]碳原子的氧化态由+1变为+3，而[[银]]原子的氧化态则由+1变为0。因此配平时需要2mol的银离子：
+:[[File:Redox Tollens Oxidationszahlen C.svg|600px|Change in oxidation state in Tollens reaction]]
+
+=== 不用路易斯结构计算 ===
+*中性分子中各原子氧化态的代数和必须为零，而离子中各原子氧化态的代数和与离子电荷相等。
+*一些[[元素]]具有特定的氧化态。
+以上两点可用来计算较简单的化合物中各原子的氧化态。相应的规则有：
+*[[氟]]在其所有的化合物中都呈现-1氧化态，因为其电负性在所有元素中是最强的。
+*當氟以外的鹵素與氧、氮、或其他氟以外的鹵素時，其氧化態為-1。例如，在溴化氯（或氯化溴）（BrCl）中，氯的氧化態為-1。然而，一氟化氯（ClF）中的氯的氧化態，根據上一條規則，由於氟电负性在所有元素中是最强的，因此服要優先決定，則的氧化態為+1。
+*除非与更加电正性的元素如[[钠]]、[[硼]]和[[铝]]相连，氢总是呈现+1氧化态。呈-1氧化态的例子有 [[氢化钠|NaH]]、[[氢化铝锂|LiAlH<sub>4</sub>]] 和 [[硼氢化钠|NaBH<sub>4</sub>]] 等。
+*氧一般为-2氧化态，除了[[过氧化物]]中为-1，[[超氧化物]]中为-1/2，[[臭氧化物]]中为-1/3，[[二氟化氧|OF<sub>2</sub>]] 中为+2，[[二氟化二氧|O<sub>2</sub>F<sub>2</sub>]] 中为+1。
+*[[碱金属]]几乎任何时候都为+1氧化态，例外是[[碱化物]]。
+*[[碱土金属]]在多数情况下都为+2氧化态。
+'''例如'''：根据以上规则，在 [[氢氧化铬|Cr(OH)<sub>3</sub>]] 中，氧为-2氧化态，氢为+1，因此三个[[氢氧根]]的氧化态和为-3。因而 [[铬|Cr]] 的氧化态为+3。
+
+== 具有多氧化态的元素 ==
+大多数都具有可变的氧化态，例如碳可有九种：
+#'''–4''': [[甲烷|CH<sub>4</sub>]]
+#'''–3''': [[乙烷|C<sub>2</sub>H<sub>6</sub>]]
+#'''–2''': [[氟甲烷|CH<sub>3</sub>F]]
+#'''–1''': [[乙炔|C<sub>2</sub>H<sub>2</sub>]]
+#'''&nbsp;0''': [[二氟甲烷|CH<sub>2</sub>F<sub>2</sub>]]
+#'''+1''': [[四氟乙烷|C<sub>2</sub>H<sub>2</sub>F<sub>4</sub>]]
+#'''+2''': [[氟仿|CHF<sub>3</sub>]]
+#'''+3''': [[六氟乙烷|C<sub>2</sub>F<sub>6</sub>]]
+#'''+4''': [[四氟化碳|CF<sub>4</sub>]]
+
+氧有八种氧化态：
+#'''-2''' 多数[[氧化物]]中，如 [[氧化锌|ZnO]]，[[二氧化碳|CO<sub>2</sub>]]，[[水分子|H<sub>2</sub>O]]
+#'''-1''' 所有[[过氧化物]]中
+#'''-1/2''' [[超氧化物]]中，如 [[超氧化钾|KO<sub>2</sub>]]
+#'''-1/3''' [[臭氧化物]]中，如 [[臭氧化铵|NH<sub>4</sub>O<sub>3</sub>]]
+#'''0''' 单质氧气中 O<sub>2</sub>
+#'''+1/2''' [[二氧基盐]]中，如 [[六氟合铂(V)酸二氧基|O<sub>2</sub>PtF<sub>6</sub>]]
+#'''+1''' [[二氟化二氧|O<sub>2</sub>F<sub>2</sub>]] 中
+#'''+2''' [[二氟化氧|OF<sub>2</sub>]] 中
+
+=== 分数氧化态 ===
+从路易斯结构求得的形式氧化态总是整数，但不从路易斯结构求时，为了表示化合物中几个原子的平均氧化态，有可能得到某原子的分数氧化态。例如 KO<sub>2</sub> 中，两个氧原子的氧化态则分别为0和-1，而氧原子的平均氧化态为分数（-1/2）。在有些情况中，由于[[共振]]，几个原子可能是等同的。这种情况下一个路易斯结构式无法表示其真实结构，必须要用多个结构来表示。
+
+== 氧化数 ==
+{{main|氧化数}}
+'''氧化态'''和'''氧化数'''常常不加区分地使用，但在[[配位化学]]中，两者是有区别的。计算氧化数时，不考虑电负性差异，认为成配位键的电子为[[配体 (化学)|配体]]占有。此外，氧化数用[[罗马数字]]表示，但氧化态用阿拉伯数字表示。
+
+== 历史 ==
+1938年，W. M. Latimer 首先引入了氧化态的概念。氧化则是由[[拉瓦锡]]提出的：他认为氧化是元素与氧化合的过程，[[产物 (化学)|产物]]是任何含氧的盐类。<ref>''The Origin of the Oxidation-State Concept'' William B. Jensen [[:en:J. Chem. Educ.|J. Chem. Educ.]] '''2007''', 84, 1418.</ref>
+
+== 参见 ==
+*[[氧化数]]
+*[[化合价]]
+*[[电化学]]
+*[[元素氧化态列表]]
+*[[混合价态化合物]]
+
+== 参考资料 ==
+{{reflist}}
+
+== 外部链接 ==
+*{{PDFlink|[http://www.iupac.org/goldbook/O04365.pdf “氧化态”]|3.82&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 3919 bytes -->}} [[IUPAC]]金色书
+* [http://www.psichem.de “5d过渡元素的高氧化态”]
+
+[[Category:化学性质]]
+
+[[af:Oksidasietoestand]]
+[[bg:Степен на окисление]]
+[[bs:Oksidacijsko stanje]]
+[[ca:Estat d'oxidació]]
+[[cs:Oxidační číslo]]
+[[da:Oxidationstrin]]
+[[de:Oxidationszahl]]
+[[en:Oxidation state]]
+[[eo:Oksidiĝa nombro]]
+[[es:Estado de oxidación]]
+[[et:Oksüdatsiooniaste]]
+[[eu:Oxidazio-egoera]]
+[[fi:Hapetusluku]]
+[[fr:État d'oxydation]]
+[[hu:Oxidációs szám]]
+[[id:Bilangan oksidasi]]
+[[is:Oxunartala]]
+[[it:Stato di ossidazione]]
+[[ja:酸化数]]
+[[jbo:kijytcini]]
+[[ka:ჟანგვის რიცხვი]]
+[[ko:산화수]]
+[[lt:Oksidacijos laipsnis]]
+[[lv:Oksidēšanas pakāpe]]
+[[mk:Оксидационен број]]
+[[nds:Oxidatschoonstall]]
+[[nl:Oxidatietoestand]]
+[[nn:Oksidasjonstal]]
+[[pl:Stopień utlenienia]]
+[[pt:Estado de oxidação]]
+[[ro:Număr de oxidare]]
+[[ru:Степень окисления]]
+[[sh:Oksidacioni broj]]
+[[sk:Oxidačné číslo]]
+[[sr:Оксидациони број]]
+[[sv:Oxidationstillstånd]]
+[[th:สถานะออกซิเดชัน]]
+[[uz:Oksidlanish darajasi]]
+'''Schiemann反应'''（'''席曼反应'''）也称'''Balz-Schiemann反应'''，是[[芳香族化合物|芳香]][[重氮盐]]与[[氟硼酸]]反应生成溶解度较小的[[氟硼酸盐]]，后者在加热或光照时分解放出[[氮气]]并产生芳香[[有机氟化合物|氟化物]]的[[有机反应|反应]]。它于1927年发现，以德国化学家Günther Schiemann和Günther Balz的名字命名。<ref>{{cite journal|title = Über aromatische Fluorverbindungen, I.: Ein neues Verfahren zu ihrer Darstellung|author = Günther Balz, Günther Schiemann|journal = [[Chemische Berichte|Ber.]]|volume = 5|issue = 60|pages = 1186–1190|year = 1927|doi =  10.1002/cber.19270600539}}</ref><ref>Roe, A. ''Org. React.'' '''1949''', ''5'', 193.（综述）</ref>
+
+
+[[File:Balz–Schiemann reaction V.1.svg|center|600px|Schiemann反应]] 
+
+__NOTOC__
+== 过程 ==
+一般从芳香[[胺]]与[[亚硝酸钠]]／[[盐酸]]进行[[重氮化反应]]，反应完成后加入冷的氟硼酸或[[氟硼酸铵]]、[[氟硼酸钠]]，沉淀出较难溶的氟硼酸重氮盐。该氟硼酸盐与[[盐酸]]重氮盐或[[高氯酸]]重氮盐不同，在干燥时也比较稳定，不容易发生爆炸，只在加热时分解为氟化物，产率较高。
+
+这个反应常用作由[[苯胺]]制取[[氟苯]]或衍生物的方法。反应中的氟硼酸盐也可以被[[六氟磷酸盐]]所代替。
+
+也可以用[[三氧化二氮]]与氟硼酸反应生成[[氟硼酸亚硝酰]]，直接用它与芳香胺反应生成氟硼酸重氮盐：
+:<math>\rm \ N_2O_3+2HBF_4\rightarrow 2NO^+BF_4^-+H_2O</math>
+:<math>\rm \ PhNH_2+NO^+BF_4^-\rightarrow PhN_2^+BF_4^-+H_2O</math>
+
+1961年，G. A. Olah用四氯硼酸盐（BCl<sub>4</sub><sup>−</sup>）和四溴硼酸盐（BBr<sub>4</sub><sup>−</sup>）代替四氟硼酸盐，把这个反应推广到用来制取芳香[[有机氯化合物|氯化物]]和[[有机溴化合物|溴化物]]。此外，在重氮盐中加入[[碘化钠]]也可以制取[[碘苯]]。
+
+== 机理 ==
+该反应的机理还不是很清楚。
+
+一般认为是在发生[[重氮化反应]]生成重氮盐后，芳香重氮盐首先分解放出氮气生成[[苯]][[碳正离子|正离子]]，然后[[氟硼酸根]]离子（BF<sub>4</sub><sup>−</sup>）进攻苯正离子，先生成 PhBF<sub>4</sub>，然后分解为氟苯。因此这个反应属于[[单分子芳香亲核取代反应]]（S<sub>N</sub>1Ar）。
+
+== 参见 ==
+*[[化学反应列表]]
+*[[Sandmeyer反应]]
+*[[Gattermann反应]]
+*[[重氮盐的水解]]
+
+== 参考资料 ==
+{{reflist|2}}
+
+[[Category:取代反应]]
+[[Category:人名反应]]
+[[Image:Triflate.png|right|150px|thumb|三氟甲磺酸酯基]]
+'''三氟甲磺酸酯'''（{{lang-en|Trifluoromethanesulfonate}}，简称：{{lang|en|triflate}}），是一种具有化学式为CF<sub>3</sub>SO<sub>3</sub>-的[[官能团]]。因为-Tf基团是[[三氟甲磺酰基]]，这种官能团常也简写为-OTf。如三氟甲磺酸正丁酯可写为：CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OTf。
+
+三氟甲磺酸负离子CF<sub>3</sub>SO<sub>3</sub><sup>-</sup>，是一种非常稳定的[[多原子离子]]，属于[[三氟甲磺酸]]——最强的有机[[酸]]之一（CF<sub>3</sub>SO<sub>3</sub>H）的[[共轭碱]]。三氟甲磺酸的酸性强度超过了纯[[硫酸]]，因此可定义为[[超强酸]]。
+
+==应用==
+
+三氟甲磺酸酯基团是一种良好的[[离去基团]]，可用于某些[[有机反应]]如[[亲核取代反应]]、[[铃木反应]]和[[赫克反应]]。由于三氟甲磺酸烷基酯在[[SN2反应|S<sub>N</sub>2反应]]中活性太强，因此储存中不能接触[[亲核试剂]]（如[[水]]）。其负离子的良好稳定性源于负离子电荷可分散到三个氧原子和硫原子上而形成[[共振稳定]]。额外的稳定性还源于[[三氟甲基]]是一种很强的[[吸电子基团]]。
+
+三氟甲磺酸酯可应用于[[11族元素]]与[[13族元素]]及[[镧系元素]]的配体。
+
+三氟甲磺酸锂可用于一些[[锂电池]]的[[电极]]的成分。
+
+一种温和的'''三氟甲磺酰化试剂'''是苯基三氟甲磺酰胺或N,N-二(三氟甲磺酰)苯胺，其反应生成的副产物为[CF<sub>3</sub>SO<sub>2</sub>N-Ph]<sup>-</sup>。
+
+[[Image:Triflate mesomeric stability transp.png|center|thumb|600px|三氟甲磺酸负离子共振稳定]]
+
+==三氟甲磺酸盐==
+三氟甲磺酸[[盐]]是一种热力学非常稳定的有机盐，其[[钠]]、[[硼]]、[[银]]的无水形式盐的熔点超过350°C。这些盐可直接通过三氟甲磺酸和金属氢氧化物或金属碳酸盐在水中反应制备。另外，它们还可通过金属盐酸盐和纯三氟甲磺酸或[[三氟甲磺酸银]]反应制备，或通过[[三氟甲磺酸钡]]与金属硫酸盐在水中反应制备：
+<ref>{{cite journal | journal = [[Inorganic Syntheses]] | title = Trifluoromethanesulfonates and Trifluoromethanesulfonato-''O'' Complexes | author = Nicholas E. Dixon, Geoffrey A. Lawrance, Peter A. Lay | volume = 28 | pages = 70–76 | doi = 10.1002/9780470132593.ch16 | year = 1990}}</ref>
+
+:MCl<sub>n</sub> + n HOTf → M(OTf)<sub>n</sub> + n HCl
+:MCl<sub>n</sub> + n AgOTf → M(OTf)<sub>n</sub> + n AgCl ↓
+:M(SO<sub>4</sub>)<sub>n</sub> + n Ba(OTf)<sub>2</sub> → M(OTf)<sub>2n</sub> + n BaSO<sub>4</sub> ↓
+
+三氟甲磺酸盐在[[有机化学]]中可用作[[路易斯酸]]，这是因为它们在水中的稳定性比起一些传统的催化剂（如[[氯化铝]]）更佳，其中[[三氟甲磺酸镧盐]]尤其有用。这里的镧族元素盐形式为Ln(OTf)<sub>3</sub>，其中Ln为La、Ce、Pr、Nd、Sm、Eu、Gd、Tb、Dy、Ho、Er、Tm、Yb、Lu、Y元素。另一种流行的催化剂为[[三氟甲磺酸钪]]，它常用于[[羟醛反应]]和[[狄尔斯－阿尔德反应]]，如在[[Mukaiyama羟醛反应]]反应中，[[苯甲醛]]和[[环己酮]]的[[烯醇硅醚]]在上述催化剂下发生反应得到81%的[[收率]]<ref>Shū Kobayashi: ''Scandium Triflate in Organic Synthesis.'' In: European Journal of Organic Chemistry 1/1999 p. 15-2</ref>。下列反应为通过[[钪]]盐催化的反应：
+
+[[Image:ScOTf3-mediated aldol condensation transp.png|600px|center|ScOTf3-mediated aldol condensation]]
+
+==参见==
+* [[三氟甲磺酸甲酯]]
+* [[全氟丁基磺酸酯]]
+* [[三氟甲磺酸]]
+* [[三氟甲磺酰胺盐]]
+* [[Comins试剂]]
+
+==参考文献==
+{{reflist}}
+
+[[Category:磺酸]]
+[[Category:离去基团]]
+[[Category:三氟甲磺酸酯|*]]
+{{chembox
+|   Name = 五氟化氮
+|   ImageFile = 
+|   ImageSize = 
+|   ImageName = 
+|   ImageFile1 = 
+|   ImageSize1 = 
+|   ImageName1 = 
+|   IUPACName = Nitrogen pentafluoride
+|   OtherNames = 
+| Section1 = {{Chembox Identifiers
+|   CASNo = 
+|   PubChem = 
+|   RTECS = 
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = NF<sub>5</sub>
+|   MolarMass = 108.999
+|   Appearance = 
+|   Density = 
+|   Solubility = 
+|   MeltingPtC = 
+|   BoilingPtC =
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = [[三角双锥]]
+|   CrystalStruct = 
+|   Dipole = 0 [[德拜|D]]
+  }}
+| Section8 = {{Chembox Related
+|   OtherCations = [[五氟化磷]]<br />[[五氟化砷]]<br />[[五氟化锑]]<br />[[五氟化铋]]
+|   OtherCpds =  [[三氟化氮]]
+  }}
+}}
+'''五氟化氮'''是根据氮族元素中除氮以外的元素都存在[[五氟化物]]（例如：[[五氟化磷]]）而假想出的一种化合物。五氟化氮的理论模型有两种，一种是三角双锥形的分子NF<sub>5</sub>，[[对称群]]为D<sub>3</sub>h；另一种是[[离子晶体]]NF<sub>4</sub><sup>+</sup>F<sup>-</sup>。<ref name=mm>{{cite book|last=Lewars|first=Errol G. |title=Modeling marvels: computational anticipation of novel molecules|url=http://books.google.co.in/books?id=IoFzgBSSCwEC|date=03/11/2008|publisher=Springer|pages=53–67}}</ref>
+
+==离子晶体==
+1966年，W·E·托尔贝格首先合成了+5价的氮氟化物，均为[[四氟铵]]盐，例如：氟锑酸四氟铵（NF<sub>4</sub>SbF<sub>6</sub>）和氟砷酸四氟铵（NF<sub>4</sub>AsF<sub>6</sub>）。<ref name="Goetschel">{{cite journal|last=Goetschel|first=C. T.|coauthors=V. A. Campanile, R. M. Curtis, K. R. Loos, C. D. Wagner, J. N. Wilson|date=July 1972|journal=Inorganic Chemistry|volume=11|issue=7|pages=1696–1701|doi=10.1021/ic50113a051}}</ref>在1971年，C·T·格切尔宣布制得了氟硼酸四氟铵（NF<sub>4</sub>BF<sub>4</sub>）以及另一种假定是'''氟化四氟铵'''（NF<sub>4</sub><sup>+</sup>F<sup>-</sup>）的白色固体。这是将三氟化氮与氟单质在77K下通过电子辐射方法制得的，温度超过143K时又分解成原先的反应物。<ref name="Goetschel"/>
+理论研究也表明这种离子化合物很容易分解成[[三氟化氮]]和[[氟]]气。<ref name="Christe">{{cite journal|last=Christe|first=Karl O|coauthors=William W. Wilson|date=December 1992|title=Nitrogen pentafluoride: covalent NF5 versus ionic NF4+F- and studies on the instability of the latter|journal=Journal of the American Chemical Society|volume=114|issue=25|pages=9934–9936|doi=10.1021/ja00051a027}}</ref>
+
+[[卡尔·O·克里斯特]]制得了六氟合镍(IV)酸四氟铵（(NF<sub>4</sub>)<sub>2</sub>NiF<sub>6</sub>）。<ref name="Christe">{{cite journal|last=Christe|first=Karl O.|date=September 1977|title=Synthesis and characterization of bis(tetrafluoroammonium) hexafluoronickelate|volume=16|issue=9|pages=2238–2241|doi=10.1021/ic50175a017}}</ref>他也制备氟锰酸盐、氟铀酸盐、高氯酸盐、氟磺酸盐和一些含有N<sub>2</sub>F<sub>3</sub><sup>+</sup>离子的盐。<ref name="ChristeK">{{cite web|url=http://www.dtic.mil/dtic/tr/fulltext/u2/a086981.pdf|title=Research Studies in NF4+ Salts|last=Christe|first=Karl O.|date=23 May 1980|publisher=Rockwell|accessdate=23 February 2012}}</ref>克里斯特尝试在20°C下的无水氟化氢中通过NF<sub>4</sub>SbF<sub>6</sub>与HF的复分解反应制备氟化四氟铵。然而，他获得的是组成不定的溶剂合[[氟氢化铵]]（NF<sub>4</sub>HF<sub>2</sub>·nHF）。在室温下它是一种乳白色液体，冷却时就会变成浆糊状，在-45°C下形成白色固体。如果再次加热它，会产生F<sub>2</sub>、HF和NF<sub>3</sub>气体。<ref name="ChristeOK">{{cite web|url=http://www.dtic.mil/dtic/tr/fulltext/u2/a086981.pdf|title=Research Studies in NF4+ Salts|last=Christe|first=Karl O.|date=23 May 1980|publisher=Rockwell|accessdate=23 February 2012|pages=G7-G8}}</ref>这种物质有[[CAS号]]，为71485-49-9。<ref>查询时名称为：Tetrafluoroammonium bifluoride</ref>
+
+I·J·所罗门认为五氟化氮可由NF<sub>4</sub>AsF<sub>6</sub>的热分解制得，但是实验结果并不支持他的看法。<ref name="0e5n">{{cite journal|last=Christe|first=Karl O.|coauthors=William W. Wilson, Gary J. Schrobilgen, Raman V. Chirakal, George A. Olah|date=March 1998|title=On the existence of pentacoordinated nitrogen|journal=Inorganic Chemistry|volume=27|issue=5|pages=789–790|doi=10.1021/ic00278a009|url=http://pubs.acs.org/doi/abs/10.1021/ic00278a009}}</ref>
+
+==分子==
+[[File:Nitrogen pentafluoride possible structures.jpg|thumb|left|348px|五氟化氮的可能结构]]
+要形成NF<sub>5</sub>分子，五个氟原子就要在氮原子周围排列成三角双锥结构（能量最低）。然而，由于氮原子半径太小，不足以容纳五个氟原子，因此只有使键长增大。因为形成五个化学键需要用到3[[d轨道]]，它的能量比2s和2p高得多，所以还是不稳定。<ref name=mm/>
+计算表明NF<sub>5</sub>分子在热力学上自发地分解成NF<sub>4</sub>和F自由基，并放出8.5 kcal mol<sup>-1</sup>的能量，过渡态能垒（[[活化能]]）大约是20±4 kcal mol<sup>-1</sup>。<ref>{{cite journal|authors=Holger F. Bettinger, Paul v. R. Schleyer, and Henry F. Schaefer III|title=NF<sub>5</sub> — Viable or Not?|journal=Journal of the American Chemical Society|date=27 October 1998|volume=120|issue=44|pages=11439–11448|doi=10.1021/ja9813921|url=http://pubs.acs.org/doi/abs/10.1021/ja9813921}}</ref>
+
+==参考文献==
+{{reflist}}
+
+[[Category:无机氮化合物]]
+[[Category:氟化物]]
+[[Category:假想化合物]]
+'''卤化物'''指含有呈负价[[卤素]]的[[化合物]]，通常为二元化合物。'''卤离子'''则指相应-1价的卤素离子。根据具体卤素的不同，卤化物可分为：
+*[[氟化物]] — F<sup>−</sup>
+*[[氯化物]] — Cl<sup>−</sup>
+*[[溴化物]] — Br<sup>−</sup>
+*[[碘化物]] — I<sup>−</sup>
+*[[砹|-{zh-hans:砹;zh-hk:砈;zh-tw:砈;}-]]化物 — At<sup>−</sup>
+[[拟卤素]]生成的-1价化合物称为'''拟卤化物'''<ref>[[IUPAC|International Union of Pure and Applied Chemistry]] (1995). "[http://goldbook.iupac.org/P04930.html pseudohalide]". ''Compendium of Chemical Terminology'' Internet edition. </ref>，主要有[[叠氮化合物|叠氮化物]]N<sub>3</sub><sup>−</sup>、[[氰化物]]CN<sup>−</sup>、[[硫氰酸盐]]SCN<sup>−</sup>和[[氰酸盐]]OCN<sup>−</sup>等。
+
+[[互卤化物]]则指只由卤素构成的二元化合物，如[[一氯化碘|ICl]]、[[三氟化氯|ClF<sub>3</sub>]]、[[五氟化碘|IF<sub>5</sub>]]等。
+
+[[有机化学]]中，有时也用卤化物来指[[卤代烃]]，简写为R-X。根据具体卤素的不同亦可分类为[[氟代烃]]、[[氯代烃]]、[[溴代烃]]和[[碘代烃]]。二卤代烷常用于环的构建，参见[[卡宾]]。
+
+== 鉴定 ==
+通常以[[硝酸银]]溶液鉴定卤离子（氟离子除外），其[[卤化银|相应沉淀]]的颜色分别为：
+*[[氯化银|AgCl]] — 白色
+*[[溴化银|AgBr]] — 淡黄色
+*[[碘化银|AgI]] — 黄色
+[[氟化银|AgF]]可溶于水，因此一般不用此法。
+
+== 例子 ==
+常见的卤化物有：
+*[[氯化钠]] — NaCl
+*[[氯化钾]] — KCl
+*[[碘化钾]] — KI
+*[[三氯化磷]] — PCl<sub>3</sub>
+*[[氯仿]] — CHCl<sub>3</sub>
+
+== 参见 ==
+*[[盐度]]
+
+== 参考资料 ==
+<references/>
+
+[[Category:按阴离子分类的化合物]]
+[[Category:官能团|L]]
+[[Category:卤化物|*]]
+{{Unreferenced|time=2013-03-14T18:39:12+00:00 }}
+'''二元化合物'''指包含兩种不同[[元素]]的[[化合物]]，如{{lang|la|NaCl}}（[[氯化钠]]）和{{lang|la|NaF}}（[[氟化鈉]]）。
+
+== 中文表达方法 ==
+:<div class="noprint" style="font-size:small">本段落是关于二元化合物的习惯命名，关于[[IUPAC]]命名请参见[[无机化学命名法]]。</div>
+一般地讲，二元化合物的命名遵循两个形式：
+*“某化某”——若化合物中元素的[[化合价|价态]]都为其最常见的价态，且该命名不会导致歧义。习惯上是呈负价的元素在命名时放在前面。如：
+**[[氯化钠]]—NaCl
+**[[硫化钾]]—K<sub>2</sub>S
+*当化合物中的元素变价较多，或元素所呈价态不是主要价态时，以上命名会导致歧义。这时可以三种方法解决：
+**“几某化几某”。如：
+***[[二氟化二氧]]—O<sub>2</sub>F<sub>2</sub>
+***[[四氮化四硫]]—S<sub>4</sub>N<sub>4</sub>
+**“某化某()”，括号中的是以[[罗马数字]]书写的[[氧化数]]。常用于命名[[离子性]]较强的化合物。如：
+***[[四氯化钛|氯化钛(IV)]]—TiCl<sub>4</sub>
+***[[三氯化钛|氯化钛(III)]]—TiCl<sub>3</sub>
+**“某化高/亚某”，用在具有比较固定的可变价态的元素上。常见以这种方法命名的元素包括：
+***Fe<sup>III</sup>—铁；Fe<sup>II</sup>—亚铁
+***Cu<sup>II</sup>—铜；Cu<sup>I</sup>—亚铜
+***Co<sup>III</sup>—高钴；Co<sup>II</sup>—钴
+***Hg<sup>II</sup>—汞；Hg<sup>I</sup>—亚汞
+***Tl<sup>III</sup>—铊/高铊；Tl<sup>I</sup>—亚铊
+***Sn<sup>IV</sup>—锡/高锡；Sn<sup>II</sup>—亚锡
+***Mn<sup>IV</sup>—高锰；Mn<sup>VI</sup>—锰
+
+==英語表達方法==
+===变价金属===
+::'''“拉丁文表達法”'''  金屬拉丁文名 + “-ic” （用於高價） / “-ous” （用於低價） + 非金屬 + “-ide”
+:例如：[[氯化亚铁]]—Ferrous chloride，[[氯化亚铜]]—Cuprous chloride
+
+===二元酸（水溶液）===
+::“Hydro-” + 非金屬 + “-ic”  + “acid”
+:只有大约10种[[非金属]]可与氢形成'''二元'''酸（此处的二元并不是指可[[电离]]的氢原子数目，而指[[酸]]中的元素数量）：[[氯]]、[[氟]]、[[溴]]、[[碘]]和[[硫]]等。它们的命名可用以下式表明：
+::例如：[[盐酸]]—Hydrochloric acid，[[氢氟酸]]—Hydrofluoric acid
+
+===二元共價化合物===
+::非金屬 + 非金屬 + “-ide”
+:在元素前加上適當的拉丁文前綴以表達化合物分子中一種元素原子的數量。這種方法通常不被用在[[離子化合物]]中（如下）。例如，K<sub>2</sub>O一般不稱Dipotassium monoxide，而簡單地稱爲Potassium oxide。而P<sub>4</sub>O<sub>6</sub>，卻稱tetraphosphorus hexoxide。一些以[[元音]]開頭的元素名（例如[[氧]]Oxygen），則需取消前綴的最後字母而使用元素名的首字母，如：mono- + Oxide = Monoxide、O<sub>4</sub> = Tetroxide、O<sub>5</sub> = Pentoxide，如此類推。
+<center>
+{| class="wikitable"
+|+ 如果第一种元素为单原子，不能加“mono-”。
+|-
+! 1 || Mono- !! 3 || Tri- !! 5 || Penta- !! 7 || Hepta- !! 9 || Nona-
+|-
+! 2 || Di- !! 4 || Tetra- !! 6 || Hexa- !! 8 || Octa- !! 10 || Deca-
+|}
+</center>
+::例如：[[五氟化磷]]—Phosphorus pentafluoride，[[七氟化碘]]—Iodine heptafluoride
+
+===二元離子化合物===
+::单原子阴离子：[[阳离子]] + [[阴离子]] + “ide”
+::例如：[[硫化鎂]]—Magnesium Sulfide<!--:如果是多原子阴离子：[[阳离子]] + [[阴离子]] + “ite”/“ate”-->
+
+[[Category:化合物]]

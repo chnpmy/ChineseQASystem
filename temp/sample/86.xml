@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">JPEG2000格式文件扩展名为？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="751864" start="0">
+  <doc>
+    <str name="id">45116</str>
+    <str name="text">{{noteTA
+|G1=IT
+|T=zh-hans:文件格式; zh-hant:檔案格式;
+|1=zh-hans:文件; zh-hant:檔案;}}
+{{提示|文件檔案格式}}
+{{參見|文件格式列表}}
+'''文件格式'''（或'''文件类型'''）是指電腦爲了存儲資訊而使用的對資訊的特殊編碼方式，是用于识别内部储存的资料。比如有的储存[[图片]]，有的储存[[程序]]，有的储存文字信息。每一类信息，都可以一种或多种'''文件格式'''保存在电脑存储中。每一种'''文件格式'''通常会有一种或多种[[扩展名]]可以用来识别，但也可能没有扩展名。扩展名可以帮助应用程序识别的文件格式。
+
+對於[[硬碟機]]或任何電腦存儲來説，有效的資訊只有0和1兩种。所以電腦必須設計有相應的方式進行資訊-位元的轉換。對於不同的資訊有不同的存儲格式。
+
+== 概述 ==
+有些文件格式被设计用于存储特殊的数据，例如：
+*图像文件中的JPEG文件格式仅用于存储静态的图像，
+*而GIF既可以存储静态图像，也可以存储简单动画；
+*Quicktime格式则可以存储多种不同的媒体类型。
+*文本类的文件有：
+**text文件一般仅存储简单没有格式的ASCII或Unicode的文本；
+**HTML-{文件}-则可以存储带有格式的文本；
+**PDF格式则可以存储内容丰富的，图文并茂的文本。
+
+同一个文件格式，用不同的程序处理可能产生截然不同的结果。例如Word -{文件}-，用Microsoft Word观看的时候，可以看到文本的内容，而以无格式方式在音乐播放软件中播放，产生的则是噪声。一种文件格式对某些软件会产生有意义的结果，对另一些软件来看，就像是毫无用途的数字垃圾。
+
+==  规范 ==
+许多文件格式都有公开的、不同程度规范或者建议的格式。这些规范或者建议描述了数据如何编码，如何排列。有时也规定了是否需要特定的[[電腦程式]]读取或处理。有两种情况下，文件格式没有公开。第一种情况是：开发者将文件格式视作[[商业秘密]]不愿公开；第二种情况是：开发者不愿或花去很少的时间用于规范文档。
+
+需要注意的是，使用不公开的文件格式可能会带来额外的成本。要了解这类文件格式，或者需要通过对获得的文件进行[[逆向工程]]，或者通过向开发者付费来获得文件的格式。第二种方式中往往还需要与开发者签订不扩散协议。不论怎样两种方式都是费时，费钱的。
+
+== 识别文件的类型 ==
+从程序的角度来看，文件是数据流，[[文件系统]]为每一种文件格式规定了访问的方法。例如：[[元数据]]。不同的[[操作系统]]都习惯性的采用各自的方式解决这个问题，每种方式都有各自的优缺点。
+
+当然，现代的操作系统和应用程序，一般都需要这里所讲述的方法处理不同的文件，
+
+=== 扩展名 ===
+
+用[[扩展名]]识别文件格式的方式最先在[[Digital Equipment Corporation|数字设备公司]]的[[CP/M]]操作系统被采用。而后又被[[DOS]]和[[Microsoft Windows|Windows]]操作系统采用。扩展名是指文件名中，最后一个点（&lt;tt&gt;.&lt;/tt&gt;）号后的字母序列。例如，HTML文件通过&lt;tt&gt;.htm&lt;/tt&gt;或&lt;tt&gt;.html&lt;/tt&gt;扩展名识别；GIF图形文件用&lt;tt&gt;.gif&lt;/tt&gt;扩展名识别。在早期的[[File Allocation Table|FAT]]文件系统中，扩展名限制只能是[[8.3|三个字符]]，因此尽管现在绝大多数的操作系统已不再有此限制，许多文件格式至今仍然采用三个字符作扩展名。因为没有一个正式的扩展名命名标准，所以，有些文件格式可能会采用相同的扩展名，出现这样的情况就会使操作系统错误地识别文件格式，同时也给用户造成困惑。
+
+扩展名方式的一个特点是，更改文件扩展名会导致系统误判文件格式。例如，将&lt;tt&gt;filename.html&lt;/tt&gt;简单改名为&lt;tt&gt;filename.txt&lt;/tt&gt;会使系统误将HTML文件识别为纯文本格式。尽管一些熟练的用户可以利用这个特点，但普通用户很容易在改名时发生错误，而使得文件变得无法使用。因此，现代的有些[[操作系统管理程序]]，例如Windows Explorer加入了限制向用户显示文件扩展名的功能。
+
+=== 特征签名 ===
+一种广泛应用在[[UNIX]]及其派生的操作系统上的方法是将一个[[magic number(programming)|特殊的数字]]存放在文件的特定位置里。最初这个数字一般是文件开始处的2个[[字节]]。现在一般是将任何可以独一无二字符序列都可以作为特征签名。例如GIF图形文件是将文件开始处的六个字节作为特征签名的，它可以是&lt;tt&gt;GIF87a&lt;/tt&gt;或者&lt;tt&gt;GIF89a&lt;/tt&gt;。但也有些文件很难通过这种方式识别，比如HTML文件。
+
+采用这种方式可以更好的防止对文件格式发生误判，并且特征签名可以给出关于文件格式的更详细的信息。这种方式的缺点是效率较低。特别是显示大量的文件时，由于每种特征签名具有不同的识别方式，将消耗系统大量的资源对文件格式进行判断。扩展名和后面将提到的元数据方式由于采用固定格式数据，可进行快速匹配。应用程序往往利用特征签名来判断文件是否完整和有效。
+
+=== 元数据 ===
+最后一种方式将文件格式信息存放到磁盘特定的位置。
+
+采用这种方式，元数据与文件本身分开存放。此法的缺点是可移植性差。因为不同的文件系统之间元数据可能需要转换。
+
+==== 苹果Macintosh的类型码 ====
+[[Apple Macintosh|苹果计算机]]的文件系统为每个文件的目录入口都存储了''[[Creator code|创建者]]''和''[[Type code|类型码]]''。这些代码称作[[OSType]]。例如一个苹果计算机创建的文件的创建者会是&lt;tt&gt;AAPL&lt;/tt&gt;而''类型''也是&lt;tt&gt;APPL&lt;/tt&gt;。[[RISC操作系统]]采用类似的系统，用一个12[[比特位]]的数字索引描述表。例如：十六进制的FF5代表&lt;tt&gt;PoScript&lt;/tt&gt;，文件类型就是[[PostScript]]文件。
+
+==== IBM/Microsoft的扩展文件属性 ====
+[[HPFS]], [[NTFS]], [[文件分配表|FAT12, FAT16,及FAT32]]文件系统可以保存额外的文件属性信息。它是由名字和与名字对应的值组成。例如扩展属性“.type”用于判断文件的类型，可能是值包括“Plain Text”或“HTML document”。一个文件可以有多种属性。
+
+==== Unix的扩展文件属性 ====
+[[ext2]]，[[ext3]]，[[ReiserFS]]版本3，[[XFS]]，[[JFS (文件系统)|JFS]]和[[Berkeley Fast File System|FFS]]文件系统允许存储扩展的文件属性。它是由名字和与名字对应的值组成。名字应当是独一无二的。
+
+==== MIME类型 ====
+[[MIME]]广泛地用于许多[[Internet]]有关的应用，并且正在被广泛地采用到其他的应用中。最初在[[RFC]] 1341中说明。MIME用一个''类型''/''子类型''表示文件的类型。例如：&lt;tt&gt;text/html&lt;/tt&gt;代表文件是HTML-{文件}-，&lt;tt&gt;image/gif&lt;/tt&gt;表示GIF文件。MIME最初是用于表示[[电子邮件]]的[[附件]]的类型。
+
+== 参见 ==
+
+* [[音频文件格式]]
+* [[文档文件格式]]
+* [[化学文件格式]]
+* [[文件扩展名]]
+* [[自由檔案格式|自由文件格式]]
+* [[图形文件格式]]
+* [[文件格式列表]]
+* [[目标文件格式]]
+* [[视频文件格式]]
+
+== 外部链接 ==
+* [http://www.file-extensions.org File extensions encyclopedia] {{en}} 
+* [http://www.fileinfo.net/ FileInfo.net - 文件扩展名资源]
+* [http://www.sharpened.net/helpcenter/extensions.php 按字母顺序的文件扩展名和文件格式列表]
+* [http://www.wotsit.org/ 程序员文件格式资源]
+* [http://wenjiangeshi.cn/ 文件格式|中文官方站]文件格式解释、打开软件
+* [http://www.freesoftwaremagazine.com/free_issues/issue_01/focus_format_history/ 格式之争]自由软件杂志上关于文件格式历史的文章
+* [http://www.magicdb.org/ Magic signature database - Standard file format information and FFID registry]
+* [http://www.garykessler.net/library/file_sigs.html File signatures] (aka magic numbers) found in files to indicate their file type
+* [http://www.nationalarchives.gov.uk/pronom/ PRONOM technical registry]
+* [http://www.digitalpreservation.gov/formats/index.shtml Library of Congress file format information]
+* [http://developer.apple.com/documentation/Carbon/Conceptual/understanding_utis/understand_utis_intro/chapter_1_section_1.html#//apple_ref/doc/uid/TP40001319-CH201-DontLinkElementID_19| Intoduction to Uniform Type Identifiers]
+* [http://wiki.xentax.com Game File Format Central - A large and expanding list of detailed descriptions of game-related file-formats]
+* [http://biew.sourceforge.net BIEW] Binary vIEW project
+
+[[Category:扩展名]]
+[[category:文件格式]]</str>
+    <str name="title">檔案格式</str>
+    <str name="titleText">檔案格式</str>
+    <str name="user">Time killer</str>
+    <int name="userId">1027546</int>
+    <int name="revision">29021297</int>
+    <date name="timestamp">2013-10-25T17:47:35Z</date>
+    <long name="_version_">1484748558981660673</long></doc>
+  <doc>
+    <str name="id">978160</str>
+    <str name="text">{{Trivia |time=2012-08-17T06:07:15+00:00 }}
+{{noteTA
+|G1=IT
+|1=zh-tw:文字; zh-cn:文本;
+|2=zh-tw:副檔名; zh-cn:扩展名;
+}}
+
+[[字幕]]格式共分为两类：图形数据格式和文本数据格式
+
+==图形数据格式==
+这类字幕数据以图片方式呈现，文件体积较大，不易于修改，有时亦称为“硬字幕”。
+
+===SUB格式===
+SUB格式的字幕数据由字幕图片文件（.sub文档）和字幕索引文件（.idx文档）组成。一个.sub文档可同时包含多个语言的字幕，由.idx进行调用。常见于DVD-VIDEO，但在DVD中，这两个文件被集成到VOB内，需要通过软件分离VOB来获取字幕文件。
+
+===SST格式===
+SST（Sonic Scenarist）
+
+===SON格式===
+SON（Spruce DVDMaestro）
+
+==文本数据格式==
+这类字幕数据以文本格式呈现，文件体积较小，可直接用[[Windows]]自带的[[记事本]]功能进行修改，有时亦称为“软字幕”。
+
+===SRT格式===
+SRT（Subripper）是最简单的文本字幕格式，扩展名为.srt，其组成为：一行字幕序号，一行时间代码，一行字幕数据
+
+如：
+&lt;source lang="text"&gt;45
+00:02:52,184 --&gt; 00:02:53,617
+慢慢来&lt;/source&gt;
+这表示：第45个字幕，显示时间从该影片开始的第2分52.184秒到第2分53.617秒，内容为：慢慢来
+
+===[[SubStation_Alpha|SSA、ASS格式]]===
+SSA（Sub Station Alpha）是为了解决SRT过于简单的字幕功能而开发的高级字幕格式，其扩展名为.SSA。采用SSA V4[[脚本语言]]，能实现丰富的字幕功能，除了能设定不同字幕数据的大小和位置外，更能实现动态文字和[[水印]]等复杂的功能。ASS（Advanced SubStation Alpha）为是更高级的SSA版本，采用SSA V4+[[脚本语言]]编写。它包含了所有SSA的所有特性，它可以将任何简单的文本转变成为卡拉OK的字幕样式，数个项目旨在创建这些脚本。ASS的特点在于它比普通的SSA更为规范，如ASS的编程风格。
+
+===SMI格式===
+SMI（Sami），其扩展名为.smi，现已能被部分掌机播放器所支持的字幕格式。
+
+===PSB格式===
+PSB(Power Divx)
+
+===PJS格式===
+PJS(Phoenix japanimation)
+
+===STL格式===
+STL(Spruce subtittle flie)
+
+===TTS格式===
+TTS(Turbo tittle)
+
+===VSF格式===
+VSF(Viplay)
+
+===ZEG格式===
+ZEG(Zero G)
+
+[[Category:電影製作]]
+[[Category:電視]]</str>
+    <str name="title">字幕格式</str>
+    <str name="titleText">字幕格式</str>
+    <int name="revision">28851463</int>
+    <date name="timestamp">2013-10-07T17:13:44Z</date>
+    <long name="_version_">1484748845962231810</long></doc>
+  <doc>
+    <str name="id">3022100</str>
+    <str name="text">维基共享资源的项目范围方针规定了其接受的文件格式。您可按照本手册将文件转换为共享资源支持的格式。
+
+==支持的文件格式==
+{{see also|Commons:Commons:Project scope/Allowable file types}}
+* '''图像''':  [[SVG]] （矢量图形）， [[PNG]] （无损格式）， [[JPEG]] （照片）， [[GIF]] （“半”无损格式，但是推荐使用PNG"semi"）， [[TIFF]] （无损格式，但是推荐使用PNG）， [[XCF]] （允许使用图层和文字）
+* '''音频''':  [[Ogg]] （使用[[FLAC]]、 [[Speex]]或[[Vorbis]]编码）（新软件会使用.oga扩展名，但是.ogg仍然可用）或[[MIDI]]
+* '''视频''': [[Theora]]编码（音频通常使用Vorbis编码）（新软件会使用.ogv扩展名，但是.ogg仍然可用。）
+* '''动画''':  [[APNG]]， SVG动画。
+* '''文档''':  [[PDF]]和[[DjVu]]。
+
+==视频==
+{{see also|[[Commons:Help:Converting video|how to convert to Theora]]}}
+
+*[http://v2v.cc/~j/ffmpeg2theora/index.html ffmpeg2theora]，ffmpeg格式转换theora，支持多种操作系统。
+*[http://www.mirovideoconverter.com/ Miro Video Converter]，仅为windows且需要安装Microsoft .NET Framework 3.5。
+*[http://firefogg.org/ firefogg]，一个[[firefox]]的插件。
+*[http://www.videolan.org/vlc/ VLC media player]，可以将视频转换成Theora格式的播放器。
+
+==音频==
+*[[foobar2000]]，可以用插件转换至ogg格式。
+*[[audacity]]，可以将多种格式的音频文件导出为ogg格式（可能需要插件支持）。</str>
+    <str name="title">Help:如何转换至维基共享资源支持的多媒体格式</str>
+    <str name="titleText">Help:如何转换至维基共享资源支持的多媒体格式</str>
+    <str name="user">Someone's Moving Castle</str>
+    <int name="userId">1401745</int>
+    <int name="revision">26062330</int>
+    <date name="timestamp">2013-04-03T23:33:04Z</date>
+    <long name="_version_">1484749268003586050</long></doc>
+  <doc>
+    <str name="id">899038</str>
+    <str name="text">文本文件一般指只有字符原生编码构成的二进制计算机文件，于[[富文本]]相比，其不包含字样样式的控制元素，能够被最简单的[[文本编辑器]]直接读取。
+== 数据存储 ==
+由于结构简单，文本文件被广泛用于记录信息。它能够避免其它文件格式遇到的一些问题。此外，当文本文件中的部分信息出现错误时，往往能够比较容易的从错误中恢复出来，并继续处理其余的内容。文本文件的一个缺点是，它的[[熵 (信息论)|熵]]往往较低，也就是说，其实本可以用更小的存储空间记录这些信息。
+
+== 格式 ==
+=== ASCII ===
+[[ASCII]]标准使得只含有ASCII字符的文本文件可以在[[Unix]]、[[Macintosh]]、[[Microsoft Windows]]、[[DOS]]和其它[[操作系统]]之间自由交互，而其它格式的文件是很难做到这一点的。但是，在这些操作系统中，[[换行]]符并不相同，处理非ASCII字符的方式也不一致。
+
+=== MIME ===
+文本文件在[[MIME]]标准中的类型为“text/plain”，此外，它通常还附加编码的信息。在[[Mac OS X]]出现前，当[[:en:Resource fork|Resource fork]]指定某一个文件的类型为“TEXT”时，[[Mac OS]]就认为这个文件是文本文件。在Windows中，当一个文件的[[文件扩展名|扩展名]]为“txt”时，系统就认为它是一个文本文件。此外，处于特殊的目的，有些文本文件使用其它的扩展名。例如，计算机的源代码也是文本文件，它们的后缀是用来指明它的程序语言的。
+
+=== .txt ===
+.txt是包含极少格式信息的文字文件的扩展名。.txt格式并没有明确的定义，它通常是指那些能够被系统[[终端]]或者简单的[[文本编辑器]]接受的格式。任何能读取文字的程序都能读取带有.txt扩展名的文件，因此，通常认为这种文件是通用的、[[跨平台]]的。
+
+在英文文本文件中，ASCII字符集是最为常见的格式，而且在许多场合，它也是默认的格式。对于带重音符号的和其它的非ASCII字符，必须选择一种字符编码。在很多系统中，字符编码是由计算机的区域设置决定的。常见的字符编码包括支持许多欧洲语言的[[ISO 8859-1]]。
+
+由于许多编码只能表达有限的字符，通常它们只能用于表达几种语言。[[Unicode]]制定了一种试图能够表达所有已知语言的标准，Unicode字符集非常大，它囊括了大多数已知的字符集。Unicode有多种字符编码，其中最常见的是[[UTF-8]]，这种编码能够向后兼容ASCII，相同内容的的ASCII文本文件和UTF-8文本文件完全一致。
+
+=== Windows的.txt文件 ===
+微软的MS-DOS和Windows采用了相同的文本文件格式，它们都使用CR和LF两个字符作为换行符，这两个字符对应的ASCII码分别为13和10。通常，最后一行文本并不以换行符（CR-LF标志）结尾，包括记事本在内的很多文本编辑器也不在文件的最后添加换行符。
+
+大多数Windows文本文件使用ANSI、OEM或者Unicode编码。Windows所指的ANSI编码通常是1字节的ISO-8859编码，不过对于像中文、日文、朝鲜文这样的环境，需要使用2字节字符集。在过渡至Unicode前，Windows一直用ANSI作为系统默认的编码。而OEM编码，也是通常所说的MS-DOS代码页，是[[IBM]]为早期IBM[[个人电脑]]的文本模式显示系统定义的。在全屏的MS-DOS程序中同时使用了图形的和按行绘制的字符。新版本的Windows可以使用UTF-16LE和UTF-8之类的Unicode编码。
+
+== 展现 ==
+用文本编辑器打开一个文本文件后，用户可以看到可读的纯文本内容。控制字符有时被编辑器当做文字指令，有时被当做像纯文本那样可编辑的[[转义字符]]。尽管文本文件里面有纯文本信息，但是通过特殊方法，文件内的控制字符（尤其是文件结束字符）可以让纯文本不可见。
+
+== 参考 ==
+{{reflist}}
+
+== 参见 ==
+*[[文本编辑器]]
+*[[ASCII]]
+*[[Unicode]]
+*[[记事本]]
+
+[[Category:文件格式]]
+[[Category:电脑数据]]</str>
+    <str name="title">文本文件</str>
+    <str name="titleText">文本文件</str>
+    <str name="user">Cwek</str>
+    <int name="userId">886047</int>
+    <int name="revision">33175555</int>
+    <date name="timestamp">2014-11-03T21:19:15Z</date>
+    <long name="_version_">1484748827028094978</long></doc>
+  <doc>
+    <str name="id">768332</str>
+    <str name="text">&lt;!-- Deleted image removed: [[File:Binder97.gif|right|200px|thumb|Screenshot from Binder in Office 95]] --&gt;
+&lt;!-- Deleted image removed: [[File:binder123.jpg|right|200px|thumb|Screenshot from Binder in Office 2000]] --&gt;
+
+'''Microsoft Binder'''原本是[[Microsoft Office]] 95中的一个应用程序，用来允许用户在一个文件中包含一些不同类型的[[对象连接与嵌入|OLE2.0]]对象（例如[[Microsoft Word|Word]]文档，[[Microsoft Excel|Excel]]表格，以及[[Microsoft PowerPoint|PowerPoint]] 幻灯片）。 起初是作为一个OLE 2.0的测试容器而没有被广泛应用，并且在Office 2000之后就终止开发了。
+
+Microsoft Binder的[[文件扩展名]]是.OBD，Office binder模板格式为.OBT。
+
+Binder文件直到Office 2003都可以被打开，因为其中内置了叫做UNBIND的Microsoft Binder支持插件，这个插件可以在添加删除程序菜单中被安装，选择Microsoft Office，单击“更改”，增加并且更新。Unbind在Office 2007中没有被包含。
+== 外部链接 ==
+*[http://filext.com/detaillist.php?extdetail=OBD .OBD的文件扩展名详情]
+
+*[http://filext.com/detaillist.php?extdetail=OBT .OBT的文件扩展名详情]
+
+*[http://office.microsoft.com/en-us/assistance/HP030849741033.aspx 在Office 2003中打开一个Microsoft Binder文档]
+
+*[http://support.microsoft.com/?kbid=843147 Microsoft Binder 97的FAQ]
+{{Microsoft Office}}
+{{Microsoft}}
+
+[[Category:Microsoft Office|Binder]]
+[[Category:终止开发的Microsoft软件|Binder]]</str>
+    <str name="title">Microsoft Binder</str>
+    <str name="titleText">Microsoft Binder</str>
+    <str name="user">Chobot</str>
+    <int name="userId">21389</int>
+    <int name="revision">26247492</int>
+    <date name="timestamp">2013-04-17T17:59:06Z</date>
+    <long name="_version_">1484748807203717121</long></doc>
+  <doc>
+    <str name="id">932741</str>
+    <str name="text">{{unreferenced|time=2013-08-11T11:59:12+00:00}}
+{{noteTA
+|T=zh-hans:二进制文件; zh-hant:二進制檔案;
+|G1=IT
+}}
+'''二进制文件'''一般指包含[[ASCII]]及扩展ASCII字符中编写的[[数据]]或[[程序指令]]的文件。广义的二进制文件即为[[電腦檔案|文件]]，由文件在[[外部存储设备]]的存放方式为[[二进制]]而得名。狭义的二进制文件即指除[[文本文件]]以外的文件。
+
+== 相关条目 ==
+* [[文本文件]]
+* [[電腦檔案]]
+* [[base64]]编码解码
+
+{{compu-stub}}
+
+[[Category:文件格式]]
+[[Category:电脑数据]]</str>
+    <str name="title">二进制文件</str>
+    <str name="titleText">二进制文件</str>
+    <str name="user">P1ayer</str>
+    <int name="userId">96020</int>
+    <int name="revision">28176297</int>
+    <date name="timestamp">2013-08-11T03:59:14Z</date>
+    <long name="_version_">1484748837820039169</long></doc>
+  <doc>
+    <str name="id">479052</str>
+    <str name="text">{{NoteTA|G1=IT}}
+{{Infobox file format
+| name = MHTML（MIME HTML）
+| icon =[[檔案:MHTML.PNG]]
+| screenshot =
+| extension = .mht, .mhtml
+| mime = multipart/related&lt;br /&gt;application/x-mimearchive
+| type code =
+| uniform type =
+| owner =
+| genre = [[置标语言]]
+| container for =
+| contained by =
+| extended from = [[HTML]]
+| extended to =
+| standard = RFC 2557（1999年推荐）
+}}
+
+'''网页归档'''（{{lang-en|'''M'''IME '''HTML'''}}或{{lang|en|'''M'''IME Encapsulation of Aggregate '''HTML''' Documents}}，又稱'''單一檔案網頁'''或'''網頁封存檔案'''）為以[[多用途互聯網郵件擴展]]格式，將一個[[多附件網頁]]（如包含大量[[圖片]]、[[SWF|Flash動畫]]、[[JavaScript|Java小程序]]的網頁）儲存為單一檔案&lt;ref name=12a3a45&gt;{{cite book|author=David J. Clark|title=The Unofficial Guide to Microsoft Office Word 2007|year=2008|publisher=John Wiley &amp; Sons|isbn=9780470377437}}&lt;/ref&gt;，可用於發送HTML[[电子邮件]]，此單一檔案即稱為一網頁封存檔案，其副檔名為'''.mht'''。這種格式有時被簡稱為MHT。
+
+MHTML是在RFC 2110中定義，然後經RFC 2557修訂。MHTML文檔的基礎是[[超文本标记语言]]。
+
+== 和HTML的分別 ==
+HTML頁面中的圖形和其他功能必須分開存放，也需要原始文件上引用。MHTML可以把網頁上的附件儲存為單一網頁。
+== 創建及編輯 ==
+[[Microsoft Office]]（[[Word]]&lt;ref name=12a3a45 /&gt;、[[Excel]]、[[PowerPoint]]、[[Access]]）能夠創建及編輯MHTML檔案。
+
+在[[Linux]]平台上，程式[[kmhtConvert]]可將文件轉換為MHTML格式。
+== 浏览器的支持==
+有些瀏覽器具有原生的这种把網頁保存為MHTML的方式，而有些瀏覽器可直接通過第三方的擴展支持MHTML格式。由於保存為MHTML的方式未經標準化，因此各瀏覽器讀取的效果略有不同。
+===Internet Explorer===
+[[Microsoft Internet Explorer]]自5.0版支持MHTML格式，是第一個支持MHTML文件的瀏覽器。
+===Opera===
+[[Opera]]自9.0版支持把網頁保存為MHTML文件，或讀取MHTML文件。&lt;ref&gt;{{cite web|url=http://my.opera.com/desktopteam/blog/show.dml/172375|title=…and one more weekly!|last=Santambrogio|first=Claudio|date=10. March 2006|publisher=[[Opera Software]]|accessdate=2009-05-15|archiveurl=http://web.archive.org/web/20060321061106/http://my.opera.com/desktopteam/blog/show.dml/172375|archivedate=2006-03-21}}&lt;/ref&gt;但基於WebKit/Blink的Opera 15卻未提供此功能，直到Opera 16才恢復。
+===Firefox===
+[[Mozilla Firefox]]需要安裝MHT文件讀寫的擴展。許多這樣的擴展是免費提供的，如[https://addons.mozilla.org/firefox/addon/mozilla-archive-format/ Mozilla Archive Format]、[https://addons.mozilla.org/firefox/addon/unmht/ UnMHT]。
+
+即使不通过Firefox扩展读写MHTML，通过[[Mozilla Thunderbird]]也可以读取MHTML文件。
+===Chrome===
+在當前版本的[[Chrome]]，原生創建MHTML文件要在{{codespan|chrome://flags}} 啟用實驗性的選項，&lt;ref&gt;[http://superuser.com/questions/369232/how-to-save-a-web-page-as-mht-in-chrome How to save a web page as MHT in chrome?], superuser.com&lt;/ref&gt;但啓用實驗項後單一網頁僅能保存爲MHTML格式，也可以安裝MHTML文件讀寫的擴展程式。
+
+===Safari===
+[[Safari]]不提供对MHTML的支持，代之以苹果公司自创的{{link-en|Webarchive|Webarchive}}格式，[[OS X]]的版本中还提供保存为[[PDF]]选项。也有人试图为Safari创建读写MHTML文件的扩展。
+
+=== Konqueror ===
+Konqueror需要使用[http://sourceforge.net/projects/mhtconv mhtconv]扩展以实现对MHTML的支持。
+
+===ACCESS NetFront===
+[[NetFront]] 3.4（像是索尼爱立信[[K850]]等设备上的）可读取或保存MHTML文件。
+===MHT阅读器===
+一些商业或民间开发者设计了MHT文件阅读器，还提供转换为其它格式（如转换为[[PDF]]）的选项。
+
+== 格式 ==
+MHTML檔案的格式如下：
+&lt;source lang="xml"&gt;
+Subject:標題
+Date: Wed, 15 Dec 2004 10:05:01 +1000
+Content-Type: multipart/related;
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:/fishier.html
+This is a multi-part message in MIME format.
+
+Content-Type: text/html;
+&lt;HTML&gt;
+ &lt;HEAD&gt;
+  &lt;TITLE&gt;Title&lt;/TITLE&gt;
+ &lt;/HEAD&gt;
+ &lt;BODY&gt;
+   ...
+ &lt;/BODY&gt;
+&lt;/HTML&gt;
+
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: file://C:/image.gif
+RHLJbDYX0KhHzv7yGcCgghhgHLJbDYX0KhHzv7yGcChkNdjn+Nfn+NXm98/i98rf9sfe9b/Z9L3X
+87fU8qP8afL8AHzvfg7yGcChkNIwMZHLJbDYX0KhHzv37yGcChkNIw2Oj5AAAZIAlhAAACwAAAAA
+er8JhHg8PhgQBrPZwG673+6CoUCv2+91gn5PGPT7fgOCg4SFhQKIiYoCAY2Oj5AAAZIAlJWXACEA
+4SFh==
+&lt;/source&gt;
+其中Subject为文档标题，Content-Type为文件的MIME属性，Content-Location为原始文件的地址，Content-Transfer-Encoding为编码格式。
+
+== 参见 ==
+* [[Mozilla Archive Format]]
+* {{link-en|Webarchive|Webarchive}}
+* IETF标准RFC 2397
+
+== 參考資料 ==
+&lt;references/&gt;
+
+[[Category:网页归档格式]]
+[[Category:HTML]]</str>
+    <str name="title">MHTML</str>
+    <str name="titleText">MHTML</str>
+    <str name="user">InSb</str>
+    <int name="userId">683028</int>
+    <int name="revision">32311599</int>
+    <date name="timestamp">2014-08-17T21:00:05Z</date>
+    <long name="_version_">1484748677237964801</long></doc>
+  <doc>
+    <str name="id">124123</str>
+    <str name="text">{{NoteTA|G1=IT|G2=FL}}
+'''FreeMind'''是一款跨平台的、基于[[GPL]]协议的[[自由软件]]，用[[Java]]編寫，是一個用來繪製[[思维导图]]的软件。其产生的[[文件格式]]后缀为.mm 。可用来做笔记，脑图记录，[[腦力激盪]]等。
+
+== 特点 ==
+FreeMind 包括了许多让人激动的特性，其中包括扩展性，快捷的一键展开和关闭节点，快速记录思维，多功能的定义格式和快捷键。
+可设置节点文字和背景颜色,形状(叉状/泡状),自动布局,闪烁节点等.
+节点可导出, 并支持多种格式的导出,如HTML,XHTML,OpenOffice Writer, PNG, JPEG,Applet,Flash,SVG,PDF等.
+支持多种语言如中文.
+
+=== 扩展性 ===
+由于 FreeMind 使用 Java 编写，支持使用 [[Python]] 编写的扩展插件。另外文件格式是[[xml]]的。
+
+== 缺陷 ==
+*无法多个思维中心点展开（亦有人认为这样是优点可以让人们专心于眼前的事）
+*部分中文[[输入法]]无法在 FreeMind 输入(只是部分, 存在可以正常输入中文的输入法)
+*启动及运行速度较慢(相对一般小型软件而言)
+
+== 版本历史 ==
+最新稳定版为：FreeMind 1.0.1 （更新于2014年4月12日）
+
+
+&lt;!--
+Along with the advantage of unlimited free usage, it provides extensive export capabilities. An [[XHTML]] export allows you to create a mapped image with links to a folding outline. Natara's [[Bonsai CVS code management system|Bonsai]] [[outliner]], also allows you to import the mindmap into a [[hierarchy|hierarchical]] list, thereby allowing you to easily carry around your maps (in outline form) on your Palm [[Personal digital assistant|PDA]].
+--&gt;
+
+== 参考文献 ==
+&lt;div class="http://freemind.sourceforge.net/wiki/index.php/Main_Page"&gt;
+&lt;references /&gt;http://freemind.sourceforge.net/wiki/index.php/Main_Page
+&lt;/div&gt;
+
+== 外部連結 ==
+* [http://freemind.sourceforge.net/ FreeMind主網頁]
+* [http://freemind.sourceforge.net/wiki/index.php/Main_Page FreeMind的共筆網]
+
+{{compu-stub}}
+
+[[Category:思維導圖軟件]]
+[[Category:SourceForge專案]]</str>
+    <str name="title">FreeMind</str>
+    <str name="titleText">FreeMind</str>
+    <str name="user">S8321414</str>
+    <int name="userId">791262</int>
+    <int name="revision">31488566</int>
+    <date name="timestamp">2014-06-03T20:49:55Z</date>
+    <long name="_version_">1484748592824451073</long></doc>
+  <doc>
+    <str name="id">1230840</str>
+    <str name="text">Gerber格式是一种二维矢量图像文件格式。&lt;ref name="thespec"/&gt; 它是[[印刷线路板]]行业软件中用于描述印刷线路板图像的标准格式，例如：线路层，阻焊层，字符层，钻孔层等。&lt;ref name="Williams2004"&gt;{{cite book|last=Williams|first=Al|title=Build your own printed circuit board|url=http://books.google.com/books?id=SoA4koYHRxsC&amp;pg=PA130|accessdate=April 2, 2011|year=2004|publisher=McGraw-Hill Professional|isbn=978-0-07-142783-8|page=121}}&lt;/ref&gt;&lt;ref name="Schroeder1998"&gt;{{cite book|last=Schroeder|first=Chris|title=Printed circuit board design using AutoCAD|url=http://books.google.com/books?id=y_3R9GTLBJcC&amp;pg=PA191|accessdate=April 2, 2011|year=1998|publisher=Newnes|isbn=978-0-7506-9834-4|page=283}}&lt;/ref&gt;&lt;ref name="Blackwell2000"&gt;{{cite book|last=Blackwell|first=Glenn R.|title=The electronic packaging handbook|url=http://books.google.com/books?id=D0PBG53PQlUC&amp;pg=SA5-PA17|accessdate=April 2, 2011|year=2000|publisher=CRC Press|isbn=978-0-8493-8591-9|location=5.18}}&lt;/ref&gt;
+
+Gerber格式最初是由Gerber系统公司开发。因[[Ucamco]]公司其前身Barco公司收购了Gerber系统公司，Gerber格式现由Ucamco公司所有。&lt;ref name="Barco acquistion"&gt;{{cite web
+ |last=Tanghe
+ |first=Jean-Pierre
+ |title=Barco acquires Gerber Systems Corp
+ |url=http://www.barco.com/en/pressrelease/415/
+ |work=Barco.com
+ |publisher=Barco NV
+ |accessdate=26 November 2011
+}}&lt;/ref&gt;&lt;ref name="history"&gt;{{cite journal
+ | url = http://pcdandf.com/cms/designnews/8107-a-short-history-of-electronic-data-formats
+ | title = A Short History of Electronic Data Formats
+ | publisher = Printed Circuit Design and Fab magazine
+ | author = Mike Buetow
+ | date = 28 June 2011
+ | accessdate = December 18, 2011
+}}&lt;/ref&gt; Ucamco公司不断地更新Gerber规格说明书的版本。&lt;ref name="rev G"/&gt;&lt;ref name="rev H"/&gt;&lt;ref name="rev I1"/&gt;
+
+目前最新的Gerber文件格式规格是于2014年2月发布的J1版本，该版本增加了传达PCB元信息例如文件所代表层类型的属性。&lt;ref name="attributes"&gt;{{cite web|url=http://pcdandf.com/cms/home/171-current-issue/10322-data-transfer|title=Gerber Grows Attributes|publisher=Printed Circuit Design &amp; Fab|date=August 2013|accessdate=5 September 2012}}&lt;/ref&gt;最新的规格说明书可在 [http://www.ucamco.com/cn/guest/downloads Ucamco网站下载页面]免费下载。&lt;ref name="thespec"&gt;{{cite web|url=http://www.ucamco.com/cn/guest/downloads|title=Gerber File Format Specification.pdf|publisher=Ucamco|date=February 2013|accessdate=21 December 2012}}&lt;/ref&gt;
+
+Gerber格式有两个版本：
+*扩展Gerber格式，或称RS-274X格式，目前被广泛使用。
+*标准Gerber格式，或称RS-274D格式，已被弃用并被RS-274X格式所取代。&lt;ref name="rev I1"/&gt;&lt;ref name="tavernier"/&gt;
+
+标准的文件扩展名是.GBR。&lt;ref name="thespec"/&gt;
+
+==使用==
+Gerber格式的应用之一是将PCB的设计数据从设计转换到生产。PCB通常由线路板设计人员使用专业的电子设计自动化[[Electronic Design Automation]] (EDA)或者计算机辅助设计[[Printed circuit board#Design|computer-aided design]]（CAD）软件进行设计， &lt;ref&gt;{{cite web
+ | url = http://www.edac.org/Video/ElectronicsBegins/electronics_begins_en.jsp
+ | title = EDA: Where Electronics Begins
+ | work = edac.org
+ | publisher = Electronic Design Automation Consortium
+ | accessdate = December 18, 2011
+}}&lt;/ref&gt;然后输出成Gerber格式文件。Gerber文件被送到PCB工厂，并被输入到[[Printed circuit board#Manufacturing|computer-aided manufacturing]] CAM系统对设计信息进行转换，为PCB生产的每一道工艺流程[[印刷電路板#製造印刷電路板|工艺流程]]提供数据。Gerber文件亦被用作传输钻孔信息，然而因为历史原因，钻孔资料通常使用Excellon 格式。&lt;ref&gt;{{cite web
+ | url = http://www.pcbexpress.com/technical/tutorial.php
+ | title = PCBexpress Printed Circuit Board Tutorial
+ | accessdate = December 18, 2011
+ | work = PCBexpress.com
+}}&lt;/ref&gt;
+&lt;ref name = history&gt;
+&lt;/ref&gt;&lt;ref name="PCB layout data"&gt;{{cite web
+ | url = http://www.eurocircuits.com/index.php/technology-guidelines/pcb-layout-data
+ | title = PCB Layout Data
+ | publisher = Eurocircuits
+ | accessdate = 26 November 2011
+}}&lt;/ref&gt;
+
+另一个应用是传输单个图像，CAM系统可输出Gerber文件为绘图机提供数据。
+
+===交换PCB设计信息===
+PCB设计是通过若干Gerber格式文件和其它格式文件进行描述。通常这些文件会被压缩成单个文档送到PCB工厂。
+一个Gerber文件定义单个线路层图像或绿油层图像。但它并不标明该文件所代表的PCB层别。人们指明该文件功能属性所用的一个简单方法就是将其属性在文件名中清楚说明。然而一些设计人员使用模糊的文件名并记录在任意文本格式中。这意味着制造厂商必须通过浏览数据包中所有文档的内容查找所需的文件功能属性。有些情况下，设计人员甚至会滥用文件扩展名去标明层的功能属性，例如用.BOT而不是标准的扩展名表示底层。这时生产厂商必须打开文件以查明文件的格式。&lt;ref name="tavernier"/&gt;
+
+有时候设计人员使用笔画填充而不是用单个外形去定义pad。这种技术被称作笔画填充。笔画填充可以画出所需的图形但是会导致pad的形状和位置信息丢失。PCB制造厂商进行电测的时候需要pad的位置信息。当PCB制造厂商收到的Gerber文件是通过笔画填充时，他们需要花费大量的时间把pad从笔画填充恢复过来，这是一项非常耗时且易于出错的工作。&lt;ref name="Painting Considered Harmful"/&gt;&lt;ref name="Painting Pads"/&gt;&lt;ref name="Eurocircuits 10 rules"&gt;{{cite web
+ | url = http://www.eurocircuits.com/index.php/technology-guidelines/pcb-layout-data/116-ten-rules-to-provide-perfect-data-for-pcb-production
+ | title = PCB Layout Data
+ | publisher = Eurocircuits
+ | accessdate = 26 November 2011
+}}&lt;/ref&gt;
+
+钻孔资料可被视作一个图形。因此Gerber文件可以定义钻孔数据。然而因为历史原因，IPC-NC-349 或 Excellon格式更经常被用作钻孔格式，尽管使用不同另外的格式会经常导致对位不准的问题。
+
+一个Gerber文件不包含网表数据。网表通常使用IPC标准IPC-D-356进行定义。&lt;ref name="IPC-D-356"&gt;{{cite web |url=http://www.artwork.com/gerber/netex-g/ipc356/index.htm |title=Using IPC-D-356 for Importing Net and Node |accessdate=16 October 2011 }}&lt;/ref&gt;
+
+设计人员通常会使用非正规的文本文档或图纸提供层的功能属性，板材叠层，部件以及元信息。&lt;ref&gt;IPC-2524 PWB Fabrication Data Quality Rating System, February 1999.&lt;/ref&gt; Ucamco建议使用IPC-2581子集提供该类非图形信息。&lt;ref name="tavernier"&gt;{{cite web |url=http://www.hkpca.org/ptxCms/website/hkpca2/gallery/190b0b79-f0e5-4740-b1c1-aba7360c2a50.pdf |title=Improving CAD to CAM Data Transfer: A Practical Approach |author=Karel Tavernier |work=Journal of the HKPCA |issue=40 |quote=Use of RS-274-D: Do not use it. |date=2011/2Q |accessdate=2 October 2011 }}&lt;/ref&gt;&lt;ref name="tavernier2"&gt;{{cite web |url=http://www.ucamco.com/cn/guest/downloads|title=IPC-2581 meets Gerber |author=Karel Tavernier |work=PCB Design Magazine |issue=January 2013 |date=January 2013 |accessdate=19 February 2013 }}&lt;/ref&gt;
+
+Ucamco于2013年12月发布了扩展Gerber格式的规格草案，增加了转移元信息的属性。Ucamco在将其正式加入规格说明书前，请求PCB界对此给予反馈意见。&lt;ref name="attributes"&gt;{{cite web
+ |last=Karel
+ |first=Tavernier
+ |title=A proposal to extend the Gerber format with attributes
+ |url=http://www.ucamco.com/cn/guest/downloads
+ |work=Ucamco.com
+ |publisher=Ucamco
+ |accessdate=12 July 2013
+}}&lt;/ref&gt;
+
+==RS-274X 扩展Gerber格式==
+RS-274X Gerber格式，又称扩展Gerber格式或X-Gerber，是一种二维矢量图形描述格式&lt;ref name="thespec"/&gt;
+ 
+RS-274X是一种可读的[[ASCII]] 格式。&lt;ref name="SinclairDunton2007"&gt;{{cite book|last1=Sinclair|first1=Ian Robertson|last2=Dunton|first2=John|title=Practical electronics handbook|url=http://books.google.com/books?id=ZYCdYHpH8T8C&amp;pg=PA542|accessdate=April 2, 2011|date=January 11, 2007|publisher=Elsevier|isbn=978-0-7506-8071-4|page=543}}&lt;/ref&gt;它由一系列的命令和坐标组成。组成图像的元素是在特定位置画好外形的线和flash。正性和负性图形对象可以合并使用。
+以下是扩展Gerber文件格式的一个例子：
+
+G04 Gerber X2 样板资料1的简单版本
+ %TF.FileFunction,Copper,L4*%
+ %TF.Part,Single*%
+ %FSLAX35Y35*%
+ %MOMM*%
+ %TA.AperFunction,Conductor,NotC*%
+ %ADD10C,0.15000*%
+ %TA.AperFunction,ViaPad*%
+ %ADD11C,0.75000*%
+ %TA.AperFunction,ComponentPad*%
+ %ADD12C,1.60000*%
+ %ADD13C,1.70000*%
+ %SRX1Y1I0.00000J0.00000*%
+ G01*
+ G75*
+ %LPD*%
+ D10*
+ X7664999Y3689998D02*
+ X8394995D01*
+ X8439999Y3734999D01*
+ X9369999D01*
+ D11*
+ X7664999Y3689998D03*
+ X8359999Y1874998D03*
+ X9882998Y3650498D03*
+ D12*
+ X4602988Y7841488D03*
+ D13*
+ X10729976Y2062988D03*
+ X10983976D03*
+ X11237976D03*
+ M02*
+
+RS-274X文档包含了线路板各层图像的完整描述，具有线路板图形成像需要的所有元素，不需要外部文件。RS-274X格式可定义任意形状的Apterture。正极和负极的物件可以合并使用。铜皮或铜块不需要定义为填充图形。&lt;ref name="Painting Considered Harmful"&gt;{{cite web|url=http://www.ucamco.com/cn/guest/downloads|title=RS-274X Painting Considered Harmful.pdf|publisher=Ucamco|date=June 2011|accessdate=5 March 2012}}&lt;/ref&gt;&lt;ref name="Painting Pads"&gt;{{cite web |url=http://www.ucamco.com/cn/guest/downloads|title=Painting Pads|author=Karel Tavernier |work=PCB Design Magazine |issue=November 2013 |date=November 2013 |accessdate=23 November 2013 }}&lt;/ref&gt;
+
+RS-274X格式是描述线路板各层的完整，强大且清晰的标准格式。它可以被自动输入和处理。这使其非常适合快速安全的数据转换以及可靠的自动化工作流程。
+此格式规格已经发布。&lt;ref name="thespec"/&gt;
+
+==RS-274-D 标准Gerber格式==
+标准Gerber格式已被扩展Gerber格式所取代。RS-274-D 标准Gerber格式是电子工业协会（EIA）RS-274-D格式规格的子集，&lt;ref&gt;{{cite book
+ | title = EIA Standard RS-274-D Interchangeable Variable Block Data Format for Positioning, Contouring, and Contouring/Positioning Numerically Controlled Machines
+ | publisher = Electronic Industries Association, Engineering Department, 2001 Eye Street, NW, Washington, D.C. 200006
+ | date = February 1979
+}}&lt;/ref&gt; 是用于控制多领域数控机床的数据格式。Gerber RS-274-D用于控制矢量光绘机，该机器是二维数控机床。
+
+Gerber RS-274-D是包含了控制码及X,Y坐标的ASCII格式。&lt;ref name="D-codes"&gt;{{cite web
+ | url = http://www.artwork.com/gerber/appl2.htm
+ | title = D-codes, Apertures and Gerber Files
+ | year = 1991
+ | author = Steve DiBartolomeo
+ | publisher = Artwork Conversion Software, Inc.
+ | accessdate = 16 October 2011
+}}&lt;/ref&gt; 
+以下是RS-274-D 格式的例子：
+ 
+ D11*
+ X1785250Y2173980D02*
+ X1796650Y2177730D01*
+ X1785250Y2181480D01*
+ X1796650Y2184580D01*
+ D12*
+ X3421095Y1407208D03*
+ X1785250Y2173980D03*
+ M02*
+
+RS-274-D标准Gerber格式是在20世纪60，70年代设计出来，用于控制数控机床，例如矢量光绘机。矢量光绘机如今已经被镭射光绘机所取代。标准Gerber格式非常适合于矢量光绘机但是受当时的技术所限制。它适用于手工操作流程，不适合PCB设计及制造之间的全自动化数据转换。
+Gerber RS-274-D本身不能描述图像信息。它不包含坐标单位及Aperture信息。（Aperture是物件的形状说明，类似于PDF文档的字体）光绘机操作人员需手工设定坐标单位。坐标单位保存在被称作Aperture文件或Wheel文件的自由格式文本文档中，供操作人员阅读。Wheel文件没有统一的标准格式。设计人员和光绘机操作人员必须根据实际情况对格式使用达成一致。因此标准Gerber格式是一个数控标准而不是一个图形定义标准。&lt;ref name="thespec"/&gt;&lt;ref name="D-codes"/&gt;
+ 
+标准Gerber格式只支持简单的图像操作。作为变通方法，设计人员通过使用大量的矢量填充外形的方法去创建图形。此方法被称作图形填充。尽管这种方法创建了所需的图形，但是因为原始外形信息的丢失，这种文件在PCB CAM系统中非常难以处理。&lt;ref name="Painting Considered Harmful"/&gt;
+
+&lt;!-- TODO The para below was removed from the timeline section. There might be useful bits to fold in above. A lot of it is already covered.
+ EIA RS-274-D is indeed subtitled ''Interchangeable variable block data format for positioning, contouring, and contouring/positioning numerically controlled machines''.  --&gt;
+RS-274-D格式已被弃用。&lt;ref name="tavernier"/&gt;
+
+== 历史 ==
+* 1980年8月27日，作为EIA RS-274-D子集的Gerber格式第一版发布；Gerber Systems Corporation发表了绘图数据参考书&lt;ref&gt;{{cite book
+ | url = http://books.google.com/books/about/Gerber_format.html?id=AIUVcgAACAAJ
+ | title = Google book entry on ''Gerber format: a subset of EIA RS-274-D ; plot data format reference book''
+}}&lt;/ref&gt;作为驱动其光绘机产品的规格。
+* 1986年，Gerber格式被扩展并加入对尺寸可变Aperture的支持，以绘制给定范围内任意尺寸的长方形和锥形线。该功能在实际应用中已不再使用。
+* 20世纪80年代，Gerber格式为其他光绘机生产商和PCB制造中的CAM系统所采用。这时，Gerber格式已成为行业标准格式。
+* 1991年4月26日，随着光栅扫描技术的实现，Gerber格式被扩展为支持多边形和大量参数，允许用户可动态地定义不同形状、尺寸的Aperture，铜皮及多边形，而不再需要使用“填充块”。这大量的扩展参数最初是20世纪90年代由Gerber公司在AT&amp;T的推动下设计开发的。&lt;ref name="Coombs2007"&gt;{{cite book|last=Coombs|first=Clyde F.|title=Printed circuits handbook|url=http://books.google.com/books?id=1Pbkeu6dZ_sC&amp;pg=SA20-PA3|accessdate=April 3, 2011|date=September 2, 2007|publisher=McGraw-Hill Professional|isbn=978-0-07-146734-6|pages=18.11}}&lt;/ref&gt;
+* 1994年8月16日，Gerber公司发表了最后版本的《Gerber格式指南》。
+* 1998年4月，Gerber系统公司被比利时Barco公司所合并。Barco公司的PCB部门即是如今的Ucamco（前身为Barco ETS）。
+* 1998年9月21日，Barco公司发表《RS-274X格式用户指南》。
+* 2010年2月，Gerber格式规格更新到版本F。
+* 2010年12月，Gerber格式规格更新到版本G。&lt;ref name="rev G"&gt;{{cite web
+ | url = http://www.ucamco.com/cn/guest/downloads
+ | title = Ucamco announce a revision of the industry standard RS-274X Format Specification
+ | work = Ucamco.com
+ | date = December 9, 2010
+ | accessdate = February 15, 2013
+}}&lt;/ref&gt;
+* 2012年1月，Gerber格式规格更新到版本H。&lt;ref name="rev H"&gt;{{cite web
+ | url = http://www.ucamco.com/cn/guest/downloads
+ | title = New Gerber Format Specification free at http://www.ucamco.com/cn/guest/downloads
+ | work = Ucamco.com
+ | date = January 27, 2012
+ | accessdate = February 15, 2013
+}}&lt;/ref&gt;
+* 2013年2月，Gerber格式规格更新到版本I1。&lt;ref name="rev I1"&gt;{{cite web
+ | url = http://www.pcb007.com/pages/zone.cgi?a=90088&amp;artpg=1&amp;topic=0
+ | title = Ucamco Offers Latest Gerber Format Specification
+ | work = Ucamco.com
+ | date = February 19, 2013
+ | accessdate = February 15, 2013
+}}&lt;/ref&gt;
+* 2013年4月，Gerber格式规格更新到版本I2。&lt;ref name="rev I2"&gt;{{cite web
+ | url = http://www.pcb007.com/pages/zone.cgi?a=91322&amp;artpg=1&amp;topic=0
+ | title = Ucamco's Revised Gerber Format Specification Now Online
+ | work = Ucamco.com
+ | date = February 19, 2013
+ | accessdate = February 15, 2013
+}}&lt;/ref&gt;
+* 2013年6月，Gerber格式规格更新到版本I3。
+* 2013年6月，关于扩展Gerber格式以增加属性的建议发布。&lt;ref name="attributes"/&gt;
+* 2013年11月，Gerber格式规格更新到I4版本。&lt;ref name="rev I4"&gt;{{cite web
+ | url = http://www.pcb007.com/pages/zone.cgi?a=96295&amp;artpg=1&amp;topic=0
+ | title = Ucamco Enhances Gerber File Format Specification
+ | work = Ucamco.com
+ | date = November 22, 2013
+ | accessdate = November 22, 2013
+}}&lt;/ref&gt;
+
+== 相关格式 ==
+多年来人们多次尝试用其它格式代替Gerber格式，以加入除层图像以外的其它信息，例如网络(netlist)和电子元件信息。&lt;ref name="history"/&gt;但可能因为这些格式过于复杂，它们都未被电子制造业所广泛接受。现在Gerber格式仍是应用最广泛的数据转换格式。&lt;ref name="tavernier"/&gt; Gerber remains the most widely used data transfer format.&lt;ref name="Williams2004"/&gt;&lt;ref name="Schroeder1998"/&gt;&lt;ref name="Blackwell2000"/&gt;
+
+* [[IPC (electronics)|IPC]]-D-350 C 《印刷线路板数字格式描述》发表于1989年。此规格于1992年被标准化成IEC 61182-1文档，后来在2001年被取消。此格式很少被使用。
+* [[DXF]] 偶尔被使用。因为通常使用画线进行构图，PCB物件（线和盘）信息会丢失，从而使其在CAM中应用非常难困难。
+* [[PDF]] 格式很少被使用。因为PCB物件（线和盘）信息会丢失而使其难以在实际中应用。
+* DPF 格式，来自Ucamco的一种CAM格式，目前最新版本为v7，偶尔被使用。
+*电子设计交换格式, [[EDIF]] ,很少被使用。
+* [[ODB++]]格式，来自Mentor Graphics公司的一种CAM格式。偶尔被使用，是流行的非Gerber格式。&lt;ref name="mike2002"&gt;{{cite web
+ | url = http://www.eetimes.com/electronics-news/4042914/ODB--spec-tapped-for-CAD-to-CAM-data-exchange
+ | title = ODB++ spec tapped for CAD-to-CAM data exchange
+ | author = Mike Santarini
+ | date = 1/22/2002 2:33 PM EST
+ | accessdate = 29 September 2011
+ | work = EE Times
+ }}&lt;/ref&gt;
+* GenCAM: [[IPC (electronics)|IPC]]-2511A《产品制造描述数据实施的通用要求和转换方法论》2000年版本，很少被使用。
+* GenCAM: [[IPC (electronics)|IPC]]-2511B 《产品制造描述数据实施的通用要求和XML图表转换方法论》  2002年版本，很少被使用。
+* Offspring: [[IPC (electronics)|IPC]]-2581《印刷线路板装配产品制造描述数据通用要求和转换方法论》 2004版本。很少被使用，但近年来受到更多的关注。&lt;ref name=Goering2011&gt;[http://www.cadence.com/Community/blogs/ii/archive/2011/10/02/ipc-2581-panel-a-spirited-discussion-on-pcb-data-transfer-formats.aspx IPC-2581 Panel: A Spirited Discussion on PCB Data Transfer Formats], Richard Goering, Cadence Design Systems blog, October 2, 2011&lt;/ref&gt;
+* STEP AP210: [[ISO 10303]]-210, 《电子装配互连和封装设计 》第一版本2001， 第二版本2008。
+* Fujiko: JPCA-EB02,&lt;ref&gt;{{cite web | url = http://www.jpca.net/jp/e/standards.html | title = JPCA Standards }}&lt;/ref&gt;基于日本福冈大学Tomokage教授的研究的日本新标准，很少被使用。{{Citation needed|date=November 2011}}
+
+
+
+==参考文献==
+{{reflist|30em}}
+
+==外部链接==
+[http://www.ucamco.com/cn/guest/downloads Gerber文件格式规格及与文件格式相关的各种文档]
+
+[[Category:EDA file formats]]
+[[Category:Electronics manufacturing]]
+[[分類:圖形文件格式]]</str>
+    <str name="title">Gerber</str>
+    <str name="titleText">Gerber</str>
+    <str name="user">Liaoguofan</str>
+    <int name="userId">1472286</int>
+    <int name="revision">31228652</int>
+    <date name="timestamp">2014-05-07T22:34:36Z</date>
+    <long name="_version_">1484748936580169729</long></doc>
+  <doc>
+    <str name="id">179626</str>
+    <str name="text">{{NoteTA|G1=IT}}
+{{lowercase|title=deb (file format)}}
+{{Infobox file format
+| name                   = Debian package
+| icon                   = 
+| logo                   = 
+| screenshot             = [[File:Nuvola mimetypes deb.png|80px]]
+| caption                = 对应.deb的[[GNOME#图标|GNOME图标]]
+| extension              = &lt;tt&gt;.deb&lt;/tt&gt;
+| mime                   = application/vnd.debian.binary-package
+| type code              = 
+| uniform type           = 
+| magic                  = 
+| owner                  = [[Debian]]
+| released               = 
+| latest release version = 
+| latest release date    = 
+| genre                  = [[软件包管理系统]]
+| container for          = [[软件包]]
+| contained by           = 
+| extended from          = 
+| extended to            = 
+| standard               = 
+| url                    = 
+}} 
+[[File:Gdebi.png|250px|thumb|[[Gdebi]]]]
+'''deb'''是[[Debian]][[软件包]]格式，[[文件扩展名]]为'''.deb'''，跟''Debian''的命名一样，deb也是因Debra Murdock（Debian创始人[[Ian Murdock]]的前妻）而得名。
+
+Debian包是[[Unix]][[ar]]的标准归档，将包文件信息以及包内容，经过[[gzip]]和[[Tar (计算机科学)|tar]]打包而成。
+
+处理这些包的经典程序是[[dpkg]]，经常是通过[[apt]]来运作。
+
+通过[[Alien]]工具，可以将deb包转换成其他形式的[[软件包]]。
+
+== 實做 ==
+deb 檔是使用 ar 包裝，包含了三個檔案：
+
+* debian-binary - deb 格式版本號碼
+* control.tar.gz - 包含套件的[[元数据]]，如包名称、版本、维护者、依赖、冲突等等。 &lt;small&gt;在dpkg 1.17.6 之后添加了对 [[xz]] 压缩和不压缩的 control 元数据的支持。&lt;ref&gt;[http://metadata.ftp-master.debian.org/changelogs/main/d/dpkg/unstable_changelog dpkg changelog]&lt;/ref&gt;&lt;/small&gt;
+* data.tar.* - 實際安裝的內容
+
+其中，"*"所指代的内容随压缩算法不同而不同。常见的可能值为[[xz]]、[[gzip|gz]]、或[[bzip2|bz2]]。有时也会使用[[LZMA|lzma]]。
+
+== 參見 ==
+* [[歸檔格式列表]]
+
+== 外部链接 ==
+* [http://www.debian.org/doc/FAQ/ch-pkg_basics Debian FAQ：Debian包管理系统基础]
+{{RefList}}
+
+{{Debian}}
+{{Template:Archive formats}}
+
+[[Category:归档格式]]
+[[Category:Dpkg]]
+[[Category:扩展名]]
+[[Category:Ubuntu]]
+[[Category:Debian]]</str>
+    <str name="title">Deb</str>
+    <str name="titleText">Deb</str>
+    <str name="user">Yangfl</str>
+    <int name="userId">821047</int>
+    <int name="revision">31525662</int>
+    <date name="timestamp">2014-06-07T07:35:07Z</date>
+    <long name="_version_">1484748607519195136</long></doc>
+</result>
+</response>

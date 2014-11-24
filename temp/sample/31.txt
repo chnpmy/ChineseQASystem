@@ -1,0 +1,931 @@
+《'''全元散曲'''》是一部[[元代]][[散曲]]總集，作者是[[元曲]]学者[[隋樹森]]，1964年由[[中华书局]]出版。该书共收[[元曲]]作家213家（另有無名氏作品），[[小令]]3760餘首，[[套曲]]410餘套。取材範圍除後人總集、別集、選集外，還從曲譜、曲話、[[筆記]]、方志等共117種材料廣為蒐集；並加以[[校勘]]、訂正，注明出處。1982年隋树森将《全元散曲》加以编选增补，完成《全元散曲简编》，1984年出版<ref>{{cite book|author=隋树森|title=全元散曲简编|publisher=上海古籍出版社|year=1984|pages=1}}</ref>
+
+==編纂淵源==
+元代曲家大多為潦倒文人，既鮮知遇於當時，復少顯揚於後世。散曲更因為篇幅短小，更容易遺佚。元代除[[張可久]]、[[喬吉]]、[[張養浩]]三人作品有個人曲集流傳外，大多數的不傳於世。在後世所編的曲譜、曲總集 中雖有蒐羅一些作品但也並非所有作品都能網羅收入，蓋當時不重視這種文學也 。自元明以來散曲作品、作家的數字（包括有無名氏的曲），大約如下：
+*[[楊朝英]]《陽春白雪》50餘人
+*楊朝英《太平樂府》80餘人
+*佚名《樂府新聲》10餘人
+*佚名《樂府群玉》：專選小令，按作家編列。共存 21家627首。
+*[[張祿]]《詞林摘豔》40人
+*[[郭勛]]《雍熙樂府》
+*[[鍾嗣成]]《[[錄鬼簿]]》130人
+*[[朱權]]《太和正音譜》187人
+*[[任二北]]《散曲之研究》208人
+*[[任中敏]]《散曲概論》227人（按，僅統計資料，沒有詳細羅列有哪些人。）
+*[[陳乃乾]]《元人小令集》95人（按，僅收小令）
+*隋樹森《全元散曲》213人
+這些本子也由於是一種通俗文學，在刊刻[[校勘]]比較隨便，不經一番整理是很難讀得通的。及至後來，對元代戲曲也不是很重視，有很多作品就開始亡佚散失。進入20世紀以後，逐漸對元代戲曲文學開始重視，但苦無相關文獻資料可以運用，隋樹森在〈全元散曲自序〉中就說出了研究上的三大困難在於資料的匱乏與取得不易（如孤本）。這種狀況不改善就會影響學術研究的發展。因此就此一部能反映元代散曲作家作品的總集醞釀而生。
+
+==內容==
+《全元散曲》分上、下兩冊，收入自[[金代]][[元好問]]迄元末明初[[湯式]]、[[穀子敬]]等人的散曲213家（在《全元散曲簡編》作220人），以及元代和元末明初的無名氏散曲作品（先[[小令]]，後[[套曲]]），總共小令3853首（加補遺約3885首），套曲450餘套（在《全元散曲簡編》作470套），另有些元代作者的散曲殘曲未記入。所收錄小令、散套作品基本上都是[[北曲]]，除了極少數無名氏作品是[[南曲]]。其排列次序則資這[[宮調]][[曲牌]]排列順序：北曲排列依[[李玉]]《[[北詞廣正譜]]》，附錄南曲則根據[[沈璟]]《[[南曲譜]]》排列。
+
+《全元散曲》相關資料取捨上共參考、[[校對|校閱]]了元、明兩代的散曲總集和別集，以及相關曲譜、曲話、文集、詞集、[[詞話]]、史書、方志、[[筆記]]、[[類書]]道藏及有關書目/材料約117種。除此之外，作者還採用天一閣《小山樂府》、《筆花集》、稿本《南北詞廣韻選》、殘本《北宮詞紀外集》等珍本，加以補充和[[校勘]]。此書書前有[[自序]]與引用書目；末尾附有《作家姓名別號索引》及《作品曲牌索引》，這兩個[[索引]]對於專門研究者有極廣泛的用處。
+
+
+==参考资料==
+<references/>
+*{{cite book|author=隋树森|title=《全元散曲》，自序|publisher=中华书局|year=1964}}
+
+[[Category:元曲]]
+[[Category:中国古典典籍]]
+[[Category:中华人民共和国书籍]]
+'''曲牌'''，是传统填词制谱用的曲调调名的统称，俗称“牌子”。
+[[元曲]]共计15[[宫]]，447支曲牌。
+
+曲牌為填寫該散曲所依據的[[樂譜]]及定式，決定該曲的曲調、唱法、字數、句數、句子長短、[[平仄]]及[[韻腳]]等。
+
+== [[黄钟宫]] ==
+* [[醉花阴]]
+*[[喜迁莺]]
+*[[出队子]]
+*[[刮地风]]
+*[[四门子]]
+*[[水仙子]]  
+*[[塞雁儿]]  
+*[[节节高]]  
+*[[寨儿令]]
+*[[六么令]]
+*[[九条龙]]
+
+……
+
+== [[正宫]] ==
+*[[端正好]]
+*[[滚绣球]]
+*[[叨叨令]]
+*[[倘秀才]]
+*[[醉太平]]
+*[[呆骨朵]]
+*[[伴读书]]
+*[[笑和尚]]
+*[[芙蓉花]]
+*[[鹦鹉曲]]
+*[[甘草子]]
+*[[汉东山]]
+
+……
+
+== [[仙吕宫]] ==
+* [[端正好]] 
+*[[赏花时]]
+*[[混江龙]]
+*[[油葫芦]]
+*[[天下乐]]
+*[[元和令]]
+*[[上马娇]]
+*[[游四门]]
+*[[哪吒令]]
+*[[鹊踏枝]]
+*[[忆王孙]]
+*[[玉花秋]]
+
+……
+
+== [[南吕宫]] ==
+*[[一枝花]]
+*[[牧羊关]]
+*[[感皇恩]]
+*[[采茶歌]]
+*[[乌夜啼]]
+*[[贺新郎]]
+*[[四块玉]]
+*[[鹌鹑儿]]
+*[[楚天秋]]
+*[[虾蟆序]]
+*[[醉乡春]]
+
+……
+
+
+
+== [[中吕宫]] ==
+*[[粉蝶儿]]
+*[[醉春风]]
+*[[迎仙客]]
+*[[石榴花]]
+*[[快活三]]
+*[[满庭芳]]
+*[[贺圣朝]]
+*[[红芍药]]
+*[[播海令]]
+*[[古竹马]]
+
+…… 
+== [[道宫]] ==
+*[[凭阑人]]
+*[[美中美]]
+*[[大圣乐]]
+
+……
+== [[大石调]] ==
+*[[念奴娇]]
+*[[百字令]]
+*[[六国朝]]
+*[[还京乐]]
+*[[催拍子]]
+*[[荼縻香]]
+*[[蓦山溪]]
+*[[女冠子]]
+*[[玉翼蝉]]
+*[[鹧鸪天]]
+*[[喜梧桐]]
+
+……
+== [[小石调]] ==
+*[[恼杀人]]
+*[[伊州遍]]
+*[[青杏儿]]
+*[[天上谣]]
+
+……
+
+== [[般涉调]] ==
+*[[麻婆子]]
+*[[墙头花]]
+*[[耍孩儿]]
+*[[瑶台月]]
+
+……
+== [[商角调]] ==
+*[[黄莺儿]]
+*[[踏莎行]]
+*[[盖天旗]]
+*[[垂丝钓]]
+*[[应天长]]
+
+== [[高平调]] ==
+*[[木兰花]]
+*[[唐多令]]
+*[[于飞乐]]
+*[[青玉案]]
+
+== [[商调]] ==
+*[[集贤宾]]
+*[[逍遥乐]]
+*[[金菊香]]
+*[[醋葫芦]]
+*[[贤圣吉]]
+*[[满堂春]]
+
+……
+== [[越调]] ==
+*[[半鹌鹑]]
+*[[金蕉叶]]
+*[[小桃红]]
+*[[圣药王]]
+*[[雪中梅]]
+*[[眉儿弯]]
+*[[送远行]]
+*[[黄蔷薇]]
+*[[庆元贞]]
+*[[青山口]]
+*[[看花回]]
+*[[南乡子]]
+*[[梅花引]]
+*[[郓州春]]
+*[[天淨沙]]
+……
+
+== [[双调]] ==
+*[[新水令]]
+*[[驻马听 ]]
+*[[雁儿落]]
+*[[得胜归]]
+*[[锦上花]]
+*[[碧玉箫]]
+*[[搅铮琶]]
+*[[清江引]]
+*[[步步娇]]
+*[[庆宣和]]
+*[[殿前喜]]
+*[[凤引雏]]
+*[[天仙子]]
+*[[醉春风]]
+*[[快活年]]
+*[[朝元乐]]
+*[[海天晴]]
+*[[楚天遥]]
+*[[川拨棹]]
+*[[七弟兄]]
+*[[梅花酒]]
+*[[小阳关]]
+*[[早乡词]]
+*[[石竹子]]
+*[[庆丰年]]
+*[[秋莲曲]]
+*[[落风花]]
+*[[珍珠马]]
+*[[挂打灯]]
+
+……  
+
+{{Refimprove|time=2007-09-26T15:23:06Z}}
+
+[[category:中国音乐]]
+[[Category:元曲]]
+'''加拿大单曲榜'''（{{lang|en|Canadian Singles Chart}}）是由总部设在美国的音乐销量追踪公司{{link-en|尼尔森音乐统计|Nielsen SoundScan}}。该榜单于每周三生成，次日发布在Jam!的《Canoe》上。<ref>{{cite journal|date=24 June 2000|title=Hits of the World: Canada (IFPI/Nielsen Marketing Research) 06/24/00|journal=[[告示牌_(雜誌)|Billboard]]|publisher=[[尼尔森公司|Nielsen Business Media]]|volume=112|issue=26|page=98|issn=0006-2510}}</ref>
+
+==历史==
+1996年11月，榜单最初发布时共列出200名（其中前50由Jam!发布）。<ref>{{cite journal|date=28 December 1996|title=Canadian Business Has Troubled '96 12/28/96|journal=[[告示牌_(雜誌)|Billboard]]|publisher=[[尼尔森公司|Nielsen Business Media]]|volume=108|issue=52|page=52|issn=0006-2510}}</ref>但是，由于加拿大单曲市场的萎缩，现在音乐统计的榜单上只会列出前十（音乐统计的政策是，至少要售出10份拷贝才能列入它的单曲榜中）。
+
+2004年开始，由于[[音乐下载|数字下载]]的盛行，加拿大的单曲销量进一步锐减。因此加拿大销量数字并像过去那样反映真实的销量，许多单曲在榜单上会停留很长时间。2006年，许多加拿大冠军单曲只卖出不足200份拷贝。<ref>{{cite journal|date=4 March 2006|title=Canadian Digital Chart Bows; Jaheim's Third Charms 03/04/06|journal=[[告示牌_(雜誌)|Billboard]]|publisher=[[尼尔森公司|Nielsen Business Media]]|volume=118|issue=9|page=47|issn=0006-2510}}</ref>
+
+2007年6月7日，《公告牌》杂志引入了自己的加拿大单曲榜，称为“[[加拿大百强单曲榜]]”。它是根据尼尔森音乐统计提供的数字下载单曲销量数据和尼尔森广播数据系统提供的电台听众水平综合得出的。<ref>{{cite news | first = | last = | title = Billboard Launches Canadian Hot 100 Chart | url = http://billboard.biz/bbbiz/content_display/industry/e3ib5ce1539248626d64718ef9dbd81fa59 | work = | publisher = Billboard.biz | date = 2007-06-07 |accessdate = 2007-06-07}}</ref>
+
+==参考资料==
+{{reflist}}
+
+==外部链接==
+*[http://jam.canoe.ca/Music/Charts/DIGITAL.html 50强数字单曲]
+*[http://jam.canoe.ca/Music/Charts/SINGLES.html 加拿大50强单曲]
+
+[[Category:音乐排行榜]]
+{{unreferenced|time=2010-10-25T16:09:54+00:00}}
+'''Agalloch'''是一支[[美国]][[金属乐队]]，于1995年成立于[[俄勒冈州]]的[[波特兰市]]，其首脑是[[主唱]]兼[[吉他手]]John Haughm，迄今为止已发行过四张限量EP、三张全长专辑、两张Demo、一张合辑、一张精选集以及一张现场DVD。如今乐队正在制作第四张全长专辑。
+
+==历史==
+===乐队成立及初期（1995–1997）===
+Agalloch由John Haughm和Shane Breyer两人组建，乐团名称一词出自沉香林的树脂木名（Aquilaria agallocha）。1996年早期，两人开始创作歌曲，同年夏天Don Anderson的加盟使创作题材得以完善，随后秋季时这些歌曲融合成了样品磁带《From Which of This Oak》。作品受大量黑金属元素影响，其很多题材以不同形式出现在后续专辑中。唱片录制后不久，Jason William Walton以贝司手的身份加盟乐队。
+
+Pale Folklore和Of Stone, Wind and Pillor（1998–2001）
+1998年，三人独立录制了一张Promo磁带，这引起了The End厂牌的注意，于是The End与Agalloch签约，并发行了Agalloch的专辑《Pale Folklore》。专辑的黑金属元素减少了，一些曲目是之前Demo作品的重新编制，多了些民谣元素和新古典段落。专辑录制完成后，Breyer由于对音乐兴趣的减弱而离队。
+沉寂了一段时间，乐队发行了一张EP《Of Stone, Wind and Pillor》，包含了1998到2001年间的未发表作品，显现出更多的新古典与实验性元素。这张EP包含了一首翻唱新民谣乐团Sol Invictus的歌曲《Kneel to the Cross》，这首翻唱曲随后收录在法国Cynerfierrd厂牌出品的向Sol Invictus致敬的专辑《Sol Lucet Omnibus》中。 
+
+===The Mantle（2002–2005）===
+2001年至2002年初，Agalloch录制了《The Mantle》，显露出更多的后摇元素。专辑的封套艺术中包含了波特兰市区的公共雕像与喷泉的照片。这张专辑使得Agalloch开始受公众关注，并受到一些主流杂志的采访。
+《The Mantle》发行以后，Agalloch于2003年3月6日在波特兰市举行了他们的首次现场演出，随后在三月份以及五月美国西海岸之旅中举行过一些演出。
+《Tomorrow Will Never Come》于2003年发行，《The Grey》于2004年发行，这两张EP更加体现出Agalloch的实验性，它们将《The Mantle》的几首曲目混音并重新录制，而《Tomorrow Will Never Come》中收录了一首后摇式的新歌。2004年Agalloch还在美国和加拿大的东海岸进行了一系列演出。
+2004年Agalloch与芬兰乐团Nest发行了一张以自然为主题的十像EP，两团共同达到了新民谣的效果。Nest的曲目更为电子化、重打击乐，并由Haughm和Anderson分别担当唱音与吉他演奏。
+2005年《Pale Folklore》和《The Mantle》以限量木盒版本再度发行，每张专辑具有新的页面设计。这个版本只是为了纪念2005年10月14日乐团在多伦多的Day of the Equinox音乐节上的演出。
+
+===Ashes Against the Grain和The White（2006–2008）===
+《Ashes Against the Grain》于2006年8月8日在The End厂牌下发行，其中The Mantle式的典型原声吉他不再明显，而电吉他和金属元素得以加强，使得专辑与之前作品有所不同。
+2008年2月29日Agalloch在Vendlus厂牌下发行了《The White》，这是在Vendlus旗下出品的EP的第二部分（注：第一部分指《The Grey》，它与《The White》在形式上相对立），这是Agalloch在2004到2007年间创作的民谣氛围作品的集合，其风格远离了上一部作品《Ashes Against the Grain》，而更似于《The Mantle》的原声吉他部分。曲目《The Isle of Summer》、《Sowilo Rune》和《Summerisle Reprise》取材于电影《The Wicker Man》，其后两首运用了电影中的采样。而曲目《Birch White》的歌词取自A.S.J. Tessimond所写的歌曲《Birch Tree》。曲目《Sowilo Rune》的试听在专辑发行前两月就公布在了MySpace网站上。和《The Grey》相同，这张专辑也是限量发行2000套。
+
+===The Demonstration Archive和Marrow of the Spirit（2008-2010）===
+2008年8月4日，Agalloch发行了一张名为《The Demonstration Archive》的选集，其曲目选自创作于1996至1998年并收录在Demo《From Which of this Oak》里的作品，以及《Of Stone, Wind and Pillor》和《Promo 1998》中的作品。《Ashes Against the Grain》发行后乐队终止了与The End厂牌的合作，而2008年4月乐队决定继续与The End签约。
+2009年8月12日，Demo《From Which of this Oak》作为绘本唱片被重新发行，其厂牌是德国的Eisenwald。
+Agalloch和德国艺术家Mathias Grassow共同创作了一首歌曲，收录在精选集《Der Wanderer über dem Nebelmeer》（意为穿行于雾海之上）当中，此辑于2010年3月由Pest厂牌发行并由Prophecy厂牌分销。歌曲名为《Nebelmeer》。
+2010年3月20日Agalloch发行了一张限量250份的双碟选集，本打算只将专辑在2010年3月的罗马尼亚的两次现场演出中兜售，然而未售出的部分在2010年5月由乐队成员在eBay网上出售。双碟之一是对《The Demonstration Archive》的原样拷贝。双碟之二包括了录制于2000至2006年间的作品，以及已收录于《Of Stone, Wind and Pillor》、《Tomorrow Will Never Come》和与Nest的合辑中的作品, 还有《The Mantle》和《Ashes Against the Grain》中的一些曲目的另行版本，还有一些未发表之作。
+2010年6月7日，Agalloch在官方MySpace网站上声明，第四张全长专辑将在Profound Lore厂牌下发行，此厂牌已在2005年发行过Agalloch首两张专辑的限量木盒版本。乐团声明新专辑将于2010年6月和7月进行录制，但是专辑名称和发行日期尚未确定。
+2010年9月21日，Agalloch官方宣布了第四张全长专辑的名称：《Marrow of the Spirit》，将于2010年11月23日发行。
+
+==风格==
+
+* Agalloch创作一种激进前卫式的民谣金属，并含有多重形式，如新民谣、后摇、黑金属与厄运金属。
+* Agalloch的表达意象和创作主题是天然瑰丽、忧郁，以及对远古异教的拾遗。
+* Agalloch使用的一种非传统乐器是鹿骨，在曲目《The Lodge》中，John Haughm敲击鹿骨创造出了一种不同寻常的咔嗒声。
+* 1999年，Dan Tobin为Jason William Walton和John Haughm做过一次采访，访谈中乐队成员提到Agalloch受到了Katatonia、Ulver、The 3rd and the Mortal、Swans和Godspeed You! Black Emperor的影响。
+
+[[Category:美国重金属乐团]]
+[[Category:民谣金属乐团]]
+[[Category:1995年成立的音樂團體]]
+{{Geobox|河流
+<!-- *** 标题 *** -->
+| name = 君曲
+| native_name = ཨར་ཨུན་ཆུ།
+| other_name = 
+| category = 
+<!-- *** 名称 **** --> 
+| etymology = 
+| nickname = 
+<!-- *** 图片 *** -->
+| image = 
+| image_caption =
+| image_size =
+<!-- *** 国家 *** -->
+| country = {{PRC}}
+| state = 
+| region = 
+| district = 
+| municipality = 
+<!-- *** 发源地、支流等 *** -->
+| parent = 长江流域、长江源水系
+| tributary_left = 
+| tributary_right =索加曲、吾估曲、吾格拉昧曲、奥格白白玛曲
+| city = 
+| landmark = 
+<!-- *** 位置 *** -->
+| source = 
+| source_location =莫格改多龙仁沟 | source_region = | source_country =
+| source_elevation = 4980
+| source_lat_d = | source_lat_m = | source_lat_s = | source_lat_NS =
+| source_long_d = | source_long_m = | source_long_s = | source_long_EW =
+| mouth = 汇入[[莫曲]]
+| mouth_location = | mouth_region = | mouth_country =
+| mouth_elevation = 4410
+| mouth_lat_d = | mouth_lat_m = | mouth_lat_s = | mouth_lat_NS =
+| mouth_long_d = | mouth_long_m = | mouth_long_s = | mouth_long_EW =
+<!-- *** 数据 *** -->
+| length = 101.4
+| width = 
+| depth = 
+| volume = 
+| watershed = 1608
+| discharge = 6.87
+| discharge_max =
+| discharge_min =
+<!-- *** 自由字段 *** -->
+| free =   | free_type = 支流
+<!-- *** 地图 *** -->
+| map =
+| map_caption = 
+| map_background = 
+| map_locator =
+| map_locator_x =
+| map_locator_y = 
+<!-- *** 网站 *** --> 
+| website =
+| commons =
+<!-- *** 脚注 *** -->
+| footnotes =
+}}
+{{ViewTibetanScript}}
+'''君曲'''（{{bo|z=ཨར་ཨུན་ཆུ།|w=ar un chu|t=Arün Chu}}）位于[[中华人民共和国]][[治多县]]中南部[[索加乡]]境内，是[[莫曲]]右岸支流。发源于莫格改多龙仁沟，源头高程约4980米，蜿蜒西北流，汇入莫曲，汇口高程约4410米。全长101.4千米，流域面积1608平方千米。流域内多沼泽，人烟稀少。部分河段属于季节性河段。<ref name="中国河湖大典">{{cite book|author=《中国河湖大典》编纂委员会|title=《中国河湖大典·长江卷》|year=2010|publisher=中国水利水电出版社|location=北京|isbn=978-7-5084-6512-8}}</ref>
+==参考资料==
+{{reflist}}
+[[Category:长江源流|J]]
+[[Category:青海河流|J]]
+{{noteTA
+|T=zh-hans:德瑞克;zh-hant:德瑞克;
+|G1=show
+}}
+{{Infobox musical artist <!-- For individuals; see Wikipedia:WikiProject_Musicians -->
+| image               = Drake Bluesfest.jpg
+| name                = 德瑞克<br/>Drake
+| caption             = 2010年7月16日，德瑞克在思科渥太华Bluefest
+| background          = solo_singer
+| birth_name          = Aubrey Drake Graham
+| alias = Drizzy
+| birth_name = Aubrey Drake Graham
+| birth_date = {{birth date and age|mf=yes|1986|10|24}}
+| birth_place = {{CAN}}[[安大略省]][[多伦多]]
+| genre               = {{flatlist|
+*[[嘻哈乐]]
+*[[节奏布鲁斯]]
+*[[Pop_(音樂類型)|流行乐]]
+}}
+| occupation          = {{flatlist|
+*[[说唱歌手]]
+*[[歌手]]
+*[[演员]]
+}}
+| Instruments         = 声音
+| years_active        = 2001年至今
+| label               ={{flatlist|
+*[[Young Money Entertainment|Young Money]]
+*Cash Money
+*Republic Records
+}}
+| associated_acts     = {{flatlist|<!--PLEASE NOTE: If you are going to add to this list make sure that it is an artist who has formed a SIGNIFICANT  part of Drake's career.-->
+*[[The Weeknd]]
+*[[小韦恩]]
+*[[妮琪·米娜]]
+*[[Young Jeezy]]
+*[[阿姆]]
+*[[坎耶·韦斯特]]
+*[[蕾哈娜]]
+*[[Jay-Z]]
+*[[崔·颂]]
+}}
+| website                 = {{URL|drakeofficial.com}}
+}}
+
+'''奥布瑞·德瑞克·格瑞汉'''（{{lang|en|Aubrey Drake Graham}}，1986年10月24日－），以其中间名“'''Drake'''”录制歌曲，是加拿大[[说唱歌手]]、演员。他最初因在电视剧《{{link-en|迪格拉丝中学的下一代|Degrassi: The Next Generation}}》中饰演吉米·布瑞克斯一角而成名。<ref>{{cite web|url=http://online.wsj.com/article/SB10001424052970204190704577025950950237434.html|title=A Rapper Who Also Sings|last=JURGENSEN|first=JOHN|accessdate=18 December 2011}}</ref>
+
+德瑞克的2009年[[迷你专辑]]《So Far Gone》催生热门单曲《Best I Ever Had》和《Successful》。其首张录音室专辑《{{link-en|稍後感謝我|Thank Me Later}}（Thank Me Later）》于2010年发行并在[[公告牌二百强专辑榜]]上登顶，收录了单曲《Over》和《Find Your Love》。专辑获得[[美国唱片业协会]]的铂金[[销售认证]]。他的第二张录音室专辑《{{link-en|呵护 (专辑)|Take Care (album)|呵护}}（Take Care）》于2011年发行并成为了其职业生涯上至今最成功的专辑。专辑在美国和加拿大登顶并催生热门单曲《Healines》、《Take Care》、《Make Me Proud》和《The Motto》。歌曲《The Motto》使得[[YOLO]]一词在网络上普及开来。为了宣传专辑，德瑞克开始了全球巡演{{link-en|Club Paradise Tour|Club Paradise Tour}}。该巡演吸金4200万美元，成为了2012年最成功的[[嘻哈]]巡演。他的第三张录音室专辑《{{link-en|什麼是一樣的 (专辑)|Nothing Was The Same|什麼是一樣的}}（Nothing Was The Same）》于2013年9月24日发行，同期发行的单曲《{{link-en|從底部開始|Started From The Bottom}}（Started From The Bottom）》、《{{link-en|坚持，就快到家了|Hold On, We're Going Home}}（Hold On, We're Going Home）》对专辑起到了宣传作用。
+
+德瑞克拥有五百万的全球专辑销量。其音乐作品使其获得一座[[格莱美奖]]、三座[[朱诺奖]]、六座[[黑人娱乐电视奖]]（BET Awards），并打破了一些[[公告牌]]记录。在公告牌热门说唱歌曲榜上，德瑞克拥有12首冠军单曲，在2012年8月打破[[Jay-Z]]的记录成为在该榜单上拥有最多冠军单曲的歌手。他与[[50 Cent]]成为了在该榜单上唯一两位同时占有榜单前三位的艺人。
+
+德瑞克以C. Papi的名字同时担任专辑[[制作人]]，并为[[艾莉西亚·凯斯]]、[[杰米·福克斯]]、[[崔·颂]]创作歌曲。他作为[[声优]]出现在[[冰河世纪4：玩转新大陆]]中。德瑞克与[[蕾哈娜]]在[[2012年MTV音乐录影带大奖]]中获得最多提名。他在2012年MTV's Hottest MCs in the Game VII列表中排名第二。根据{{link-en|Mediabase|Mediabase}}的数据，德瑞克成为2012年排名第一的节奏艺人（Rhythmic artist）。
+
+==生平与职业生涯==
+=== 1986年~2005年：早年生活与演艺生涯 ===
+奥布瑞·德瑞克·格瑞汉于1986年10月24日出生在[[加拿大]][[安大略省]][[多伦多]]。母亲Sandi Graham (née Sher)是一名教育者，父亲Dennis Graham是一名[[鼓手]]，与{{link-en|杰瑞·李·刘易斯|Jerry Lee Lewis}}工作。他的两位叔叔Larry Graham和Teenie Hodges也都是音乐人。
+
+德瑞克的父亲是来自[[田纳西州]][[孟菲斯 (田纳西州)|孟菲斯市]]的[[非裔美国人]]，其母亲是一位[[加拿大]][[犹太裔]][[白人]]。他在一所犹太[[全日制学校]]上学，并参加了犹太孩子的[[成人典礼]]。他的父母在他五岁时离婚。家庭变故对他影响极大，使其富裕的生活跌入低谷。他随后由母亲抚养，住在两个多伦多街区。在六年级前他都住在孟菲斯市的西边；之后他搬至富裕的Forest Hill。青少年时期他加入[[维斯顿]][[红翼]][[曲棍球]]。他如此描述他的母亲：“她尽可能为家里着想。她给我们找了可以容身的半幢房子。其他的人住在房子的上面一半，我们住在底下的一半。我住在地下室，我妈妈住在一楼。房子不大也不奢侈。那就是我们当时能够负担得起的房子。”这时德瑞克开始在Forest Hill大学研究所上学，在其中他学习演戏。他中途转学至沃恩公路学院，这所学校被他描述为“无论如何不是好混的学校。非常艰难。”尽管他再次辍学，但他最终在2012年从沃恩公路学院毕业。
+
+15岁时，德瑞克碰到了一位代理人，是他高中朋友的父亲。他给德瑞克在加拿大电视剧集《迪格拉丝中学的下一代》中安排了吉米·布瑞克斯一角。在剧集中布瑞克斯扮演篮球明星，因同学枪击而残疾。德瑞克如此描述他早期演艺生涯对家庭的影响：“我妈妈病得很重。我们非常贫困，接近破产。我唯一的经济来源就是演戏。但这些钱分摊后也不是那么的多。一季的加拿大电视剧的薪水低于教师的薪水。我会告诉你这么多。这一定不是轻易得来的。”Drake的戏份于2009年结束，制作方以新人替换了整个剧组。
+
+===2006年～2009年：mixtape与《So Far Gone》的发行===
+在2006年，德瑞克个人出版了他的首张[[mixtape]]，名为《Room for Improvement》。这张mixtape请到了[崔·颂]和[[路沛·费艾斯可]]与他合唱。他将这张mixtape描述为“非常简单，电台友好，但不太令人满意。”他声称自己受到Jay-Z, Clipse,Talib Kweli, Mos Def以及歌手Anthony Hamilton和Maxwell的影响。2007年他发行了另一张mixtape，名为《Comeback Season》。其中与崔·颂的合唱曲目《Replacement Girl》作为单曲发行并附带音乐录影带。同年，德瑞克成为了第一位未签约就使音乐录影带登上[[黑人娱乐电视台]]（即BET）的加拿大说唱歌手。德瑞克也与李尔·韦恩做了《Man of the Year》的freestyle。在2008年，Rap-A-Lot的创立者Jas Prinston给了李尔·韦恩一些德瑞克的音乐，韦恩立即邀请德瑞克飞至休斯顿与他一同巡演。在此期间德瑞克和韦恩录制了许多歌曲，包括《Ransom》、《I Want This Power》的原始版本、德瑞克歌曲《Brand New》的混音版。2009年2月13日，德瑞克发行了他的第三张mixtape,名为《So Far Gone》，在他的博客网站上提供免费下载，在发行后的两小时内下载量便超过2000。这张mixtape在地下取得极大成功，并最终在电台上成功。由于单曲《Best I Ever Had》和《Successful》的成功，mixtape中的五首歌曲单独编为一张EP发行。自此，德瑞克开始与[[蕾哈娜]],DJ Khaled,[[Young Money]],[[Jay-Z]],[[坎耶·韦斯特]],[[阿姆]],Young Jeezy,[[Mary J. Blige]],[[提姆巴兰]],[[Birdman]],[[崔·颂]],[[杰米·福克斯]]合作。他同时为[[艾莉西亚·凯斯]]和[[Dr. Dre]]写歌。《So Far Gone》较前作而言获得了大得多的商业与乐评的成功，因此被评价为他商业与乐评的突破。2009年7月4日公布的[[公告牌百强单曲榜]]上，《Best I Ever Had》和《Every Girl》同时打入前十，使德瑞克成为了历史上第二位在同一周内拥有职业生涯中第一第二首前十热曲的歌手。2009年6月29日，德瑞克被正式确认与[[Young Money Entertainment]]签订唱片合约。<ref name="Young Money Signing">{{cite web |last=Brown |first=Charley |url=http://www.welivethis.com/newsfeed/2009/06/29/drake-signs-young-money-universal-motown/ |title=Drake Signs To Young Money / Universal Motown |work=WeLiveThis.com |date=June 29, 2009}}</ref>德瑞克与李尔·韦恩和其他说唱艺人参加America's Most Wanted Tour巡演。2009年7月31日，德瑞克由于膝盖[[前交叉韧带]]撕裂而入院并在9月8日接受手术。2009年9月15日，《So Far Gone》的7首曲目版本[[EP]]发行，其中5首来自原mixtape。专辑在[[公告牌二百强专辑榜]]上排名第六。专辑在美国销量超过50万而被[[美国唱片业协会]]认证为黄金专辑。2010年4月18日专辑在2010年[[朱诺奖]]上获得年度最佳说唱录音奖。
+
+===2010年～2011年：《不急着道谢（Thank Me Later》===
+德瑞克原计划将自己的首张录音室专辑《Thank Me Later》在2008年后期发行，但专辑被推迟至2010年5月25日，后又被推迟三周至6月15日。当日，2万5千名粉丝聚集于纽约南街海港要求一场德瑞克和Hanson的免费演唱会，随后引发骚乱。专辑首周售出44.7万，使其在公告牌二百强专辑榜上空降第一，亦打破了2010年任何一张说唱唱片单周销量纪录。然而，阿姆在一周后打破了这个纪录。这张专辑包括了[[坎耶·韦斯特]]、[[Jay-Z]]、[[李尔·韦恩]]的合作，原定的与崔·颂、Danny!的合唱被放弃。2010年5月9日，德瑞克发行了专辑首支单曲《Over》。单曲受到大量欢迎，获得了销量和乐评的成功，在公告牌百大单曲榜上最高排名为第14名并在公告牌说唱歌曲榜上登顶。单曲在[[第53屆葛萊美獎]]上获得一个最佳说唱歌手的提名。2010年5月12日，Young Artists for Haiti录制的一个版本《[[Wavin' Flag]]》发行，德瑞克参与了录制。6月，德瑞克原本计划在游戏[[Gears of War 3]]中扮演角色但最终被他人替换。2010年4月29日，消息指出德瑞克已经完成了《Thank Me Later》，随后被团队确认。<ref>{{cite web|author=Jason|title=Lil Wayne Say's Drake's New Album Is Done|url=http://www.rapbasement.com/drake/110809-lil-wayne-says-that-drakes-thank-me-later-debut-album-is-basically-finished-and-ready-to-go.html|work=Rap Basement|date=November 9, 2009|accessdate=November 26, 2009}}</ref>同时团队透露专辑的第二支单曲名为《Find Your Love》。
+《Find Your Love》于5月5日发行。乐评称赞德瑞克在歌曲中对歌曲演唱（区别于说唱）的尝试，并将其与坎耶·韦恩斯专辑《808s & Heartbreak》中的作品比较。《Find Your Love》成为了专辑中最成功的单曲，在公告牌百大单曲榜上最高排名第五并获得美国唱片业协会的铂金唱片认证。单曲在国际市场亦获得成功，成为了德瑞克在英国和运动员的首支进入前四十的单曲。至今它仍是德瑞克在加拿大的唯一一首前十单曲。歌曲的音乐录影带在[[牙买加]][[金斯顿]]拍摄，其剧情惹恼了牙买加旅游局长。专辑的第三首单曲名为《Misss Me》，与李尔·韦恩合唱，于2010年6月1日发行。单曲获得了中等程度的商业成功，在百强单曲榜上到达第15名。专辑第四支单曲为《Fancy》。歌曲在{{link-en|2010年MTV音乐录影带奖|2010 MTV Video Music Awards}}与[[玛丽·布莱姬]]与{{link-en|史威兹·毕兹|Swizz Beatz}}一同表演。单曲成为了专辑中商业最不成功的单曲，在公告牌百大单曲榜上排名第25，但在公告牌说唱歌曲榜上登顶并获得了一个格莱美提名。德瑞克主持了第一届OVO Festival。德瑞克于2010年9月20日开始世界巡演，首站为[[迈阿密]]。巡演经过美国主要城市，于11月6日在[[拉斯维加斯]]结束。
+===2011～2012年：《呵护（Take Care）》===
+德瑞克在2010年11月17日宣布第二张录音室专辑名为《Take Care》。专辑原定在2011年10月24日发行，随后被延期至11月15日正式发行。在2011年1月下旬Indirewire宣称德瑞克正在谈判加入Eva Green和Susan Sarandon参与电影Arbitrage的拍摄，但计划随后被取消。《Dreams Money Can Buy》和《Marvins Room》分别于5月20日和6月9日在德瑞克的博客上发布，前者是非专辑曲目，而后者因为巨大的电台播放而在7月22日在[[iTunes]]上作为[[宣传单曲]]发行。单曲被[[美国唱片业协会]]认证为黄金唱片并在公告牌百强单曲榜上排名21、在热门R&B/说唱歌曲榜上排名前十。歌曲的音乐录影带在6月28日发行，表现其在酒吧中的抑郁。
+
+首支单曲《Headlines》在2011年8月9日发行，获得了乐评和商业上的成功，在百强单曲榜上排名13并最终成为美国和加拿大的铂金唱片。这首单曲成为他第十次在公告牌热门说唱歌曲榜上登顶，使其成为在该榜单上取得最多冠军单曲的艺人。歌曲的音乐录影带于2011年10月2日发行，描述德瑞克在多伦多周围不同地点表演说唱。他在2012年1月加拿大[[国家冰球联盟]]全明星赛上表演《Headlines》。
+
+《Make Me Proud》是专辑中的第二支单曲，在2011年10月16日发行。单曲与[[妮琪·米娜]]合唱。单曲获得了商业上的成功，在公告牌百强单曲榜上排名第九。单曲在从97位跳至第9位，创下了公告牌百强单曲榜上男歌手歌曲排位的最大跳升幅度。歌曲在公告牌说唱歌曲榜和公告牌R&B/嘻哈歌曲榜上都登上冠军宝座，成为了德瑞克在两个榜单上第11支和第8支冠军单曲。
+
+《The Motto》是专辑的第三支单曲，于2011年11月29日发行，与李尔·韦恩合唱，成为德瑞克最成功的单曲之一，在公告牌百强单曲榜上排名第14，并在公告牌说唱歌曲榜和公告牌R&B/嘻哈歌曲榜上登顶。与Jay-Z一同成在公告牌R&B/嘻哈歌曲榜上获得冠军单曲数最多的说唱歌手。歌曲在全美推广了[[YOLO]]这一缩写，即You Only Live Once（你只能活一次）。歌曲的音乐录影带在2012年2月10日发行，Young Money旗下艺人[[Tyga]]、[[E-40]]和[[Mistah F.A.B.]]均有出镜。
+
+专辑同名歌曲《Take Care》作为第四支单曲在2012年2月21日发行，与蕾哈娜合唱。歌曲成为了德瑞克最大的全球大热单，在澳大利亚、丹麦、新西兰和英国排行榜均打入十强。单曲在美国卖出两百万，成为了《The Motto》后第二首在美国获得双白金认证的单曲。音乐录影带多次延后发行，最终于2012年4月6日发行（同日发行了第五支单曲《HYFR (Hell Ya Fucking Right)》的音乐录影带。《Take Care》的音乐录影带大获赞赏，并在2012年MTV音乐录影带大奖上获得四项提名。
+
+《HYFR (Hell Ya Fucking Right)》作为专辑的第五支单曲于2012年4月24日发行，在公告牌百强单曲榜上排名第62，以五千万的销量获得黄金认证。音乐录影带获得MTV音乐录影带大奖的最佳嘻哈影片奖。2012年12月，FUSE TV将歌曲列入2012年40强歌曲。
+
+===2012年~至今：OVO Sound与什麼是一樣的===
+德瑞克和制作人Noah "40" Shebib建立了一个名为OVO Sound的厂牌。该厂牌目前是以[[华纳兄弟唱片公司]]为发行厂牌。第一位签约的艺人为加拿大男歌手PartyNextDoor。另外厂牌签约了制作人Boi-1da、T-Minus和Mike Zombie。2012年，Jake One为德瑞克制作了一首歌曲，原本预期在第三届OVO Fest前发行。2012年6月26日，德瑞克在[[Vimeo]]上上传了影片作为歌曲的预告。
+
+在英国的巡演中，德瑞克在采访中声明他已经在制作自己的第三章录音室专辑。他已经与40（注：制作人名字）合作，并希望与Jamie xx在专辑中有更多合作。他同时声称新专辑将与《Take Care》风格不同。
+
+德瑞克参与了Rick Ross歌曲《Diced Pineapples》、Kendrick Lamar歌曲《Poetic Justice》和ASAP Rocky歌曲《Fuckin' Problems》。2012年12月5日，德瑞克的个人厂牌OVO与华纳兄弟签订协议，使其以华纳兄弟唱片公司为发行厂牌。
+
+在2013年1月，德瑞克开始拍摄《从头做起（Started from the Bottom）》的音乐录影带，导演为Director X。德瑞克随后声明歌曲将作为专辑的首支单曲发行，发行时间为[[第55届格莱美奖]]举办当天的晚上。但最终单曲在2013年2月1日公开并在5天后在iTunes上销售。在第55届格莱美奖上德瑞克以专辑《Take Care》获得最佳说唱专辑奖，同时他宣布新专辑将被命名为《物换星移（Nothing Was the Same）》。2013年3月他公开了专辑中的一首歌曲《5 AM in Toronto》，是《Thank Me Later》中《9 AM in Dallas》的续篇。
+
+==风格与影响==
+德瑞克声称他深受[[坎耶·韦斯特]]、[[Jay-Z]]、[[艾莉娅]]和他的导师李尔·韦恩的影响。德瑞克称坎耶·韦斯特是他的偶像之一、在嘻哈界最喜爱的说唱歌手之一。德瑞克的音乐才能常被与韦斯特作比较。
+
+德瑞克声称艾莉娅是“他职业生涯上最大的影响”。“因为我做决定开始做歌手是因为我父亲告诉我‘现在没有一个说唱歌手又能说唱又能演唱并把两者都做好……要成功的话你必须需要做超出别人现在的所努力的方面。”
+
+== 未来计划 ==
+德瑞克本来未来计划发布一张节奏布鲁斯混音带，以及一张同[[小韦恩]]的合作专辑，但是因各种原因被搁置了。<ref>{{cite web|url=http://www.xxlmag.com/news/2011/11/lil-wayne-drake-scrap-joint-lp-because-of-jay-z-kanye-west/ |title=Lil Wayne & Drake Scrap Joint LP Because of Jay-Z & Kanye West |publisher=Xxlmag.Com |date=2011-11-08 |accessdate=2011-11-24}}</ref><ref>{{cite web|last=Rodriguez |first=Jayson |url=http://www.mtv.com/news/articles/1657475/drake-hes-shelving-rb-mixtape-take-care.jhtml |title=Drake Says He's Shelving R&B Mixtape For Take Care - Music, Celebrity, Artist News |publisher=MTV |date=2011-02-08 |accessdate=2011-11-24}}</ref>
+
+==作品列表==
+===录音室专辑列表===
+* 2009年：《{{link-en|So Far Gone|So Far Gone (EP)}}》（EP）
+* 2010年：《{{link-en|不着急感谢|Thank Me Later}}（Thank Me Later）》
+* 2011年：《{{link-en|呵护 (专辑)|Take Care (album)|呵护}}（Take Care）》
+* 2013年：《{{link-en|物换星移 (专辑)|Nothing Was The Same|物换星移}}（Nothing Was The Same）》
+
+===单曲列表===
+主条目：{{link-en|德瑞克作品列表|Drake discography}}
+
+==奖项与提名==
+主条目：{{link-en|德瑞克的奖项与提名列表|List of awards and nominations received by Drake}}
+
+==巡演列表==
+===个人巡演===
+*2010年：{{link-en|Away from Home Tour|Away from Home Tour}}
+*2012年：{{link-en|Club Paradise Tour|Club Paradise Tour}}
+*2013~2014年：{{link-en|Would You like a Tour?|Would You like a Tour?}}
+===合作巡演===
+* America's Most Wanted Tour (与Young Money) (2009年)
+* Drake Vs Lil Wayne (与李尔·韦恩) (2014年)
+
+==参考资料==
+{{reflist|30em}}
+
+==外部链接==
+{{Commons category|Drake}}
+* {{official website|http://www.drakeofficial.com}}
+* {{IMDb name|1013044|Aubrey Graham}}
+* {{MySpace|thisisdrake|Drake}}
+* {{Twitter|drake|Drake}}
+* [http://www.billboard.com/#/artist/drake/855020 Drake] 于[[Billboard.com]]
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME=Drake
+|ALTERNATIVE NAMES= Graham, Aubrey Drake
+|SHORT DESCRIPTION= Actor, [[rapping|rapper]], singer
+|DATE OF BIRTH= October 24, 1986
+|PLACE OF BIRTH= Toronto, [[Ontario]], Canada
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Drake}}
+[[Category:1986年出生]]
+[[Category:加拿大歌手]]
+'''次仁多吉'''（{{bd|1945年|12月|2009年|2月15日}}）[[藏族]]，[[西藏]][[拉孜县]]人，[[中华人民共和国]]官员。<ref name=cr>[http://www.chinatibetnews.com/zhengfuzaixian/2009-02/19/content_206164.htm 西藏自治区发改委原党组成员次仁多吉同志逝世，中国西藏新闻网，2009年02月19日]</ref>
+
+==生平==
+1966年7月，次仁多吉参加工作，1970年8月加入[[中国共产党]]。次仁多吉历任[[西藏自治区]][[比如县]]下曲卡区委副书记、革委会副主任，比如县农机厂党支部书记、厂长，比如县委常委、宣传部部长，县委常委、纪委书记，[[那曲地区]]经计委副主任兼物资局局长，那曲地区经计委党组副书记、副主任，那曲地区行署副专员，西藏自治区计经委副主任兼区经协办主任，[[西藏自治区计划委员会]]副主任兼区统计局党组书记、局长，[[西藏自治区发展计划委员会]]党组成员、副主任，西藏自治区发展计划委员会党组成员、巡视员，[[西藏自治区发展和改革委员会]]党组成员、巡视员，[[西藏自治区政协]]第六届、第八届委员等职务。2008年2月，经组织批准，次仁多吉退休。<ref name=cr/>
+
+2009年2月15日，次仁多吉在拉萨病逝，享年65岁。<ref name=cr/>
+
+==参考文献==
+{{reflist}}
+
+[[Category:藏族人]]
+[[Category:拉孜人]]
+[[Category:西藏政治人物]]
+[[玛丽亚·凯莉]]自1990年出道至今创造了众多乐坛记录，本页将总结她在唱片销量、音乐榜单和音乐奖项上的乐坛记录，其中唱片销量部分的认证记录所根据的是[[国际唱片业协会]]于2007年公布的[[世界各国唱片销量认证标准]]<ref>[[国际唱片业协会]]2007年[[世界各国唱片销量认证标准]] http://www.ifpi.org/content/library/Certification%20Awards%20Full%20List%20-%20OCTOBER%2007.pdf</ref>。
+
+== 销量纪录 ==
+
+*在1990-2005年的15年间，玛丽亚·凯莉创下了累计1亿6,000万张的唱片销量纪录，这使她成为历史上唱片销量第二高的流行女艺人<ref>岛屿唱片 http://sev.prnewswire.com/entertainment/20080423/LAW51223042008-1.html</ref>。她也是20世纪90年代唱片销量最高的艺人<ref>AMG http://www.allmusic.com/artist/mariah-carey-p62404</ref>。
+
+*玛丽亚·凯莉是历史上第一位获得世界音乐钻石奖的女艺人（2003年），这个奖项表彰她截至当年的专辑销量超过了1亿5,000万张。
+
+*玛丽亚·凯莉是美国历史上最畅销的节奏蓝调艺人。
+
+*玛丽亚·凯莉是美国历史上拥有白金单曲最多的女艺人（11首）。
+
+*玛丽亚·凯莉是美国历史上拥有最多的多倍白金专辑的女艺人之一（10张，次于史翠珊的13张，和麦当娜的12张），并且她在20世纪90年代发行的全部专辑均超过了3倍白金（三百万张销量）。
+
+*玛丽亚·凯莉是美国历史上第一位拥有3张8倍白金（美国800万张销量）专辑的女艺人。
+
+*玛丽亚·凯莉是美国历史上第一位拥有2张钻石（美国1000万张销量）专辑的女艺人。
+
+*玛丽亚·凯莉也是唯一一位连续9张专辑获得[[美国唱片工业协会]]（Recording Industry Association of America）认证3白金的歌手<ref>美国唱片业协会资料库 http://www.riaa.com/goldandplatinumdata.php?table=SEARCH</ref>。
+
+*《Merry Christmas》是历史上第二最畅销的圣诞专辑，仅次于 Bing Crosby 的《Merry Christmas》，这张专辑在美国创下5倍白金的销售纪录，并在全球卖出超过1,100万张。
+
+*《Music Box》在澳洲获得14倍白金认证，仅次于[[仙妮娅·唐恩]]（Shania Twain）的《Come On Over》的15倍白金。《Music Box》是中国历史上第一张超过50万销量的非本土女艺人专辑。此后，《Daydream》、《Butterfly》、《#1's》和《Charmbracelet》都超过了50万的销量。《The Emancipation of Mimi 》也以超过20万张的销量成为2005年中国销量最高的非本土专辑。 《Music Box》是1994年度日本、澳洲、纽西兰、德国、奥地利、瑞士、荷兰、希腊、波兰、意大利、南非、韩国、中国大陸、台湾、香港、以色列、菲律宾、印度尼西亚、马来西亚、新加坡、巴西等21个国家和地区销量最高的非本土专辑。
+
+*玛丽亚·凯莉是日本历史上最成功的非本土艺人，她在日本的累计唱片销量超过了1,200万张，并且在日本创造了6首冠军单曲和6张冠军专辑。在日本历史上的欧美专辑销售榜上，《#1's》、《Daydream》、《Merry Christmas》、《Music Box》以及《Butterfly》分列历史第1、第3、第4、第8及第21位。<ref>日本唱片业协会 http://www.riaj.or.jp/e/index.html</ref>
+
+*玛丽亚·凯莉在美国唱片工业协会（RIAA）的15年中，共有过126次专辑或单曲认证。她的全部14张专辑共创下62.5个白金纪录，单曲创下15个白金、11个金唱片纪录。此外还包括了12个录像带的认证。
+
+*《Music Box》在澳洲获得14倍白金认证，仅次Shania Twain的Come On Over的15倍白金<ref>澳大利亚唱片业协会 http://www.aria.com.au/index.htm</ref>。
+
+*《Music Box》是中国历史上第一张超过50万销量的非本土女艺人专辑。此后，Daydream, Butterfly, #1's 和Charmbracelet都超过了50万的销量。《The Emancipation of Mimi 》也以超过15万张的销量成为2005年中国销量最高的非本土专辑。
+
+*《Music Box》是1994年度日本、澳洲、纽西兰、德国、奥地利、瑞士、荷兰、希腊、波兰、意大利、南非、韩国、中国、台湾、香港、以色列、菲律宾、印度尼西亚、马来西亚、新加坡、巴西等21个国家和地区销量最高的非本土专辑。
+
+*玛丽亚·凯莉2008年单曲Touch My Body以首周285,544的销量不仅是Mariah自己职业生涯中的单曲最佳首周及单周销量（包括实体单曲及数码单曲），同时也是数位下载历史上首周第三最佳成绩, 仅次Britney Spears的Womanizer(286,000)和Flo Rida的Right Round(636,303)。<ref>告示牌官方文告 http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003785049</ref>
+
+*瑪麗亞·凱莉1990~2012年超過2億的銷售量
+
+*瑪麗亞·凱莉單曲銷售量總加超越:五千萬張
+
+== 榜单记录 ==
+
+*注：以下资料均来源于告示牌官方网站玛丽亚·凯莉历年榜单资料库<ref>告示牌玛丽亚·凯莉历年榜单资料库 http://web.archive.org/20080404032413/www.billboard.com/bbcom/retrieve_chart_history.do?model.vnuArtistId=48340&model.vnuAlbumId=1110917</ref>
+
+===美国告示牌Hot 100单曲榜===
+
+*在所有女歌手中，玛丽亚·凯莉在美国拥有最多告示牌流行榜（Hot 100）冠军单曲（18首）。而在所有歌手中，她是第2名，仅次于[[披头四乐团]]（The Beatles）（20首)。<ref>告示牌官方网站 https://archive.is/20120723024559/www.billboard.com/bbcom/bio/index.jsp?pid=48340</ref>
+
+*玛丽亚·凯莉在所有歌手当中，在美国拥有次多的告示牌歌曲停留榜首总周数（79周）。第一位的则是「猫王」[[埃尔维斯·普利斯莱]]（80周）。
+**注：“猫王”埃尔维斯·普利斯莱在Top 100上的成绩不计入，因此是59周。
+
+*玛丽亚·凯莉在美国是历史上唯一一位在连续11年中均有单曲获得冠军的艺人，并且她也是唯一一位在20世纪90年代的每一年中在美国均有单曲获得冠军的艺人。
+
+*在1990年—2000年间，玛丽亚·凯莉亦在美国是唯一一位在每一专辑中均有歌曲得到告示牌流行榜（Hot 100）冠军的歌手。
+
+*玛丽亚·凯莉在美国是历史上拥有最多首周进榜就获得冠军的单曲的艺人（3首）。在历史上全部的20首首周冠军单曲中，除[[席琳·狄翁]]（Céline Dion）及[[布兰妮·斯皮尔斯]](Britney Spears)拥有两首之外，其余每一首均属于不同的艺人。
+
+*玛丽亚·凯莉在美国是历史上首周冠军单曲累计周数最长的艺人（27周）。
+
+*玛丽亚·凯莉在美国是历史上第一位拥有首周冠军单曲的女艺人。
+
+*玛丽亚·凯莉在美国是历史上唯一一位拥有连续两首首周冠军单曲的艺人。
+
+*玛丽亚·凯莉在美国是历史上唯一一位自出道后的连续5首单曲全部获得冠军的艺人。此后在1995-1998年间她又有连续5首单曲全部获得冠军。
+
+*玛丽亚·凯莉在美国拥有历史上累计冠军周数最长的单曲《One Sweet Day》。这首歌是玛丽亚·凯莉与Boyz II Men乐队的合作，在1995年12月2日至1996年3月16日的连续16周内位列榜首。
+
+*玛丽亚·凯莉在美国是历史上唯一一位拥有两首超过14周冠军的女艺人，Boyz II Men乐队与她并列历史第一。
+
+*玛丽亚·凯莉在美国拥有历史上累计冠军周数最长的女艺人/个人单曲《We Belong Together》（14周）。这首歌以非连续14周冠军排在[[惠妮·休斯顿]]的《I Will Always Love You》之后(《I Will Always Love You》乃连续14周冠军)。在历史上仅次于《One Sweet Day》。《We Belong Together》也与[[黑眼豆豆]](The Black Eyed Peas)的《I Gotta Feeling》一起成为新千年后累计冠军周数最长的单曲（均14周）。
+
+*玛丽亚·凯莉在美国是唯一一位同时位列排行榜冠、亚军的女艺人（《We Belong Together》和《Shake It Off》，2005年9月10日）。
+
+*玛丽亚·凯莉在美国是唯一一位在20世纪90年代发行的全部专辑中的首发单曲均获得冠军的艺人。
+
+*玛丽亚·凯莉在美国出道之后的每一年中(自1990-2006)均有歌曲打入排行榜。
+
+*玛丽亚·凯莉的「''One Sweet Day''」是美国告示牌流行榜（Hot 100）20首空降冠军单曲中夺冠周数最长的单曲（16周），且其同张专辑《Daydream》的首单「''Fantasy''」亦是女歌手空降冠军单曲中夺冠周数第二长的单曲（8周），这让《Daydream》成为美国历史上唯一一张拥有两首空降冠军单曲的专辑。
+
+*玛丽亚·凯莉的《Mariah Carey》一张专辑中共诞生4首冠军单曲，在美国历史上与-{zh-hans:珍妮·杰克逊;zh-hk:珍娜积逊;zh-tw:珍娜杰克森;}-（Janet Jackson）「Rhythm Nation 1814」、惠妮休斯頓（Whitney Houston）「Whitney」以及寶拉阿巴杜（Paula Abdul）「Forever Your Girl」并列，仅次于[[麦可·杰克逊]]（Michael Jackson）和[[凯蒂·佩里]](Katy Perry)的单张5首。
+
+*玛丽亚·凯莉的「''One Sweet Day''」和「''We Belong Together''」分别被美国被告示牌杂志（Billboard Magazine）选为90年代及00年代冠军歌曲<ref>Rockonthenet http://www.rockonthenet.com/archive/top100_1990s.htm</ref>。
+
+*玛丽亚·凯莉在美国拥有最多首周空降告示牌流行榜（Hot 100）冠军位置的歌曲，分别为「''Fantasy''」、「''One Sweet Day''」和「''Honey''」。
+
+*玛丽亚·凯莉在美国也是首位拥有推出一星期就登上告示牌流行榜（Hot 100）冠军位置歌曲的女歌手（1995年的「''Fantasy''」）。
+
+*玛丽亚·凯莉在美国最初推出的5首单曲（「''Vision Of Love''」、「''Love Takes Time''」、「''Someday''」、「''I Don't Wanna Cry''」与「''Emotions''」）都连续登上告示牌流行榜（Hot 100）榜首，创下最多初推出的单曲均登上此榜榜首的纪录。另外，玛丽亚之后在美国推出的歌曲「''Fantasy''」、「''One Sweet Day''」、「''Always Be My Baby''」、「''Honey''」和「''My All''」也连续登上告示牌Hot 100的榜首。她是在美国唯一一位达到这样成绩的女歌手。
+
+*玛丽亚·凯莉在美国是唯一一位拥有两首于告示牌流行榜中逗留榜首的周数达双位数的歌曲的女歌手（「One Sweet Day」和「We Belong Together」）。
+
+*玛丽亚·凯莉在美国是唯一一位在Hot 100经历单曲市场四个主要时期(黑胶时期[-1991], CD时期[1992-1998], 单曲市场衰退期[1999-2004]及数码时期[2005-])均有冠军曲的艺人。
+
+*玛丽亚·凯莉在美国是唯一一位在Hot 100单曲榜在五种不同主导的统计方式（单曲发行当周开始统计[-1995]， 单曲发行次周开始统计[1995-1998]， 扩展单曲涵义加入电台单曲入榜资格[1999-2004]，统计范围扩展至数码范围并提升其权重[2005-2007]， 统计范围进一步拓展至在线试听并平衡电台、下载及试听权重[2007-]）下均有单曲夺魁的艺人。
+
+*玛丽亚·凯莉在美国同时作为单曲创作者，拥有最多冠军单曲数作者第三的纪录，同时也是最成功的女歌曲创作者。
+
+===美国告示牌Hot 100电台榜===
+
+*玛丽亚·凯莉在美国拥有历史上累计冠军周数最长的女艺人/个人单曲《We Belong Together》（14周）。
+
+*玛丽亚·凯莉的《We Belong Together》是在美国电台历史上最成功的单曲。在2005年6月7日它的单周听众达到1.923亿人次。在之后的每一个星期中，它先后创下1.958亿、 2.021亿、2.122亿的历史最高纪录以及最后的单周2.23亿人次。在这五周中它的收听人次累计超过10亿人次。它是历史上第一首单周收听次数超过2亿的。《We Belong Together》的单周收听人次达到3280万，也是历史上最高的。
+
+*玛丽亚·凯莉的「''We Belong Together''」亦创下单周最多人从美国的电台听到的歌曲（32.6百万人次）。
+
+===美国告示牌主流音乐Top 40单曲榜===
+
+*玛丽亚·凯莉在该榜上拥有6首冠军单曲，超过该榜上的全部艺人。
+
+*玛丽亚·凯莉在美国流行电台(CHR/Top 40)上拥有26支上榜单曲，在所有艺人中排名第一。
+
+===美国告示牌节奏音乐Top 40单曲榜===
+
+*玛丽亚·凯莉在该榜上拥有最多的前10名单曲（17首）。
+
+===美国告示牌Top 200专辑榜===
+
+*玛丽亚·凯莉是20世纪90年代在美国拥有冠军专辑最多的女艺人（4张），同时其累计之冠军周数（26周）在90年代是最长的; 而单张冠军周数（11周）在90年代乃第二长，仅次于Alanis Morissette的Jagged Little Pill专辑（12周）。
+
+*玛丽亚·凯莉在美国告示牌专辑榜单张冠军周数（11周）乃史上第5高。
+
+*玛丽亚·凯莉在美国拥有6张在告示牌专辑榜（The Billboard 200）获得第一名的专辑，与-{zh-hans:珍妮·杰克逊;zh-hk:珍娜积逊;zh-tw:珍娜杰克森;}-（Janet Jackson）和小甜甜布蘭妮（Britney Spears）三人打成和局，并紧随[[麦当娜|-{zh-hans:麦当娜;zh-hk:麦当娜;zh-tw:玛丹娜;}-]]（Madonna）的8張專輯及[[芭芭拉·史翠珊]]（Barbra Streisand）的10張專輯。<ref>告示牌官方网站 http://web.archive.org/20080426030024/www.billboard.com/bbcom/chart_beat/shakers_display.jsp?vnu_content_id=1003794260</ref>
+
+*玛丽亚·凯莉在美国自出道后的连续10张专辑全部打入排行榜前10，连续9张专辑打入排行榜前5名，这是美国历史上的最好成绩。
+
+*除了《Emotions》获得排行榜第4外，玛丽亚·凯莉全部录音室专辑均打入排行榜前三或更好成绩。
+**注：专辑《Glitter》在此处被认定为电影原声带作品，而非严格意义上的录音室专辑。
+
+===其他榜单记录===
+
+*玛丽亚·凯莉是在美国告示牌所有榜单上累计拥有冠军单曲最多的艺人。她在告示牌26种榜单当中至少有一首冠军单曲。其类别有：Hot 100, Hot 100 Airplay, Hot 100 Singles Sales, Hot R&B/Hip-Hop Singles & Tracks, Hot R&B/Hip-Hop Airplay, Hot R&B/Hip-Hop Singles Sales, the Pop 100, the Pop 100 Airplay, Hot Dance Music/Club Play, Hot Dance Singles Sales, Dance Radio Airplay, Mainstream Top 40, Rhythmic Top 40, Adult Contemporary, Adult Top 40, Adult R&B, Hot Ringtones, Hot Videoclips, Hot 100 Singles Recurrent, Hot 100 Recurrent Airplay, Hot R&B/Hip-Hop Recurrent, Hot R&B/Hip-Hop Recurrent Airplay, Adult Contemporary Recurrents, Top 40 Adult Recurrents, Bubbling Under Hot 100 Singles, and Bubbling Under R&B/Hip-Hop Singles。
+
+*玛丽亚·凯莉的《We Belong Together》是在美国历史上唯一一首同时登上9个榜单冠军的单曲（2005年8月6日）。
+
+*玛丽亚·凯莉的《We Belong Together》是在美国历史上唯一一首先后登上13个榜单冠军的单曲。
+
+*玛丽亚·凯莉的《We Belong Together》是在美国历史上唯一一首在9种曲风的榜单中均获得冠军的单曲。它同时登上了流行、节奏蓝调、都会节奏蓝调、节奏、成人抒情、成人当代抒情、舞曲、拉丁音乐、爵士等乐曲的冠军。
+
+*玛丽亚·凯莉的「''We Belong Together''」在同一时候在美国高踞了8个告示牌榜，包括「公告牌百强单曲榜」、「Hot Adult R&B」、「Hot R&B/Hip-Hop」、「Hot R&B/Hip-Hop Airplay」、「Rhythmic Top 40」、「Pop 100」、「Pop 100 Airplay」和「Mainstream Top 40」。这是唯一一首能同时登上8个告示牌榜首的歌曲。
+
+*玛丽亚·凯莉是20世纪90年代在美国告示牌排行榜上最成功的流行艺人。
+
+*玛丽亚·凯莉是20世纪90年代在美国告示牌排行榜上最成功的节奏蓝调艺人。
+
+== 奖项记录 ==
+*玛丽亚·凯莉自出道起共获得了5项[[葛莱美奖]]，但她曾获得的[[葛莱美]]提名数量为33次，在历史上所有的女歌手中排名第2，仅次于Aretha Franklin的38次。<ref>格莱美官方网站 http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx?title=&winner=mariah%20carey&year=0&genreID=0&hp=1</ref>
+*1999年玛丽亚·凯莉获颁[[美国]][[告示牌]]音乐奖九十年代十年艺人大奖，[[迈克尔·杰克逊]]则是八十年代十年艺人大奖获得者，至今历史上只有此两人获得该奖。<ref>AOL视频在线 http://video.aol.com/video-detail/mariah-receives-billboard-artist-of-the-decade-awa/187146173</ref>
+*2000年玛丽亚·凯莉获颁[[美国音乐奖]]终身成就奖，历史上曾获此奖的只有三人，除了玛丽亚·凯莉之外[[迈克尔·杰克逊]]和[[王子]]曾获此奖。<ref>美国音乐奖历年获奖者名单 http://www.rockonthenet.com/amas/index.htm</ref>
+*自出道至今玛丽亚·凯莉共获得20座[[世界音乐奖]]，这一数量超过历史上所有歌手。<ref>世界音乐奖 http://www.worldmusicawards.com/</ref>
+*凱莉·從1990年一直到2005年得到了獎非常多 其中包括:5座葛萊美獎20座世界音樂獎7座全美音樂獎
+
+== 消息来源 ==
+<References />
+
+{{DEFAULTSORT:Mariah Carey, Sales and charts achievements for }}
+[[Category:美国音乐]]
+[[Category:音乐奖项]]
+[[分类:玛丽亚·凯莉]]
+{{refimprove|time=2012-04-29T09:36:38+00:00}}
+{{noteTA
+|1=zh-hans:仙游; zh-hant:仙遊;
+|2=zh-hans:丑; zh-hant:丑;
+}}
+'''莆仙戏'''（[[莆仙語]]：{{lang|cpx|Pô-sing-hi̍}}）是[[福建]]戏曲剧种之一，原名“兴化戏”（{{lang|cpx|Hing-hua̍-hi̍}}），被誉为[[宋元南戏]]的“活化石”<ref name=新浪网>{{cite news|title=抢救“莆仙戏”|url=http://news.sina.com.cn/c/2003-07-30/11001442218.html|newspaper=新浪网}}</ref> 。源于[[唐朝|唐]]，成于[[宋朝|宋]]，盛于[[明朝|明]][[清朝|清]]。流行于古称[[兴化]]的[[莆田]]、[[仙游]]二县及[[闽中]]、[[闽南]]的[[兴化语]]地区。{{Fact|据史料记载和调查考证|time=2012-04-29T09:35:51+00:00}}，它是在古代“百戏”的基础上发展形成的。
+
+== 表演 ==
+
+表演动作受[[杂剧]]和民间[[傀儡戏]]影响。行当脚色承袭南戏规制，有[[生]]、[[旦]]、[[贴生]]、[[则旦]]、[[靓妆]]（[[净]]）、[[末]]、[[丑]]等七个角色，俗称“七子班”。
+
+== 唱 ==
+
+[[音乐]][[曲牌]]有一千多个。[[唱腔]]迄今仍保留不少宋元南戏音乐遗响。莆仙戏的[[声腔]]主要是“兴化腔”，它综合溶化莆仙民间歌谣俚曲、十音八乐、佛曲法曲、宋元词曲和大曲歌舞而形成，用兴化语演唱。
+
+== 剧目 ==
+
+传统剧目有五千多个，其中保留宋元南戏原貌或故事情节基本类似的剧目有八十多个。莆仙戏比较著名的剧目有《琴挑》、《[[团圆之后]]》、《[[春草闯堂]]》、《[[状元与乞丐]]》等。
+
+莆仙戏的著名剧作家有[[陈仁鉴]]、[[柯如宽]]、[[江幼宋]]等。
+
+== 参考资料 ==
+<references/>
+
+[[Category:戏曲剧种]]
+[[Category:福建戏曲]]
+[[Category:莆田文化]]
+[[Category:中国非物质文化遗产]]
+{{Infobox Single 
+| Name            = 少年喲 說謊吧！
+| Artist          = [[走廊奔跑隊7]]
+| Album           =
+| A-side          = 
+| B-side          = {{lang|ja|君は考える}}（初回盤A、B、C）<br />{{lang|ja|姉妹どんぶり}}（初回盤A）<br />{{lang|ja|恋愛ヘビー級チャンピオン}}（初回盤B）<br />{{lang|ja|なんて素敵なあひるのボート}}（初回盤C）<br />{{lang|ja|へそが曲がる}}（通常盤）
+| Cover           = 走廊奔跑隊7 少年喲 說謊吧.jpg
+| Released        = 2012年5月30日
+| Format          = [[單曲]]
+| Recorded        = 
+| Genre           = [[J-POP]]（[[動畫歌曲]]）
+| Length          = 24:14（初回盤A）<br />24:23（初回盤B）<br />24:06（初回盤C）<br />15:16（通常盤）
+| Label           = [[波麗佳音]]
+| Writer          = [[秋元康]]（作詞）<br />山下和彰（作曲 #1）<br />多田慎也（作曲 初回盤A、B、C #2）<br />鶴田勇氣（作曲 初回盤A #3）<br />斎藤悠弥（作曲 初回盤B #3）<br />Yocke（作曲 初回盤C #3）<br />熊上雅明（作曲 通常盤 #2）
+| Producer        = 秋元康
+| Certification   = * 金（唱片，[[日本唱片協會]]）
+| Chart position  = * 週榜第3位<small>（[[Oricon公信榜|Oricon]]）
+| Last single     = [[希望山脈]]<br />（2011年）
+| This single     = '''少年喲<br />說謊吧！'''<br />（2012年）
+| Next single     = 
+| Misc           
+}}
+{{Japanese
+| japanese = 少年よ 嘘をつけ!
+| kana = しょうねんよ うそをつけ!
+| romaji = Shōnen yo Uso wo Tsuke!
+}}
+《'''少年喲 說謊吧！'''》（{{lang-ja|少年よ 嘘をつけ!}}）是[[走廊奔跑隊7]]的第10張<ref group="註">這是以走廊奔跑隊計算。以走廊奔跑隊'''7'''的名字發行的單曲則是第4張。</ref>[[單曲]]，於2012年5月30日由[[波麗佳音]]發售。
+
+== 概要 ==
+《少年喲 說謊吧！》距離前作《[[希望山脈]]》發行約6個月，是[[走廊奔跑隊7]]在2012年發行的第1張單曲。單曲分為通常盤、初回盤A、初回盤B和初回盤C，共4種形式發售。初回盤A、初回盤B和初回盤C附送「走廊奔跑隊7 高級活動參加應徵抽選卷」和「走廊奔跑隊7 戲劇比賽 投票劵」。另外初回盤A附送「原創交換卡片 單人拍攝 全身Ver.」一張（共7種），初回盤B附送「原創交換卡片 單人拍攝 近拍Ver.」一張（共7種），初回盤C附送「替換封面 單人拍攝」一張（共7種）。通常盤則同樣附送「高級活動參加應徵抽選卷」，並附送「全體成員集合合照」一張（共3種）。
+
+這是[[AKB48]]及[[SDN48]]的前成員[[浦野一美]]在2012年3月暫時加入走廊奔跑隊7後首張發行的單曲。<ref name="7-1+1" />此外，AKB48另一[[AKB48#長期組合|衍生組合]]的[[Not yet]]第4張單曲《[[西瓜BABY]]》同樣在5月30日發行，是[[AKB48]]首次有衍生組合的單曲同時開始發售。<ref>{{ja icon}}{{Cite news|date=2012-05-10 |url=http://www.oricon.co.jp/news/music/2011346/full/ |title=Not yet新曲「西瓜BABY」は渡り廊下と同時発売 |publisher=[[Oricon]] |accessdate=2012-05-10}}</ref>
+
+== 歌曲 ==
+《少年喲 說謊吧！》是電影《[[蠟筆小新 風起雲湧！我的宇宙公主！]]》的主題曲。<ref>{{ja icon}}{{cite web|url=http://natalie.mu/music/news/67457 |title=新生渡り廊下走り隊7、映画クレしん主題歌がCD化 |publisher=natalie |date=2012-04-08 |accessdate=2012-06-04}}</ref>《你在思索》（{{lang|ja|君は考える}}）是第32屆{{link-ja|全國高等學校問答比賽|全国高等学校クイズ選手権}}的加油歌曲。<ref name="7-1+1" />
+
+除了《少年喲 說謊吧！》和《你在思索》，所有歌曲都不是由全部7名成員演唱。<ref name="7-1+1">{{ja icon}}{{cite web|url=http://natalie.mu/music/news/69224 |title=渡り廊下新作にまゆゆ＆浦野ユニット、多田愛佳ソロ曲収録 |publisher=natalie |date=2012-05-11 |accessdate=2012-06-04}}</ref>單曲跟前作一樣收錄了一首獨唱曲，這次為收錄於通常盤的《不坦率》（{{lang|ja|へそが曲がる}}），由[[多田愛佳]]演唱。
+
+收錄在初回盤A的《姊妹飯》（{{lang|ja|姉妹どんぶり}}）因歌名有性的意味，在網上引起討論。<ref>{{ja icon}}{{cite web|url=http://www.j-cast.com/2012/05/11131902.html?p=all |title=「姉妹どんぶり」ってどんな意味？ 「AKB48」ユニットの新曲名にネット騒然 |publisher=J-CAST |date=2012-05-11 |accessdate=2012-06-04}}</ref>
+
+== 反應 ==
+單曲以首周銷量約6.7萬張取得2012年6月11日的[[Oricon公信榜]]周榜第3位。[[Not yet]]《[[西瓜BABY]]》得首位，[[AKB48]]的《[[仲夏的Sounds good！]]》得第2位，為Oricon公信榜首次有組合再加上其衍生組合於同一周取得周榜首3位。<ref group="註">若只計算同一藝人或組合，就只有[[關西傑尼斯8]]曾於2010年1月4日達成此紀錄。</ref>此外，這令[[走廊奔跑隊]]自出道以來的10張單曲都取得周榜頭10位。<ref>{{ja icon}}{{cite web|url=http://www.oricon.co.jp/news/confidence/2012519/full/ |title={{lang|ja|【オリコン】AKBグループ史上初のTOP3独占　Not yet・AKB・渡り廊下が1～3位 }} |publisher=[[Oricon]] |date=2012-06-05 |accessdate=2012-06-05}}</ref>
+
+== 收錄內容 ==
+=== 初回盤A ===
+{{tracklist
+| headline        = CD
+| lyrics_credits  = yes
+| music_credits   = yes
+| extra_column    = 編曲
+| title1          = 少年喲 說謊吧！
+| lyrics1         = [[秋元康]]
+| music1          = 山下和彰
+| extra1          = 生田真心
+| length1         = 4:37
+| title2          = 你在思索
+| lyrics2         = 秋元康
+| music2          = 多田慎也
+| extra2          = 木之下慶行
+| length2         = 3:39
+| title3          = 姊妹飯
+| note3           = 歌：[[渡邊麻友]]、[[浦野一美]]
+| lyrics3         = 秋元康
+| music3          = 鶴田勇気
+| extra3          = 小西貴雄
+| length3         = 3:46
+| title4          = 少年喲 說謊吧！（純音樂）
+| lyrics4         = －
+| music4          = －
+| extra4          = －
+| length4         = －
+| title5          = 你在思索（純音樂）
+| lyrics5         = －
+| music5          = －
+| extra5          = －
+| length5         = －
+| title6          = 姊妹飯（純音樂）
+| lyrics6         = －
+| music6          = －
+| extra6          = －
+| length6         = －
+}}
+{{Tracklist
+| headline = DVD
+| collapsed = yes
+| title1 = 少年喲 說謊吧！ Music Video　 
+| title2 = 特典映像：走廊奔跑隊7 女演員的工作 預告編
+* [[菊地あやか]] 主演　「{{lang|ja|女囚708号ヒトデ}}」
+* [[小森美果]] 主演　「{{lang|ja|湯けむりほっかむり夢見がち　カラフル警部の事件簿 (3)}}」 
+}}
+
+
+=== 初回盤B ===
+{{tracklist
+| headline        =
+| lyrics_credits  = yes
+| music_credits   = yes
+| extra_column    = 編曲
+| total_length    = 
+| title1          = 少年喲 說謊吧！
+| lyrics1         = [[秋元康]]
+| music1          = 山下和彰
+| extra1          = 生田真心
+| length1         = 4:37
+| title2          = 你在思索 
+| lyrics2         = 秋元康
+| music2          = 多田慎也
+| extra2          = 木之下慶行
+| length2         = 3:39
+| title3          = 戀愛重量級冠軍
+| note3           = 歌：[[岩佐美咲]]、[[菊地あやか]]、渡邊麻友、[[仲川遥香]]
+| lyrics3         = 秋元康
+| music3          = 斎藤悠彌
+| extra3          = 斎藤悠彌
+| length3         = 
+| title4          = 少年喲 說謊吧！（純音樂）
+| lyrics4         = －
+| music4          = －
+| extra4          = －
+| length4         = －
+| title5          = 你在思索（純音樂）
+| lyrics5         = －
+| music5          = －
+| extra5          = －
+| length5         = －
+| title6          = 戀愛重量級冠軍（純音樂）
+| lyrics6         = －
+| music6          = －
+| extra6          = －
+| length6         = －
+}}
+{{Tracklist
+| headline = DVD
+| collapsed = yes
+| title1 = 少年喲 說謊吧！ Music Video　 
+| title2 = 特典映像：走廊奔跑隊7 女演員的工作 預告編
+* [[多田愛佳]] 主演　「{{lang|ja|タイムリープな少女}}」
+* [[浦野一美]] 主演　「{{lang|ja|必殺くノ一　秘中必中仕事屋稼業}}」
+| title3 = 少年喲 說謊吧！ Dance Shot Version 
+}}
+
+
+=== 初回盤C ===
+{{tracklist
+| headline        =
+| lyrics_credits  = yes
+| music_credits   = yes
+| extra_column    = 編曲
+| total_length    = 
+| title1          = 少年喲 說謊吧！
+| lyrics1         = [[秋元康]]
+| music1          = 山下和彰
+| extra1          = 生田真心
+| length1         = 4:37
+| title2          = 你在思索
+| lyrics2         = 秋元康
+| music2          = 多田慎也
+| extra2          = 木之下慶行
+| length2         = 3:39
+| title3          = 多麼漂亮的鴨子船
+| note3           = 歌：[[小森美果]]、[[多田愛佳]]、渡邊麻友
+| lyrics3         = 秋元康
+| music3          = Yocke
+| extra3          = 立山秋航
+| length3         = 
+| title4          = 少年喲 說謊吧！（純音樂）
+| lyrics4         = －
+| music4          = －
+| extra4          = －
+| length4         = －
+| title5          = 你在思索（純音樂）
+| lyrics5         = －
+| music5          = －
+| extra5          = －
+| length5         = －
+| title6          = 多麼漂亮的鴨子船（純音樂）
+| lyrics6         = －
+| music6          = －
+| extra6          = －
+| length6         = －
+}}
+{{Tracklist
+| headline = DVD
+| collapsed = yes
+| title1 = 少年喲 說謊吧！ Music Video　 
+| title2 = 特典映像：走廊奔跑隊7 女演員的工作 預告編
+* [[渡邊麻友]] 主演　「{{lang|ja|あ そ ぼ}}」
+* [[仲川遥香]] 主演　「{{lang|ja|振り向けばラブストーリー}}」
+* [[岩佐美咲]] 主演　「{{lang|ja|サクラ咲く丘　少女が見つめた戦争}}」 
+}}
+
+=== 通常盤 ===
+{{tracklist
+| headline        =
+| lyrics_credits  = yes
+| music_credits   = yes
+| extra_column    = 編曲
+| total_length    = 
+| title1          = 少年喲 說謊吧！
+| lyrics1         = [[秋元康]]
+| music1          = 山下和彰
+| extra1          = 生田真心
+| length1         = 4:37
+| title2          = 不坦率
+| note2           = 歌：多田愛佳
+| lyrics2         = 秋元康
+| music2          = 熊上雅明
+| extra2          = 平沢敦士
+| length2         = 2:58
+| title3          = 少年喲 說謊吧！（純音樂）
+| lyrics3         = －
+| music3          = －
+| extra3          = －
+| length3         = －
+| title4          = 不坦率（純音樂）
+| lyrics4         = －
+| music4          = －
+| extra4          = －
+| length4         = －
+}}
+
+== 註腳 ==
+{{Reflist|group=註}}
+
+== 參考資料 ==
+{{Reflist}}
+
+== 外部連結 ==
+* [http://wwwt.watarirouka.com/sg10th/ 波麗佳音]{{ja icon}}
+
+{{走廊奔跑隊}}
+{{AKB48歌曲}}
+
+{{DEFAULTSORT:Shōnen yo Uso wo Tsuke!}}
+[[Category:2012年單曲]]
+[[Category:動畫電影主題曲]]
+[[Category:波麗佳音歌曲]]
+[[Category:日本電視台節目主題曲]]
+[[Category:走廊奔跑隊歌曲]]
+[[Category:秋元康填詞歌曲]]

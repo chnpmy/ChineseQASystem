@@ -1,0 +1,347 @@
+{{PBB|geneid=196}}
+'''芳香烃受体'''（{{lang-en|Aryl hydrocarbon receptor}}，或称为'''芳烃受体'''或'''芳基烃受体'''，简称为'''AhR'''或'''AHR'''）是[[基本螺旋-环-螺旋]][[转录因子]]家族中的一个成员。此受体的生理学[[配体 (生物化学)|配体]]未知，但他会结合一些例如天然植物黄酮类化合物、多酚类与吲哚类等外源配体，人造的多环芳烃以及[[類戴奧辛物質|二噁英样物质]]同样也是。AhR是一种通常情况下无活性而与一些[[共分子伴侣]]胞质溶胶结合的转录因子。一旦[[激动药|配体]]结合到例如[[2,3,7,8-四氯二苯二氧芑]]（TCDD）等化学物质上时，分子伴侣[[离解]]并导致AhR转移到[[细胞核]]中并与ARNT（[[芳香烃受体核转运体]]）[[蛋白二聚体|二聚化]]，致使[[基因]][[转录]]产生改变。
+
+== 外部链接 ==
+* {{MeshName|Aryl+hydrocarbon+receptor}}
+
+{{转录因子|g1}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = no
+}}
+
+[[Category:基因表現]]
+[[Category:受体]]
+[[Category:转录因子]]
+-{H|zh-cn:苯并;zh-hant:苯駢;zh-tw:苯駢;zh-hk:苯並;}-
+[[File:Pyrene numbered.png|right|thumb|芘的环碳原子和环中化学键的编号。]]
+'''苯并芘'''（{{lang-en|Benzopyrene}}）是[[苯]]与[[芘]][[稠合]]而成的一类[[多环芳烃]]。根据稠合的位置不同，可以有[[苯并［a］芘|苯并[''a'']芘]]和[[苯并［e］芘|苯并[''e'']芘]]两种[[异构体]]，这两个名称来源于[[IUPAC命名法]]中对芘分子环中各化学键的编号（见右图）。
+
+最常见的苯并芘是[[苯并［a］芘|苯并[''a'']芘]]。它是一种[[致癌物质]]和[[突变原]]。<ref>[http://www.fda.gov.tw/tc/newsContent.aspx?id=9497&chk=6f25590a-baab-4d72-bfea-65ae83ff4119&param=pn%3D1%26cid%3D4%26cchk%3Df11420b2-cf8e-4d3a-beb5-66521b800453#.VA1U7lOcEtk 衛生署提出管理食品中含苯駢芘之作業指引] - [http://www.fda.gov.tw/tc/includes/GetFile.ashx?mID=19&id=22182&chk=1fad7435-378d-4d02-9abb-abe610c3b0d4 附檔 - 草案] - [[衛生福利部食品藥物管理署]] - 2013-01-03</ref>
+
+== 腳注 ==
+{{reflist}}
+
+{{commonscat|Benzopyrene}}
+{{致癌物质}}
+{{多环芳烃}}
+
+[[Category:多环芳香烃]]
+<!-- en wiki -->
+[[Category:致癌物質]]
+[[Category:环境激素]]
+{{Chembox
+| verifiedrevid = 446534096
+| ImageFile = Dicoronylene_structure.png
+| ImageSize = 250px
+| ImageName = 二蒄的结构式
+| ImageFile1 = Dicoronylene-3D-balls.png
+| ImageSize1 = 250px
+| ImageName1 = 二蒄的球棍模型
+| IUPACName = benzo[10,11]phenanthro[2',3',4',5',6':4,5,6,7]chryseno[1,2,3-''bc'']coronene
+| OtherNames = benzo[1,2,3-''bc'':4,5,6-b'c']dicoronene
+| Section1 = {{Chembox Identifiers
+| CASNo = 98570-53-7
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 
+| SMILES = }}
+| Section2 = {{Chembox Properties
+| C = 48 | H = 20
+| Formula = 
+| MolarMass = 
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = }}
+| Section3 = {{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| Autoignition = }}
+| Section8 = {{Chembox Related
+|  Function = 
+|  OtherAnions = 
+|  OtherCations = 
+|  OtherCpds = [[蒄]]
+|  OtherFunctn =  }}
+}}
+'''二蒄'''（'''Dicoronylene'''）是一种含有15个[[苯环]]的[[多环芳香烃]]，化学式{{chem|C|48|H|20}}。<ref>{{cite book | last = Fetzer | first = J. C. | title = The Chemistry and Analysis of the Large Polycyclic Aromatic Hydrocarbons | location = New York | publisher = Wiley | year = 2000 }}</ref>其系统命名为'''苯并[10,11]菲并[2',3',4',5',6':4,5,6,7]䓛并[1,2,3-''bc'']蒄'''，或'''苯并[1,2,3-''bc'':4,5,6-b'c']二蒄'''。二蒄在250℃至300℃的高真空（0.001 [[托|torr]]）下升华。
+
+==存在==
+二蒄首先发现于煤的气化中的固体残余物​​。这种残留物含有大量的[[蒄]]和[[卵苯]]。经过提取分离和提取，仍然存在难溶于有机溶剂的带红色的残余物。元素分析表明它可能是蒄稠合的二聚物。
+之后发现在[[石油]]催化加氢裂化的副产物中发现了二蒄。据估计，每年石油催化加氢裂化副产物中有几百吨二蒄，使其成为生产量最多的大型多环芳香烃。副产物中还有比率1％至20％的卵苯，18环的蒄卵苯，以及21环的二卵苯。<ref name="removal">[http://www.patentgenius.com/patent/5232577.html] Hydrocracking process with polycyclic aromatic dimer removal</ref>
+
+==性质==
+由于分子很大且来源不广泛，二蒄的化学性质鲜有研究。二蒄能作为双烯体与[[马来酸酐]]发生[[D-A反应]]，在连接两个蒄结构的桥环的一侧或两侧加成，形成新的六元环。加热脱羧得到16至17个环的多环芳烃。
+
+石油催化裂化中二蒄等多环芳烃的生成是一个严重的问题，这些副产物的聚集会堵塞管道，导致必须停机清除。<ref name="removal"/>
+
+二蒄不溶于一般有机溶剂，中度溶于[[1,2,4-三氯苯]]，<ref name="removal"/>溶液在紫外线下发黄绿色[[荧光]]。与蒄不同，有对称的荧光激发和[[发射光谱]]。
+==相关研究==
+通过星云的发射光谱研究星际多环芳烃，二蒄是其中一种典型的星际分子。<ref>{{cite doi|10.1007/978-94-009-2462-8_10}}</ref>二蒄分子的大尺寸和平整度也显示出其作为色谱分离材料的潜在应用价值。
+
+==参考资料==
+{{reflist}}
+[[Category:多环芳香烃]]
+'''脂链烃'''也叫脂肪烃，是一种开链或环状的结构，但不含[[苯环]]。由于[[脂肪]]是这种结构，所以这种结构的[[有机化合物]]都称做[[脂肪族化合物]]，其中[[烃]]则叫做脂肪烃。
+
+如果有其他[[元素]]的原子或官能团取代其中某些氢原子，就会衍生出许多脂肪族化合物，如[[糖类]]和脂肪。
+
+==参见==
+*[[烷烃]]
+*[[烯烃]]
+*[[炔烃]]
+*[[芳香烃]]
+*[[脂肪酸]]
+
+[[Category:烃]]
+
+[[en:Aliphatic compound]]
+{{unreferenced|time=2011-09-05T14:34:37+00:00}}
+'''芳香胺'''（{{lang-en|Aromatic amine}}）是指具有一个[[芳香性]][[取代基]]的[[胺]]——即-[[氮|N]][[氢|H]]<sub>2</sub>、-[[氮|N]][[氢|H]]-或含[[氮]]基团连接到一个[[芳香烃]]上，芳香烃的结构中通常含有一个或多个[[苯环]]。[[苯胺]]是这类化合物最简单的实例。
+
+当芳香胺被质子化时，相对于他们的非芳香性结构类似物来说，其酸度系数通常较低（酸性更强）。这是因为氮原子上的孤对电子的电子云有部分离开原位转移到苯环上，因此接受质子的能力较弱。
+
+{|align="center"  class="wikitable"
+| colspan=6 align=left style="background: #ccccff;"| '''典型的芳香胺'''
+|-
+|芳香胺||||[[CAS号]]||性质||用处
+|-
+|[[苯胺]]||[[File:Aniline.svg|50px|苯胺]]||62-53-3||||
+|-
+|[[邻甲苯胺]]||[[Image:O-toluidinePIC.svg|100px|o-甲苯胺]]||95-53-4||||
+|-
+|[[2,4,6-三甲基苯胺]]||[[Image:2,4,6-Trimethylaniline.svg|100px|]]||88-05-1||||
+|-
+|[[甲氧基苯胺]]||[[Image:2-Anisidine.png|75px|甲氧基苯胺]]||90-04-0||||
+|-
+|[[间氨基三氟甲苯]]||[[Image:3-trifluoromethylanilinePIC.svg|100px|间氨基三氟甲苯]]||98-16-8||||除草剂的代谢中间产物
+|-
+|[[N-甲基苯胺|''N''-甲基苯胺]]||[[Image:N-methylaniline.png|60px|N-甲基苯胺]]||100-61-8||||
+|}
+
+==另见==
+* [[芳香烃]]
+
+{{Chemistry-stub}}
+
+[[Category:芳香胺| ]]
+{{Chembox
+| Reference = [http://www.nihs.go.jp/ICSC/icssj-c/icss0572c.html ICSC]
+| 名称 = 矿物杂酚油
+| 英文名 = Wash oil, Coal tar creosote或Creosote oil
+| 图像文件 = Polycyclic Aromatic Hydrocarbons.png
+| 图像大小 = 300px
+| 图像替换 = 本品中所含的多环芳香烃类化合物
+| ImageName = 本品中所含的多环芳香烃类化合物
+| IUPAC英 = 
+| IUPAC中 =
+| 别名 = 杂酚油、[[煤炭杂酚油]]、[[工业用杂酚油]]、木馏油
+| Section1 = {{Chembox Identifiers 
+| CASNo_url= http://www.epa.gov/IRIS/subst/0360.htm 
+| CAS号 = 8001-58-9
+| RTECS = GF8615000
+| EC-number = 232-287-5
+| PubChem = 
+| SMILES =  
+| UNNumber = 1136}}
+| Section2 = {{Chembox Properties
+| 化学式 = (C<sub>20</sub>H<sub>12</sub>)等
+| 摩尔质量 = 
+| 外观 = 黄色至茶色、黑色的油状物
+| 密度 = 1.0 - 1.17 g/cm³
+| 熔点 = 20 ℃
+| 沸点 = 200 - 400 ℃
+| 溶解度 = 极难溶于水
+| VaporPressure = 约 6 kPa }}
+| Section7 = {{Chembox Hazards
+| Reference = [http://ecb.jrc.ec.europa.eu/esis/index.php?GENRE=ECNO&ENTREE=648-101-00-4 ECIS]
+| EUIndex = 648-101-00-4
+| MainHazards = '''有可燃性'''，燃烧后产生有毒气体
+| IngestionHazard = 精神错乱、头痛、呕吐、休克、虚脱，'''能致死'''
+| InhalationHazard = 咳嗽、窒息
+| EyeHazard = 充血、灼烧感
+| SkinHazard = '''可被吸收'''、充血、灼烧感
+| FlashPt = 66 ℃
+| Autoignition = 335 ℃ 
+| EUIndex = 
+| NFPA-H = 2
+| NFPA-F = 2
+| NFPA-R = 0
+| NFPA-O = }}
+}}
+[[File:Electric pole re-used in fencing - geograph.org.uk - 259714.jpg|300px|right|thumb|英国中部一段使用矿物杂酚油进行过防腐处理的电线杆。]]
+{{Commons cat|Polycyclic aromatic hydrocarbons}}
+
+'''矿物杂酚油'''（英文：{{lang|en|Coal tar creosote 或 Creosote oil}}），或'''工业用杂酚油'''，是一种从[[煤焦油]]或其他矿物油中蒸馏而成的[[液体]]。需要注意的是，尽管本品有时被称为'''[[杂酚油]]'''或'''[[木馏油]]'''，它和前两者并不能等同，需加以区分。
+
+==成分==
+本品是一种混合物，含有以[[芳香族化合物]]为首的200多种的化合物。根据具体的产品特性其组分比例会有不同。但基本上都是以[[菲]]、[[荧蒽]]、[[芘]]、[[芴]]、[[苊]]等由2-4个苯环组成的化合物为主要组分。
+
+==性质==
+为黄色到暗褐色，具独特刺激性气味的油状液体。闪点66℃，燃点335℃。
+
+==制备==
+以煤焦油为原料，在200-400℃的温度下进行蒸馏，先将蒸馏物中的[[萘]]、[[蒽]]等结晶物去除，然后将水溶性的[[苯酚]]、[[吡啶]]分离后制得。
+
+==用途==
+*用于汽车[[轮胎]]、[[橡胶]]、[[打印机]][[墨粉]]的[[煤煙]]原料
+*用于[[枕木]]、电线杆、室外[[建材]]的各类[[木材]]的防腐剂
+
+==毒性==
+由于含有多种来源于[[煤炭]]的[[多环芳香烃|多环芳香烃（PAHs）]]，本品被[[国际癌症研究机构|国际癌症研究机构（IARC）]]分类为[[2A类致癌物]]，意味着对人类极有可能具有致癌性。<ref>http://monographs.iarc.fr/ENG/Meetings/92-pahs.pdf</ref>。出于对公众健康安全的考虑，[[欧盟]]的法律条例限制矿物杂酚油只能对行业用户销售<ref>Directive 76/769/EEC, http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1976L0769:20071003:EN:PDF</ref><ref>Revocation of approvals for amateur creosote/coal tar creosote wood preservatives, http://www.hse.gov.uk/biocides/copr/creosote.htm</ref>。日本也于2004年起对[[氧芴]]、[[蒽]]和[[芘]]三种化合物在家用防腐剂中的含量必须低于10ppm，而家用防腐木材和防虫木材则必须低于3ppm<ref>[http://www.fukushihoken.metro.tokyo.jp/yakuji/dokugeki/katei/mokuzai2.html 東京都福祉保健局「クレオソート油及び処理木材の基準」]</ref>。
+
+== 参考资料 ==
+{{Reflist}}
+
+{{DEFAULTSORT:Kuangwuzafenyou}}
+[[Category:IARC第2A类致癌物质]]
+[[Category:多环芳香烃]]
+[[Category:化学品]]
+[[Category:化学工业]]
+[[Category:防腐剂]]
+[[有机化学]]中，[[碳氢化合物]]被划分为两类：'''脂肪族化合物'''和[[芳香族化合物]]。芳香族化合物指含有[[苯]]环或其它[[芳香环]]的化合物，而脂肪族化合物则与其相对。<ref>[[IUPAC|International Union of Pure and Applied Chemistry]] (1995). "[http://goldbook.iupac.org/A00217.html Aliphatic compounds]". ''Compendium of Chemical Terminology'' Internet edition. </ref>脂肪族化合物中，碳原子以直链、支链或环状排列，分别称为直链脂肪烃、支链脂肪烃及脂环烃。脂肪族化合物可以是[[烷烃]]、[[烯烃]]或[[炔烃]]。除[[氢]]之外，其它的原子也可存在，比如[[氧]]、[[氮]]、[[硫]]和[[氯]]。 
+
+最简单的脂肪族化合物是[[甲烷]]（[[碳|C]][[氢|H]]<sub>4</sub>）。
+
+大多数脂肪族化合物都可燃，有些可作为燃料，比如[[本生灯]]中的[[甲烷]]和电焊气中的[[乙炔]]。
+
+== 例子 ==
+<gallery>
+File:Ethan Lewis.svg|[[乙烷]]
+File:Isobutane 1.svg|[[异丁烷]]
+File:Acetylene-2D.svg|[[乙炔]]
+</gallery>
+
+== 参见 ==
+
+* [[芳香族化合物]]
+* [[碳-碳键]]
+* [[烃]]
+
+== 参考资料 ==
+<references />
+
+
+
+[[Category:烴]]
+{{chembox
+| verifiedrevid = 399919424
+|ImageFile=Benzocyclobutene.png
+|ImageSize=150px
+|IUPACName=Benzocyclobutene
+|OtherNames=BCB
+|Section1= {{Chembox Identifiers
+| CASNo=694-87-1
+| PubChem=24850072
+| SMILES=C12=CC=CC=C1CC2
+}}
+|Section2= {{Chembox Properties
+| C=8|H=8
+| Appearance=
+| Density= 0.957 g/cm<sup>3</sup>
+| MeltingPt=
+| BoilingPtC=150
+| Solubility=
+| RefractIndex = 1.541 
+}}
+|Section3= {{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| Autoignition=
+}}
+}}
+
+'''苯并环丁烯'''是最简单的多环[[芳香环|芳香烃]]，由一个[[苯]]环和一个[[环丁烷]]组成<ref>[http://www.sigmaaldrich.com/catalog/search/ProductDetail/ALDRICH/164410 164410 Benzocyclobutene 98%]</ref>。
+
+苯并环丁烯经常被用来制造感光性[[聚合体]]。以苯并环丁烯为基础的聚合体[[电介质]]能适应多种微电机系统或微电子处理中用的感光[[底片]]。应用包括片结合，光学互接，低K电介质，甚至包括脑神经植入。
+
+== 参见 ==
+
+* [[苯并环丙烯]]
+* [[苯并环戊烯]]
+
+== 参考资料 ==
+{{reflist}}
+
+{{环状化合物}}
+
+[[Category:芳香烃]]
+[[Category:四元环]]
+
+[[ar:بنزو سيكلو بيوتين]]
+[[File:Nitro-group-2D.png|thumb|right|150px|硝基的结构]]
+
+'''硝基化合物'''是含有一个或若干个硝基[[官能团]](-{{氮}}{{氧}}<sub>2</sub>)的[[有机化合物]]。硝基化合物通常易爆，尤其是当分子内含有超过一个硝基且不纯时。
+
+芳香硝基化合物通常通过[[硝化反应]]合成，即混合[[硝酸]]和[[硫酸]]（混酸）与有机分子反应得到硝化产物。最大规模生产的硝基化合物要数[[硝基苯]]。许多炸药都是通过硝化反应制得，包括[[三硝基苯酚]]（苦味酸）、[[三硝基甲苯]]（TNT）和[[三硝基间苯二酚]]（收敛酸）。[[硝酸甘油]]也是其一。<ref>Gerald Booth "Nitro Compounds, Aromatic" Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a17_411}}</ref>
+
+== 自然中的形态 ==
+[[氯霉素]]是[[天然产物]]中为数不多的硝基化合物之一。一些天然产物可以通过氨基氧化来形成硝基化合物。<ref>Georg Zocher, Robert Winkler, Christian Hertweck, Georg E. Schulz "Structure and Action of the N-oxygenase AurF from ''Streptomyces thioluteus''" J. Molecular Biology (2007) 373, 65–74. {{doi|10.1016/j.jmb.2007.06.014}}</ref> 2－硝基苯酚是[[蜱]]的一种集合[[信息素]]。
+
+目前已知的脂肪族硝基化合物仅有两种：[[真菌]]和[[植物]]（[[木蓝]]）中发现的3－硝基丙酸，以及[[白蚁]]中发现的化合物[[硝基十五烯]]。
+
+许多依赖[[黄素]]的酶都能够氧化脂肪族硝基化合物成为毒性更低的醛和酮。[[硝基烃氧化酶]]和3－硝基丙酸<!--酯-->氧化酶可以仅对脂肪族硝基化合物进行氧化，其他的酶如[[葡萄糖氧化酶]]则无该选择性。<ref>{{cite journal|last=Nagpal|first=Akanksha|coauthors=Michael P. Valley, Paul F. Fitzpatrick, Allen M. Orville|date=1/5/2006|title=Crystal Structures of Nitroalkane Oxidase: Insights into the Reaction Mechanism from a  Covalent Complex of the Flavoenzyme Trapped during Turnover|journal=Biochemistry}}</ref>
+
+== 制备 ==
+[[有机合成]]中有多种制备硝基化合物的方法：
+
+===脂肪族硝基化合物===
+[[硝基甲烷]]、[[硝基乙烷]]和[[硝基丙烷]]在工业中可以通过丙烷和硝酸进行气相反应制备。硝基甲烷在实验室中可通过[[氯乙酸|氯乙酸钠]]和[[亚硝酸钠]]反应制备，反应副产[[碳酸氢钠]]和[[氯化钠]]。
+
+===芳香族硝基化合物===
+经典的[[亲电取代反应]]中，[[硝酸]]和[[硫酸]]产生[[硝酰离子]]并与[[芳香化合物]]发生硝化反应。另一种方法可使用卤代酚为起始原料，称为[[Zincke硝化反应]]。
+
+==反应==
+硝基化合物可参与多种[[有机反应]]，其中最常用的是还原制[[胺]]的反应：
+:RNO<sub>2</sub>  +  3 H<sub>2</sub>   →   RNH<sub>2</sub>  +  2 H<sub>2</sub>O
+
+几乎所有的芳香胺类化合物（[[苯胺]]）都是通过芳香硝基化合物制备的。
+
+===脂肪族硝基化合物===
+* [[氮酸酯]]是脂肪族硝基化合物的互变异构体。
+* [[Nef反应]]中，硝基化合物负离子盐在酸条件下进行[[水解反应]]得到[[醛]]或[[酮]]。
+* [[硝基羟醛反应]]中，硝基甲烷与醛发生1，2－加成反应。
+* [[Michael加成反应]]中，硝基甲烷作为Michael反应供体与α，β－不饱和羰基化合物发生1，4－加成反应。
+* [[Michael加成反应]]中，硝基乙烯作为Michael反应受体和[[烯醇]]化合物反应。 
+* [[ter Meer反应]]中，1-卤代硝基烃与[[亚硝酸钠]] (NaNO<sub>2</sub>)进行亲核取代反应，得到相应的偕二硝基烃。此反应的[[动力学同位素效应]]实验得到3.3倍的速率比，从此可认为反应机理为：硝基烃（'''1'''）去质子化，生成碳负离子（'''2'''），而后（'''2'''）质子化形成[[氮酸酯]]（'''3'''），最后氯被亚硝酸根亲核取代，得最终产物。<ref>''aci-Nitroalkanes. I. The Mechanism of the ter Meer Reaction'' M. Frederick Hawthorne [[J. Am. Chem. Soc.]]; '''1956'''; 78(19) pp 4980 - 4984; {{DOI|10.1021/ja01600a048}}</ref>当同样的反应物和氢氧化钾反应时，产物为具邻二硝基结构的二聚物。<ref>''3-Hexene, 3,4-dinitro-'' D. E. Bisgrove, J. F. Brown, Jr., and L. B. Clapp. ''[[Organic Syntheses]]'', Coll. Vol. 4, p.372 (1963); Vol. 37, p.23 (1957). ([http://www.orgsynth.org/orgsyn/pdfs/CV4P0372.pdf Article])</ref>
+
+:[[Image:Ter Meer Reaction.svg|ter Meer反应]]
+
+===芳香族硝基化合物===
+* [[氢气]]在[[铂]]催化剂条件下将芳香硝基化合物还原为[[苯胺]]。该反应可改进为用[[钯碳]]催化下和[[甲醛]]合成二甲基氨基芳烃：<ref>Organic Syntheses, Coll. Vol. 5, p.552 (1973); Vol. 47, p.69 (1967). http://orgsynth.org/orgsyn/pdfs/CV5P0552.pdf</ref>
+
+:[[Image:Nitrohydrogenation.svg|500px|硝基化合物的氢化]]
+
+* [[Leimgruber-Batcho吲哚合成]]、[[Bartoli吲哚合成]]和[[Baeyer-Emmerling吲哚合成]]均以芳香硝基化合物作为原料。
+
+* [[靛蓝]]可从邻－硝基苯甲醛和[[丙酮]]在强碱条件下发生缩合反应制备，称为：[[Baeyer-Drewson靛蓝合成]]。
+
+* 硝基的存在会钝化[[芳香族亲电取代反应]]，而能够活化[[芳香族亲核取代反应]]，这都是由于硝基的强吸电子效应。
+
+== 参见 ==
+* [[官能团]]
+* [[硝基的还原]]
+* [[硝化反应]]
+* [[亚硝酸盐]]
+
+== 参考文献 ==
+<references/>
+
+{{Commonscat|Nitro compounds}}
+{{官能团}}
+{{有机化学}}
+
+[[Category:硝基化合物|*]]
+[[Category:官能团|X]]
+'''松香油'''是以下一些[[有机物]]的俗称：
+* [[视黄醇]]，即维生素A，一种人体必需的[[维生素]]营养物质。
+* [[白醇]]，一种从石油中提取的有机溶剂，也作[[松香水]]，主要是[[脂肪烃]]类，可用于稀释油漆。
+* [[松香精]]，从[[松树]]中提取的[[香精]][[精油]]，主要成分为α-[[蒎烯]]。
+
+{{disambig|Cat=三字消歧義}}

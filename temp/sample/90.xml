@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">并查集定义了哪两种操作？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="897315" start="0">
+  <doc>
+    <str name="id">810016</str>
+    <str name="text">[[File:Dsu disjoint sets init.svg|thumb|360px|MakeSet建立了8个元素。]]
+[[File:Dsu disjoint sets final.svg|thumb|360px|在几次Union操作后，一些集合合并在一起。]]
+在[[计算机科学]]中，'''并查集'''是一种树型的[[数据结构]]，其保持着用于处理一些[[不相交集合]]（Disjoint Sets）的合并及查询问题。有一个'''联合-查找算法'''（'''union-find algorithm'''）定义了两个操作用于此数据结构：
+* Find：确定元素属于哪一个子集。它可以被用来确定两个元素是否属于同一子集。
+* Union：将两个子集合并成同一个集合。
+因为它支持这两种操作，一个不相交集也常被称为联合-查找数据结构（union-find data structure）或合并-查找集合（merge-find set）。其他的重要方法，MakeSet，用于建立单元素集合。有了这些方法，许多经典的[[划分问题]]可以被解决。
+
+为了更加精确的定义这些方法，需要定义如何表示集合。一种常用的策略是为每个集合选定一个固定的元素，称为代表，以表示整个集合。接着。Find(x)返回x所属集合的代表，而Union使用两个集合的代表作为参数。
+
+== 并查集森林 ==
+
+'''并查集森林'''是一种将每一个集合以[[树 (数据结构)|樹]]表示的数据结构，其中每一个节点保存着到它的父节点的[[引用]]（见[[意大利面条堆栈]]）。这个数据结构最早由[[Bernard A. Galler]]和[[Michael J. Fischer]]于1964年提出，&lt;ref&gt;{{Citation |first=Bernard A. |last=Galler |author1-link=Bernard A. Galler |first2=Michael J. |last2=Fischer |author2-link=Michael J. Fischer |title=An improved equivalence algorithm |journal=[[Communications of the ACM]] |volume=7 |issue=5 |date=May 1964 |pages=301–303 |url=http://portal.acm.org/citation.cfm?doid=364099.364331 }}. The paper originating disjoint-set forests.&lt;/ref&gt;但是经过了数年才完成了精确的分析。
+
+在并查集森林中，每个集合的代表即是集合的根节点。“查找”根据其父节点的引用向根行进直到到底树根。“联合”将两棵树合并到一起，这通过将一棵树的根连接到另一棵树的根。实现这样操作的一种方法是：
+
+  '''function''' ''MakeSet''(x)
+      x.parent := x
+
+  '''function''' ''Find''(x)
+      if x.parent == x
+         return x
+      else
+         return ''Find''(x.parent)
+
+  '''function''' ''Union''(x, y)
+      xRoot := ''Find''(x)
+      yRoot := ''Find''(y)
+      xRoot.parent := yRoot
+
+这是并查集森林的最基础的表示方法，这个方法不会比链表法好，这是因为创建的树可能会严重不平衡；然而，可以用两种办法优化。
+
+第一种方法，称为“按秩合并”，即总是将更小的树连接至更大的树上。因为影响运行时间的是树的深度，更小的树添加到更深的树的根上将不会增加秩除非它们的秩相同。在这个算法中，术语“秩”替代了“深度”，因为同时应用了路径压缩时（见下文）秩将不会与高度相同。单元素的树的秩定义为0，当两棵秩同为r的树联合时，它们的秩r+1。只使用这个方法将使最坏的运行时间提高至每个MakeSet、Union或Find操作&lt;math&gt;O(\log n)&lt;/math&gt;。优化后的&lt;code&gt;MakeSet&lt;/code&gt;和&lt;code&gt;Union&lt;/code&gt;伪代码：
+
+  '''function''' ''MakeSet''(x)
+      x.parent := x
+      x.rank   := 0
+
+  '''function''' ''Union''(x, y)
+      xRoot := ''Find''(x)
+      yRoot := ''Find''(y)
+      if xRoot == yRoot
+          return
+ 
+      &lt;u&gt;// x和y不在同一个集合，合并它们。&lt;/u&gt;
+      if xRoot.rank &lt; yRoot.rank
+          xRoot.parent := yRoot
+      else if xRoot.rank &gt; yRoot.rank
+          yRoot.parent := xRoot
+      else
+          yRoot.parent := xRoot
+          xRoot.rank := xRoot.rank + 1
+
+第二个优化，称为“路径压缩”，是一种在执行“查找”时扁平化树结构的方法。关键在于在路径上的每个节点都可以直接连接到根上；他们都有同样的表示方法。为了达到这样的效果，&lt;code&gt;Find&lt;/code&gt;递归地经过树，改变每一个节点的引用到根节点。得到的树将更加扁平，为以后直接或者间接引用节点的操作加速。这儿是&lt;code&gt;Find&lt;/code&gt;：
+
+  '''function''' ''Find''(x)
+      if x.parent != x
+         x.parent := ''Find''(x.parent)
+      return x.parent
+
+这两种技术可以互补，可以应用到另一个上，每个操作的[[平摊分析|平均]]时间仅为&lt;math&gt;O(\alpha(n))&lt;/math&gt;，&lt;math&gt;\alpha(n)&lt;/math&gt;是&lt;math&gt;n = f(x) = A(x,x)&lt;/math&gt;的[[反函数]]，并且&lt;math&gt;A&lt;/math&gt;是急速增加的[[阿克曼函数]]。因为&lt;math&gt;\alpha(n)&lt;/math&gt;是其的反函数，&lt;math&gt;\alpha(n)&lt;/math&gt;对于可观的巨大&lt;math&gt;n&lt;/math&gt;还是小于5。因此，平均运行时间是一个极小的常数。
+
+实际上，这是[[渐近最优算法]]：[[Michael Fredman|Fredman]]和Saks在1989年解释了&lt;math&gt;\Omega(\alpha(n))&lt;/math&gt;的平均时间内可以获得任何并查集。&lt;ref&gt;{{Citation |first=M. |last=Fredman |authorlink=Michael Fredman |first2=M. |last2=Saks |title=The cell probe complexity of dynamic data structures |journal=Proceedings of the Twenty-First Annual ACM Symposium on Theory of Computing |pages=345–354 |date=May 1989 |quote=Theorem 5: Any CPROBE(log ''n'') implementation of the set union problem requires Ω(''m'' α(''m'', ''n'')) time to execute ''m'' Find's and ''n''−1 Union's, beginning with ''n'' singleton sets. }}&lt;/ref&gt;
+
+== 主要操作 ==
+
+需要注意的是，一开始我们假设元素都是分别属于一个独立的集合里的。
+
+=== 合并两个不相交集合 ===
+
+操作很简单：先设置一个数组Father[x]，表示x的“父亲”的编号。
+那么，合并两个不相交集合的方法就是，找到其中一个集合最父亲的父亲（也就是最久远的祖先），将另外一个集合的最久远的祖先的父亲指向它。
+
+[[Pascal]]代码：
+&lt;source lang="pascal"&gt;
+procedure Union(x,y:integer);{其中GetFather是下面将讲到的操作}
+ var fx,fy : integer;
+  begin
+     fx := getfather(x);
+     fy := getfather(y);
+     If fx&lt;&gt;fy then father[fx] := fy;{指向最祖先的祖先}
+  end;
+&lt;/source&gt;
+
+C语言代码表示形式:
+
+&lt;source lang="c"&gt;
+void Union(int x,int y)
+{
+    fx = getfather(x);
+    fy = getfather(y);
+    if(fy!=fx)
+       father[fx]=fy;
+}
+&lt;/source&gt;
+
+=== 判断两个元素是否属于同一集合 ===
+仍然使用上面的数组。则本操作即可转换为寻找两个元素的最久远祖先是否相同。'''寻找祖先'''可以采用递归实现，见后面的路径压缩算法。
+
+
+
+[[Pascal]]代码：
+&lt;source lang="pascal"&gt;
+Function Same(x,y:integer):boolean;
+begin
+  if GetFather(x)=GetFather(y) then 
+    exit(true) else
+    exit(false);
+end;
+&lt;/source&gt;
+[[C]]代码：
+&lt;source lang="c"&gt;
+bool same(int x,int y)
+{
+   return getfather(x)==getfather(y);
+}
+/*返回true 表示相同根结点，返回false不相同*/
+&lt;/source&gt;
+
+== 并查集的优化 ==
+
+=== 路径压缩 ===
+
+刚才我们说过，寻找祖先时采用递归，但是一旦元素一多起来，或退化成一条链，每次GetFather都将会使用O(n)的复杂度，这显然不是我们想要的。
+
+对此，我们必须要进行路径压缩，即我们找到最久远的祖先时“顺便”把它的子孙直接连接到它上面。这就是路径压缩了。使用路径压缩的代码如下：
+
+&lt;source lang="pascal"&gt;
+Function getfather(v:integer):integer;
+  begin
+    if (father[v]=v) then
+      getfather:=v
+    else
+      begin
+        father[v]:=getfather(father[v]);{路径压缩}
+        getfather:=father[v];
+      end;
+  end;
+&lt;/source&gt;
+
+&lt;source lang="c"&gt;
+int getfather(int v)
+{
+    if (father[v]==v)
+      return v;
+    else
+    {
+        father[v]=getfather(father[v]);//路径压缩
+        return father[v];
+     }
+}
+&lt;/source&gt;
+
+&lt;source lang="pascal"&gt;
+Procedure Initialize;
+var
+  i:integer;
+begin
+  for i:=1 to maxv do 
+    Father[i]:=i;
+end;
+
+Function GetFather(v:integer):integer;
+begin
+  if Father[v]=v then 
+    exit(v) else
+    Father[v]:=getfather(father[v]);{路径压缩}
+  exit(Father[v]);
+end;
+&lt;/source&gt;
+
+=== Rank合并 ===
+合并时将元素所在深度低的集合合并到元素所在深度高的集合。
+
+&lt;source lang="pascal"&gt;
+function judge(x,y:integer):boolean;
+ var fx,fy : integer;
+  begin
+     fx := getfather(x);
+     fy := getfather(y);
+     If fx=fy then 
+       exit(true) else 
+       judge := false;
+     if rank[fx]&gt;rank[fy] then
+       father[fy] := fx else begin
+       father[fx] := fy;
+       if rank[fx]=rank[fy] then 
+         inc(rank[fy]);
+     end;
+  end;
+&lt;/source&gt;
+
+初始化：
+
+&lt;source lang="pascal"&gt;
+fillchar(rank,sizeof(rank),0);
+&lt;/source&gt;
+C语言代码：
+合并时将元素所在深度低的集合合并到元素所在深度深的集合。
+
+&lt;source lang="c"&gt;
+void judge(int x ,int y)
+
+{
+     fx = getfather(x);
+     fy = getfather(y);
+
+     if (rank[fx]&gt;rank[fy])
+        father[fy] = fx;
+     else
+     {
+        father[fx] = fy;
+        if(rank[fx]==rank[fy])
+           ++rank[fy]; //重要的是祖先的rank，所以只用修改祖先的rank就可以了，子节点的rank不用管
+     }
+}
+&lt;/source&gt;
+
+初始化：
+
+&lt;source lang="c"&gt;
+memset(rank,0,sizeof(rank));
+&lt;/source&gt;
+
+==源代码==
+
+加了所有优化的代码框架：
+
+&lt;source lang="pascal"&gt;
+function getfather(v:longint):longint;
+begin
+  if father[v]=v then
+    exit(v) else
+     father[v]:=getfather(father[v]);
+    exit(father[v]);
+end;
+&lt;/source&gt;
+== 时间及空间复杂度 ==
+
+它使用&lt;math&gt;O(n)&lt;/math&gt;的空间（&lt;math&gt;n&lt;/math&gt;为元素数量），单次操作的均摊时间为&lt;math&gt;O(\alpha(n))&lt;/math&gt;。其中&lt;math&gt;\alpha(n)&lt;/math&gt;是&lt;math&gt;f(n)=A(n,n)&lt;/math&gt;的反函数，而&lt;math&gt;A(n,n)&lt;/math&gt;是[[阿克曼函数]]。
+
+== 应用 ==
+
+[[Kruskal算法]]的优化
+
+==註釋==
+{{reflist}}
+
+
+[[Category:数据结构]]</str>
+    <str name="title">并查集</str>
+    <str name="titleText">并查集</str>
+    <str name="user">Bill-ryan</str>
+    <int name="userId">1797199</int>
+    <int name="revision">32743913</int>
+    <date name="timestamp">2014-09-21T03:41:17Z</date>
+    <long name="_version_">1484748815139340317</long></doc>
+  <doc>
+    <str name="id">1450161</str>
+    <str name="text">{{Otheruses|subject=计算机科学中的集合|other=[[數學]]上的集合|集合 (数学)}}
+在计算机科学中，'''集合'''是一组可变数量的数据项（也可能是0个）的组合，这些数据项可能共享某些特征，需要以某种操作方式一起进行操作。一般来讲，这些数据项的类型是相同的，或基类相同（若使用的语言支持[[继承]]）。列表（或[[数组]]）通常不被认为是集合，因为其大小固定，但事实上它常常在实现中作为某些形式的集合使用。
+
+集合的种类包括[[列表]]，[[集]]，[[多重集]]，[[树 (数据结构)|树]]和[[图 (数据结构)|图]]。[[枚举类型]]可以是列表或集。
+
+==列表==
+{{main|列表 (计算机科学)}}
+在'''列表'''中，数据项的顺序是确定的，也可以存在多个相同的数据项。列表支持的操作包括查找项目并找到其位置（若存在），将项目从列表中删除，在特定位置插入项目等。通常的[[队列]]，或称[[FIFO]]即是一个列表，该列表只能在一端添加项目，而在另一端删除项目。而[[栈]]，或[[LIFO]]则只能在同一端添加或删除项目。不管是队列还是栈，集合中项目的顺序都应当是一定的，因此这两种情况只是列表的特例。其它列表支持的操作包括排序，再一次说明了其中顺序的重要性。
+
+列表的具体形式包括[[数组]]，[[链表]]等。
+
+==集==
+{{main|集}}
+与列表不同，在'''集'''中，数据项是无序的，也不允许存在相同数据项。集支持添加、删除和查找项目。一些语言内建对集的支持，而在其它语言中，可以利用[[散列表]]实现集。
+
+==多重集==
+{{main|多重集}}
+'''多重集'''的行为类似于集，其中数据项是无序的。但在多重集中，可以存在相同的数据项。多重集支持的操作包括添加、删除项，查询相同项在多重集中出现的次数。多重集可以通过排序转换成列表。
+
+==关联数组==
+{{main|关联数组}}
+'''关联数组'''（或称'''查找表'''，'''字典'''等）的行为和字典相似，为'''键'''（例如字典中的单词）输入提供一个'''值'''（如字典中的定义）输出。'''值'''可以是对复杂数据结构的引用。通常使用[[散列表]]实现高效率的关联数组。
+
+==树==
+{{main|树 (数据结构)}}
+[[File:binary tree.svg|right|192|thumb|[[二叉树]]是树的一种类型]]
+
+在'''树'''中，“根”节点与一定数量的数据项以亲-子关系联系起来，而其子数据项也与另外的数据项以同样的方式联系。除了根节点的每个项都有且只有一个父节点，并可能有一些子节点。树支持的操作包括遍历，插入等。用于排序操作的树通常称为[[堆 (数据结构)|堆]]。通常使用树来保存存在包含亲-子关系的数据，例如菜单，目录及其中文件等。
+
+==图==
+{{main|图 (数据结构)}}
+[[Image:6n-graf.svg|thumb|250px|一张6节点图]]
+在'''图'''中，每个数据项都可以与一个或多个其它数据项联系起来，其中每个节点都是平等的，类似于无根节点、无亲-子关系的树。图支持的操作包括遍历，查找等。图常常用于对实际问题进行建模，并解决这些问题。在[[生成树协议]]中，建立一张代表网络结构的图（或称网格），从而了解应当断开哪些链路以避免数据回圈。
+
+==抽象概念及其实现==
+
+如上所述，集合，以及集合的各种分类都只是抽象概念。由于名字相同或相似，集合及其在各种语言中的实现常常会造成文字上的混淆。集合，列表，集，树等名字究竟是数据结构，抽象数据类型抑或类只能通过具体分析来确定。其中，集合则是计算问题的解决方案中抽象程度最高的概念。从这个方面来看，若过于关注其实现，则可能会对理解集合的数学概念产生反作用。
+
+==参见==
+* [[数据结构]]
+
+==外部链接==
+* [http://commons.apache.org/collections/ Apache Commons Collections]
+* [http://code.google.com/p/google-collections/ Google Collections]
+* [http://jezuk.co.uk/cgi-bin/view/mango Mango Java library]
+* [http://www.collectionspy.com CollectionSpy] — A profiler for Java's Collections Framework.
+* [http://sibirjak.com/blog/index.php/lite-collections/ AS3Commons Collections Framework] ActionScript3 implementation of the most common collections.
+
+{{Data structures}}
+
+[[Category:数据结构]]</str>
+    <str name="title">集合 (计算机科学)</str>
+    <str name="titleText">集合 (计算机科学)</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25865895</int>
+    <date name="timestamp">2013-03-20T18:49:36Z</date>
+    <long name="_version_">1484748992509116416</long></doc>
+  <doc>
+    <str name="id">35319</str>
+    <str name="text">{{otheruses|subject=[[数学]]中的格|格}}
+
+[[File:Lattice of partitions of an order 4 set.svg|thumb|术语'''格'''(lattice)来源于描述这种次序的[[哈斯圖]]的形状。]]
+在[[数学]]中，'''格'''是其非空有限[[子集]]都有一个[[上确界]]（叫'''并'''）和一个[[下确界]]（叫'''交'''）的[[偏序集合]]（poset）。格也可以特征化为满足特定公理[[恒等式]]的[[代数结构]]。因为两个定义是等价的，格理论从[[序理论]]和[[泛代数]]二者提取内容。[[半格]]包括了格，依次包括[[海廷代数]]和[[布尔代数]]。这些"格样式"的结构都允许序理论和抽象代数的描述。
+
+== 序理论定义 ==
+考虑任意一个[[偏序集合]](''L''，≤)，如果对集合L中的任意元素a,b，使得a,b在L中存在一个最大下界，和最小上界，则(''L''，≤)是一个格。
+
+这里对于取a,b的最大下界的操作用 &lt;math&gt;a \wedge b&lt;/math&gt; 表示；
+
+对于取a,b的最小上界操作用  &lt;math&gt;a \vee b&lt;/math&gt; 表示。
+
+
+'''[[有界格]]'''有一个[[最大元素]]和一个[[最小元素]]，按惯例分别指示为 1 和 0（也叫做'''顶'''和'''底'''）。任何格都可以通过增加一个最大元素和最小元素而转换成有界格。
+
+使用容易的[[数学归纳法|归纳]]论证，你可以演绎出任何格的所有非空有限子集的上确界（并）和下确界（交）的存在。一个很重要的格的种类是'''[[完全格]]'''。一个格是完全的，如果它的所有子集都有一个交和一个并，这对比于上述格的定义，这里只要求所有非空有限子集的交和并的存在。
+
+== 抽象代数定义 ==
+另一种定义格的方式是将格定义为一种[[代数结构]]。一个'''格'''是一个代数结构 &lt;math&gt;(L, \vee, \wedge)&lt;/math&gt;，其中 &lt;math&gt;\vee&lt;/math&gt; 和 &lt;math&gt;\wedge&lt;/math&gt; 是定义在集合 &lt;math&gt;L&lt;/math&gt; 上的二元运算，且对于所有的 &lt;math&gt;a, b, c \in L&lt;/math&gt; 满足：
+:{|
+| [[交换律]]：|| &lt;math&gt; a \vee b = b \vee a &lt;/math&gt; || || &lt;math&gt; a \wedge  b = b \wedge a &lt;/math&gt;
+|-
+| [[结合律]]：|| &lt;math&gt; a \vee (b \vee c) = (a \vee b) \vee c &lt;/math&gt; || || &lt;math&gt; a \wedge (b \wedge c) = (a \wedge b) \wedge c &lt;/math&gt;
+|-
+| [[吸收律]]：|| &lt;math&gt; a  \vee (a \wedge b) = a &lt;/math&gt; || || &lt;math&gt; a  \wedge (a \vee b) = a &lt;/math&gt;
+|}
+从上述三个公理恒等式可以得出重要的：
+:{|
+| [[幂等律]]：|| &lt;math&gt; a \vee a = a &lt;/math&gt; || || &lt;math&gt; a \wedge a = a &lt;/math&gt;
+|}
+
+这些公理断言了 (''L'',&lt;math&gt;\vee&lt;/math&gt;) 和 (''L'',&lt;math&gt;\wedge&lt;/math&gt;) 都是[[半格]]。吸收律是唯一交和并都出现了的公理，把格同一对半格区别开来并确保这两个半格正确的交互。特别是，每个半格都是另一个半格的[[对偶]]。“有界格”要求交和并都有一个零（neutral）元素，分别习惯叫做 1 和 0。参见[[半格]]条目。
+
+格与[[广群]]家族有一些联系。因为交和并都符合交换律和结合律。格可以看作由有相同的承载者的两个交换[[半群]]组成的。如果格是有界的，这些半群也是交换[[幺半群]]。[[吸收律]]是特定于格理论的唯一定义恒等式。
+
+''L'' [[闭包 (数学)|闭包]]于交和并之下，通过归纳，蕴涵了 ''L'' 的任何有限子集的交和并的存在性，有着一个例外：[[空集]]的交和并分别是最大元素和最小元素。所以格只在它是有界的条件下包含所有有限（包含空）交和并。为此有些作者定义格的时候要求 0 和 1 是 ''L'' 的成员。而以这种方式定义格不损失一般性，因为任何格都可以被嵌入一个有界格中，这里不接受这种定义。
+
+格的代数解释在[[泛代数]]中扮演根本性角色。
+
+== 两个定义的等价性 ==
+
+格的代数定义蕴涵了序理论的定义，反之亦然。
+
+明显的，序理论的格引发了两个二元运算 &lt;math&gt;\vee&lt;/math&gt; 和 &lt;math&gt;\wedge&lt;/math&gt;。容易看出这些运算使 (''L'', &lt;math&gt;\vee&lt;/math&gt;, &lt;math&gt;\wedge&lt;/math&gt;) 变成代数意义上的格。反之亦真：考虑代数定义的格 (''M'', &lt;math&gt;\vee&lt;/math&gt;, &lt;math&gt;\wedge&lt;/math&gt;)。现在定义在 ''M'' 上的偏序 ≤ 如下，对于 ''M'' 中的元素 ''x'' 和 ''y''
+
+: ''x'' ≤ ''y'' [[当且仅当]] ''x'' = ''x''&lt;math&gt;\wedge&lt;/math&gt;''y''
+
+或等价的
+
+: ''x'' ≤ ''y'' 当且仅当 ''y'' = ''x''&lt;math&gt;\vee&lt;/math&gt;''y''
+
+吸收律确保了两个定义实际上是等价的。你现在可以检查以这种方式介入的关系 ≤ 定义了在其中二元交和并是通过最初运算 &lt;math&gt;\vee&lt;/math&gt; 和 &lt;math&gt;\wedge&lt;/math&gt; 而给出的一个偏序。反过来，由得出自上述序理论公式的代数定义的格 (''L'', &lt;math&gt;\vee&lt;/math&gt;, &lt;math&gt;\wedge&lt;/math&gt;) 引发的次序一致于 ''L'' 的最初次序。
+
+因为格的两个定义是等价的，你可以随意调用任何定义的适合你用的方面。
+
+== 例子 ==
+
+* 对于任何集合 ''A''，''A'' 的所有子集的搜集（叫做 ''A'' 的[[幂集]]）可以通过[[子集|子集包含]]的次序获得一个以 ''A'' 自身和空集为上下界的格。集合的[[交集]]和[[并集]]分别解释为交（meet）和并（join）。
+* 对于任何集合 ''A''，''A'' 的所有有限子集的搜集，通过包含次序也是格，并且将是有界的当且仅当 ''A'' 是有限的。
+* [[自然数]]（包括 0）在“极小值”（min）和“极大值”（max）运算下，按照通常次序形成格。0 是底，没有顶。
+* 自然数的[[笛卡尔积|笛卡尔平方]]，按有随后定义的 ≤ 排序是格，(''a,b'') ≤ (''c,d'') ↔ (''a'' ≤ ''c'')  &amp;  (''b'' ≤ ''d'')。(0,0) 是底；没有顶。
+* 正整数在采用[[最大公约数]]和[[最小公倍數]]运算之下，用[[整除]]作为次序关系也形成一个格: ''a'' ≤ ''b'' 如果 ''a'' 整除 ''b''。底是 1；没有顶。
+* 任何[[完全格]]都是（非常特殊的）有界格。这个类别引出了大量实际例子。
+
+== 格的态射 ==
+
+在两个格之间的适当的[[态射]]概念可以轻易的同上述代数定义得出。给定两个格 (''L'', &lt;math&gt;\vee&lt;/math&gt;, &lt;math&gt;\wedge&lt;/math&gt;) 和 (''M'', &lt;math&gt;\cup&lt;/math&gt;, &lt;math&gt;\cap&lt;/math&gt;)，''格的同态''是一个函数 ''f'' : ''L'' → ''M'' 使得
+
+: ''f''(''x''&lt;math&gt;\vee&lt;/math&gt;''y'') = ''f''(''x'') &lt;math&gt;\cup&lt;/math&gt; ''f''(''y'')，
+: ''f''(''x''&lt;math&gt;\wedge&lt;/math&gt;''y'') = ''f''(''x'') &lt;math&gt;\cap&lt;/math&gt; ''f''(''y'')。
+
+所以 ''f'' 是两个底层[[半格]]的[[同态]]。当考虑带有更多结构的格的时候，这个态射也应当注意这个额外结构。所以在两个有界格 ''L'' 和 ''M'' 之间的态射 ''f'' 还有下列性质：
+
+: ''f''(0&lt;sub&gt;''L''&lt;/sub&gt;) = 0&lt;sub&gt;''M''&lt;/sub&gt; ，
+: ''f''(1&lt;sub&gt;''L''&lt;/sub&gt;) = 1&lt;sub&gt;''M''&lt;/sub&gt; 。
+
+在序理论公式中，这些条件只声称格的同态是[[极限保持函数|保持]]二元交和并的一个函数。对于有界格，最小和最大元素的保持只是空集的并和交的保持。
+
+格的任何同态必然关于相关的次序关系是[[单调函数|单调]]的；参见[[极限保持函数|极限的保持]]。反过来当然不是真的：单调性决不蕴涵要求的保持性质。
+
+假定[[同构]]作为可逆态射的标准定义，格的同构就是[[双射]]格同态。格和它们的态射形成了一个[[范畴论|范畴]]。
+
+== 子格 ==
+
+格 ''L'' 的子格是 ''L'' 的非空子集，它是带有同 ''L'' 一样的交和并运算的格。就是说，如果 ''L'' 是一个格，而 ''M''&lt;math&gt;\not=\varnothing&lt;/math&gt; 是 ''L'' 的子集使得对于 ''M'' 中的所有元素对 ''a'', ''b'' 有 ''a''&lt;math&gt;\wedge&lt;/math&gt;''b'' 和 ''a''&lt;math&gt;\vee&lt;/math&gt;''b'' 在 ''M'' 中，则 ''M'' 是 ''L'' 的子格。&lt;ref&gt;Burris, Stanley N., and H.P. Sankappanavar, H. P., 1981. ''[http://www.thoralf.uwaterloo.ca/htdocs/ualg.html A Course in Universal Algebra.]''  Springer-Verlag. ISBN 3-540-90578-2.&lt;/ref&gt;
+
+格 ''L'' 的子格 ''M'' 是 ''L'' 的凸子格，如果 ''x ≤ z ≤ y'' 和 ''x'', ''y'' 在 ''M'' 中蕴涵了 ''z'' 属于 ''M''，对于在 ''L'' 中的所有元素 ''x, y, z''。
+
+== 对偶原理 ==
+
+设&lt;math&gt;f&lt;/math&gt;是含有格中的元素以及符号&lt;math&gt;=, \leq, \geq, \vee, \wedge&lt;/math&gt;的逻辑命题，令&lt;math&gt;f^*&lt;/math&gt;是将&lt;math&gt;f&lt;/math&gt;中的&lt;math&gt;\leq&lt;/math&gt;替换为&lt;math&gt;\geq&lt;/math&gt;，将&lt;math&gt;\geq&lt;/math&gt;替换为&lt;math&gt;\leq&lt;/math&gt;，将&lt;math&gt;\vee&lt;/math&gt;替换为&lt;math&gt;\wedge&lt;/math&gt;，将&lt;math&gt;\wedge&lt;/math&gt;替换为&lt;math&gt;\vee&lt;/math&gt;后所得到的命题。则称&lt;math&gt;f^*&lt;/math&gt;是&lt;math&gt;f&lt;/math&gt;的'''对偶命题'''。
+
+设&lt;math&gt;f&lt;/math&gt;是含有格中的元素以及符号&lt;math&gt;=, \leq, \geq, \vee, \wedge&lt;/math&gt;的逻辑命题，若&lt;math&gt;f&lt;/math&gt;对于一切格为真，则&lt;math&gt;f&lt;/math&gt;的对偶命题&lt;math&gt;f^*&lt;/math&gt;也对于一切格为真。
+
+== 引用 ==
+可在线免费获得的专著：
+* Burris, Stanley N., and H.P. Sankappanavar, H. P., 1981. ''[http://www.thoralf.uwaterloo.ca/htdocs/ualg.html A Course in Universal Algebra.]''  Springer-Verlag. ISBN 3-540-90578-2.
+
+* Jipsen, Peter, and Henry Rose, ''[http://www1.chapman.edu/~jipsen/JipsenRoseVoL.html Varieties of Lattices]'', Lecture Notes in Mathematics 1533, Springer Verlag, 1992. ISBN 0-387-56314-8.
+
+Elementary texts recommended for those with limited mathematical maturity:
+* Donnellan, Thomas, 1968. ''Lattice Theory''. Pergamon.
+* Grätzer, G., 1971. ''Lattice Theory: First concepts and distributive lattices''. W. H. Freeman.
+
+The standard contemporary introductory text:
+* Davey, B.A., and H. A. Priestley, 2002. ''Introduction to Lattices and Order''. Cambridge University Press.
+
+The classic advanced monograph:
+* [[Garrett Birkhoff]]，1967. ''Lattice Theory'', 3rd ed. Vol. 25 of American Mathematical Society Colloquium Publications. American Mathematical Society. 
+
+Free lattices are discussed in the following title, not primarily devoted to lattice theory:
+* Johnstone, P.T., 1982. ''Stone spaces''. Cambridge Studies in Advanced Mathematics 3. Cambridge University Press.
+
+The standard textbook on free lattices:
+* R. Freese, J. Jezek, and J. B. Nation, 1985. "Free Lattices". Mathematical Surveys and Monographs Volume: 42, American Mathematical Association.
+
+== 注解 ==
+&lt;references/&gt;
+
+== 参见 ==
+* [[半格]]
+* [[完全格]]
+* [[分配格]]
+* [[剩余格]]
+* [[Heyting代数]]
+* [[布尔代数]]
+
+{{ModernAlgebra}}
+
+[[Category:格理论|*]]
+[[Category:序理论|G]]
+[[Category:代数结构|G]]</str>
+    <str name="title">格 (数学)</str>
+    <str name="titleText">格 (数学)</str>
+    <str name="user">Qw4990</str>
+    <int name="userId">1574853</int>
+    <int name="revision">29722544</int>
+    <date name="timestamp">2014-01-03T10:25:33Z</date>
+    <long name="_version_">1484748547372875777</long></doc>
+  <doc>
+    <str name="id">1347286</str>
+    <str name="text">{{expand|time=2010-7-22}}
+{{翻译请求|tfrom=[[:en:Comparison sort]]}}
+[[Image:Balance à tabac 1850.JPG|thumb|right|300px|将未贴标签的砝码用天平将按质量大小进行排序]]
+'''比较算法'''（{{lang-en|Comparison sort}}）是[[排序算法]]的一种，通过一个抽象的内容比较操作（通常是“小于或等于”操作）来确定两个元素中哪个应该放在序列前面。该算法的唯一要求就是操作数满足[[全序关系]]：
+*如果''a''≤''b''并且''b''≤''c''那么''a''≤''c''（[[传递性]]）。
+*对于''a''或''b''，要不''a''≤''b''，要不''b''≤''a''（完全性）。
+
+对于a≤b并且b≤a这种情况，a和b都有可能被排在前面。这时输入的顺序就会决定最后的顺序。
+
+比较排序类似于将未贴标签的砝码用[[天平]]将按质量大小进行排序，并且除了用天平测量两个砝码的质量之外不能用其他方法。
+
+== 算法特例 ==
+比较排序包括：
+*[[快速排序]]
+*[[堆排序]]
+*[[歸併排序]]
+*[[插入排序]]
+*[[选择排序]]
+*[[冒泡排序]]
+
+非比较排序包括：
+*[[基数排序]]
+*[[计数排序]]
+*[[桶排序]]
+
+== 性能限制和优势 ==
+比较排序有很多性能上的根本限制。在最差情況下，任何一种比较排序至少需要[[大O符号|O]](''n''log''n'')比较操作&lt;ref&gt;http://planetmath.org/encyclopedia/LowerBoundForSorting.html&lt;/ref&gt;.这是比较操作所获的信息有限所导致的，或者说是[[全序集]]的模糊代数结构所导致的。从这个意义上讲，归并排序，堆排序在他们必须比较的次数上是[[渐进最优]]的，虽然这忽略了其他的操作。前面提到的三种非比较排序算法通过非比较操作能在O(''n'')完成，这使他们能够回避O(''n''log''n'')这个下界（假设元素是定值）。
+
+不过，比较排序在控制比较函数方面有显著优势，因此比较排序能对各种数据类型进行排序，并且可以很好地控制一个序列如何被排序。例如，如果倒置比较函数的输出结果可以让排序结果倒置。或者可以构建一个按字典顺序排序的比较函数，这样排序的结果就是按字典顺序的。
+
+比较排序可以更好地适应复杂顺序，例如[[浮点数]]。并且，一旦比较函数完成，任何比较算法都可以不经修改地使用；而非比较排序对数据类型的要求更严格。
+
+这种灵活性和上述比较排序在现代计算机的执行效率一起导致了比较排序被更多地应用在了大多数实际工作中。
+
+== 排序所需的比较次数 ==
+当n是所需排序的元素个数时，比较排序所需的比较次数按''n''log(''n'')比例增加。
+
+== 参阅 ==
+
+== 注释 ==
+&lt;references/&gt;
+
+{{排序算法表}}
+[[Category:排序算法]]</str>
+    <str name="title">比较排序</str>
+    <str name="titleText">比较排序</str>
+    <str name="user">D41D8CD98F</str>
+    <int name="userId">1230943</int>
+    <int name="revision">26386806</int>
+    <date name="timestamp">2013-04-29T05:48:08Z</date>
+    <long name="_version_">1484748969360752641</long></doc>
+  <doc>
+    <str name="id">745374</str>
+    <str name="text">通常会被简称为“微操”，或"MC"（Micro Control、Micromanagement），[[电子竞技]]常用术语。
+
+== 历史 ==
+在[[即时战略游戏]]流行之初，并没有微操的概念。在[[红色警戒]]时代，玩家们通常更关注如何制造更多的作战单位来取得游戏的胜利。但是随着玩家对游戏熟悉度的增加，有越来越多的人发现，在局部战场上，若是对单位进行适当的操作控制，就能大大优化其作战效率，甚至能达到以少胜多的巨大效果。
+
+这是由于游戏设计AI总以某个特定规则进行动作，而事实上，这些规则并不是最优的。例如AI通常会做出类似判断：对一个目标一直攻击直至其消灭，若是目标脱出攻击范围则查找范围内有无其他攻击目标，有则对其攻击直至消灭……而此时第一个目标若是重新回到攻击范围内，AI也会无视它，继续攻击第二个目标。在这个规则下，由AI控制的四个单位分两队厮杀的结果是同归于尽。但是若有一方人为的控制单位，使其分摊伤害，就能够达成2:0的结果。
+
+== 发展 ==
+当游戏平衡性更佳的[[星际争霸]]流行之后，微操作的意义变得越来越大。而在职业电子竞技选手之间，微操作能力也成了评价其水准的重要指标。由于微操在局部战场的对抗上能产生巨大影响，双方选手互相施展全力进行操作，这让比赛的观赏性大大提高！一些精妙的操作更被爱好者们津津乐道，微操也成了比赛重要的看点之一。随着[[魔兽争霸3]]的推出，游戏单位数量的减少也意味着微操作的重要度更高。同时，也有了一群以注重极限优化的微操作来获取比赛胜利的玩家流派出现，既“操作流”，亦会被戏谑为“抽筋流”。
+
+== [[每分钟操作数|APM]] ==
+既是Action Per Minute的缩写，是由软件统计出操作者每分钟各种操作数的数据，从某种程度上能反映玩家的微操作水平。一个职业玩家的APM通常在150以上，有时候甚至能超过300。由于APM统计的是所有操作数，其中有相当多的操作是多余无效的，所以仅仅靠APM来说明微操作水平是片面的。
+
+== 相关软件 ==
+BWchart是较早的一款成熟的录像（rep）分析软件。它将录像中忠实记录的玩家的操作都以文字和数据反映出来，同时还提供了图表进行分析。最通常的应用便是观察玩家的APM以及其分布。它同时可以过滤掉一些无效APM。
+
+== 装备 ==
+玩家们在提升自己微操作水平的同时，发现外围硬件的性能对操作有很大的影响。于是便催生出了游戏硬件市场，专门提供一些高性能的鼠标，键盘或其他一些周边产品。一些职业玩家也会改造自己的装备来符合自己的习惯，例如著名[[星际争霸]]选手[[Boxer]]，他将自己键盘上很多无用的按键全部拆除了，以免误按。
+
+== 经典技巧 ==
+'''克隆'''：用己方若干单位同时向敌方若干单位分别一一施放技能，在[[星际争霸]]中常见的微操作技巧。当年Boxer用一队Ghost瞬间锁定敌方一队航母，完成惊天逆转的同时，也向人们生动的展示：强大的微操作是如此的可怕。
+
+'''围杀'''：用己方若干单位（通常是四个以上，若是利用地形的话可以更少）围住并杀死敌方单位，在[[魔兽争霸]]中由于单位数量的减少，每个单位的价值也大大提高，这也使得围杀敌方单位有了更大的意义，而且被围杀的单位若是一个具有重大战略意义的英雄的话，这几乎可以左右胜负了。
+
+'''卡位'''：需要注意的是这常常是围杀的附属操作。利用某单位对被围杀单位进行卡位，使其移动受限，从而让其他单位围住受害单位。
+
+== 不同的声音 ==
+微操作是一种练习得来，并且带有一定天赋因素的游戏辅助能力；并不是每个人都能做到且这种方式被很多人认为有违游戏的轻松休闲理念。相当一部分游戏弱化微操作，集中到战略要素。如[[横扫千军]]和多数受其影响而衍生的作品（如Kernel Panic）；另外还有[[Globulation 2]]等特意弱化微操作的游戏。这类作品在东亚并不流行。
+
+== 名人堂 ==
+[[WE.Sky]]
+
+[[SlayerS `BoxeR`]]
+
+== 相关链接 ==
+* [[红色警戒]]
+* [[星际争霸]]
+* [[魔兽争霸3]]
+* [[冰封王座]]
+* [[即时战略]]
+* [[回合制策略游戏]]
+
+[[Category:電子競技]]</str>
+    <str name="title">微操作</str>
+    <str name="titleText">微操作</str>
+    <str name="user">Time killer</str>
+    <int name="userId">1027546</int>
+    <int name="revision">31882977</int>
+    <date name="timestamp">2014-07-13T16:01:41Z</date>
+    <long name="_version_">1484748796069937153</long></doc>
+  <doc>
+    <str name="id">2808983</str>
+    <str name="text">* 情景喜剧《[[好汉两个半|-{zh-cn:好汉两个半; zh-hk:宅男 1 pair 半; zh-tw:男人兩個半;}-]]》的第六季都有'''[[好汉两个半 (第六季)|哪些剧集]]'''？
+* 迄今为止所发掘的三国东吴墓葬中，墓主身份最高的是'''[[朱然墓|哪一座]]'''？
+* '''[[羅迪尼亞大陸|哪個超大陸]]'''被認為存在於11億到7.5億年前？
+* [[狭义相对论]]是'''[[狭义相对论发现史|怎样]]'''被发现的？除了[[爱因斯坦]]之外，还有'''[[狭义相对论发现史|哪些]]'''物理学家为其发现和发展作出了贡献？
+* '''[[救济世界饥饿组织|哪个国际组织]]'''和[[国际粮食政策研究所]]共同发布了[[全球饥饿指数]]？
+* [[博来霉素|'''哪种化疗药物''']]被用于治疗[[霍奇金氏淋巴瘤]]和[[睾丸癌]]，但会引起致死性的[[肺纤维化]]？
+* '''[[庫姆納龍|哪種禽龍類]]'''[[恐龍]]曾經先後被歸類於[[禽龍]]、[[彎龍]]的一個種？
+* '''[[西鐵太宰府線|哪一條西日本鐵路營運的鐵路線]]'''是最短的？</str>
+    <str name="title">Wikipedia:新条目推荐/供稿/2012年5月15日</str>
+    <str name="titleText">Wikipedia:新条目推荐/供稿/2012年5月15日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">21224876</int>
+    <date name="timestamp">2012-05-15T14:00:28Z</date>
+    <long name="_version_">1484749220773625857</long></doc>
+  <doc>
+    <str name="id">3230537</str>
+    <str name="text">{{noteTA
+|T=zh-cn:ios头文件; zh-tw:-{ios頭文件}-; zh-hk:-{ios頭文件}-;
+|G1=IT}}
+{{C++ Standard library}}
+{{lowercase}}
+{{Distinguish|iPhone Operating System}}
+'''ios''' 是[[C++標準程式庫]]中的一個[[头文件]]，定义了C++标准中的[[iostream|流输入输出]]的3个基类std::basic_ios、[[ios_base|std::ios_base]]、[[fpos|std::fpos]]，以及一些作为manipulator的全局函数。一般std::ios_base与std::fpos定义在ios头文件包含的其它头文件中。
+
+==模板类std::basic_ios==
+===成员函数===
+* basic_ios::basic_ios，构造函数
+* basic_ios::~basic_ios，析构函数
+* basic_ios::init，初始化函数，在访问该类或者析构该类对象前必须先调用init().
+* basic_ios::tie，确保函数参数所指向的流先被处理。用来保持两个流的同步。
+* basic_ios::rdbuf，查询/设置流所绑定的streambuf。
+* basic_ios::imbue，设置流的locale。
+* basic_ios::narrow，返回与参数字符对应的char字符。
+* basic_ios::widen，返回与参数字符对应的wchar字符。
+* basic_ios:fill，查询/设置输出流填充宽度的字符。
+* basic_ios::copyfmt，复制另一个流的格式信息，但不复制流的内部状态、streambuf、异常掩码。在复制开始调用erase_event处理函数，在复制结束调用copyfmt_event处理函数及exceptions函数。
+* basic_ios::clear，输入一个状态值，视情况决定是否抛出异常、调用事件处理函数。
+* basic_ios::rdstate，读出一个流的状态值。
+* basic_ios::setstate，把一个状态值与流的当前状态“按位或”操作，然后调用clear函数。
+* basic_ios::good，判断流的当前状态是否为枚举值goodbit。
+* basic_ios::eof，判断流的当前状态是否为枚举值eofbit。
+* basic_ios::fail，判断流的当前状态是否为枚举值failbit。
+* basic_ios::bad，判断流的当前状态是否为枚举值badbit。
+* basic_ios::exceptions：设置哪些异常允许抛出
+===操作符===
+* basic_ios::operator =，把一个流的各种设置复制到另一个流。
+* basic_ios::operator void *，如果状态没有报错，则返回流自身的地址。
+* basic_ios::operator !，返回流的状态是否报错
+
+==fpos模板类==
+'''fpos''' 是[[C++標準程式庫]]中的一個模板类，定义于&lt;ios&gt;头文件中。std::fpos类封装了C++标准中的[[iostream|流输入输出]]的定位信息。std::fpos模板类定义了操作符!=、+、+=、-、-=、==、operator streamoff( )，还定义了成员函数state()、seekpos()。
+==参考文献==
+* [http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.0/classstd_1_1basic__streambuf.html basic_streambuf Class Template Reference]
+&lt;references/&gt;
+[[Category:C++標準程式庫|V]]</str>
+    <str name="title">Ios头文件</str>
+    <str name="titleText">Ios头文件</str>
+    <int name="revision">25165119</int>
+    <date name="timestamp">2013-02-25T08:56:58Z</date>
+    <long name="_version_">1484749318619398144</long></doc>
+  <doc>
+    <str name="id">1728176</str>
+    <str name="text">{{noteTA
+|1 = zh:脏读; zh-cn:脏读; zh-tw:髒讀;
+}}
+
+{{Refimprove|date=2009年1月}}
+
+'''事务隔离（isolation）'''定义了[[database|数据库]]系统中一个操作产生的影响什么时候以哪种方式可以对其他[[Concurrency (computer science)|并发]]操作可见。隔离是事务[[ACID]] (原子性、一致性性、隔离性、持久性)四大属性中的一个重要属性。
+==并发控制(Concurrency control)==
+[[Concurrency control|并发控制]]描述了数据库处理隔离以保证数据正确性的机制。为了保证并行事务执行的准确执行数据库和存储引擎在设计的时候着重强调了这一点。典型的事务相关机制限制数据的访问顺序([[Schedule (computer science)|执行调度]])以满足[[serializability|可序列化]] 和[[recoverability|可恢复性]]。限制数据访问意味着降低了执行的性能，并发控制机制就是要保证在满足这些限制的前提下提供尽可能高的性能。经常在不损害正确性的情况下，为了达到更好的性能，[[serializability|可序列化]]的的要求会减低一些，但是为了避免数据一致性的破坏，[[recoverability|可恢复性]]必须保证。
+
+[[Two-phase locking|两阶段锁]]是关系数据库中最常见的提供了[[serializability|可序列化]] 和[[recoverability|可恢复性]]的并发控制机制，为了访问一个数据库对象，事务首先要获得这个对象的[[Lock (database)| 锁]]。对于不同的访问类型（如对对象的读写操作）和锁的类型，如果另外一个事务正持有这个对象的锁，获得锁的过程会被阻塞或者延迟。
+
+==隔离级别(Isolation levels)==
+在[[数据库]]事务的[[ACID]]四个属性中，隔离性是一个最常放松的一个。为了获取更高的隔离等级，数据库系统的[[Lock (database)| 锁]]机制或者[[multiversion concurrency control|多版本并发控制]]机制都会影响[[concurrency (computer science)|并发]]。 [[software application|应用软件]]也需要额外的逻辑来使其正常工作。
+
+很多[[DBMS]]定义了不同的“事务隔离等级”来控制锁的程度。在很多数据库系统中，多数的数据库事务都避免高等级的隔离等级（如可序列化）从而减少对系统的锁定开销。程序员需要小心的分析数据库访问部分的代码来保证隔离级别的降低不会造成难以发现的代码bug。相反的，更高的隔离级别会增加[[deadlock|死锁]]发生的几率，同样需要编程过程中去避免。
+
+[[American National Standards Institute|ANSI]]/[[International Organization for Standardization|ISO]] [[SQL]]定义的标准隔离级别如下。
+
+===可序列化(Serializable)===
+最高的隔离级别。 
+
+在基于锁机制[[concurrency control|并发控制]]的DBMS实现[[serializability|可序列化]]要求在选定对象上的读锁和写锁保持直到事务结束后才能释放。在[[Select (SQL)|SELECT]] 的查询中使用一个“WHERE”子句来描述一个范围时应该获得一个“范围锁(range-locks)”。这种机制可以避免“幻影读(phantom reads)”现象。
+
+当采用不基于锁的[[concurrency control|并发控制]]时不用获取锁。但当系统探测到几个并发事务有“写冲突”的时候，只有其中一个是允许提交的。这种机制的详细描述见“'[[snapshot isolation|快照隔离]]”
+
+===可重复读(Repeatable reads)===
+在可重复读(REPEATABLE READS)隔离级别中，基于锁机制[[concurrency control|并发控制]]的DBMS需要对选定对象的读锁(read locks)和写锁(write locks)一直保持到事务结束，但不要求“范围锁(range-locks)”，因此可能会发生“幻影读(phantom reads)”
+
+===提交读(Read committed)===
+在提交读(READ COMMITTED)级别中，基于锁机制[[concurrency control|并发控制]]的DBMS需要对选定对象的写锁(write locks)一直保持到事务结束，但是读锁(read locks)在[[Select (SQL)|SELECT]]操作完成后马上释放（因此“不可重复读”现象可能会发生，见下面描述）。和前一种隔离级别一样，也不要求“范围锁(range-locks)”。
+
+简而言之，提交读这种隔离级别保证了读到的任何数据都是提交的数据，避免读到中间的未提交的数据，'''''脏读(dirty reads)'''''。但是不保证事务重新读的时候能读到相同的数据，因为在每次数据读完之后其他事务可以修改刚才读到的数据。
+
+===未提交读(Read uncommitted)===
+未提交读(READ UNCOMMITTED)是最低的隔离级别。允许'''''脏读(dirty reads)'''''，事务可以看到其他事务“尚未提交”的修改。
+
+通过比低一级的隔离级别要求更多的限制，高一级的级别提供更强的隔离性。标准允许事务运行在更强的事务隔离级别上。(如在可重复读(REPEATABLE READS)隔离级别上执行提交读(READ COMMITTED)的事务是没有问题的)
+
+==默认隔离级别==
+不同的[[Database management system|DBMS]]默认隔离级别也不同。多少数据库允许用户设置隔离级别。有些DBMS在执行一个SELECT语句时使用额外的语法来获取锁(如''SELECT ... FOR UPDATE''来获得在访问的数据行上的排他锁)
+
+==读现象(Read phenomena)==
+ANSI/ISO 标准SQL 92涉及三种不同的一个事务读取另外一个事务可能修改的数据的“读现象”。
+
+下面的例子中，两个事务，事务1执行语句1。接着，事务2执行语句2并且提交，最后事务1再执行语句1.
+查询使用如下的数据表。
+{|class="wikitable"
+|+ users
+! id !! name !! age
+|-
+| 1  || Joe  || 20
+|-
+| 2  || Jill || 25
+|}
+
+===脏读(Dirty reads (Uncommitted Dependency))===
+
+当一个事务允许读取另外一个事务修改但未提交的数据时，就可能发生脏读(dirty reads)。
+
+脏读(dirty reads)和不可重复读(non-repeatable reads)类似。事务2没有提交造成事务1的语句1两次执行得到不同的结果集。在未提交读(READ UNCOMMITTED)隔离级别唯一禁止的是更新混乱，即早期的更新可能出现在后来更新之前的结果集中。
+
+在我们的例子中，事务2修改了一行，但是没有提交，事务1读了这个没有提交的数据。现在如果事务2回滚了刚才的修改或者做了另外的修改的话，事务1中查到的数据就是不正确的了。
+{|style="font-size: 94%;"
+|-
+! 事务 1
+! 事务 2
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT age FROM users WHERE id = 1;
+/* will read 20 */
+&lt;/source&gt;
+|
+|-
+|
+|&lt;source lang="sql"&gt;
+/* Query 2 */
+UPDATE users SET age = 21 WHERE id = 1;
+/* No commit here */
+&lt;/source&gt;
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT age FROM users WHERE id = 1;
+/* will read 21 */
+&lt;/source&gt;
+|
+|-
+|
+|&lt;source lang="sql"&gt;
+ROLLBACK; /* lock-based DIRTY READ */
+&lt;/source&gt;
+|}
+
+在这个例子中，事务2回滚后就没有id是1，age是21的数据行了。
+
+===不可重复读(non-repeatable read)===
+在一次事务中，当一行数据获取两遍得到不同的结果表示发生了“不可重复读(non-repeatable read)”.
+
+在基于锁的并发控制中“不可重复读(non-repeatable read)”现象发生在当执行[[Select (SQL)|SELECT]] 操作时没有获得读锁(read locks)或者[[Select (SQL)|SELECT]]操作执行完后马上释放了读锁； [[multiversion concurrency control|多版本并发控制]]中当没有要求一个[[commit conflict|提交冲突]]的事务回滚也会发生“不可重复读(non-repeatable read)”现象。
+
+{|style="font-size: 94%;"
+|-
+! 事务 1
+! 事务 2
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT * FROM users WHERE id = 1;
+&lt;/source&gt;
+|
+|-
+|
+|&lt;source lang="sql"&gt;
+/* Query 2 */
+UPDATE users SET age = 21 WHERE id = 1;
+COMMIT; /* in multiversion concurrency
+   control, or lock-based READ COMMITTED */
+&lt;/source&gt;
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT * FROM users WHERE id = 1;
+COMMIT; /* lock-based REPEATABLE READ */
+&lt;/source&gt;
+|}
+
+
+在这个例子中，事务2提交成功，因此他对id为1的行的修改就对其他事务可见了。但是事务1在此前已经从这行读到了另外一个“age”的值。在可序列化(SERIALIZABLE)和可重复读(REPEATABLE READS)的隔离级别，数据库在第二次SELECT请求的时候应该返回事务2更新之前的值。在提交读(READ COMMITTED)和未提交读(READ UNCOMMITTED)，返回的是更新之后的值，这个现象就是不可重复读(non-repeatable read)。
+
+有两种策略可以避免不可重复读(non-repeatable read)。一个是要求事务2延迟到事务1提交或者回滚之后再执行。这种方式实现了'''T1, T2''' 的串行化[[Schedule (computer science)|调度]]。串行化调度可以支持可重复读(repeatable reads)。
+
+另一种策略是''[[multiversion concurrency control|多版本并发控制]]''。为了得到更好的并发性能，允许事务2先提交。但因为事务1在事务2之前开始，事务1必须在其开始执行时间点的数据库的快照上面操作。当事务1最终提交时候，数据库会检查其结果是否等价于'''T1, T2'''串行调度。如果等价，则允许事务1提交，如果不等价，事务1需要回滚并抛出个串行化失败的错误。
+
+使用基于锁的并发控制，在可重复读(REPEATABLE READS)的隔离级别中，ID=1的行会被锁住，在事务1提交或回滚前一直阻塞语句2的执行。在提交读(READ COMMITTED)的级别，语句1第二次执行，age已经被修改了。
+
+在''[[multiversion concurrency control|多版本并发控制]]''机制下，可序列化(SERIALIZABLE)级别，两次SELECT语句读到的数据都是事务1开始的快照，因此返回同样的数据。但是，如果事务1试图UPDATE这行数据，事务1会被要求回滚并抛出一个串行化失败的错误。
+
+在提交读(READ COMMITTED)隔离级别，每个语句读到的是语句执行前的快照，因此读到更新前后不同的值。在这种级别不会有串行化的错误(因为这种级别不要求串行化)，事务1也不要求重试。
+
+===幻影读(phantom read)===
+
+在事务执行过程中，当两个完全相同的查询语句执行得到不同的结果集。这种现象称为“幻影读(phantom read)”
+
+当事务没有获取''[[range locks|范围锁]]''的情况下执行''[[Select (SQL)|SELECT]] ... WHERE''操作可能会发生“幻影读(phantom read)”。
+
+“幻影读(phantom read)”是''不可重复读(Non-repeatable reads)''的一种特殊场景：当事务1两次执行''SELECT ... WHERE''检索一定范围内数据的操作中间，事务2在这个表中创建了(如[[INSERT]])了一行新数据，这条新数据正好满足事务1的“WHERE”子句。
+
+{|style="font-size: 95%;"
+|-
+! 事务 1
+! 事务 2
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT * FROM users
+WHERE age BETWEEN 10 AND 30;
+&lt;/source&gt;
+|
+|-
+|
+|&lt;source lang="sql"&gt;
+/* Query 2 */
+INSERT INTO users VALUES ( 3, 'Bob', 27 );
+COMMIT;
+&lt;/source&gt;
+|-
+|&lt;source lang="sql"&gt;
+/* Query 1 */
+SELECT * FROM users
+WHERE age BETWEEN 10 AND 30;
+&lt;/source&gt;
+|
+|}
+
+需要指出的是事务1执行了两遍同样的查询语句。如果设了最高的隔离级别，两次会得到同样的结果集，这也正是数据库在可序列化(SERIALIZABLE)隔离级别上需要满足的。但是在较低的隔离级别上，第二次查询可能会得到不同的结果集。
+
+在可序列化(SERIALIZABLE)隔离级别，查询语句1在age从10到30的记录上加锁，事务2只能阻塞直至事务1提交。在可重复读(REPEATABLE READ)级别，这个范围不会被锁定，允许记录插入，因此第二次执行语句1的结果中会包括新插入的行。
+
+==隔离级别、读现象和锁(Isolation Levels, Read Phenomena and Locks)==
+===隔离级别vs读现象(Isolation Levels vs Read Phenomena)===
+
+{|class="wikitable"
+! 隔离级别 !! 脏读 !!不可重复读 !!幻影读
+|-
+|未提交读  || 可能发生||可能发生 ||可能发生
+|-
+|提交读  || - || 可能发生 || 可能发生
+|-
+|可重复读 || - || - ||可能发生
+|-
+|可序列化 || - || - || -
+|}
+
+可序列化(Serializable)隔离级别不等同于可串行化(Serializable)。可串行化调度(Serializable)是避免以上三种现象的必要条件，但不是充分条件。
+
+“可能发生”表示这个隔离级别会发生对应的现象，“-”表示不会发生。
+
+===隔离级别vs 锁持续时间(Isolation Levels vs Lock Duration) ===
+
+在基于锁的并发控制中，隔离级别决定了锁的持有时间。'''"C"'''-表示锁会持续到事务提交。
+'''"S"''' –表示锁持续到当前语句执行完毕。如果锁在语句执行完毕就释放则另外一个事务就可以在这个事务提交前修改锁定的数据，从而造成混乱。
+
+{|class="wikitable"
+! 隔离级别l !! 写操作 !!读操作 !!范围操作 (...where...)
+|-
+| 未提交读  || S || S || S
+|-
+| 提交读  || C || S || S
+|-
+| 可重复读 || C || C || S
+|-
+| 可序列化 || C || C || C
+|}
+
+==参照==
+{{reflist}}
+
+==相关条目==
+
+* [[Atomicity (database systems)|原子性]]
+* [[Consistency (database systems)|一致性]]
+* [[Durability (database systems)|持久性]]
+* [[Lock (database)|锁]]
+* [[Optimistic concurrency control|乐观并发控制]]
+* [[Relational Database Management System|关系数据库]]
+* [[Snapshot isolation|快照隔离]]
+&lt;ref&gt;{{cite undefined}}&lt;/ref&gt;&lt;ref&gt;{{cite undefined}}&lt;/ref&gt;
+
+&lt;ref&gt;{{cite undefined}}&lt;/ref&gt;==外部链接==
+
+* [http://docs.oracle.com/cd/B12037_01/server.101/b10743/toc.htm  Oracle® Database Concepts], [http://docs.oracle.com/cd/B12037_01/server.101/b10743/consist.htm#sthref1919 chapter 13 Data Concurrency and Consistency, Preventable Phenomena and Transaction Isolation Levels]
+* [http://docs.oracle.com/cd/B19306_01/server.102/b14200/toc.htm Oracle® Database SQL Reference], [http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10.htm#i2068385 chapter 19 SQL Statements: SAVEPOINT to UPDATE], [http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10005.htm#i2067247 SET TRANSACTION]
+&lt;!-- representations in api: java --&gt;
+* in [[Java Database Connectivity|JDBC]]: [http://docs.oracle.com/javase/7/docs/api/java/sql/Connection.html#field_summary Connection constant fields], [http://docs.oracle.com/javase/7/docs/api/java/sql/Connection.html#getTransactionIsolation() Connection.getTransactionIsolation()], [http://docs.oracle.com/javase/7/docs/api/java/sql/Connection.html#setTransactionIsolation(int) Connection.setTransactionIsolation(int)]
+* in [[Spring Framework]]: [http://static.springsource.org/spring/docs/current/javadoc-api/org/springframework/transaction/annotation/Transactional.html @Transactional], [http://static.springsource.org/spring/docs/current/javadoc-api/org/springframework/transaction/annotation/Isolation.html Isolation]
+&lt;!-- representations in api: .NET_Framework --&gt;
+
+&lt;!--Categories--&gt;
+{{DEFAULTSORT:Isolation (Database Systems)}}
+[[Category:Data management]]
+[[Category:Transaction processing]]
+
+&lt;!--Interwikies--&gt;</str>
+    <str name="title">事務隔離</str>
+    <str name="titleText">事務隔離</str>
+    <str name="user">Ghcost</str>
+    <int name="userId">926917</int>
+    <int name="revision">33158551</int>
+    <date name="timestamp">2014-11-02T02:02:14Z</date>
+    <long name="_version_">1484749078746103809</long></doc>
+  <doc>
+    <str name="id">956154</str>
+    <str name="text">'''语义互操作性'''，又称为'''语义协同工作能力'''或者'''语义互用性'''，是[[互操作性]]的一种层次。[[IEEE]]（Institute of Electrical &amp; Electronic Engineers，电气与电子工程师协会）对互操作性做出了如下定义&lt;ref&gt;Institute of Electrical and Electronics Engineers. IEEE Standard Computer Dictionary: A Compilation of IEEE Standard Computer Glossaries. New York, NY: 1990.(iftikahr)&lt;/ref&gt;：
+&lt;div style="text-align: center;"&gt;
+{{quote|
+''两个或多个系统或组成部分之间交换信息以及对所已经交换的信息加以使用的能力''
+}}
+&lt;/div&gt;
+从[[IEEE]]的上述定义来说，'''语义互操作性'''就是指''两个或多个系统或组成部分之间对所已经交换的信息加以使用的能力''。
+
+对于旨在真正实现互操作性的任何工作而言，语义互操作性都不可或缺。[[数据交换]]至少要涉及到两个[[计算机系统]]参与方：即发送方计算机系统和接受方计算机系统。数据交换旨在为所有的参与方计算机系统，或者交换双方或其中之一带来有用的结果。不过，这些参与方计算机系统的所有用户事先已经就有关何谓有用结果的规定达成了一致意见。只有当参与方计算机系统之间所交换的数据能够得到对方正确处理和使用的情况下，才能称为实现了语义协同工作能力。
+
+==参考文献==
+{{reflist}}
+
+== 参见 ==
+*[[互操作性]]
+*[[语法互操作性]]
+*[[信息系统]]
+*[[信息孤岛]]
+*[[受控词表]]
+*[[元数据]]
+*[[术语]]
+*[[概念]]
+*[[语义]]
+*[[语法]]
+
+{{compu-stub}}</str>
+    <str name="title">语义互操作性</str>
+    <str name="titleText">语义互操作性</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25512352</int>
+    <date name="timestamp">2013-03-12T23:49:33Z</date>
+    <long name="_version_">1484748841599107073</long></doc>
+  <doc>
+    <str name="id">80860</str>
+    <str name="text">在数学中，集合上的'''并'''(join)可以用两种方式定义：关于这个集合上的[[偏序集合|偏序]]的唯一[[上确界]](最小上界)，假定这种上确界存在的话；或者是满足[[幂等律]]的[[交换律|交换]][[结合律|结合]][[二元运算]]。在任何一个情况下，这个集合与并运算一起是[[并半格]]。两个定义生成等价的结果，除了[[偏序关系|偏序]]方式有可能直接的定义更一般的元素的集合的并之外。最常见到并运算的领域是[[格 (数学)|格]]。
+
+&lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的并通常被指示为 &lt;math&gt;x \lor y&lt;/math&gt;。 
+
+==偏序定义==
+
+设 ''A'' 是带有[[偏序关系|偏序]] &lt;math&gt;\leq&lt;/math&gt; 的一个集合，并设 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 是 ''A'' 中的两个元素。''A'' 中的一个元素 &lt;math&gt;z&lt;/math&gt; 是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的并(或最小上界或上确界)，如果满足下列两个条件:
+:'''1.'''  &lt;math&gt;x \leq z&lt;/math&gt; 且 &lt;math&gt;y \leq z&lt;/math&gt; (就是说，&lt;math&gt;z&lt;/math&gt; 是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的一个上界)；
+:'''2.'''  对于 ''A'' 中任何 &lt;math&gt;w&lt;/math&gt;，使得 &lt;math&gt;x \leq w&lt;/math&gt; 且 &lt;math&gt;y \leq w&lt;/math&gt;，有着 &lt;math&gt;z \leq w&lt;/math&gt; (就是说，&lt;math&gt;z&lt;/math&gt; 小于任何其他 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的上界)。
+如果 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 有并，则实际上它是唯一的，因为如果 &lt;math&gt;z&lt;/math&gt; 和 &lt;math&gt;z'&lt;/math&gt; 都是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的最小上界，则 &lt;math&gt;z \leq z' \leq z&lt;/math&gt;，因此确实 &lt;math&gt;z = z'\,&lt;/math&gt;。如果并存在，它被指示为 &lt;math&gt;x \lor y&lt;/math&gt;。''A'' 中的某些对元素可能缺乏并，要么因为它们根本就没有上界，要么因为它们的上界没有一个小于所有其他的。如果所有的元素对都有并，则这个交实际上是在 ''A'' 上的[[二元运算]]，并且容易看出这个运算满足下列三个条件: 对于 ''A'' 中任何元素 &lt;math&gt;x&lt;/math&gt;, &lt;math&gt;y&lt;/math&gt; 和 &lt;math&gt;z&lt;/math&gt; 有
+:'''a.'''  &lt;math&gt;x \lor y = y \lor x&lt;/math&gt; ([[交换律]])，
+:'''b.'''  &lt;math&gt;x \lor (y \lor z) =(x \lor y) \lor z&lt;/math&gt; ([[结合律]])，
+:'''c.'''  &lt;math&gt;x \lor x = x&lt;/math&gt; ([[幂等律]])。
+
+==泛代数定义==
+
+通过定义，在集合 ''A'' 上的[[二元运算]] &lt;math&gt;\lor&lt;/math&gt; 是并，如果它满足上述三个条件 '''a''', '''b''' 和 '''c'''。有序对 (''A'',&lt;math&gt;\lor&lt;/math&gt;) 就是[[并半格]]。此外，我们可以定义在 ''A'' 上的[[二元关系]] &lt;math&gt;\leq&lt;/math&gt;，通过声称 &lt;math&gt;x \leq y&lt;/math&gt; 当且仅当 &lt;math&gt;x \lor y = y&lt;/math&gt;。事实上，这个关系是在 ''A'' 上的[[偏序关系|偏序]]。实际上，对于 ''A'' 中任何元素 &lt;math&gt;x&lt;/math&gt;, &lt;math&gt;y&lt;/math&gt; 和 &lt;math&gt;z&lt;/math&gt; 有
+:&lt;math&gt;x \leq x&lt;/math&gt;，因为 &lt;math&gt;x \lor x = x&lt;/math&gt;，通过公理 '''c'''；
+:如果 &lt;math&gt;x \leq y&lt;/math&gt; 且 &lt;math&gt;y \leq x&lt;/math&gt;，则 &lt;math&gt;y = x \lor y = y \lor x = x&lt;/math&gt;，通过公理 '''a'''；
+:如果 &lt;math&gt;x \leq y&lt;/math&gt; 且 &lt;math&gt;y \leq z&lt;/math&gt;，则 &lt;math&gt;x \leq z&lt;/math&gt;，因为 &lt;math&gt; x \lor z = x \lor (y \lor z) = (x \lor y) \lor z = y \lor z = z&lt;/math&gt;，通过公理 '''b'''。
+
+==两个定义的等价性==
+如果 (''A'',&lt;math&gt;\leq&lt;/math&gt;) 是[[偏序集合]]，使得 ''A'' 中每对元素都有并，则确实 &lt;math&gt;x \lor y = y&lt;/math&gt; 当且仅当 &lt;math&gt;x \leq y&lt;/math&gt;，因为在后者情况下 &lt;math&gt;y&lt;/math&gt; 的确是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的上界，并且因为明显的 &lt;math&gt;y&lt;/math&gt; 是最小上界当且仅当它是上界。因此，以泛代数方式的并定义的偏序一致于最初的偏序。
+
+反过来说，如果 (''A'',&lt;math&gt;\lor&lt;/math&gt;) 是并半格，并用泛代数的方式定义偏序 &lt;math&gt;\leq&lt;/math&gt;，对于 ''A'' 中某些元素 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 有 &lt;math&gt;z = x \lor y&lt;/math&gt;，则 &lt;math&gt;z&lt;/math&gt; 是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 关于 &lt;math&gt;\leq&lt;/math&gt; 的最小上界，因为 &lt;math&gt;x \lor z = (x \lor x) \lor y = z \;\Rightarrow\; x \leq z&lt;/math&gt;，类似的 &lt;math&gt;y \leq z&lt;/math&gt;，并且如果 &lt;math&gt;w&lt;/math&gt; 是 &lt;math&gt;x&lt;/math&gt; 和 &lt;math&gt;y&lt;/math&gt; 的另一个上界，则 &lt;math&gt;x \lor w = y \lor w = w&lt;/math&gt;，因而 &lt;math&gt;z \lor w = (x \lor y) \lor w = x \lor (y \lor w) = x \lor w = w&lt;/math&gt;。所以最初的并定义的偏序定义的并一致于最初的并。
+
+换句话说，这两种方式生成本质上等价的概念，集合配备了二元关系和二元运算二者，使得每个结构都有另一个确定，而且分别满足关于偏序或并的那些条件。
+
+==一般子集的并==
+
+如果 (''A'',&lt;math&gt;\lor&lt;/math&gt;) 是并半格，则并可以被扩展为任何非空有限集合的良好定义的并，通过在[[迭代二元运算]]中描述的技术。可作为替代的，并定义或定义自偏序，''A'' 的某个子集的确有关于它的[[上确界]]。对于非空有限子集，这两种方式生成同样的结果，因此任何一个都可以作为并的定义。在 ''A'' 的每个子集都有并的情况下，实际上 (''A'',&lt;math&gt;\leq&lt;/math&gt;) 是[[完全格]]；详情请参见[[完全性 (序理论)]]。
+
+==参见==
+*[[上确界]]
+*[[半格|并半格]]
+*[[格 (数学)]]
+*[[偏序集合]]
+*[[交运算]]
+
+[[Category:序理论|B]]
+[[Category:抽象代数|B]]
+[[Category:二元運算|B]]
+
+[[en:Join (mathematics)]]</str>
+    <str name="title">并运算</str>
+    <str name="titleText">并运算</str>
+    <str name="user">Alexbot</str>
+    <int name="userId">81369</int>
+    <int name="revision">7267493</int>
+    <date name="timestamp">2008-06-16T19:16:17Z</date>
+    <long name="_version_">1484748575422283776</long></doc>
+</result>
+</response>

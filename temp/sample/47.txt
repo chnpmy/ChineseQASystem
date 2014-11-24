@@ -1,0 +1,310 @@
+{{Navbox
+| name       = 诺贝尔文学奖获得者 (2001年－2025年)
+| title      = [[诺贝尔文学奖]]获得者（2001年－）
+| titlestyle = background: #d3d3d3;
+| belowstyle = background: transparent; border-top: 1px solid #C0C0C0;
+| list1 = 2001年：[[V·S·奈波爾|奈波爾]]{{!w}}<!--
+-->2002年：[[凯尔泰斯·伊姆雷|凱爾泰斯]]{{!w}}<!--
+-->2003年：[[约翰·马克斯维尔·库切|库切]]{{!w}}<!--
+-->2004年：[[艾尔弗雷德·耶利内克|耶利內克]]{{!w}}<!--
+-->2005年：[[哈罗德·品特|品特]]{{!w}}<!--
+-->2006年：[[奧罕·帕慕克|帕慕克]]{{!w}}<!--
+-->2007年：[[多丽丝·莱辛|莱辛]]{{!w}}<!--
+-->2008年：[[让-马里·古斯塔夫·勒克莱齐奥|勒克莱齐奥]]{{!w}}<!--
+-->2009年：[[赫塔·缪勒|缪勒]]{{!w}}<!--
+-->2010年：[[马里奥·巴尔加斯·略萨|略萨]]{{!w}}<!--
+-->2011年：[[托马斯·特兰斯特罗默|特兰斯特罗默]]{{!w}}<!--
+-->[[2012年诺贝尔文学奖|2012年]]：[[莫言]]{{!w}}<!--
+-->2013年：[[艾丽斯·芒罗|芒罗]]{{!w}}<!--
+-->2014年：[[帕特里克·莫迪亚诺|莫迪亚诺]]
+|below = [[:Template:诺贝尔文学奖获得者|完全列表]]{{!w}}[[:Template:诺贝尔文学奖获得者 (1901年－1925年)|1901年－1925年]]{{!w}}[[:Template:诺贝尔文学奖获得者 (1926年－1950年)|1926年－1950年]]{{!w}}[[:Template:诺贝尔文学奖获得者 (1951年－1975年)|1951年－1975年]]{{!w}}[[:Template:诺贝尔文学奖获得者 (1976年－2000年)|1976年－2000年]]{{!w}}[[:Template:诺贝尔文学奖获得者 (2001年－2025年)|'''2001年－''']]
+}}<noinclude>
+[[Category:诺贝尔奖模板|文学]]
+</noinclude>
+{{Navbox 
+| name       = 2012年诺贝尔奖获得者
+| title      = 2012年[[诺贝尔奖]]获得者
+| titlestyle = background:#d3d3d3;
+| belowstyle = background: transparent; border-top: 1px solid #d3d3d3;
+| list1      = '''[[诺贝尔物理学奖|物理学奖]]：'''[[塞尔日·阿罗什]] - [[戴维·瓦恩兰]]
+|list2='''[[诺贝尔化学奖|化学奖]]：'''[[罗伯特·莱夫科维茨]] - [[布赖恩·科比尔卡]]
+|list3='''[[诺贝尔生理学或医学奖|生理学或医学奖]]：'''[[约翰·格登]] - [[山中伸弥]]
+|list4='''[[诺贝尔文学奖|文学奖]]：'''[[莫言]]
+|list5='''[[诺贝尔和平奖|和平奖]]：'''[[歐洲聯盟]]
+|list6='''[[诺贝尔经济学奖|经济学奖]]'''<sup>[[诺贝尔经济学奖#與諾貝爾獎的關係|註]]</sup>'''：'''[[劳埃德·沙普利]] - [[阿尔文·罗思]]
+}}<noinclude>[[Category:诺贝尔奖模板]]
+</noinclude>
+{{pov|time=2014-10-31T13:10:44+00:00}}
+[[File:MoYan Hamburg 2008.jpg|thumb|right|250px|[[莫言]]]]
+2012年10月11日13时，[[瑞典文学院]][[诺贝尔奖评审委员会]]、瑞典文学院常任秘书[[彼得·恩隆德]]宣布，本年度[[诺贝尔文学奖]]的获得者是中国作家[[莫言]]，彼得·恩隆德说“（莫言）以[[幻觉现实主义]]融合了[[民间故事]]、[[历史]]与[[当代]]。”<ref>{{cite web |url=http://article.yeeyan.org/view/245405/324909 |title=莫言到底是不是“魔幻现实主义融合了民间故事、历史与当代社会” |accessdate= 2012年10月14日|publisher=译言网 |work= |language =zh-cn}}</ref>（{{lang-en|who with hallucinatory realism merges folk tales, history and the contemporary}}）<ref>{{cite web |url=http://www.nobelprize.org/nobel_prizes/literature/laureates/2012/press.html# |title=The Nobel Prize in Literature 2012 Mo Yan |accessdate=2012 |publisher=诺贝尔奖官方网 |work= |language =zh-cn}}</ref> 莫言成为第一位获得诺贝尔文学奖的[[中华人民共和国国籍|中国籍]]作家。
+
+== 提名 ==
+瑞典文学院常任秘书彼得·恩隆德曾透露，2012年诺贝尔文学奖的提名一共有210位作家，其中46位是首次提名。<ref name="fish " >{{cite web |url= http://www.impactchina.com.cn/wenxueyishu/suibi/jianxun/2012-10-18/12554.html|title=2012年诺贝尔文学奖提名结束 |accessdate= 2012-10-18  |publisher=影响力中国 |work= |language =zh-cn}}</ref><ref name="tiger " >{{cite web |url=http://news.163.com/12/0305/07/7RQLH0JV00014AED.html |title=2012诺贝尔文学奖提名结束 |accessdate=2012-03-05  |publisher=网易 |work= |language =zh-cn}}</ref> 欧美博彩公司和美国《纽约时报》刊文说，中国作家莫言、曹乃谦、[[张一一]]获得提名。<ref name="bull " >{{cite web |url=http://news.jschina.com.cn/system/2012/04/26/013225427.shtml |title=2012诺贝尔文学奖提名进入复评 中国2作家入围 |accessdate=2012-04-26  |publisher=中国江苏网 |work= |language =zh-cn}}</ref>
+
+2012年4月，瑞典文学院诺贝尔奖评审委员会否决了210人中的190人，其中20人进入第二轮评选。<ref name="fish " /><ref name="tiger " /> 中国的莫言、[[曹乃谦]]<ref>{{cite web |url=http://news.ifeng.com/mainland/detail_2012_04/26/14171541_0.shtml |title=山西作家曹乃谦入2012年诺贝尔文学奖复评名单 |accessdate=2012年4月26日 |publisher=凤凰网 |work= |language =zh-cn}}</ref>进入20强的名单。<ref name="bull " />
+
+瑞典文学院诺贝尔奖评审委员会在第二轮评选中否决15人，留下5人进行秘密投票，由票数决定最后得主。<ref name="fish " /><ref name="tiger " /> 
+
+== 获奖 ==
+2012年10月11日13时，瑞典文学院诺贝尔奖评审委员会、瑞典文学院常任秘书彼得·恩隆德公布年度诺贝尔文学奖的得主是中国作家莫言，诺贝尔委员会新闻稿说：{{cquote| （莫言）以幻觉现实主义融合了民间故事、历史与当代。<ref>{{cite web |url=http://article.yeeyan.org/view/245405/324909 |title=莫言到底是不是“魔幻现实主义融合了民间故事、历史与当代社会” |accessdate= 2012年10月14日|publisher=译言网 |work= |language =zh-cn}}</ref>}}<br />{{cquote|who with hallucinatory realism merges folk tales, history and the contemporary.}}
+
+== 官方反应 ==
+2012年10月11日，[[中共中央政治局常委]][[李长春]]致信中国作家协会，贺信说：{{quote|随着我国[[改革开放]]和[[现代化]]建设的迅猛发展，[[中国文学]]迸发出巨大的创造活力，广大中国作家植根于人民生活和民族传统的深厚土壤，创作出一大批具有中国特色、中国风格、中国气派的优秀作品。莫言就是其中的杰出代表。莫言获得诺贝尔文学奖，既是中国文学繁荣进步的体现，也是我国综合国力和国际影响力不断提升的体现。他希望广大作家坚持以人民为中心的创作导向，贴近实际、贴近生活、贴近群众，创作出更多无愧于历史、无愧于时代、无愧于人民的优秀作品，为[[中华文化]]繁荣发展，为人类文明进步作出新的更大贡献。<ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-3/detail_2012_10/12/18212883_0.shtml |title=李长春致信中国作协祝贺莫言获诺贝尔文学奖 |accessdate=2012年10月12日  |publisher=凤凰网 |work= |language =zh-cn}}</ref>}}
+
+2012年10月11日，[[中国作家协会]]发表最莫言获奖的贺词：{{quote|欣闻莫言先生荣获2012年诺贝尔文学奖，我们表示热烈祝贺!<br />在几十年文学创作道路上，莫言对祖国怀有真挚情感，与人民大众保持紧密联系，潜心于艺术创新，取得了卓越成就。自上世纪八十年代以来，莫言一直身处中国文学探索和创造的前沿，作品深深扎根于乡土，从生活中汲取艺术灵感，从[[中华民族]]百年来的命运和奋斗中汲取思想力量，以奔放独特的民族风格，有力地拓展了中国文学的想象空间、思想深度和艺术境界。莫言的作品深受国内外广大读者喜爱，在中国当代文学史上占有重要地位。<br />莫言的获奖，表明国际文坛对中国当代文学及作家的深切关注，表明中国文学所具有的世界意义。希望中国作家继续勤奋笔耕，奉献更多精品力作，为人类的文化发展作出新的贡献！<ref>{{cite web |url=http://www.people.com.cn/24hour/n/2012/1012/c25408-19236223.html |title= 中国作协发表贺辞祝贺莫言获奖|accessdate= 2012年10月12日|publisher=人民网 |work= |language =zh-cn}}</ref>}}
+
+值得一提的是，对于莫言获奖，[[中国共产党|中共]]当局政府同当年刘晓波获得[[2010年诺贝尔和平奖]]的态度截然相反。两年前，[[新华网]]就刘晓波获[[诺贝尔和平奖]]事件称：“刘晓波是什么人？他何德何能受到诺贝尔委员会的青睐<ref>[http://news.xinhuanet.com/world/2010-10/26/c_12703288.htm 刘晓波其人其事|date=2010年10月26日]</ref>。”而对于莫言获奖，则进行了全方位的报的，其中不乏溢美褒奖之词<ref>[http://news.xinhuanet.com/world/2012-10/11/c_113343763.htm 中国作家莫言获2012年诺贝尔文学奖|date=2012年10月11日]</ref>。
+
+== 评价 ==
+
+:<!-- 请不要直接复制网上某某名人对莫言得奖的评价语句然后粘贴，请用自己的话进行概括-->
+
+2012年10月11日，诺贝尔文学奖委员会宣布2012年诺贝尔文学奖获得者为莫言。此事不仅在文学界产生影响，也引起社会各界广泛讨论。中华人民共和国官方和大部分中文作家对莫言表示祝贺和肯定，一些反共作家和政治人士反对诺贝尔奖委员会的决定，质疑莫言获奖。
+
+=== 正面 ===
+[[中国大陆]]和[[台湾]]的中文文学界的[[王蒙]]、[[陈忠实]]、[[余华]]、[[龙应台]]、[[陈丹青]]、[[阎连科]]、[[苏童]]、[[迟子建]]、[[李锐 (小说家)|李锐]]、[[周国平]]等人在莫言获奖时大都表达出对其作品和写作态度的肯定<ref>[http://udn.com/NEWS/WORLD/WORS1/7424963.shtml 黃春明 曾送他隨身用的鋼筆]</ref><ref>{{cite web | url=http://news.163.com/12/1012/00/8DIVN61R00014JB5.html | title=湖北文联主席：中国文学要以中国风格走向世界 | publisher=新华网 | accessdate=10 13, 2012}}</ref><ref>{{cite web | url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-1/detail_2012_10/12/18206231_0.shtml | title=龙应台：望莫言获奖能令“中国心灵打开” | publisher=凤凰网 | accessdate=10 13, 2012}}</ref><ref>{{cite web | url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-1/detail_2012_10/12/18207890_0.shtml?_from_ralated | title=朱天心：莫言在大陆排名前几位 符合西方对东方的想象 | publisher=凤凰网 | accessdate=10 13, 2012}}</ref>。
+
+莫言作品的译著人葛浩文、[[陈安娜]]等人对其获奖表示肯定，而中国媒体以及[[汉学家]][[沃尔夫冈·顾彬|顾彬]]认为莫言获奖源自于他们卓越的翻译版本有着强大的全球推广作用，<ref>{{cite web |url=http://book.sina.com.cn/cul/c/2012-10-12/1111345045.shtml |title=德国汉学家顾彬：莫言讲的是荒诞离奇的故事 |accessdate=2012年10月12日  |publisher=新浪网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://sh.sina.com.cn/citylink/jk/t_xa/2012-10-12/1348119274.html |title=莫言获奖离不开翻译陈安娜 |accessdate=2012年10月12日 |publisher=新浪网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://pinglun.eastday.com/p/20121013/u1a6917988.html |title= 解放日报:莫言得奖,翻译有功|accessdate=2012年10月13日 |publisher=东方网 |work= |language =zh-cn}}</ref>莫言著作的英文译者[[葛浩文]]（Howard Goldblatt）认为莫言的经历和中国很多作家一样。他认为莫言习惯于远离政治，但是尊敬那些中国的异见人士。2000年[[高行健]]获得诺贝尔文学奖时，莫言是极少数站出来为之说话的人。<ref>{{cite news|author=John Ruwitch|title=China Nobel winner Mo likely to steer clear of politics: translator|url=http://www.reuters.com/article/2012/10/12/us-nobel-moyan-translator-idUSBRE89B06220121012|accessdate=2012-10-16|newspaper=reuters|date=Oct 12, 2012}}</ref>
+
+=== 争议 ===
+
+[[余杰]]、[[艾未未]]、[[溫雲超]]、[[莫之許]]、[[张一一]]、[[章诒和]]等人批评莫言的官方身份，认为他干扰了中国的文学创作自由<ref name="mingpaotor">{{cite news |first= |last= |authorlink= |coauthors=|title= 斥作協遏制創作自由 |url= http://www.mingpaotor.com/htm/News/20121012/HK-gaa3.htm|work= |publisher=[[明報]]|date= 2012-10-12 |accessdate=2012-10-12 }}</ref><ref name="sinchew">{{cite news |first= |last= |authorlink=|coauthors= |title= 莫言奪諾貝爾文學獎‧官方背景掀激烈爭議|url= http://www.sinchew.com.my/node/264370?tid=2|work=|publisher=[[星洲日报]]|date= 2012-10-12 |accessdate=2012-10-12 }}</ref><ref>{{cite news |first= |last= |authorlink=|coauthors= |title= 莫言熱來襲 書店備戰|url=http://www.worldjournal.com/view/full_news/20462092/article-%E8%8E%AB%E8%A8%80%E7%86%B1%E4%BE%86%E8%A5%B2-%E6%9B%B8%E5%BA%97%E5%82%99%E6%88%B0?instance=hk_bull|work= |publisher=[[世界日报]]|date= 2012-10-12 |accessdate=2012-10-12 }}</ref><ref name="hongkong_media_mo_yan">{{cite news |first= |last= |authorlink= |coauthors= |title= 港媒分析莫言获奖文学与政治争议|url=http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/10/121012_hongkong_media_mo_yan.shtml |work=|publisher=[[BBC中文网]]|date= 2012-10-12|accessdate=2012-10-12}}</ref><ref>{{cite news |first= |last= |authorlink=|coauthors= |title= 莫言 中國作家首奪文學獎 |url=http://www.am730.com.hk/article.php?article=125152&d=1862|work=|publisher=[[am730]]|date= 2012-10-12|accessdate=2012-10-12}}</ref><ref name="sinchew" />，“为虎作伥”<ref name="appledaily">{{cite news |first=|last= |authorlink= |coauthors= |title= 文學可超越政治 作家不可埋沒良心|url=http://hkm.appledaily.com/detail.php?guid=18038399&category_guid=4104&category=daily|work= |publisher=苹果日报|date= 2012-10-12|accessdate=2012-10-12}}</ref>；同时质疑莫言的政治倾向，认为莫言曾因为出版图书而抄写[[毛泽东]]在延安文艺座谈会上的讲话，是偏向中国政府<ref name="AFP">{{cite news |first=|last= |authorlink= |coauthors= |title= 莫言得奖 艾未未余杰齐炮轰|url=http://www.google.com/hostednews/afp/article/ALeqM5hhuDk_hxR10dRvkZ6V-GxQKHTRPQ?docId=int0020.121012175002|work=|publisher=[[法新社]]|date= 2012-10-12 |accessdate=2012-10-12 }}</ref><ref>{{cite news |first= |last= |authorlink=|coauthors= |title= 莫言得诺贝尔文学奖 艾未未余杰左右开弓 |url=http://www.rfa.org/mandarin/Xinwen/Zuoyoukaigong-10122012065910.html?utm_source=ITXGD%E6%96%B0%E9%97%BB%E6%8E%A8%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA|work= |publisher=[[RFA]]|date= 2012-10-12 accessdate=2012-10-12 }}</ref><ref>{{cite news |first= |last= |authorlink= |coauthors=謝莉慧 |title= 莫言得诺贝尔文学奖 艾未未余杰左右开弓 |url= http://news.msn.com.tw/news2862859.aspx|work= |publisher=[[MSN]]|date= 2012-10-12 |accessdate=2012-10-12 }}</ref><ref>{{cite news |first= |last= |authorlink= |coauthors=|title= 莫言得獎 艾未未余杰齊砲轟 |url= http://news.msn.com.tw/news2862859.aspx|work= |publisher=[[中央社]]|date= 2012-10-12|accessdate=2012-10-12 }}</ref>。反共作家和政治人士认为他的文学水平尚未够资格获得诺贝尔奖<ref name="nobel_moyan_opinions">{{cite news |first= |last= |authorlink= |coauthors=|title= 莫言获诺贝尔奖同行褒贬不一|url=http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/10/121011_nobel_moyan_opinions.shtml|work=|publisher=[[BBC中文网]]|date= 2012-10-11|accessdate=2012-10-12}}</ref>。
+
+莫言的《透明的红萝卜》入选[[高中]]语文教材，文学界和学生家长有不同看法和意见，有功利性、暴力、文字深奥、性描写多等焦点，<ref>{{cite web |url=http://www.macaodaily.com/html/2012-10/15/content_741936.htm |title=莫言作品入教材引爭議 |accessdate=2012 年10月15日 |publisher=澳门日报 |work= |language =zh-hk}}</ref><ref>{{cite web |url=http://hb.people.com.cn/n/2012/1015/c194085-17581528.html |title=莫言作品入教材为何引争议 |accessdate=2012年10月15日 |publisher=人民网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://sn.ifeng.com/zhuanti/detail_2012_10/18/383797_0.shtml |title=莫言作品入选教材被指太功利 暴力色情描写争议多 |accessdate=2012年10月18日 |publisher=凤凰网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://opinion.people.com.cn/n/2012/1015/c159301-19263679.html |title=咋看“莫言作品入教材” |accessdate= 2012年10月15日|publisher=人民网 |work= |language =zh-cn}}</ref>
+
+==== 回应 ====
+
+诺贝尔奖评审委员会否定金钱利益考虑以及反驳了关于莫言政治立场谴责的批评，评委马悦然认为，人们不能简单地把中国人分为“当局的忠诚者”和“异议人士”<ref>{{cite web |url=http://www.dw.de/%E8%AF%BA%E5%A5%96%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BA%E6%8E%88%E5%A5%96%E8%8E%AB%E8%A8%80%E8%BE%A9%E6%8A%A4/a-16313419|title=诺奖委员会为授奖莫言辩护|accessdate= 2012-10-24|publisher=德国之声|work= |language =zh-cn}}</ref>。
+
+10月12日，莫言举行获诺贝尔文学奖后的新闻发布会，会上，莫言回应并无迁居海外的意向。他表示不会后悔曾抄写毛泽东在延安文艺座谈会上的讲话。他表示该“讲话虽然是有着巨大的局限性，过分强调文学与阶级的关系而忽略了文学的人性，但也觉得其中有值得认可的部分，并且在当时那种社会历史的背景下，对于推翻腐朽的政权产生了积极的作用。”<ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-3/detail_2012_10/12/18218915_0.shtml?_from_ralated |title=莫言：抄写《延安文艺讲话》不后悔 它有合理成分 |accessdate= 2012年10月12日|publisher=凤凰网 |work= |language =zh-cn}}</ref>  他认为作为80年代的作家之一，开始写作时已经意识到延安讲话的精神有局限性，已经无法满足文学创作的需要，他的文学创作都是在突破这种局限。莫言认为他的写作并“不限于党派，作家不为党派服务”，而是“站在人的立场，写人的情感、人的命运”，他的小说是“大于政治的”；媒体以他出国与否去判断其是否爱国，是非常片面的事情。<ref>{{cite web | url=http://news.qq.com/a/20121013/000618.htm?pgv_ref=aio2012&ptlang=2052 | title=莫言：不会离开这个国家 不后悔抄写延安讲话。 | publisher=东方网 | date=2012年10月13日08:54 | accessdate=10 13, 2012}}</ref><ref>{{cite web |url= http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-3/detail_2012_10/12/18219386_0.shtml|title=莫言：文学奖不是政治奖 作家不为党派服务(全文) |accessdate= 2012年10月12日 |publisher=凤凰网 |work= |language =zh-cn}}</ref>
+
+当日新闻发布会上，莫言回答关于[[刘晓波]]的提问：「我对他后来的很多的活动都不太了解。但是我现在希望­他能够尽早地获得自由，尽早地能够健康地获得他的自由，然后我觉得他完全可以研究他的政治，研究他的社会体制。」<ref>{{cite news | url=http://news.sina.com.tw/article/20121012/8043373.html | title=諾貝爾文學獎得主莫言　希望劉曉波獲釋 | publisher=新浪新聞 | date=2012-10-12 08:00 | accessdate=10 14, 2012}}</ref><ref>[http://www.youtube.com/watch?v=lCo_HouZd2o 莫言：希望刘晓波尽快获得自由 ]</ref>
+而在莫言领奖的会上，自由亚洲电台记者要求莫言重复之前“声援刘晓波”的言论，莫言回答：“大家的时间都宝贵，没有必要重复。我当天回答的内容你明明都知道了，你为什么要我重复呢？大家时间都宝贵需要均摊，我希望你不要揪住一个问题不放”。<ref name="nybj"/>
+
+对于课文的批评，《[[人民文学]]》主编[[李敬泽]]、《[[收获]]》主编[[叶开]]等提醒政府当局不要低估学生的理解能力、不要对莫言文字做风马牛不相及的解读。<ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-1/detail_2012_10/15/18259792_0.shtml |title=叶开担忧莫言作品进语文教材：一经解读就很可怕 |accessdate=2012年10月15日 |publisher=凤凰网 |work= |language =zh-cn}}</ref>
+
+== 莫言热 ==
+莫言获奖引发了中文界和当地政府的亢奋，提出了“文化搭台，经济唱戏”的观念：莫言的家乡[[高密市人民政府]]投资6.7亿打造“红高粱文化休闲区”，将用千万元种植万亩[[红高粱]]，而老家管委会主任范珲表示先扔一千万，赔本也要种；莫言文学馆也将重新建造更大的；[[山东省]]的旅游口号将修改为“一山一水一圣人一文豪”；莫言家的[[萝卜]]、[[土豆]]被视为“神物”；莫言作品即将列入高中语文教材；影视公司将拍摄莫言作品；莫言老家要重新建筑，辖区官员直接对莫言父亲说儿子不是他的儿子，房子不是他的房子了<ref>{{cite web |url=http://roll.sohu.com/20121019/n355199845.shtml |title= 儿子已经不是你的儿子屋子也不是你的屋子了|accessdate=2012年10月19日 |publisher=搜狐网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://hb.people.com.cn/n/2012/1018/c194083-17597171-1.html |title=莫言诺奖后 “儿子已经不是你的儿子了” |accessdate=2012年10月18日 |publisher=人民网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-3/detail_2012_10/19/18372584_0.shtml |title=评“莫言热”：高密难道要改称“红高粱市”？ |accessdate=2012年10月19日 |publisher=凤凰网 |work= |language =zh-cn}}</ref><ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-1/detail_2012_10/18/18349910_0.shtml |title= 评：死了“莫言家乡打造万亩红高粱”这条心|accessdate= 2012年10月18日|publisher= 凤凰网|work= |language =zh-cn}}</ref>。
+
+==领奖言论争议==
+=== 审查制度 ===
+[[美联社]]对莫言的报导则以莫言对审查制度的态度为重点，认为：被批评为身为中共党员、不愿反对中国政府、不维护言论自由并且支持中共背景的中国作家协会的莫言，认为审查制度和出入境安检是一样的<ref name="apst">{{cite news|url=http://www.guardian.co.uk/world/2012/dec/07/mo-yan-censorship-nobel |title=Censorship is a must, says China's Nobel winner | work=Associated Press in Stockholm guardian.co.uk, Friday 7 December 2012 03.04 GMT | date=2012-12-06 |accessdate=12 07, 2012}}</ref>。莫言自称“反感所有的检查”，他称：“我从来没有赞美过新闻审查这种制度，但我想新闻审查每个国家都存在。但是审查的尺度和标准都不一样。如果没有新闻审查，大家都可以在任意污蔑和诽谤人家” ，他又认为“新闻审查应该遵守的最高准则是，只要不违背实事真相的都不应该审查，违背了实事真相的都要审查”<ref name="nybj">{{cite news|url=http://cn.nytimes.com/article/culture-arts/2012/12/06/cc06moyanpress/ | title=莫言赴瑞典领奖避谈刘晓波 |work=《纽约时报》北京分社 报道 2012年12月6日 | date=2012-12-06 |accessdate=12 07, 2012}}</ref>，美联社则将其回答截断并翻译为“新闻审查应该有最高准则”。（“censorship should have the highest principle”），并以“中国诺奖获得者称审查是必须”作为标题<ref name="apst"/>被问到审查制度是否有利于写作时，莫言回答说：“如果一个作家认为他在完全自由的状态下能够写出最伟大的作品，我认为这是一种幻想。反过来说，如果一个作家在不自由或者不太自由的情况写不出好作品，也是假话。关键是作家自己的内心是否自由，关键是作家能否站在超越了政治和阶级的立场来写作，包括作家的爱心，包括那些在背后咬牙切齿憎恨你的人，也要把他们当人看，给予他们深深的同情”<ref name="nybj"/>。
+
+《大纪元时报》和台湾中央通信社将[[美聯社]]的報導解读为：莫言是[[中國作家協會]]副主席，因為沒有更大膽的發聲捍衛言論自由，原已遭致批評。但莫言2012年12月6日在[[瑞典]]領獎前夕的公開發言更惹議，他表示，（[[中共]]）當局的審查制度，像機場安檢一樣有必要。「不覺得審查制度應阻擋真相，但是任何誹謗或謠言『應該被封殺』。」「但是我也希望言論審查制度，應該有更高原則。」」2009年[[諾貝爾文學獎]]得主[[赫塔·米勒]]則批評，評審團選擇莫言是一個『大災難』，並指責莫言為中共審查制度辯護。<ref>{{cite news | url=http://www.cna.com.tw/News/aCN/201212070177-1.aspx | title=莫言：言論審查如安檢 | work=(台灣)中央通訊社 | date=2012-12-06 | accessdate=12 07, 2012 | author=綜合外電}}</ref><ref>{{cite news | url=http://www.epochtimes.com/b5/12/12/7/n3746914.htm | title=前諾獎得主：評審團選擇莫言是「大災難」 | work=[[大紀元時報]]--編譯自《[[美聯社]]》 | date=2012年12月7日 | accessdate=12 07, 2012 | author=秦雨霏編譯}}</ref>
+
+== 媒体报道 ==
+<!-- 请不要复制网上某某媒体报纸对莫言得奖的报道文字然后粘贴，只需要列举国家和媒体报纸名字 -->
+=== 国际通讯社 ===
+美国[[美联社]]、法国[[法新社]]、英国[[路透社]]等大国国家通讯社详细报道了莫言得奖的新闻。
+
+=== 报纸 ===
+[[美国]]《[[华尔街日报]]》《[[纽约时报]]》与《[[时代周刊]]》、[[英国]]《[[卫报]]》与《[[经济学家 (报纸)|经济学家]]》、[[德国]]《[[世界报]]》与《[[图片报]]》、[[俄罗斯]]《[[论据与事实]]》、[[法国]]《[[新观察家报]]》、[[印度]]《[[印度斯坦时报]]》与《[[雅加达环球报]]》、[[日本]]《[[每日新闻]]》与《[[产经新闻]]》、[[新加坡]]《[[海峡时报]]》与《[[联合早报]]》、[[澳大利亚]]《[[堪培拉时报]]》等各大国的媒体均作了详细报道。<ref>{{cite web |url= http://www.xnwbw.com/html/2012-10/14/content_65756.htm|title=全世界舆论迅速掀起莫言热 |accessdate=2012年10月14日 |publisher=西宁晚报 |work= |language =zh-cn}}</ref>
+
+==参考文献==
+{{reflist|2}}
+
+==外部链接==
+*[http://v.youku.com/v_show/id_XNDg1NDc2MTY0.html 2012年诺贝尔文学奖获得者莫言瑞典的演讲] 优酷视频
+*[http://www.youtube.com/watch?v=cHVKcWJzbrA 莫言瑞典发表诺贝尔奖演讲《讲故事的人》 Mo Yan's Nobel Lecture] YouTube
+*[http://book.qq.com/zt2012/moyannobel/ 2012年诺贝尔文学奖专题] 腾讯网
+*[http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/ 2012年诺贝尔文学奖专题] 凤凰网
+*[http://china.newssc.org/system/2012/10/11/013644360.shtml 2012年诺贝尔奖专题] 四川新闻网
+*[http://news.ifeng.com/opinion/special/moyan/ 莫言是叛徒吗？自由谈] 凤凰网
+
+{{-}}
+{{诺贝尔文学奖获得者}}
+
+[[Category:2012年中国]]
+[[Category:诺贝尔文学奖]]
+{{Navbox 
+| name       = 2014年诺贝尔奖获得者
+| title      = 2014年[[诺贝尔奖]]获得者
+| titlestyle = background:#d3d3d3;
+| belowstyle = background: transparent; border-top: 1px solid #d3d3d3;
+| list1      = '''[[诺贝尔物理学奖|物理学奖]]：'''[[赤崎勇]] - [[天野浩]] - [[中村修二]]
+|list2='''[[诺贝尔化学奖|化学奖]]：'''[[艾力克·貝齊格]] - [[斯特凡·赫尔]] - [[威廉·莫尔纳尔]]
+|list3='''[[诺贝尔生理学或医学奖|生理学或医学奖]]：'''[[约翰·奥基夫]] - [[迈-布里特·莫泽]] - [[爱德华·莫泽]]
+|list4='''[[诺贝尔文学奖|文学奖]]：'''[[帕特里克·莫迪亚诺]]
+|list5='''[[诺贝尔和平奖|和平奖]]：'''[[凱拉西·薩塔亞提]] - [[马拉拉·优素福扎伊]]
+|list6='''[[诺贝尔经济学奖|经济学奖]]'''<sup>[[诺贝尔经济学奖#與諾貝爾獎的關係|註]]</sup>：[[让·蒂罗勒]]
+}}<noinclude>[[Category:诺贝尔奖模板]]
+</noinclude>
+{{Infobox scientist
+| name             = 戴尔·莫滕森[[File:Nobel prize medal.svg|25px]]<br/><small>Dale T. Mortensen</small>
+|image             = Dale Mortensen 2.jpg
+|image_size        = 200px
+|caption           =
+|birth_date        = {{Birth date|1939|2|2}}
+|birth_place       = {{USA}}[[奧勒岡州]][[瓦洛瓦縣]]
+|death_date        = {{death date and age|2014|1|9|1939|2|2}}
+|death_place       = {{USA}}[[伊利諾州]][[庫克縣]]威爾明特
+|residence         =
+|citizenship       = {{flag|United States}}
+|nationality       = {{flag|United States}}
+|ethnicity         =
+|fields            = [[劳动经济学]]
+|workplaces        = [[西北大学]]
+|alma_mater        = [[卡内基梅隆大学]]<br>[[威拉米特大学]]
+|doctoral_advisor  =
+|academic_advisors =
+|doctoral_students =
+|notable_students  =
+|known_for         =
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        = [[克里斯托弗·皮萨里德斯]]
+|awards            = [[IZA劳动经济学奖]]（2005）<br>{{awd|[[诺贝尔经济学奖]]|2010}}
+|religion          =
+|signature         =  <!--(filename only)-->
+|footnotes         =
+}}
+
+'''戴尔·莫滕森'''（{{lang-en|'''Dale Thomas Mortensen'''}}，{{bd|1939年|2月2日|2014年|1月9日|catIdx=Mortensen}}），[[美国]][[经济学家]]，前[[西北大学]]教授，以对[[劳动经济学]]尤其是[[失業#摩擦性失業|摩擦性失业]]理论的研究而知名。2010年12月10日，与[[彼得·戴蒙德]]、[[克里斯托弗·皮萨里德斯]]一同获得[[诺贝尔经济学奖]]。<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/2010/mortensen.html|title=Dale T. Mortensen - Biographical|date=2010-10-11|publisher=Nobelprize.org}}</ref>
+
+== 经历 ==
+莫滕森分别在[[威拉米特大学]]与[[卡内基梅隆大学]]获得学士与博士学位。1965年起，开始在[[西北大学]]任教，主要研究领域为[[劳动经济学]]。<ref name="qq">{{cite web|url=http://finance.qq.com/a/20101011/006809.htm|title=2010年诺贝尔经济学奖获奖者戴尔-莫滕森简历|date=2010-10-11|publisher=腾讯财经}}</ref>
+
+1965年他曾获亚历山大·亨德森奖（Alexander Henderson Award）。1979年加入[[美国计量经济学会]]（Econometric Society）。2000年，成为[[美国文理科学院]]院士。2005年获IZA劳动经济学奖。2010年12月10日，获得[[诺贝尔经济学奖]]。<ref name="qq" />
+
+2014年1月9日，莫滕森在[[美國]][[伊利諾州]][[庫克縣]][[威爾明特]]逝世，享年75岁。<ref>[http://hk.apple.nextmedia.com/international/art/20140111/18587925 經濟學諾獎得主莫滕森逝世]</ref>
+
+== 参考资料 ==
+{{reflist}}
+
+{{诺贝尔经济学奖获得者 (2001年－2025年)}}
+{{2010年诺贝尔奖获得者}}
+{{DEFAULTSORT:Mortensen, Dale}}
+[[Category:诺贝尔经济学奖获得者]]
+[[Category:美国诺贝尔奖获得者]]
+[[Category:美国文理科学院院士]]
+[[Category:美国经济学家]]
+[[Category:美国作家]]
+[[Category:美国西北大学教授]]
+[[Category:俄勒岡州人]]
+[[Category:卡內基美隆大學校友]]
+{{Navbox 
+| name       = 2010年诺贝尔奖获得者
+| title      = 2010年[[诺贝尔奖]]获得者
+| titlestyle = background:#d3d3d3;
+| belowstyle = background: transparent; border-top: 1px solid #d3d3d3;
+| list1      = '''[[诺贝尔物理学奖|物理学奖]]：'''[[安德烈·海姆]] - [[康斯坦丁·谢尔盖耶维奇·诺沃肖洛夫|康斯坦丁·诺沃肖洛夫]]
+|list2='''[[诺贝尔化学奖|化学奖]]：'''[[理查德·赫克]] - [[根岸英一]] - [[铃木章]]
+|list3='''[[诺贝尔生理学或医学奖|生理学或医学奖]]：'''[[罗伯特·G·爱德华兹]]
+|list4='''[[诺贝尔文学奖|文学奖]]：'''[[马里奥·巴尔加斯·略萨]]
+|list5='''[[2010年诺贝尔和平奖|和平奖]]：'''[[刘晓波]]
+|list6='''[[诺贝尔经济学奖|经济学奖]]'''<sup>[[诺贝尔经济学奖#與諾貝爾獎的關係|註]]</sup>'''：'''[[彼得·戴蒙德]] - [[戴尔·莫滕森]] - [[克里斯托弗·皮萨里德斯]]
+}}<noinclude>[[Category:诺贝尔奖模板]]
+</noinclude>
+[[File: Gao Xingjian Galerie Simoncini Luxembourg.jpg|thumb|200px|right|高行健]]
+2000年10月7日，[[瑞典文学院]][[诺贝尔奖评审委员会]]宣布年度诺贝尔文学奖的获得者是法籍华人作家[[高行健]]，“其作品的普遍价值，刻骨铭心的洞察力和语言的丰富机智，为中文小说和[[艺术]][[戏剧]]开辟了新的道路。”<ref>{{cite web |url=http://news.xinmin.cn/rollnews/2009/09/10/2528135.html |title=华人作家高行健2000年获诺贝尔文学奖 |accessdate=2009-09-10 |publisher=新民网 |work= |archiveurl= http://news.xinmin.cn/rollnews/2009/09/10/2528135.html|archivedate= 2012年10月25日  |language =zh-cn}}</ref>（{{lang-en|for an oeuvre of universal validity, bitter insights and linguistic ingenuity}}）<ref>{{cite web|title=The Nobel Prize in Literature 2000|publisher=Nobelprize|date=October 7, 2010|url=http://nobelprize.org/nobel_prizes/literature/laureates/2000/|accessdate=October 7, 2010}}</ref>。高行健是首位获得诺贝尔文学奖的[[华人]]。<ref>{{cite web |url=http://yxk.cn.yahoo.com/articles/20100104/1nye_1.html |title=高行健:第一个荣获诺贝尔文学奖的华人 |accessdate=2010-01-04|publisher=雅虎网 |work=|archiveurl=http://yxk.cn.yahoo.com/articles/20100104/1nye_1.html |archivedate= 2012年10月25日  |language =zh-cn}}</ref>
+
+== 背景 ==
+1992年，高行健获得[[法国政府]]颁发的“[[藝術及文學勳章 (法國)|艺术与文学骑士勋章]]”。
+
+== 评价 ==
+=== 正面 ===
+[[中国大陆]]、[[香港]]和[[台湾]]的中文文学界的[[余杰]]、[[王朔]]、[[舒乙]]、[[董桥]]、[[刘震云]]、[[何志云]]、[[刘再复]]、[[方梓勋]]、[[王吉隆]]、[[莫言]]、[[龙应台]]、[[南方朔]]等在高行健获奖时大都表露出对其作品和写作态度的肯定，指出其作品融合了[[西方]][[现代文学]]技巧和[[东方]]儒释道的精神内涵。<ref name="man " >{{cite web |url=http://www.zaobao.com/special/newspapers/2000/pages5/zb141000a.html |title= 高行健获颁诺贝尔文学奖反应；中国文学界有人斥为“荒唐”|accessdate= |publisher=联合早报网 |work= |archiveurl=http://www.zaobao.com/special/newspapers/2000/pages5/zb141000a.html  |archivedate=  2012年10月25日 |language =zh-cn}}</ref><ref>{{cite web |url=http://www.zaobao.com/special/newspapers/2000/pages5/zb141000b.html |title=高行健著作在台北被抢购一空 |accessdate=2000 |publisher=联合早报网 |work= |archiveurl=http://www.zaobao.com/special/newspapers/2000/pages5/zb141000b.html |archivedate= 2012年10月25日 |language =zh-cn}}</ref>
+
+=== 争议 ===
+高行健获奖得到中国部分人士的肯定却也招来中国官方及部分人士的批评。
+
+[[成晓明]]、[[朱天文]]、[[张晓风]]、[[马森]]、[[夏志清]]等认为其小说作品数量少、不够优秀，“非常荒谬”、“太荒唐”。<ref name="man " />
+
+[[中国外交部发言人]][[朱邦造]]：{{quote|诺贝尔文学奖评委会最近的行动再次表明，诺贝尔文学奖已经被用于别有用心的政治目的，不值一评。<ref name="fish " >{{cite web |url= http://news.21cn.com/today/2006/09/11/2970908.shtml|title=2000年度诺贝尔文学奖备受中国官方批评 |accessdate=2006-09-11  |publisher=21CN |work= |archiveurl=http://news.21cn.com/today/2006/09/11/2970908.shtml |archivedate= 2012年10月25日  |language =zh-cn}}</ref>}}
+
+[[中国作家协会]]：{{quote|中国有许多举世瞩目的优秀文学作品和文学家，诺贝尔文学奖评委会对此并不了解，看来，此举不是从文学角度评选，而是有其政治标准。<ref name="fish " /><ref>{{cite web |url=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-4/detail_2012_10/11/18190867_0.shtml?_from_ralated |title=历史资料：2000年中国作协就高行健获诺贝尔奖的表态 |accessdate= 2012年10月11日 |publisher=凤凰网 |work= |archiveurl=http://culture.ifeng.com/huodong/special/2012nuobeierwenxuejiang/content-4/detail_2012_10/11/18190867_0.shtml?_from_ralated  |archivedate= 2012年10月25日 |language =zh-cn}}</ref>}}
+
+中共官方报刊《[[人民日报]]》专文《将“诺贝尔文学奖”授予高行健严重伤害了中国人民的感情》：{{quote|瑞典文学院是一贯反动、一贯敌视红色政权、一贯敌视中国人民的彻头彻尾的反动组织。<ref>{{cite journal | language =zh-cn | author = | title =《将“诺贝尔文学奖”授予高行健严重伤害了中国人民的感情》| journal =《人民日报》 | volume = | year = 2010年 | pages = | issn = CN 11-0065}}</ref><ref>{{cite web |url=http://www.people.com.cn/GB/guandian/183/8135/8136/20001019/728165.html |title= 2000年诺贝尔文学奖违背了诺贝尔遗嘱|accessdate=2000年10月19日 |publisher=人民网 |work=  |archiveurl=http://www.people.com.cn/GB/guandian/183/8135/8136/20001019/728165.html |archivedate=2012年10月25日|language =zh-cn}}</ref>}}
+
+== 媒体报道 ==
+中国大陆的各大网站[[新浪]]、[[搜狐]]、[[网易]]和[[腾讯]]等开始都有专文，但是随后遭到政府压力被迫删除，而[[香港]]、[[台湾]]、[[新加坡]]、[[马来西亚]]的华文媒体都以头条报道，文字报道难以计数。<ref>{{cite web |url=http://www.zaobao.com/special/newspapers/2000/pages5/zb181000.html |title=高行健与诺贝尔文学奖 |accessdate=2000 |publisher=联合早报网 |work=|archiveurl= http://www.zaobao.com/special/newspapers/2000/pages5/zb181000.html|archivedate= 2012年10月25日   |language =zh-cn}}</ref>
+
+==参考文献==
+{{reflist}}
+
+== 外部连接 ==
+{{诺贝尔文学奖获得者}}
+
+[[Category:诺贝尔文学奖]]
+[[Category:2000年10月]]
+[[File:RAN 01.jpg|thumb|250px|俄羅斯科學院位於莫斯科的總部。]]
+[[File:Kunstkamera (Saint-Petersburg).jpg|thumb|250px|位於[[聖彼得堡]]的原始總部。]]
+
+'''俄羅斯科學院'''（{{lang-ru|Росси́йская Акаде́мия Нау́к}}，俄文縮寫'''PAH'''）是[[俄羅斯]]的國家學術機構。是一個公共且非營利組織，也是世界上重要研究機構之一。1724年由[[彼得一世]]建立，称彼得堡科学院，十月革命后改用苏联科学院，1934年迁至現今的總部，位於[[莫斯科]]。蘇聯解體後改為現名至今。
+
+==学院相关的诺贝尔奖获得者==
+{{Div col|2}}
+* [[巴甫洛夫]] 诺贝尔生理学或医学奖 1904年
+* [[埃黎耶·埃黎赫·梅契尼可夫]] 诺贝尔生理学或医学奖 1908年
+* [[伊万·蒲宁]] 诺贝尔文学奖 1933年
+* [[尼古拉·尼古拉耶维奇·谢苗诺夫]] 诺贝尔化学奖 1956年
+* [[伊戈尔·叶夫根耶维奇·塔姆]] 诺贝尔物理学奖 1958年
+* [[伊利亚·米哈伊洛维奇·弗兰克]] 诺贝尔物理学奖 1958年
+* [[帕维尔·阿列克谢耶维奇·切连科夫]] 诺贝尔物理学奖 1958年
+* [[朗道]] 诺贝尔物理学奖 1962年
+* [[尼古拉·根纳季耶维奇·巴索夫]] 诺贝尔物理学奖 1964年
+* [[亚历山大·米哈伊洛维奇·普罗霍罗夫]] 诺贝尔物理学奖 1964年
+* [[米哈伊尔·亚历山大罗维奇·肖洛霍夫]] 诺贝尔文学奖 1965年
+* [[亚历山大·伊萨耶维奇·索尔仁尼琴]] 诺贝尔文学奖 1970年
+* [[列昂尼德·维塔利耶维奇·坎托罗维奇]] 诺贝尔经济学奖 1975年
+* [[安德烈·德米特里耶维奇·萨哈罗夫]] 诺贝尔和平奖 1975年
+* [[彼得·列昂尼多维奇·卡皮察]] 诺贝尔物理学奖 1978年
+* [[若列斯·伊万诺维奇·阿尔费罗夫]] 诺贝尔物理学奖 2000年
+* [[阿列克谢·阿列克谢耶维奇·阿布里科索夫]] 诺贝尔物理学奖 2003年
+* [[维塔利·拉扎列维奇·金兹堡]] 诺贝尔物理学奖 2003年
+* 
+{{Div col end}}
+
+== 外部連結 ==
+{{Commonscat|Russian Academy of Sciences}}
+* [http://www.ras.ru/ RAS web site]
+* [http://www.pran.ru/ Web site of RAS management]
+* [http://www.rssi.ru/ Russian Space Science Internet Network]
+* [http://maps.google.com/maps?q=moscow&ll=55.710782,37.577308&spn=0.001160,0.003404&t=k&hl=en Satellite photo of the RAS com.chnpmy.Main Building]
+* [http://maps.google.com/maps?ll=55.720512,37.593455&spn=0.001160,0.003404&t=k&hl=en Satellite photo of the RAS Old Building]
+
+[[Category:俄羅斯科學院|*]]
+[[Category:莫斯科|R]]
+[[Category:17世紀建立|R]]
+{{unreferenced|time=2012-10-12T02:55:31+00:00}}
+《'''白狗秋千架'''》是[[诺贝尔文学奖]]得主[[莫言]]创作的短篇小说，《白狗秋千架》2003年被导演[[霍建起]]改编成电影《[[暖]]》并获得第十六届[[东京国际电影节]]最佳影片金麒麟奖。
+
+{{莫言作品}}
+[[分类:莫言小说]]
+
+{{小说小作品}}
+{{Navbox
+| name       = 诺贝尔文学奖获得者 (1901年－1925年)
+| title      = [[诺贝尔文学奖]]获得者（1901年－1925年）
+| titlestyle = background: #d3d3d3;
+| belowstyle = background: transparent; border-top: 1px solid #C0C0C0;
+| list1 = <div> 
+1901年：[[蘇利·普呂多姆|普呂多姆]] {{!}}
+1902年：[[特奧多爾·蒙森|蒙森]] {{!}}
+1903年：[[比约恩斯彻纳·比昂松|比昂松]] {{!}}
+1904年：[[弗雷德里克·米斯特拉尔|米斯特拉尔]]、[[何塞·埃切加賴|埃切加賴]] {{!}}
+1905年：[[亨利克·顯克微支|顯克微支]] {{!}}
+1906年：[[喬祖埃·卡爾杜齊|卡爾杜齊]] {{!}}
+1907年：[[魯德亞德·吉卜林|吉卜林]] {{!}}
+1908年：[[倭铿]] {{!}}
+1909年：[[塞爾瑪·拉格洛夫|拉格洛夫]] {{!}}
+1910年：[[保罗·海泽|海泽]] {{!}}
+1911年：[[莫里斯·梅特林克|梅特林克]] {{!}}
+1912年：[[格哈特·霍普特曼|霍普特曼]] {{!}}
+1913年：[[罗宾德拉纳特·泰戈尔|泰戈爾]] {{!}}
+1915年：[[羅曼·羅蘭|羅曼羅蘭]] {{!}}
+1916年：[[维尔纳·冯·海登斯坦|海登斯坦]] {{!}}
+1917年：[[卡尔·阿道夫·盖勒鲁普|盖勒鲁普]]、[[亨利克·蓬托皮丹|蓬托皮丹]] {{!}}
+1919年：[[卡尔·施皮特勒|施皮特勒]] {{!}}
+1920年：[[克努特·漢姆生|漢姆生]] {{!}}
+1921年：[[阿納托爾·法郎士|法郎士]] {{!}}
+1922年：[[哈辛托·贝纳文特|贝纳文特]] {{!}}
+1923年：[[威廉·巴特勒·葉芝|葉芝]] {{!}}
+1924年：[[瓦迪斯瓦夫·雷蒙特|雷蒙特]] {{!}}
+1925年：[[蕭伯納|蕭伯納]]
+</div>
+|below = [[:Template:诺贝尔文学奖获得者|完全列表]] {{!}} [[:Template:诺贝尔文学奖获得者 (1901年－1925年)|'''1901年－1925年''']] {{!}} [[:Template:诺贝尔文学奖获得者 (1926年－1950年)|1926年－1950年]] {{!}} [[:Template:诺贝尔文学奖获得者 (1951年－1975年)|1951年－1975年]] {{!}} [[:Template:诺贝尔文学奖获得者 (1976年－2000年)|1976年－2000年]] {{!}} [[:Template:诺贝尔文学奖获得者 (2001年－2025年)|2001年－]]</div>
+}}<noinclude>
+[[Category:诺贝尔奖模板|文学]]
+</noinclude>

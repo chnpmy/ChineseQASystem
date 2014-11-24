@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">埃菲尔铁塔的结构使用了多少公吨的熟铁？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="921652" start="0">
+  <doc>
+    <str name="id">4023047</str>
+    <str name="text">{{Featurepic/format
+| Image = Louis-Emile Durandelle, The Eiffel Tower - State of the Construction, 1888.jpg
+| Legend = 建造中的埃菲尔铁塔
+| Content = '''[[艾菲爾鐵塔]]'''是位在[[法國]][[巴黎]][[戰神廣場_(巴黎)|戰神廣場]]的鐵製{{link-en|镂空塔|Lattice tower}}，世界著名建筑，也是法国文化象征，巴黎城市地标之一，巴黎最高建筑物，得名自其设计师[[居斯塔夫·埃菲尔]]，属于世界[[建筑史]]上的技术杰作。艾菲爾鐵塔也是世界上最多人付費參觀的名勝古跡，2011年約有698萬人參觀，在2010年累計參觀人數已超過二億五千萬人。埃菲尔铁塔從1887年1月27日起建，分為三樓，分别在离地面57.6米、115.7米和276.1米处，其中一、二樓設有餐廳，第三樓建有觀景台，从塔座到塔顶共有1711级阶梯，共用去钢铁7000[[吨]]，12000个金属部件，250万只铆钉，模仿人體的骨頭為建，極為壯觀属于镂空结构[[铁塔]]，高300米，天線高24米，總高324米。图为建造中的埃菲尔铁塔，拍摄于1888年11月23日。
+}}</str>
+    <str name="title">Wikipedia:每日图片/2014年7月16日</str>
+    <str name="titleText">Wikipedia:每日图片/2014年7月16日</str>
+    <str name="user">Mywood</str>
+    <int name="userId">173634</int>
+    <int name="revision">31692504</int>
+    <date name="timestamp">2014-06-24T09:44:38Z</date>
+    <long name="_version_">1484749486609661953</long></doc>
+  <doc>
+    <str name="id">3393931</str>
+    <str name="text">[[File:Reflet-tour-Eiffel-Paris-Luc-Viatour.jpg|left|180px]]
+'''[[埃菲尔铁塔]]'''，世界著名建筑，法国象征之一，巴黎城市地标之一，巴黎最高建筑物，得名於设计师[[居斯塔夫·埃菲尔]]，属于世界[[建筑史]]上的技术杰作。埃菲尔铁塔從1887年1月26日起建，分為三樓，分别在离地面57.6米、115.7米和276.1米处，从塔座到塔顶共有1711级阶梯，模仿人體的骨頭為建，極為壯觀属于镂空结构[[铁塔]]，高300米，天線高24米，總高324米。图为埃菲尔铁塔在水坑里的反射。</str>
+    <str name="title">Wikipedia:每日图片/2013年4月20日</str>
+    <str name="titleText">Wikipedia:每日图片/2013年4月20日</str>
+    <str name="user">Mywood</str>
+    <int name="userId">173634</int>
+    <int name="revision">25931532</int>
+    <date name="timestamp">2013-03-25T06:44:42Z</date>
+    <long name="_version_">1484749358574338052</long></doc>
+  <doc>
+    <str name="id">20125</str>
+    <str name="text">{{noteTA
+|T=zh-cn:埃菲尔铁塔; zh-tw:艾菲爾鐵塔; zh-hk:巴黎鐵塔;
+|1=zh-cn:埃菲尔铁塔; zh-tw:艾菲爾鐵塔; zh-hk:巴黎鐵塔;
+|2=zh-tw:艾菲爾;zh-hk:艾菲爾;zh-cn:埃菲尔;
+}}
+{{Infobox building
+|name               = 埃菲尔铁塔 &lt;br&gt;'''La Tour Eiffel'''
+|native_name        = 
+|native_name_lang   = fr
+|image              = Eiffel Tower from north Avenue de New York, Aug 2010.jpg
+|image_size         = 200px
+|caption            = 
+|highest_start      = 1889
+|highest_end        = 1930
+|location           = {{FRA}}[[巴黎]][[戰神廣場 (巴黎)|战神广场]]
+|latd               = 48.8583
+|longd              = 2.2945
+|iso_region         = FR-75
+|coordinates_display= title
+|start_date         = 1887年1月27日
+|completion_date    = 1889年4月25日
+|opened_date        = 1889年3月31日
+|building_type      = [[观光]][[塔]]&lt;br /&gt;[[广播]][[塔]]
+|antenna_spire      = {{convert|324.00|m|ft|0|abbr=on}}
+|roof               = {{convert|300.65|m|ft|0|abbr=on}}
+|top_floor          = {{convert|273.00|m|ft|0|abbr=on}}
+|floor_count        = 3
+|elevator_count     = 9
+|cost               = 
+|floor_area         = 
+|architect          = [[居斯塔夫·埃菲尔]]&lt;br /&gt; Stephen Sauvestre
+|structural_engineer= Maurice Koechlin&lt;br /&gt; Émile Nouguier
+|main_contractor    = [[居斯塔夫·埃菲尔]]
+|developer          = 
+|owner              = {{FRA}}[[巴黎|巴黎市]] （100%）
+|management         = 
+|references         =&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/chiffres/page/identite.html?id=4_14 |title=Identity card of the Eiffel Tower |language=en |publisher=Tour-eiffel.fr |date=31 December 2009 |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/dossiers/index.html?id=4_12 |title=The documents |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/structure/page/structure.html?id=4_13 |title=The structure of the Eiffel Tower and its evolution |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/structure/page/chronologie.html |title=Chronology of the main construction periods |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/structure/page/chiffres.html |title=A few statistics |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/structure/page/lexique.html |title=Dictionary of technical terms |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{en}} http://www.tour-eiffel.fr/teiffel/uk/documentation/pdf/about_the%20Eiffel_Tower.pdf?id=4_11&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/chiffres/page/entreprise.html |title=The Tower operating company |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tour-eiffel.fr/teiffel/uk/documentation/chiffres/page/usine.html |title=The industrial maintenance of the Tower |language=en |publisher=Tour-eiffel.fr |accessdate=24 May 2010}}&lt;/ref&gt;
+}}
+{{Location map
+ |Paris
+ |label=艾菲爾鐵塔
+ |lat_deg=48|lat_min=51|lat_sec=29.88
+ |lon_deg=2|lon_min=17|lon_sec=40.2
+ |position=right
+ |width=250
+ |float=right
+ |caption=艾菲爾鐵塔在巴黎的位置
+}}
+'''艾菲爾鐵塔'''（{{lang-fr|La Tour Eiffel}}，也常稱為'''-{zh-tw:巴黎鐵塔;zh-cn:巴黎铁塔;zh-hk:艾菲爾鐵塔;}-'''）是位在[[法國]][[巴黎]][[戰神廣場_(巴黎)|戰神廣場]]的鐵製{{link-en|镂空塔|Lattice tower}}，世界著名建筑，也是法国{{link-en|文化象征|Cultural_icon}}之一&lt;ref name=things_to_remember&gt;{{cite web|url=http://www.tour-eiffel.fr/en/everything-about-the-tower/the-eiffel-tower-at-a-glance.html|title=The Eiffel Tower at a glance-Things to Remember|publisher=SETE (Official Tour Eiffel website)|accessdate = 1 January 2014}}&lt;/ref&gt;，巴黎城市地标之一，巴黎最高建筑物，得名自其设计师[[居斯塔夫·埃菲尔]]，属于世界[[建筑史]]上的技术杰作。艾菲爾鐵塔也是世界上最多人付費參觀的名勝古跡，2011年約有698萬人參觀&lt;ref name=Key_figures&gt;{{cite web|url=http://www.tour-eiffel.fr/en/everything-about-the-tower/the-eiffel-tower-at-a-glance.html|title=The Eiffel Tower at a glance-Key Figures|publisher=SETE (Official Tour Eiffel website)|accessdate=1 January 2014}}&lt;/ref&gt;，在2010年累計參觀人數已超過二億五千萬人&lt;ref name=Key_figures/&gt;。
+
+== 簡介 ==
+埃菲尔铁塔從1887年1月27日起建，分為三樓，分别在离地面57.6米、115.7米和276.1米处，其中一、二樓設有餐廳，第三樓建有觀景台，从塔座到塔顶共有1,711级阶梯，共用去钢铁7,000[[吨]]，12,000个金属部件，250万只铆钉，模仿人體的骨頭為建，極為壯觀属于镂空结构[[铁塔]]，高300米，天線高24米，總高324米。
+
+1889年5月15日，为给[[世界博览会]]开幕典禮剪彩，铁塔的设计师居斯塔夫·埃菲尔亲手将[[法国]]国旗升上铁塔的300米高空，由此，人们为了纪念他对法国和[[巴黎]]的这一贡献，特别还在塔下为他塑造了一座半身铜像。
+
+直到2004年1月16日，为申办2012年夏季[[奥运会]]，法国巴黎[[市政府]]特意在埃菲尔铁塔上介绍了其为申奥所做出的准备情况，而埃菲尔铁塔更成为了该国申奥的“天然[[广告]]”。
+
+这个为了世界博览会而落成的金属建筑，曾经保持世界最高建筑45年，直到纽约[[克萊斯勒大樓]]的出现。
+
+艾菲爾鐵塔由250万个铆钉连接固定。於塔的四个面上共刻有72个[[法国]][[埃菲尔铁塔上所刻的72人列表|科学家、工程师与其他知名人士的名字]]，[[居斯塔夫·埃菲尔]]以此来铭记他们做出的贡献。&lt;ref&gt;[http://www.tour-eiffel.fr/teiffel/uk/documentation/dossiers/page/savants.html The 72 scientists]. Eiffel Tower official website. Accessed 2008-01-31.&lt;/ref&gt;。
+
+战神广场的另一端有和平门和和平碑，上面用不同的文字写着「和平」，表达了人们美好的愿望。
+
+==設計==
+===材料===
+[[Image:Sous la Tour Eiffel 1.jpg|thumb|從下方看的艾菲爾鐵塔]]
+艾菲爾鐵塔的結構使用了{{Formatnum:7300}}公噸的[[熟鐵]]，若包括非金屬的部份共計約{{Formatnum:10000}}公噸。假設金屬的密度是每立方公尺7.8公噸，將結構用的鐵熔化後，舖在邊長125公尺的正方形中，鐵的厚度只有約6公分，可見使用材料的節省。因為鐵會[[热胀冷缩]]，使得艾菲爾鐵塔的形狀會略為變化，靠近太陽一側的鐵會因為受熱而膨胀，塔頂最多會往遠離太陽的方向移動18公分。
+
+==風阻的考量==
+當許多人訝異於艾菲爾鐵塔大膽的造型時，也有人認為艾菲爾只是在設計一個藝術品，而沒有考慮其工程面。艾菲爾以及他團隊中有經驗的橋樑工程師了解風力對這類結構的影響，也知道若要建世界上最高的鐵塔，一定要確定結構受到的風力是在可承受範圍內。艾菲爾在1887年2月14日接受法國的《{{link-en|時報 (法國)|Le Temps (Paris)|時報}}》訪問時提到&lt;ref name= debate&gt;{{cite web|url=
+http://www.tour-eiffel.fr/en/everything-about-the-tower/themed-files/71.html|title=Debate and Controversy Surrounding the Eiffel Tower|publisher=SETE (Official tour Eiffel website)|accessdate=2 January 2013}}&lt;/ref&gt;：
+
+{{quote|當我在設計艾菲爾鐵塔時，主要會考慮哪一種現象？是[[風阻]]。因此我依照精細的數學計算來設計鐵塔四隻腳的曲率……會帶來力量和美感的印象，會讓觀察者感受到整體的氣魄}}
+
+艾菲爾依照實證及繪圖的方式考慮風的影響，而不是利用某特定的數學公式計算。塔的曲線大致呈指數的形式，嚴格來說是兩段指數曲線。底下的部份為了確保可以抵抗風力，特別設計有較高的強度。最近幾年有許多數學的解譯說明其設計的成功，包括有一篇用非線性積分方程描述塔上任一點的壓力和結構張力的平衡&lt;ref name="sciencedaily2005"&gt;{{cite web|url=http://www.sciencedaily.com/releases/2005/01/050106111209.htm |title=Elegant Shape Of Eiffel Tower Solved Mathematically By University Of Colorado Professor |publisher=Science Daily |date=7 January 2005 |accessdate=24 May 2010}}&lt;/ref&gt;。艾菲爾鐵塔受到風吹時，只會晃動6至7公分。
+
+== 旅遊資訊 ==
+距離艾菲爾鐵塔最近的[[巴黎地鐵]]車站是{{link-fr|Bir-Hakeim|Bir-Hakeim (métro de Paris)}}，最近的[[區域快鐵]]車站是{{link-fr|阿爾瑪橋站|Gare du Pont de l'Alma}}。艾菲爾鐵塔位在[[耶拿桥]]和[[布朗利河岸博物館]]的附近。
+
+徒步登塔可以上第一层和第二层，費用為5欧元，坐缆车上第一层和第二层9欧元，最顶尖15.00欧元（價格至2014年9月24日) 在此可以放眼巴黎全城。
+但是由於觀光客眾多排隊時間長，需預留多一點時間；也曾有遊客批評相關的旅遊配套措施配不上享譽世界的知名度，譬如塔頂居然没提供任何望遠鏡服務。
+
+==圖片版權主張==
+艾菲爾鐵塔及其呈現方式已經進入了[[公共領域]]，不過在1990年6月時法國的法院裁定1989年為慶祝艾菲爾鐵塔一百週年的特殊燈光照明屬於「原創的視覺藝術創造」，受到版權的保護。法國的[[翻案法院　(法国)|翻案法院]]在1992年3月維持此項裁定&lt;ref&gt;[http://www.lexeek.com/jus-luminum/decision-cass-03-03-1992,523975.htm Cass. 1re civ.], 3 March 1992, ''RIDA'' 1994 no. 159, p.113.&lt;/ref&gt;{{dead link|date=June 2013}}。{{link-en|艾菲爾鐵塔營運管理公司|The Société d'exploitation de la tour Eiffel}}（SETE）現在認為艾菲爾鐵塔的所有照明都有版權&lt;ref&gt;{{cite web|url=http://www.eiffel-tower.com/the-eiffel-tower-image-and-brand/image-rights-the-eiffel-tower-brand.html|publisher=SETE (official ''Tour Eiffel'' website |title=Image rights - the Eiffel Tower brand |deadurl=no |accessdate=3 January 2014}}&lt;/ref&gt;。而艾菲爾鐵塔照片是艾菲爾鐵塔的[[衍生作品]]，因此需經法國及一些其他國家允許，才能出版有當代艾菲爾鐵塔夜間照片的攝影集，否則是不合法的。
+
+上述版權的主張一直有爭議。新艾菲尔铁塔开发公司（SNTE）的董事Stéphane Dieu在2005年1月表示「這只是一種管理此類影像應用在商業上的方式，因此影像就不會以我們不許可的方式使用。」不過這也可能用來禁止有艾菲爾鐵塔夜間照片的旅遊圖書出版&lt;ref&gt;{{cite web |url=http://blog.fastcompany.com/archives/2005/02/02/eiffel_tower_repossessed.html |title=Eiffel Tower: Repossessed |publisher=Blog.fastcompany.com |date=2 February 2005 |accessdate=24 May 2010}}&lt;/ref&gt;，也阻礙了有關塔的影像在非營利性和半商業性的應用。{{link-en|公共空間全景照自由|Freedom of panorama}}是指在拍攝公共空間的全景照時，若拍攝到有版權的藝術作品，不受衍生作品的版權限制，艾菲爾鐵塔的夜間照片是說明公共空間全景照和版權作品衝突的主要案例之一&lt;ref&gt;{{cite journal lua
+|author= Bryce Clayton Newell
+|year= 2011 
+|title= Freedom of Panorama A Comparative Look at International Restrictions on Public Photography
+|journal= Creighton Law Review
+|pages= p.412
+|url=http://www.academia.edu/537550/Freedom_of_Panorama_A_Comparative_Look_at_International_Restrictions_on_Public_Photography
+|accessdate= 2014-01-25}}&lt;/ref&gt;。
+
+依照法國的學說和判例傳統，若一個有版權的作品只是偶爾的在圖片中出現，或是是主要呈現物體的一部份，是可以接受的&lt;ref&gt;''E.g.'', "La représentation d'une œuvre située dans un lieu public n'est licite que lorsqu'elle est accessoire par rapport au sujet principal représenté ou traité"; Cass. 1re civ. 4 juillet 1995. Christophe Caron, ''Droit d'auteur et droits voisins'', Litec, 2006, §365.&lt;/ref&gt;。依照法律中類似的{{link-en|微量允许|de minimis}}原則，SETE不會對包括艾菲尔铁塔及其燈光的巴黎公共空間全景照片主張版權。
+
+==圖片集==
+&lt;gallery&gt;
+File:Eiffel Tower from Champ de Mars.jpg|自戰神廣場仰望的艾菲爾鐵塔
+File:La Tour Eiffel.jpg|白天的艾菲爾鐵塔全景
+File:Tour eiffel at sunrise from the trocadero.jpg|日出的艾菲爾鐵塔
+File:Paris - Eiffelturm und Marsfeld2.jpg|從[[蒙帕納斯大樓]]望向位於西北面的艾菲爾鐵塔
+File:Tour_Eiffel,_July_1888.jpg|1888年7月興建中的艾菲爾鐵塔
+File:Tour Eiffel IMG 2159.JPG|日落夕陽的艾菲爾鐵塔
+File:Tour Eiffel Citroen.jpg|艾菲爾鐵塔的[[雪鐵龍]]廣告
+File:Gustave Eiffel Monument.jpg|艾菲爾鐵塔設計師雕像
+File:Torre Eiffel in sand.JPG|艾菲爾鐵塔的沙雕
+File:Eiffel Tower Keychain.jpg|艾菲爾鐵塔鑰匙圈
+&lt;/gallery&gt;
+
+== 文化标志 ==
+
+埃菲尔铁塔作为法兰西文化里的标志性传世佳作之一，广泛见之于许多书籍、文艺、美术、装饰品等。
+
+== 流行文化 ==
+*2009年動作電影《[[特種部隊：眼鏡蛇的崛起]]》白幽靈（[[李秉憲]]飾演）持[[生物武器]]奈米蟲彈頭，朝艾菲爾鐵塔發射，最後公爵把奈米蟲關掉，但還是倒塌了。
+2014年跑酷動作遊戲，由UBSOFT遊戲公司開發，刺客系列遊戲&lt;&lt;刺客教條:大革命&gt;&gt;遊戲內經典場景
+
+==仿製品==
+[[Image:Paris hotel (Las Vegas)1.JPG|thumb|[[美國]][[內華達州]][[巴黎酒店]]的仿製品]]
+{{Main|艾菲爾鐵塔仿製品列表}}
+由於艾菲爾鐵塔的知名度，世界上已出現三十座類似艾菲爾鐵塔的建築，其中包括東京的[[東京鐵塔]]、[[柏林]]的[[柏林無線電塔]]等，其中最高的是在[[哈爾濱]]的[[龍塔]]，高336公尺。另外在美國[[德克薩斯州]]及[[田納西州]]都有名為「巴黎」的地區，而兩地也都有名為艾菲爾鐵塔的縮小版鐵塔。
+
+== 相關條目 ==
+* [[埃菲尔铁塔上所刻的72人列表]]
+* [[建筑设计]]
+* [[城市规划]]
+* [[法国地理]]
+* [[巴黎凯旋门|凯旋门]]
+* [[東京鐵塔]]
+
+== 参考文献 ==
+{{Reflist}}
+
+== 外部链接 ==
+{{Commonscat|Tour Eiffel|艾菲爾鐵塔}}
+* [http://www.paris-live.com 埃菲尔铁塔Webcam]  	 
+* [http://zsmith.net 埃菲尔铁塔录像]
+* [http://myeiffeltower.com Eiffel Tower] 簡單的故事驚人的艾菲爾鐵塔
+{{S-start}}
+{{S-ach|rec}}
+{{Succession box
+| before=[[華盛頓紀念碑]]
+| title=[[世界高塔列表|世界最高的塔]]
+| years=1889—1931&lt;br /&gt;&lt;small&gt;300.24m&lt;/small&gt;
+| after=[[克萊斯勒大廈]]
+}}
+{{S-end}}
+
+{{巴黎名胜}}
+
+{{DEFAULTSORT:Eiffel, Tour}}
+[[Category:巴黎第七区]]
+[[Category:巴黎建筑物]]
+[[Category:法国建筑]]
+[[Category:巴黎地標]]
+[[Category:法国塔式建筑]]
+[[Category:国际土木工程历史古迹]]
+[[Category:法国观光地]]
+[[Category:巴黎旅游]]
+[[Category:法国旅游]]
+[[Category:欧洲旅游]]
+[[Category:法国之最]]
+[[Category:世界之最]]
+[[Category:法国的世界之最]]
+[[Category:大众文化]]
+
+
+{{Link FA|nn}}</str>
+    <str name="title">艾菲爾鐵塔</str>
+    <str name="titleText">艾菲爾鐵塔</str>
+    <int name="revision">33186276</int>
+    <date name="timestamp">2014-11-04T23:53:47Z</date>
+    <long name="_version_">1484748540647309312</long></doc>
+  <doc>
+    <str name="id">1009414</str>
+    <str name="text">[[file:363815.jpg|thumb|right|V60型机车]]
+[[德国铁路]]V60系列[[内燃机车]]主要被用于调车作业，有事亦可牵引轻量列车。该型机车总共生产了942辆，在德国铁路中已属于很高的产量了。
+
+==历史==
+有一段时间德国联邦铁路曾面临调车机车短缺的问题。为此，在1951年几乎所有的德国机车制造厂商都参与到了新型调车机车的研制当中。这一大规模动作的结果就是V60型。1955年，最初一批样车（V 60 001–004）问世，这4辆车装载的是4种不同的引擎。在当年的晚些时候，生产就开始了，量产型搭载的是[[迈巴赫]]的GTO 6或GTO 6A型发动机。在这些车辆中，有一些的尺寸要更大一些，而且较之一般该型机车48.3-49.5吨的重量，这些车辆的重量达到53吨。这些车可以牵引更大的重量，但是在编号上仍然称为V60.V60型总共生产了942辆。1968年，V60型机车也像所有德国机车一样改变了编号，轻一些的称为260型，53吨中的称为261型。
+
+==技术==
+V60型长10.5米，最高速度60km/h，使用全焊接结构。它的传动系统被设置在驾驶室下方，也就是说并不在车辆的中心。在机车的前端安置的是发动机和冷却系统；在后端则有刹车装置、主风缸、燃油系统以及油箱。该机车搭载的迈巴赫GT06柴油发动机可以输出478 kW 的功率。这种发动机是由G05型发动机演变过来的，后者自1932年起就在包括“飞翔的汉堡人”在内的轨道车上使用。该型机车使用液力传动装置，三轴。这种结构在先前的V36型机车上就用过。
+
+这种机车的发动机在开机之前必须预热。最早的型号使用燃油炉，而后来则改用电力预热。该型机车使用空气刹车，并在第三轴上有一个辅助刹车。
+
+==运用==
+[[File:Uelzen 261 651-4 1984-03-28.jpg|thumb|right|261型，1984年]]
+
+这种机车虽然主要用于调车，但也可以用来牵引列车。在V60型服役25年后的1982年，德铁测试了一系列新型调车机车，名为259型，以替代V60型。然而有关部门在各种设计之间犹豫不决，于是德铁在之后的几年采取了各种方法来提高在役V60型的经济性。1986年，V60型被定义为小型机车。从此260型改称360型，261型改称361型。这样一来，铁路就可以在V60身上省下一大笔钱，因为驾驶小型机车只需小型机车操作员而非机车驾驶员，前者的培训费用要比后者少很多。而后，一些车辆上安装了无线控制系统，这样一来，这些机车甚至可以遥控操作。这些安装无线电控制装置的车被改称为364型（轻）和365型（重），而后，唯一的一辆364型也改称365 700号。
+
+从1997年起，365型的迈巴赫发动机被逐渐替换成Caterpillar制造的功率465KW的十二缸发动机，这些车辆被改名为362、363型。2001年又有一辆V60系列机车安装了8缸天然气发动机，并在[[慕尼黑]]地区进行试验，这一种机车被编号为760型。
+
+在德铁的942辆V60系列当中，多数机车都还在使用。没有加装无线电系统的车辆到2003年已基本退役，而改装过的400辆至2004年仍在德铁服务。有一部分V60系列机车被卖给了私人公司以及土耳其、南斯拉夫和挪威。在希腊、比利时甚至以色列也有一些相同或类似的机车，这些机车有的是从德国购买的，也有一些是利用许可证生产的。
+
+有一些退役的V60型机车被博物馆收藏。其中，[[纽伦堡]]交通博物馆收藏的V 60 150 号博物馆机车在大火中被毁。
+
+{{德国联邦铁路机车车辆|d}}
+{{德国铁路机车车辆}}
+
+{{DEFAULTSORT:DB-Baureihe V 060}}
+[[Category:德国联邦铁路柴油机车]]
+[[Category:基尔机械制铁路机车]]
+[[Category:克虏伯制铁路机车]]
+[[Category:亨舍尔制铁路机车]]
+[[Category:克劳斯-玛菲制铁路机车]]
+[[Category:阿诺德·容格制铁路机车]]
+[[Category:道依茨制铁路机车]]</str>
+    <str name="title">德国联邦铁路V60型柴油机车</str>
+    <str name="titleText">德国联邦铁路V60型柴油机车</str>
+    <str name="user">慕尼黑啤酒</str>
+    <int name="userId">501267</int>
+    <int name="revision">30710148</int>
+    <date name="timestamp">2014-03-16T05:23:30Z</date>
+    <long name="_version_">1484748856520343552</long></doc>
+  <doc>
+    <str name="id">3764118</str>
+    <str name="text">{{Infobox Locomotive
+|name=德国国营铁路E11型/211型电力机车&lt;br&gt;德国铁路109型电力机车
+|powertype=[[电力机车]]
+|image=DR Baureihe E11 2.jpg
+|caption= 211 001号原型机于菲尔特（2007年）
+|totalproduction=96
+|builddate=1961–1963，1970–1976
+|retiredate=1990年代
+|builder={{link-de|黑尼格斯多夫电力机车厂|Lokomotivbau Elektrotechnische Werke Hans Beimler Hennigsdorf}}
+|uicclass=Bo'Bo'
+|axleload=20吨
+|topspeed=120公里/小时
+|gauge={{RailGauge|sg|al=on|allk=on}}
+|length=16,260毫米
+|weight=82.5公吨
+|tractionmotors=4台
+|poweroutput=2,740千瓦（持续）&lt;br&gt;2,920千瓦（每小时）
+|tractiveeffort=216千牛
+|electricsystem=15千伏16⅔赫兹[[交流电]]
+|collectionmethod=[[高架电缆]] 
+}}
+'''德国国营铁路E11型电力机车'''（{{lang-de|'''DR-Baureihe E 11'''，自1970年起使用'''211型'''，并入[[德国铁路]]后使用'''109型'''}}）是[[德国国营铁路]]在[[民主德国]]开发的首款[[电力机车]]。这些机车被通俗的称为“木辊”（{{lang|de|Holzroller}}）。
+
+==历史==
+[[File:Weimar 211 001.JPG|thumb|left|211 001号机车前脸]]
+E11型电机机车是[[德国国营铁路]]在因[[冷战]]而无法获得[[德国联邦铁路E10型电力机车]]和[[德国联邦铁路E40型电力机车|E40型电力机车]]的授权生产许可后，进而根据{{link-de|黑尼格斯多夫汉斯·拜姆勒电力机车厂|Lokomotivbau Elektrotechnische Werke Hans Beimler Hennigsdorf}}于1961年交付的两台[[原型 (工程)|原型机]]（E11 001及002号）进行测试，并自1962年起大量采购的一款[[Bo-Bo]]轴式[[电力机车]]。共有96台同型机车为满足货运及客运需求而生产，主要使用在德国国营铁路新开通的[[电气化铁路]]中的[[快速列车 (德国)|快速列车]]服务。它们最初分别配属[[莱比锡]]、[[哈勒]]和[[魏森费尔斯]]的[[车辆段]]，也曾在短期内配属于[[比特费尔德]]和[[茨维考]]。在生产期间，机车发生了许多设计变动，其中一些在外观上也有极大的改变。E11 001和002号的侧壁两边各有4个横向双通风格栅，而自E11 003号起，通风格栅是垂直排列的。自211 043号起，由于较长的交付间隔，后续交付的机车都采用了基于[[E42型机车]]的外观造型。主车架的饰边和缓冲器下方的排障器壁板被取消，侧壁两边的4个双通风格栅也被6个简单设计的格栅所取代。自211 057号起，对缝焊接的缓冲器和标准化的牵引箱被安装在自动[[铁路连接器|连接器]]之中，因此，它们的缓冲器间距也少许加长。机车在最初采用的是[[德意志国铁路]]经典的电力机车涂装：[[墨绿色]]的车身、[[黑色]]的车架和[[红色]]的[[转向架]]。在1970年代进行了一些色彩方面的探索后，它们又开始转为采用不含转向架的酒红色涂装，但配以一条[[象牙]]色的装饰线和[[灰色]]的转向架。这些涂装变化也同时发生在242型机车之中&lt;ref&gt;{{de}}{{cite web|url=http://www.br142.de/index.php?nav=1407850&amp;lang=1|title=Baureihe E 11 - Entwicklung|work=Daniel Berg |accessdate=2013-12-19}}&lt;/ref&gt;。
+
+伴随着600吨的{{link-de|牵引载荷|Anhängelast}}（在平面上）可以达到120公里/小时的最高速度，以及82.5吨的整备重量，使得211型机车能够完全满足东德的[[铁路运输]]要求。它同时还可以：
+* 牵引565吨重的快速列车在千分之五的坡度上达到120公里/小时
+* 牵引590吨重的快速列车在千分之十的坡度上达到100公里/小时
+* 牵引1,700吨重的货运列车在在平面上达到80公里/小时
+
+为[[短途客运]]和{{link-de|货运|Güterverkehr}}专门定制的E11型姊妹车型是E42型机车，后者采用了不同的齿轮传动比，最高速度仅为100公里/小时，但具备较高的[[牵引力]]以及相匹配的[[煞車|制动]]系统。用于电压制式为25千伏50赫兹的{{link-de|吕伯兰铁路|Rübelandbahn}}的六轴机车[[E251型]]也是根据E11型和E42型的外观而造。
+
+==设计特点==
+[[File:211 001 Luetzel 03042010.JPG|thumb|left|211 001号馆藏机车在{{link-de|科布伦茨德国铁路博物馆|DB Museum Koblenz}}进行展示运行]]
+[[File:DR 109 084-4 auf Rügen.jpg|thumb|109 084号机车牵引旅客列车于[[利措]]（1993年）]]
+===机械部件===
+转向架的[[底盘]]采用的是空心钢箱形焊接。枢轴梁负责支撑[[牵引电动机]]。机车在改造时可以采用由黑尼格斯多夫电力机车厂提供的全弹簧型{{link-de|锥环弹簧传动|Hohlwellen-Antrieb}}装置，但仅有1台机车进行了测试。转向架由一个特殊的联轴器连接在一起。主车架为焊接结构，并采用桥接式框架设置。{{link-de|驾驶室|Führerstand}}和{{link-de|机械室|Maschinenraum}}的底板是作为承重部件被纳入结构体系。车体是自承式的轻量化钢结构，并焊接在主车架上。制动系统由一个带有辅助制动装置（{{lang|de|K-GPR mZ型，旧称Kssbr m.Z.}}）的[[空气制动|空气制动器]]和轮轴{{link-de|手制动器|Handbremse}}组成&lt;ref name="Konstruktion"&gt;{{de}}{{cite web|url=http://www.br142.de/index.php?nav=1407851&amp;lang=1|title=Baureihe E 11 - Konstruktion|work=Daniel Berg |accessdate=2013-12-19}}&lt;/ref&gt;。
+
+===电气部件===
+机车的[[受电弓|双臂式受电弓]]采用了新式设计，并配备了双层接触条。这款受电弓型号也被用于仍在[[东德]]运行的老式电力机车{{link-de|E04型|DR-Baureihe E 04}}、{{link-de|E44型|DR-Baureihe E 44}}及{{link-de|E94型|DR-Baureihe E 94}}。总开关是一个断流容量为200兆伏安的空气压缩开关。主[[变压器]]是一个带有垫片绕组和{{link-de|自耦变压|Spartransformator}}功能的{{link-de|强冷|Fremdbelüftung}}壳式变压器。其中有15个阀门用于电动机电路，2个用于列车供暖和1和用于辅助运行。凸轮开关具有14个速度级，并有一个分级控制器用于稳定速度级切换时的电压变化。牵引电动机为具有{{link-de|整流绕组|Wendepolwicklung}}和{{link-de|均衡绕组|Kompensationswicklung}}的强冷12极[[交流电动机|交流电]]{{link-de|串励电动机|Einphasen-Reihenschlussmotor}}设计&lt;ref name="Konstruktion"/&gt;。
+
+机车最初配备了34针的多单元及{{link-de|动力集中式列车控制器|Wendezugsteuerung}}。用于多单元列车控制的连接器接口设于机车前围板和车顶灯之间的中部，用于[[动力集中式列车]]控制、采用对角设置的电缆插头及接口则设于缓冲器下方。自1970年交付的211 043号机车起取消了动力集中式列车控制器，自211 057号机车起也取消了多单元列车控制器。由于增加了牵引载荷以及[[德国国营铁路243型电力机车|243型机车]]空出了部分客运列车服务，一些机车又开始在1980年代加装了多单元列车控制器，它们被重定型为子型号211.8型，并用做[[机车重联|重联]]运行。
+
+为了加装{{link-de|点状列车控制装置|Punktförmige Zugbeeinflussung}}（{{lang|de|PZB}}）的车辆磁体设备，转向架之间的储气罐不得不侧向偏移。
+
+==现状==
+[[File:BNE GVG 109-3 BL.jpg|thumb|left|{{link-de|格奥尔格交通集团|Georg Verkehrsorganisation}}的109-3号机车]]
+[[File:Stamps of Germany (DDR) 1973, MiNr 1844.jpg|thumb|德国邮政于1973年5月22日发行的211型机车[[邮票]]]]
+自1989年起，一些机车被转换为242型，其构造只有齿轮传动比存在区别。
+
+截至1991年1月1日，德国国营铁路仍保有69台211型机车。在这一时期它们已很大程度上被更现代化的243型机车取代了要求不高的牵引服务。
+
+在德国国营铁路与[[德国联邦铁路]]合并后，新成立的[[德国铁路]]仍然接收了部分211型机车，它们被重定型为109型；至1998年，最后4台由德国铁路运营的这一型号机车在哈勒车辆段退役。其中E11 001号（211 001-3号）机车现存于{{link-de|哈勒德国铁路博物馆|DB Museum Halle (Saale)}}。
+
+2010年，几台211型机车被重新运用至德国的[[私铁|私营铁路]]，例如109 084号（重编号为109-1）、109 013号（109-2）和109 073号（109-3）被{{link-de|格奥尔格交通集团|Georg Verkehrsorganisation}}（{{lang|de|GVG}}）用作牵引运行于[[柏林]]至[[萨斯尼茨]]间（{{link-de|皇家航线|Königslinie}}）的[[夜间列车]]；以及109 028号和109 030号被{{link-de|波茨坦铁路公司|Eisenbahngesellschaft Potsdam}}（{{lang|de|EGP}}）用作牵引[[货运列车]]。
+
+==注释==
+{{reflist}}
+
+==参考书目==
+{{refbegin}}
+* {{de}}{{cite book|author=Dieter Bäzold, Günther Fiebig|title=''Ellok-Archiv''|edition=6.|publisher=Transpress Verlag|location=Berlin|year=1987|ISBN=3-344-00173-6}}
+* {{de}}{{cite journal|author=Siegfried Müller, Horstmar Seifarth|title=''E11 E211 E42 E251''|journal=Eisenbahn-Kurier|location=Freiburg|year=1998|volume=EK-Aspekte 10|ISSN=1611-3985}}
+{{refend}}
+
+== 外部链接 ==
+{{commonscat|DR Class 211}}
+* {{de}}[http://www.holzroller.de/ 关于E11型、E42型及E251型电力机车]
+
+{{德国国营铁路机车车辆|e}}
+{{德国铁路机车车辆}}
+
+{{DEFAULTSORT:DR-Baureihe E 11}}
+[[Category:德国国营铁路电力机车]]
+[[Category:15千伏16.7赫兹交流电力机车]]
+[[Category:Bo-Bo軸式機車]]
+[[Category:黑尼格斯多夫制铁路机车]]</str>
+    <str name="title">德国国营铁路E11型电力机车</str>
+    <str name="titleText">德国国营铁路E11型电力机车</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30326023</int>
+    <date name="timestamp">2014-02-22T19:04:41Z</date>
+    <long name="_version_">1484749437151477760</long></doc>
+  <doc>
+    <str name="id">172892</str>
+    <str name="text">[[File:Harbin_Dragon_tower_in_2011.png|thumb|250px|right]] 
+'''龙塔'''，即[[黑龙江]]省[[广播]][[电视]]塔，坐落在[[哈尔滨市]][[南岗区]]高新技术开发区，为[[全钢结构]]高塔。龙塔于2000年建成开放，塔高336米，现为[[亚洲]]第一、世界第二高钢塔。龙塔整合了电视广播、[[旅游]][[观光]]、[[餐饮]][[服务]]、[[广告]]传播、[[环境]]与[[气象]]检测、[[微波]]与[[无线电]][[通讯]]等多项功能。
+
+== 概况 ==
+龙塔的设计者是[[上海]][[同济大学]]钢结构专家[[马人乐]][[教授]]，总投资近2亿元[[人民币]]，总耗材3100吨，由黑龙江省送变电工程公司承建。龙塔于1998年4月开始动工兴建，于2000年10月28日投入使用，29日正式对外开放。
+
+=== 高度 ===
+龙塔高336米，其高度在亚洲所有[[电视塔]]中排名第7，世界排名第22。在全钢结构的塔中，龙塔为亚洲最高（比[[东京铁塔]]高3米），世界第2高（仅次于[[乌克兰]]的[[基辅]]塔，比[[法国]][[艾菲尔铁塔]]高12米）。&lt;ref&gt;[http://travel.sina.com.cn/china/2008-08-04/092611763.shtml 中国黑龙江哈尔滨4A级景区黑龙江电视塔（龙塔） 新浪旅游]&lt;/ref&gt;
+
+=== 外形 ===
+龙塔建筑[[面积]]16 600平方米，塔基包括地下一层和地上四层。塔基的形状是一个球顶，塔身是[[正八边形]]，整个塔的外形呈[[抛物线]]。龙塔的旋转厅位于181米到206米高处，由一个[[飞碟]]状的“底座”和一个[[球形]]的大厅组成。[[天线]]装在220.5到220.6米高处。
+
+== 旅游 ==
+龙塔是中国国家4A级旅游景区。目前拥有“炎黄子孙圣坛”、“恐龙展”、“动手乐园”、“4D电影”、“181米惊险环”、“190米室外观光”、“观光电梯”等展馆和景点。
+
+== 参见 ==
+*[[塔]]
+*[[黑龙江电视台]]
+*[[龙广传媒]]
+
+==相关参考==
+
+{{reflist}}
+
+== 外部链接 ==
+*[http://www.longta.net/ 龙塔网]
+
+{{coord|45|44|45.55|N|126|40|28|E|display=title}}
+
+[[Category:哈爾濱]]
+[[Category:塔式建筑]]</str>
+    <str name="title">龙塔</str>
+    <str name="titleText">龙塔</str>
+    <str name="user">Iokseng</str>
+    <int name="userId">43581</int>
+    <int name="revision">33059941</int>
+    <date name="timestamp">2014-10-23T14:53:27Z</date>
+    <long name="_version_">1484748605811064833</long></doc>
+  <doc>
+    <str name="id">2736505</str>
+    <str name="text">{{Infobox Locomotive
+| name = TE2&lt;br/&gt;{{lang|ru|ТЭ2}}
+| image = Freight diesel locomotive TE2-414 (3).jpg
+| caption = TE2型414号机车
+| type = [[柴油机车]]
+| origin = {{USSR}}
+| builder = [[哈尔科夫运输机械制造厂]]
+| buildmodel = 
+| serialnumber = 
+| builddate = 1948年—1955年
+| totalproduction = 528台
+| user = {{USSR}}&lt;br /&gt;{{MNG}}
+| uicclass = Bo'Bo'+Bo'Bo'
+| gauge = 1,524毫米
+| wheeldiameter = 
+| axleload = 21.25吨
+| wheelbase = 
+| minimumcurve = 
+| length = 23,895毫米
+| width = 
+| height = 
+| framesize = 
+| weight = 2 × 85吨
+| fueltype = 2 × 3,500公斤
+| fuelcap = 
+| lubecap = 
+| coolantcap = 
+| watercap = 
+| sandcap = 
+| enginepower = 2 × 1,000马力
+| enginetype = Д50（2Д50）
+| transmission = 直—直流电
+| generator =  МПТ-84/39
+| tractionmotors = ДК-304В × 8
+| topspeed = 93公里/小时
+| sustainedspeed = 17公里/小时
+| poweroutput = 
+| tractiveeffort = 2 × 11,000公斤
+| locobrakes = 
+| locobrakepower = 
+| locobrakeforce = 
+| trainbrakes = 
+| safety = 
+| notes =
+}}
+'''TE2型柴油机车'''（{{lang-ru|'''ТЭ2'''}}）是[[苏联]]铁路第一代[[柴油机车]]车型之一，由位于[[乌克兰]]的[[哈尔科夫运输机械制造厂]]设计制造，1948年至1955年间生产了超过500台。
+
+==发展历史==
+===研制===
+[[苏联卫国战争]]结束后，哈尔科夫运输机械制造厂通过参考从[[美国]]引进的[[RSD-1型柴油机车|D&lt;sup&gt;a&lt;/sup&gt;型柴油机车]]，于1947年成功研制了[[TE1型柴油机车]]，成为苏联铁路史上第一种投入大批量生产的柴油机车。TE1型装用一台1000马力的D50型[[四冲程]][[柴油机]]，采用直—直流电传动。但随着苏联铁路运输需求的增长，苏联铁路迫切需要一种功率更大的柴油机车。为了满足对更大功率柴油机车的需要，哈尔科夫运输机械制造厂在TE1型柴油机车基础上，于1948年12月研制了首台TE2型双节重联式柴油机车&lt;ref name=rakov1995 &gt;{{cite book |author=Раков В. А. |title=Локомотивы отечественных железных дорог. 1845—1955. — 2-е, переработанное и дополненное. |year=1995 |publisher= Транспорт |location=Москва |isbn=5-277-00821-7 |page= |language=ru }}&lt;/ref&gt;。
+
+TE2型机车由两节完全相同的四轴机车组成，每一单节机车的动力设备与TE1型机车并无不同，每节机车装用一台哈尔科夫工厂制造的D50型柴油机和哈尔科夫电机制造厂的直流发电机组，柴油机装车功率为1000马力，机车总功率为2000马力。然而，与TE1型机车相比，双节重联的TE2型机车却有更多的优点。根据TE1型机车的使用经验，柴油机的功率未能得到完全利用，六台[[牵引电动机]]的负载并不充分，所以在TE2型机车采用了双节四轴设计，每一单节机车只有四台牵引电动机。因此，每节机车的重量仅有85吨，换句话说，在相同的柴油机功率下，每节机车比TE1型机车轻39吨。这种结构布局不仅大大减轻了机车重量，也节省了生产机车所需的金属消耗量和劳动成本&lt;ref name=Shishkin&gt;{{cite book |author=Кирилл Александрович Шишкин |title=Советские тепловозы |year=1951 |publisher=Гос. научно-техническое изд-во машиностроительной литературы |location=Москва  |language=ru }}&lt;/ref&gt;。
+
+经过试验和修改设计后，TE2型柴油机车于1950年7月定型并开始批量生产。至1955年停产，哈尔科夫工厂共生产了528台TE2型机车&lt;ref name=rakov1995  /&gt;。
+
+===运用===
+[[File:Locomotive te2-025.jpg|缩略图|左|在塔什干的TE2型机车（1950年）]]
+与TE1型机车一样，绝大多数TE2型机车初期均投入到[[中亚地区]]运用，尤其是[[梁赞-乌拉尔铁路局]]（Рязано-Уральская железная дорога）巴斯昆恰克机务段，主要用于担当重载货物列车的牵引任务。1953年，苏联铁路管理系统进行了改革，取消了梁赞-乌拉尔铁路局，巴斯昆恰克机务段成为[[伏尔加铁路局]]的一部分。至1950年代中后期，随着功率更大的[[TE3型柴油机车]]投入大量生产，并开始替换原有的TE1、TE2型柴油机车，巴斯昆恰克机务段的TE2型机车相继外调到其他地区，包括[[鄂木斯克铁路局]]、[[远东铁路局]]、[[后贝加尔铁路局]]、[[高加索铁路局]]、[[西西伯利亚铁路局]]、[[利沃夫铁路局]]、[[莫斯科铁路局]]、[[十月铁路局]]、[[托木斯克铁路局]]、[[北高加索铁路局]]等。1956年，苏联并向[[蒙古国]]出口了一些TE2型机车。1978年至1987年间，大量的TE2型机车陆续停运报废。到了1990年代，尚在运用的TE2型机车已所余无几&lt;ref name=rakov1995  /&gt;。
+
+==技术特点==
+=== 总体结构 ===
+[[File:Te2 bogie.jpg|300px|缩略图|TE2型机车的二轴转向架]]
+TE2型柴油机车是双节重联八轴干线客货运通用柴油机车，由两节结构相同的[[Bo-Bo]]轴式四轴机车通过联结装置连接而成，两车连接部分设有通过台折棚风挡。机车采用底架承载结构的棚式车体，车体各项载荷全部由底架承担，车体侧墙和顶盖不参与承载。机车采用单端[[司机室]]、双侧内走廊布置，车体从前至后分别为司机室、高压电气室、动力室、冷却室五个部分&lt;ref name=Shishkin /&gt;。
+
+每节机车的底架和车体重量由两台二轴[[转向架]]支承。最早的一批TE2型机车转向架不设旁承，全部载荷均有心盘承担，原意是减少轮对对钢轨的侧压力和简化转向架结构，但实际运用显示这种转向架结构的走行性能未能令人满意，因此后来的TE2型机车的每台转向架均加设了两个弹簧旁承，[[牵引力]]和制动力通过心盘传递，上下心盘之间有一块摩擦板，以减少枕梁和摇枕的磨损。转向架采用铸钢件及钢板焊接结构，一系悬挂由螺旋弹簧、钢板弹簧、均衡梁等组成。牵引电动机采用抱轴式半悬挂安装方式，通过单边直齿轮驱动轮对，牵引传动齿轮比为16：75。基础制动装置采用单侧[[踏面制动]]&lt;ref name=FOTOMAGISTRAL&gt;{{Cite web |url=http://www.ukrtrains.narod.ru/teh/te2.htm |title=ГРУЗОВОЙ ТЕПЛОВОЗ СЕРИИ ТЭ2 ТИПА 2 (2o-2o) |accessdate=2012-10-30 |publisher=ФОТОМАГИСТРАЛЬ |date= }}&lt;/ref&gt;。
+
+=== 柴油机 ===
+早期生产的TE2型001～229号机车装用一台由哈尔科夫工厂生产的D50型[[柴油机]]，为六气缸、[[四冲程]]、带[[渦輪增壓器|废气涡轮增压]]的直列式柴油机，采用浇铸铁发动机缸体和汽缸盖、铸钢曲轴及连杆、铝合金活塞，额定功率为1000马力，额定转速为每分钟740±5转，最低转速为每分钟270±15转。气缸采用直列式布置，气缸直径为318毫米（12½英寸），活塞行程为330毫米（13英寸），发动机排量为157.2升。柴油机起动时，牵引发电机由蓄电池供电，作为串励电动机驱动柴油机起动。司机控制器手柄通过机械式离心调速器改变柴油机转速，司机控制器手柄共设有9个运行级位，其中零位为空转级位，其余八个级位分别对应一个指定的柴油机转速（每分钟270～740转）&lt;ref name=FOTOMAGISTRAL /&gt;。
+
+1954年，哈尔科夫工厂研制了经过改进2D50型柴油机，装用于330号以后的TE2型机车，2D50型柴油机与D50型柴油机相比并没有太大改动，主要提高了涡轮增压压力，并增加了冷却增压空气的中冷器，因此2D50型柴油机的功率比D50型柴油机提高了15～20%&lt;ref name=Shishkin /&gt;。
+
+=== 传动系统 ===
+TE2型柴油机车采用直—直流电传动，传动系统主要由牵引发电机和牵引电动机组成，与TE1型机车基本相同。柴油机输出轴直接传递[[功率]]给直流牵引发电机，然后供给两台转向架上的四台直流牵引电动机，机车运行时牵引发电机输出[[电压]]根据柴油机转速而自动改变。同一转向架上的两台牵引电动机是永久串联的，机车起动和加速时两组电机采用[[串聯電路|串联]]连接；当速度提高到9～11公里/小时，自动转换为串—[[並聯電路|并联]]连接；当速度提高到20～25公里/小时以上，可以对两组电机采用全励磁的串联、串—并联连接，以及[[磁场削弱]]的串—并联连接&lt;ref name=FOTOMAGISTRAL /&gt;。
+
+TE2型机车采用与TE1型机车相同的牵引发电机、辅助直流发电机和励磁机双机组、牵引电动机。МПТ-84/39型牵引发电机最大输出电压为900伏，励磁绕组用独立的直流电源供电，冷却方式为自通风。辅助直流发电机和励磁机安装在同一单元内，又称为双机组，用来提供牵引发电机励磁电流、[[蓄电池]]充电、控制电源和照明电源，励磁电流根据牵引发电机的负载自动调节。牵引电动机为ДК-304В型，为四极串励脉流牵引电动机，冷却方式为独立强迫通风。与TE1型机车不同，由于每一单节的TE2型机车的牵引电机数量减少至四台，而柴油机和发电机的工作情况并无改变，因此牵引电机的端电压和功率也相应提高了约50%，额定功率为152千瓦（在TE1型机车上为98千瓦）&lt;ref name=FOTOMAGISTRAL /&gt;。
+
+==参看==
+{{Portal|鐵路|P train.svg}}
+*[[TE1型柴油机车]]
+*[[TE3型柴油机车]]
+
+==参考文献==
+{{reflist}}
+
+==外部链接==
+* {{ru}}[http://www.1520mm.ru/locomotives/diesel/te2.phtml 1520mm.ru: Тепловоз ТЭ2]
+
+{{Soviet and CIS locomotives}}
+
+[[Category:苏联柴油机车]]
+[[Category:哈尔科夫制铁路机车]]
+[[Category:Bo-Bo+Bo-Bo軸式機車]]</str>
+    <str name="title">TE2型柴油机车</str>
+    <str name="titleText">TE2型柴油机车</str>
+    <str name="user">慕尼黑啤酒</str>
+    <int name="userId">501267</int>
+    <int name="revision">29335131</int>
+    <date name="timestamp">2013-11-26T23:00:17Z</date>
+    <long name="_version_">1484749207210295297</long></doc>
+  <doc>
+    <str name="id">2831701</str>
+    <str name="text">{{multiple issues|
+{{newsrelease|time=2012-07-22T11:19:02+00:00}}
+{{unreferenced|time=2012-07-22T11:19:02+00:00}}
+}}
+'''矿山自卸车'''（'''Mining Dump Truck'''）属于[[非公路自卸车]]（Off-highway dump trucks），是在非公路的野外场地，如大型露天矿、[[水利工程]]中，用于运输煤矿、沙石的[[自卸车]]。在土木工程中，经常与[[挖掘机]]、[[装载机]]、带式输送机等工程机械联合作业，构成装、运、卸生产线，进行土方、砂石、散料的装卸运输工作。
+
+非公路矿山自卸车主要由[[发动机]]、[[底盘]]、控制车厢（车头）、发电机系统、车斗（作动系统）和辅助动力系统组成。
+
+非公路矿山自卸车的特点是：吨位大、消耗低、技术含量高、价格昂贵。
+
+按照传动方式分类：
+非公路矿山自卸车可以分为电动轮非公路矿用自卸车和机械传动非公路矿山自卸车。电动轮非公路矿用自卸车的轻型一般在108吨位以下，重型一般在108-360吨位；机械传动非公路矿山自卸车一般在85吨位以下，重型一般85-318吨位。1970年代，由于缺少大型液力变矩器，100吨级以上矿山自卸车完全为电传动统治。随着大型液力变矩器
+的成熟，美国卡特彼勒推出了360吨级液力传动矿山自卸车。1990年代中期，交-交直接电传动技术开始运用到了300吨级矿山自卸车。
+
+非公路矿山自卸车由于机动性好、周转速度快、载重、能力大等优点，成为露天矿开发生产的主要运输工具。目前国际上只有美国、日本、白俄罗斯以及中国少数几个工业发达国家能够自主研发，系列从100吨-360吨不等。
+
+2005年国际矿用车市场的市场容量在1300辆左右，总装载量20亿吨左右。矿用车的主要用在煤矿、金矿、铜矿和铁矿，用户主要分布在澳洲、美洲。其中，澳大利亚是世界矿用车最大的用户。中国和蒙古正成为成长最快的矿用自卸车市场。
+
+自1963年矿用电动轮自卸车发明以来，经过30多年的不断完善和大量新技术、新材料、新工艺的采用，重型矿用电动轮自卸车作为汽车中的新品种已发展成熟，其装载质量已从第一台车的77吨上升到目前最大的317.5吨。在年开采量千万吨级以上大型露天矿山的运输设备中，矿用电动轮自卸车已占用2/3的市场，承担着世界上40%的煤、90%的铁矿的开采运输量。
+
+在露天矿用自卸车的选择过程中，其车辆吨位的选择要考虑与配套的装载机械相匹配。例如，矿车的车厢容积一般是电铲斗容积的3或4倍。
+
+另外，也并不是车辆吨位越大越好。根据澳大利亚专业统计，露天矿用自卸车以220吨到240吨为最佳吨位。在此范围内，单位运输成本最低。矿车车斗的选择至关重要。它的成本只有整车的1/15，但是它对整车使用成本的影响却高达1/5。新型的自卸车车斗采用仿生结构、流线型身材，高强度合金钢制造。车斗自重减轻20%，节能降耗10%。对于每日消耗柴油达到3000升的自卸车来说，是相当可观的。而其使用寿命是传统车斗的2-3倍。
+==矿山自卸车驾驶员视野==
+由于矿山自卸车的巨大尺寸与全重，其驾驶员的视野非常受限。因此在其作业区域内的其他传统汽车（如皮卡、SUV、普通卡车）必须随车树立一根5-6米高的旗杆，上面挂上红旗，用以提示矿山自卸车的驾驶员注意避让。
+==世界上最大的矿山自卸车==
+*白俄罗斯的别拉斯（BELAZ）75710自卸车，载重量450吨。
+*中国[[徐工集团]]的DE400矿用电传动自卸卡车，载重量400吨。
+*比利时的[[利勃海尔公司]]的T282B柴油交流电传动卡车，载重量363吨，使用一台3650匹马力柴油发动机。
+*日本[[小松公司]]的960E-1交流电传动卡车载重为360吨。
+*美国特雷克斯-尤尼特瑞格公司（TEREX-UNITRIG）MT-6300AC电动轮自卸车，载重363吨。
+*内蒙古[[北方重型汽车股份有限公司]]的尤尼特瑞格MT5500型电动轮矿山车，载重量360吨。
+*卡特彼勒797机械（液力）传动后轮驱动矿山自卸车，载重量326吨，1998年问世时打破了加拿大通用汽车公司的TITAN保持了20年的载重量世界纪录。装备一台24缸3400马力柴油机。最新改型797F在载重量360吨，4000马力。
+[[Category:货车]]
+
+[[be:Самазвал]]
+[[en:Dump truck]]
+[[nl:Kiepwagen]]
+[[pl:Wywrotka]]
+[[pt:Tombador]]</str>
+    <str name="title">矿山自卸车</str>
+    <str name="titleText">矿山自卸车</str>
+    <str name="user">Newmangling</str>
+    <int name="userId">1529731</int>
+    <int name="revision">29289053</int>
+    <date name="timestamp">2013-11-22T02:52:54Z</date>
+    <long name="_version_">1484749224859926529</long></doc>
+  <doc>
+    <str name="id">3158957</str>
+    <str name="text">{{Infobox Locomotive
+| name = TE30&lt;br /&gt;{{lang|ru|ТЭ30}}
+| image = 
+| caption = 
+| type = [[柴油机车]]
+| origin = {{USSR}}
+| builder = [[哈尔科夫运输机械制造厂]]
+| builddate  = 1961年
+| totalproduction  = 1台
+| user = {{USSR}}
+| uicclass = Co-Co+Co-Co
+| gauge = 1,520毫米
+| wheeldiameter = 
+| axleload = 
+| wheelbase = 2 × 2,100毫米
+| minimumcurve = 
+| length = 2 × 18,610毫米（车钩中心距）
+| width = 3,272毫米
+| height = 
+| framesize = 
+| weight = 
+| fueltype = 
+| fuelcap = 
+| lubecap = 
+| coolantcap = 
+| watercap = 
+| sandcap = 
+| enginetype = 6Д100
+| enginepower = 2 × 2,000马力
+| transmission = 直—直流电
+| generator =  ГП-304
+| tractionmotors = ЭДТ-340Г × 12
+| topspeed = 100公里/小时
+| sustainedspeed = 
+| poweroutput = 
+| tractiveeffort = 
+| locobrakes = 
+| locobrakepower = 
+| locobrakeforce = 
+| trainbrakes = 
+| safety = 
+| notes =
+}}
+'''TE30型柴油机车'''（俄语：'''ТЭ30'''）是[[苏联]]铁路的电传动[[柴油机车]]车型之一，由[[哈尔科夫运输机械制造厂]]于1961年研制成功。
+
+==发展历史==
+1958年，[[哈尔科夫运输机械制造厂]]在[[TE3型柴油机车]]的基础上，开发研制了3000马力等级的[[TE10型柴油机车]]。哈尔科夫工厂在2000马力等级的2D100型[[柴油机]]基础上进行改进，增加[[增压器]]和[[中冷器]]，提高柴油机强化程度。哈尔科夫工厂首先试制了一台0D100型单缸试验机，单缸功率可达到250马力；在此基础上哈尔科夫工厂设计了12气缸的9D100型二冲程柴油机，使单机功率提高到3000马力，首先装用于TE10型机车。1960年，哈尔科夫工厂在TE10型机车的基础上，又研制了双节重联的[[TE10型柴油机车#2TE10|2TE10型柴油机车]]&lt;ref name=Lubna&gt;{{Cite web |url=http://lubnystation.narod.ru/te10.htm |title=Тепловоз-памятник ТЭ10-006 |accessdate=2012-10-30 |publisher=станции Лубны |date= }}&lt;/ref&gt;。
+
+1961年，哈尔科夫工厂试制了首台TE30型柴油机车，该型机车由两节结构相同的六轴单司机室机车联挂而成，两车连接部分设有通过台和橡胶风挡，机车乘务员在本务机车上可同时操纵两节机车。机车既可双节重联使用，也可单节独立使用。机车总体结构与2TE10型机车基本相同，采用了相同的整体承载式结构车体、导框式三轴转向架。每节机车装用一台带有二级增压的6D100型二冲程柴油机，是D100型柴油机的系列产品之一，单缸功率与9D100型柴油机一样为250马力，但气缸数量减少至8个&lt;ref name=Lubna /&gt;。与2D100型柴油机相比，6D100型柴油机额定功率同样为2000马力，由于气缸数量及机体体积减少，柴油机重量从17.3吨减少到14吨&lt;ref name=rakov1990 &gt;{{cite book |author=Раков В. А. |title=Локомотивы и моторвагонный подвижной состав железных дорог Советского Союза 1976—1985: Грузовые тепловозы типа ТЭ10 различных исполнений |year=1990 |publisher= Транспорт |location=Москва |isbn=5-277-00933-7 |page=62-69 |language=ru }}&lt;/ref&gt;。柴油机采用了二级增压系统，第一级是两个平行的[[渦輪增壓器|废气涡轮增压器]]，第二级是[[机械增压器]]，由[[曲轴]]驱动离心式鼓风机旋转。柴油机并设有两个风冷式中冷器，而非9D100、10D100型柴油机所采用的水冷式中冷器，对经过两级增压后的空气进行冷却。传动装置采用直—直流电传动，采用由[[哈尔科夫重型电机厂]]设计制造的ГП-304型牵引[[发电机]]，持续功率为1350千瓦，总重6700公斤，TE30型柴油机车的柴油机—发电机组总重量比TE3型机车减轻了4.5吨。机车并采用了柴油机—发电机功率联合调节器，调节系统采用了[[磁放大器]]，保证柴油机的功率能得到充分利用。牵引电动机为ЭДТ-340Г型[[直流电动机]]，采用抱轴式半悬挂，牵引传动齿轮比为15：68。走行部为两台与TE10型机车相同的导框式三轴[[转向架]]。
+
+1961年，TE30型机车在[[全俄铁道运输科学研究院|全苏铁道运输科学研究院]]组织下，于[[莫斯科州|莫斯科]][[谢尔宾卡]]的环形铁道试验基地进行性能试验。1962年，该台机车在[[南方铁路局]]投入运用考核。然而，试验结果显示TE30型机车与TE3型机车相比并无任何突出的优势，同时随着功率更大的2TE10型机车投入运用，TE30型柴油机车未获批准批量生产。而唯一一台TE30型机车于1978年停运报废。
+
+==参看==
+{{Portal|鐵路|P train.svg}}
+*[[TE3型柴油机车]]
+*[[TE10型柴油机车]]
+*[[M62型柴油机车]]
+
+==参考文献==
+{{reflist}}
+
+==外部链接==
+*{{ru}}[http://sothys-tlt.ru/poezda/teplovozy-s-elektro-mehanicheskoi-peredachei/teplovoz-te30.html Тепловозы с электро-механической передачей: Тепловоз ТЭ30]
+
+{{Soviet and CIS locomotives}}
+
+[[Category:苏联柴油机车]]
+[[Category:哈尔科夫制铁路机车]]
+[[Category:Co-Co+Co-Co軸式機車]]</str>
+    <str name="title">TE30型柴油机车</str>
+    <str name="titleText">TE30型柴油机车</str>
+    <str name="user">慕尼黑啤酒</str>
+    <int name="userId">501267</int>
+    <int name="revision">29335146</int>
+    <date name="timestamp">2013-11-26T23:01:36Z</date>
+    <long name="_version_">1484749308457648129</long></doc>
+  <doc>
+    <str name="id">1732756</str>
+    <str name="text">{{Infobox Locomotive
+| name = ChS2&lt;br/&gt;ЧС2
+| image = Электровоз ЧС2-470.jpg
+| caption = ChS2型470号机车
+| type = [[电力机车]]
+| origin = {{CZS}}
+| builder = [[斯柯达公司]]
+| buildmodel = 
+| serialnumber = 001～874、877～944
+| builddate = 1958年—1973年
+| totalproduction  = 942台
+| user = {{USSR}}&lt;br/&gt;{{RUS}}&lt;br/&gt;{{UKR}}
+| data = 34E
+| uicclass = [[Co-Co|Co'Co']]
+| gauge = 1,524毫米
+| wheeldiameter = 1,250毫米
+| axleload = 21吨
+| wheelbase = 2,400+2,200毫米
+| minimumcurve = 
+| length = 18,920毫米（车钩中心距）
+| width = 
+| height = 
+| framesize = 
+| weight = 126吨
+| sandcap = 
+| electricsystem = DC 3000V
+| collectionmethod = 
+| transmission = 直—直流电
+| tractionmotors = AL-4846eT × 6
+| topspeed = 160公里/小时
+| sustainedspeed =  91.5公里/小时（小时）&lt;br /&gt;96.9公里/小时（持续）
+| poweroutput = 4,200千瓦（小时）&lt;br /&gt;3,708千瓦（持续）
+| tractiveeffort = 161.8千牛（小时）&lt;br /&gt;134.4千牛（持续）
+| locobrakes = 
+| locobrakepower = 
+| locobrakeforce = 
+| trainbrakes = 
+| safety = 
+| notes =
+}}
+'''ChS2型电力机车'''（{{lang-ru|'''ЧС2'''}}）是[[苏联]]铁路的干线客运[[电力机车]]车型之一，适用于供电制式为3千伏[[直流电]]的[[电气化铁路]]，也是[[斯柯达公司]]为苏联铁路所提供数量最庞大的电力机车车型&lt;ref name=1520mm&gt;{{Cite web |url=http://www.1520mm.ru/locomotives/electric/cs2.phtml |title=	Электровоз ЧС2  |accessdate=2012-09-15 |publisher=1520mm.ru |date= }}&lt;/ref&gt;。
+
+1950年代起，按[[经济互助委员会]]分工，苏联向东欧国家-{出口}-干线[[柴油机车]]，而从[[捷克斯洛伐克]]进口电力传动调车柴油机车和客运电力机车，ChS2型电力机车为其中之一。ChS2型电力机车是[[斯柯达公司]]于1958年研制成功的准高速客运电力机车，轴式[[Co-Co]]，设有[[牵引电动机]]磁场削弱、[[电阻制动]]等。至2000年代，部分机车进行了现代化，包括更换新车体、升级微机控制等。
+
+== 发展历史 ==
+=== 原型车（25E&lt;sub&gt;0&lt;/sub&gt;）===
+1957年，[[捷克斯洛伐克国家铁路]]为了满足国内铁路重载货运的需要，要求[[斯柯达公司]]在[[E 499.0型电力机车]]基础上研制新型六轴货运电力机车。1958年9月，斯柯达公司[[比尔森]]工厂试制了首台样车，工厂设计代号为23E，并交付捷克斯洛伐克国铁进行试验，新机车被定型为[[E 699.0型电力机车]]，最高运行速度为120公里/小时。与此同时，苏联铁路也急需一种最高运行速度大于120公里/小时的六轴客运电力机车，以满足特快旅客列车的牵引要求。根据[[苏联铁道部]]的要求，斯柯达公司在E 699.0型电力机车基础上，于1958年底试制了首两台样车，工厂设计代号为25E&lt;sub&gt;0&lt;/sub&gt;，机车总体结构、电气部件与E 699.0型电力机车基本相同，但采用了宽轨[[转向架]]，传动齿轮比改为1.951，使机车设计速度达到160公里/小时，新机车被定型为ChS2型&lt;ref&gt;{{Cite web |url=http://electri4ka.com/4s2/01.html |title=1. Общие сведения о пассажирских электровозах |accessdate=2012-09-15 |publisher= electri4ka.com: Электровозы и электропоезда  |date= }}&lt;/ref&gt;。
+
+ChS2型电力机车是六轴干线客运电力机车，采用双司机室的钢结构车体，并在车体两侧各设有六扇玻璃窗以便机械间采光，机车车顶设有两台双臂式[[受电弓]]。机车走行部为两台三轴[[转向架]]，转向架具有中心销，[[轴箱]]采用双列角接触球[[轴承]]；一系悬挂装置由均衡梁和螺旋弹簧组成，二系悬挂装置由钢板弹簧旁承组成，车体的全部重量通过四个旁承坐落在前、后转向架构架上，重量再经由橡胶堆传递到轴箱和[[轮对]]上。牵引力和制动力通过中心销向车体底架传递。转向架相对于车体具有最大60毫米的横动量，而两台转向架之间并设有联接装置，以便通过小半径曲线。此外，为了减少轮缘磨耗，每台转向架的中间轴轮对的轮缘厚度均减少了10毫米。
+
+首兩台ChS2型电力机车原型车采用AL-4846zT型[[直流电动机|直流]][[牵引电动机]]，小时功率为596千瓦，持续功率为508千瓦，额定电压1500伏，为网侧输入电压的一半。机车对牵引电机采用[[串聯電路|串]]—[[並聯電路|并联]]换接、增减串联[[电阻器|电阻]]进行调速，牵引电动机可采用全串联、串—并联、全并联三种联接方式，通过[[分流电阻]]进行转换，每种联接方式均可使用五级[[磁场削弱]]，削弱率分别为80%、65%、50%、40%、35%。机车的调速控制通过排列在[[凸轮轴]]上的两排共39个[[接触器]]组进行，控制器具有零位、预备位、40个运行级位及6个过渡级位，其中22、33、40位为经济运行位。[[斷路器|高速断路器]]、[[过载继电器]]负责对机车主电路和辅助电路的防[[短路]]、防[[过载]]保护。牵引电机和制动电阻的冷却装置是两个离心式风机，由直流电动机驱动，额定电压为3000伏，风机有低速（冬季）和高速（夏天）两种工作模式。机车最大设计速度为160公里/小时，最大运用速度为140公里/小时；小时制持续速度为72.4公里/小时，持续牵引力为17.3吨（169千牛）；持续制持续速度为76.1公里/小时，持续牵引力为14.3吨（141千牛）&lt;ref name=1520mm /&gt;。
+
+1958年12月，001、002号样车送抵[[莫斯科]]，随后在[[莫斯科铁路局]]莫斯科—[[库尔斯克]]客运机务段（ТЧЭ-1）投入运用考核，担当莫斯科至[[布良斯克州]][[斯库拉托瓦]]区段的旅客列车牵引任务；002号机车并在莫斯科铁路局管内[[谢尔普霍夫]]至[[奥廖尔]]、[[十月铁路局]]管内[[克林 (莫斯科州)|克林]]至[[特维尔]]区段进行了牵引试验；试验列车为19辆大编组、总重1060吨的旅客列车，列车在8～9‰的长大坡度上的均衡速度可达到100～110公里/小时，平直道上的最高速度可达到140公里/小时。但试验过程中也发现了一些问题，转向架构架的焊缝应力集中部位等多处出现裂纹，对行车安全造成一定影响。
+
+=== 原型车（34E&lt;sub&gt;0&lt;/sub&gt;）===
+[[File:CAB-34E.jpg|缩略图|ChS2型机车的司机控制台]]
+根据首两台样车的试验结果，并结合[[ChS3型电力机车]]的研制和运用经验，斯柯达公司于1961年生产了经过较大改进的003、004号机车，工厂设计代号为34E&lt;sub&gt;0&lt;/sub&gt;。其转向架构架采用[[强度]]较高的[[型材]][[焊接]]而成，从而避免开裂；车内辅助机械设备的布局进行了调整，起动电阻元件采用了重量较轻的费赫拉尔铁铬铝高电阻合金，取代了原本使用的[[铸铁]]电阻元件；同时又改用功率更大、与ChS3型电力机车相同的AL-4846eT型牵引电动机，小时功率为700千瓦，持续功率为618千瓦，传动齿轮比改为1.75。机车的调速控制器也经过重新设计，减少接触器数量以提高可靠性，经济运行位改为20、33、42-I位。此外，为了改善和方便机车的维护，控制电路系统采用了插拔式[[电子连接器|端子连接器]]。机车小时制持续速度为91.5公里/小时，持续牵引力为16.5吨（161.8千牛）；持续制持续速度为96.9公里/小时，持续牵引力为13.7吨（134.4千牛）&lt;ref name=1520mm /&gt;。ChS2型003、004号机车并于1963年中运抵苏联，并在[[列宁格勒]]至[[小维舍拉]]区间进行了试验，最高试验速度达到了160公里/小时；1965年改配属[[古比雪夫铁路局]]。
+
+===ChS2（34E）===
+1962年，斯柯达公司开始批量生产ChS2型电力机车，工厂设计代号为34E&lt;sub&gt;1&lt;/sub&gt;。与首四台样车相比，量产车采用了符合苏联铁路规范和标准的司机控制台、空气制动阀、空气分配器等设备。1962年起，先后开始生产设计代号为34E&lt;sub&gt;2&lt;/sub&gt;（012～204）、34E&lt;sub&gt;3&lt;/sub&gt;（205～231、233～243）、34E&lt;sub&gt;4&lt;/sub&gt;（244～304）的ChS2型电力机车。
+
+=== ChS2T（53E）===
+[[File:ЧС2.jpg|缩略图|ChS2型851号电力机车]]
+[[File:COR-53E.jpg|缩略图|ChS2T型电力机车的机械间走廊]]
+在此期间，斯柯达公司试制了ChS2型232号机车，工厂设计代号为53E&lt;sub&gt;0&lt;/sub&gt;；机车加装了[[电阻制动]]装置，并更换了部分电子元件和司机控制器。当机车使用电阻制动工况时，由于制动电阻的功率、冷却能力有限，六台牵引电动机只有其中四台并联，变成发电机向两组制动电阻供电，电机励磁电流由蓄电池提供，制动功率为1200～1300千瓦。1964年夏季，这台机车在十月铁路局投入试验运行。完成试验后，斯柯达公司开始批量生产带有电阻制动的ChS2T型电力机车，工厂设计代号为53E&lt;sub&gt;1&lt;/sub&gt;。1964年至1965年，斯柯达公司为苏联铁路提供了数百台ChS2T型电力机车，而早期生产的ChS2型电力机车也相继加装了电阻制动装置。ChS2（34E）、ChS2T（53E）型电力机车外观上几乎毫无分别，但ChS2T型机车的车内设备布置和电气系统已有较大变化，采用双边贯通走廊以便巡视和检查设备；牵引电机串—并联换接时采用[[桥式电路]]进行转换，令机车调节速度时尽量使牵引力变化平滑，减少对车钩和传动齿轮的冲击&lt;ref name=1520mm /&gt;。
+
+=== ChS2M（53E&lt;sub&gt;3&lt;/sub&gt;） ===
+1965年，斯柯达公司按苏联铁道部的要求，试制两台ChS2型高速客运试验机车，被定型为ChS2M型，车号为565、566号，其传动齿轮比改为1.52，使机车最高运行速度提高至160～180公里/小时。机车小时制持续速度为105.3公里/小时，持续牵引力为14.3吨（140.2千牛）；持续制持续速度为111.5公里/小时，持续牵引力为12吨（117.7千牛）。1966年3月，两台机车在十月铁路局进行了试运行，期间最高试验速度达到205公里/小时，至1971年2月又创造了220公里/小时的纪录&lt;ref name=1520mm /&gt;。
+
+=== 运用 ===
+至1973年，斯柯达公司已经交付了942台ChS2型电力机车，其中718号机车是斯柯达公司为苏联铁路提供的第1000台ChS系列电力机车，而888号机车是斯柯达公司所生产的第3000台电力机车。ChS2型电力机车在苏联铁路投入运用初期，主要配属于莫斯科铁路局、[[南方铁路局]]、[[顿涅茨克铁路局]]和十月铁路局，担当莫斯科至[[哈尔科夫]]、[[伊洛瓦伊斯克]]、[[列宁格勒]]间的客运牵引任务。此后，ChS2型电力机车的使用范围不断扩大，包括莫斯科—[[梁赞]]—[[古比雪夫 (新西伯利亞州)|古比雪夫]]—[[库尔干]]区段（莫斯科铁路局、[[古比雪夫铁路局]]、[[南乌拉尔铁路局]]担当）、莫斯科—[[亞歷山德羅夫 (弗拉基米爾州)|亚历山德罗夫]]—[[雅罗斯拉夫尔]]—[[丹尼洛夫 (雅羅斯拉夫爾州)|丹尼洛夫]]区段（莫斯科铁路局、北方铁路局担当）、以及莫斯科至[[苏希尼奇]]、[[维亚济马]]、[[弗拉基米尔]]（莫斯科铁路局、[[高尔基铁路局]]担当）等地的客运列车，到后来也开始配属于[[斯维尔德洛夫斯克铁路局]]、[[第聂伯河沿岸铁路局]]、[[西西伯利亚铁路局]]。
+
+===现代化===
+[[File:ChS2K-481-TCh-10-Pohvistnevo-Samara.jpg|缩略图|由雅罗斯拉夫尔电力机车厂进行现代化改造的ChS2K型481号机车]]
+[[File:Электровоз ЧС2-479.jpg|缩略图|left|由扎波罗热电力机车厂改造的ChS2型479号机车]]
+1960年代至1980年代，ChS2型电力机车在很长时间成为了苏联直流电气化铁路运用最广泛、最具标志性的客运电力机车。1990年代初[[苏联解体]]以后，ChS2型电力机车分别被俄罗斯和乌克兰的铁道部门接收。由于两国铁路技术装备更新的进展缓慢，导致机车车辆老化问题严重，为了减轻购置新型机车车辆的财政压力，乌克兰铁路和[[俄罗斯铁路]]对部分现有的ChS2型电力机车进行维修和翻新工作，以延长机车车辆的使用年限。
+
+俄罗斯铁路的ChS2型机车翻新工作主要由[[雅罗斯拉夫尔电力机车厂]]（ЯЭРЗ）进行，翻新后的机车改称ChS2K型电力机车，除了改为采用重新设计制造的车体外，传动齿轮装置也改用与[[ChS7型电力机车|ChS7]]、[[ChS8型电力机车]]相同的部件，而其余大部分仍然和原来相同。雅罗斯拉夫尔电力机车厂也为ChS2T型电力机车（设计代号53E）提供了更全面的现代化方案，除了替换旧车体、更换电子器件外，机车并安装了具有接触器控制单元的微机控制系统（МСУЛ）&lt;ref&gt;{{Cite web |url=http://www.yaerz.ru/prod/repair/chs2k/ |title=Электровоз ЧС2к (модернизация с продлением срока эксплуатации «МЛП») |accessdate=2012-09-15 |publisher= Ярославский электровозоремонтный завод имени Б. П. Бещева |date= }}&lt;/ref&gt;。此外，雅罗斯拉夫尔电力机车厂并提供了另一种ChS2K-E的现代化方案，为机车装设“统一自动运行和控制系统”（ЕСАУП），系统可根据列车运行时刻和区间闭塞自动调节适当的运行速度，降低机车电力消耗&lt;ref&gt;{{Cite web |url=http://www.avp-t.ru/esaup |title=ЕСАУП. Единая система автоведения и управления тяговым приводом электровозов ЧС2К |accessdate=2012-09-15 |publisher=ООО "АВП Технология" |date= }}&lt;/ref&gt;。而乌克兰铁路的ChS2型机车翻新工作由[[扎波罗热电力机车厂]]（ЗЭРЗ）进行。
+
+== 参见 ==
+{{Portal|鐵路|P train.svg}}
+*[[E 669.0型电力机车]]
+*[[ChS1型电力机车]]
+*[[ChS4型电力机车]]
+*[[ChS2T型电力机车]]
+
+==参考文献==
+{{reflist}}
+
+== 外部链接 ==
+{{Commonscat|Electric locomotive ChS2}}
+*{{ru}}[http://railbook.net/?mod=articles&amp;art=10 Легендарная "двойка" - качество, проверенное временем.]
+*{{ru}}[http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/dvuhsistemnye/elektrovoz-chs2.html История поездов: Электровоз ЧС2]
+
+{{Soviet and CIS locomotives}}
+
+[[Category:苏联电力机车]]
+[[Category:斯柯达制铁路机车]]
+[[Category:俄罗斯电力机车]]
+[[Category:乌克兰电力机车]]
+[[Category:Co-Co軸式機車]]
+[[Category:3000伏直流电力机车]]</str>
+    <str name="title">ChS2型电力机车</str>
+    <str name="titleText">ChS2型电力机车</str>
+    <str name="user">Alancrh</str>
+    <int name="userId">566035</int>
+    <int name="revision">29547153</int>
+    <date name="timestamp">2013-12-17T22:34:59Z</date>
+    <long name="_version_">1484749079926800384</long></doc>
+</result>
+</response>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="q">魔方是由谁发明的机械益智玩具？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="895477" start="0">
+  <doc>
+    <str name="id">147803</str>
+    <str name="text">'''[[魔術方塊|魔方]]'''，臺譯'''魔術方塊'''，是[[匈牙利]]建筑学教授和雕塑家鲁比克于[[1974年]]发明的机械益智[[玩具]]。根据估计，自发明来，魔方在全世界已经售出了约1亿多只……
+&lt;noinclude&gt;[[Category:每周图片模板]]&lt;/noinclude&gt;</str>
+    <str name="title">Template:Potd/2005-09-8zh</str>
+    <str name="titleText">Template:Potd/2005-09-8zh</str>
+    <str name="user">Isnow</str>
+    <int name="userId">15440</int>
+    <int name="revision">6716464</int>
+    <date name="timestamp">2008-04-18T11:15:18Z</date>
+    <long name="_version_">1484748601220399106</long></doc>
+  <doc>
+    <str name="id">432972</str>
+    <str name="text">[[File:Rubiks cube solved.jpg|100px|right]]
+'''[[魔方|-{A|zh-hans:魔方;zh-hk:扭計骰;zh-tw:魔術方塊;}-]]'''（[[英語]]：'''Rubik's Cube'''）是[[匈牙利]]建筑学教授和雕塑家[[厄尔诺·鲁比克]]于[[1974年]]发明的机械益智[[玩具]]。根据估计，自发明来，魔方在全世界已经售出了约1亿多只。魔方与[[華容道 (遊戲)|华容道]]、法国的[[单身贵族 (游戏)|单身贵族]]（独立钻研棋）同被称谓[[智力游戏]]界的三大不可思议。魔方在1980年代最为风靡，至今未衰。面世不久后，很多类似的玩具也纷纷出现，有些出自发明人鲁比克，有些则是出自别人之手。包括4 &amp;times; 4 &amp;times; 4，2 &amp;times; 2 &amp;times; 2 和5 &amp;times; 5 &amp;times; 5 版的魔方。
+&lt;noinclude&gt;
+[[Category:優良條目模板]]
+&lt;/noinclude&gt;</str>
+    <str name="title">Wikipedia:优良条目/2006年12月25日</str>
+    <str name="titleText">Wikipedia:优良条目/2006年12月25日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">26930886</int>
+    <date name="timestamp">2013-06-18T09:49:41Z</date>
+    <long name="_version_">1484748667052097542</long></doc>
+  <doc>
+    <str name="id">756059</str>
+    <str name="text">[[Image:Rubik's cube.svg|210px|left]]
+'''[[魔方|-{A|zh-hans:魔方;zh-hk:扭計骰;zh-tw:魔術方塊;}-]]'''是[[匈牙利]][[建筑学]]教授和[[雕塑家]][[鲁比克·艾尔内]]于[[1974年]]发明的机械益智[[玩具]]。根据估计，自发明以来在全世界已经售出了3亿多只。在1980年代最为风靡，至今未衰。最先发明的魔方为三阶魔方，面世不久后，很多类似的玩具也纷纷出现，有些出自发明人鲁比克，包括[[二阶魔方]]、[[四阶魔方]]和[[五阶魔方]]。魔方的解法有很多种，最常用的是棱先、角先和层先。图为魔方。</str>
+    <str name="title">Wikipedia:每日图片/2008年7月8日</str>
+    <str name="titleText">Wikipedia:每日图片/2008年7月8日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">26963251</int>
+    <date name="timestamp">2013-06-20T13:16:42Z</date>
+    <long name="_version_">1484748799399165954</long></doc>
+  <doc>
+    <str name="id">791362</str>
+    <str name="text">[[File:Rubik's cube.svg|left|105px]]
+'''[[魔方|-{A|zh-hans:魔方;zh-hk:扭計骰;zh-tw:魔術方塊;}-]]'''是[[匈牙利]][[建筑学]]教授和[[雕塑家]][[鲁比克·艾尔内]]于[[1974年]]发明的机械益智[[玩具]]。根据估计，自发明以来在全世界已经售出了3亿多只。在1980年代最为风靡，至今未衰。最先发明的魔方为三阶魔方，由26个小方块和一个三维十字连接轴组成。其中包含6个处于面最中心无法移动的块，12个位于棱上的块和8个角块。面世不久后，很多类似的玩具也纷纷出现，有些出自发明人鲁比克，包括[[二阶魔方]]、[[四阶魔方]]和[[五阶魔方]]。魔方的解法有很多种，最常用的是棱先、角先和层先。世界魔方协会是被承认的关于魔方的官方组织，它致力于推广魔方，同时也举办各种比赛，并且收录最好的成绩作为官方的世界纪录。</str>
+    <str name="title">Wikipedia:优良条目/2008年7月13日</str>
+    <str name="titleText">Wikipedia:优良条目/2008年7月13日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">26964365</int>
+    <date name="timestamp">2013-06-20T16:30:12Z</date>
+    <long name="_version_">1484748810107224064</long></doc>
+  <doc>
+    <str name="id">906931</str>
+    <str name="text">[[File:Alexander's Star.jpg|thumb|right|250px|亚历山大之星]]
+[[File:Star turned.jpg|thumb|right|250px|被转動的亚历山大之星]]
+
+'''亚历山大之星Alexander's Star'''[[亚当．亚历山大]]于1982年发明的[[益智玩具]]。是一个有30块可移动部分的[[大十二面体]]形状的[[魔術方塊]]。可以让五块一组的星型环绕最外侧顶点旋转。这个玩具的挑战是让它达到每个星形五个相同颜色的面环绕，对面的星形也被同一颜色环绕的状态。
+
+有 29!×2&lt;sup&gt;13&lt;/sup&gt; 组合，也可写作 7.2×10&lt;sup&gt;34&lt;/sup&gt;.
+
+==参見==
+*[[智力游戏]]
+
+==外部連結==
+*[http://www.geocities.com/jaapsch/puzzles/alexandr.htm 描述与解法]
+
+{{polyhedron-stub}}
+{{魔術方塊小作品}}
+{{魔方}}
+
+[[Category:智力游戏]]
+[[Category:玩具]]
+[[Category:魔術方塊]]</str>
+    <str name="title">亚历山大之星</str>
+    <str name="titleText">亚历山大之星</str>
+    <int name="revision">32440309</int>
+    <date name="timestamp">2014-08-25T10:32:11Z</date>
+    <long name="_version_">1484748828365029380</long></doc>
+  <doc>
+    <str name="id">1455545</str>
+    <str name="text">{{noteTA
+|1=zh:魔方;zh-hans:魔方;zh-hant:魔術方塊;zh-hk:扭計骰;zh-tw:魔術方塊;zh-mo:扭計骰;
+}}
+[[Image:Skewb.jpg|thumb|right|已完成的斜轉方塊]]
+'''斜轉方塊'''是一種[[扭計骰]]風格的[[機械智力玩具]]。由[[托尼·達勒姆]]發明，由[[烏韋·梅弗特]]銷售。雖然它是一個立方體，它不同於扭計骰的架構，它的旋轉軸穿過立方體的每個角落，而不是每個面的中心。斜轉方塊一共有四個軸，每一個軸是一個[[立體對角線]]。因此，每個動作都會影響所有六個面。
+
+梅弗特原本稱這個玩具作「金字塔立方」，強調這是[[金字塔扭計骰]]系列的一部分。
+
+他也發明了高階斜轉方塊，例如大師斜方和優秀斜方。 &lt;ref&gt;[http://www.twistypuzzles.com/cgi-bin/puzzle.cgi?pkey=1353 Master Skewb]&lt;/ref&gt;&lt;ref&gt;[http://www.twistypuzzles.com/forum/viewtopic.php?f=15&amp;t=12589&amp; Elite Skewb]&lt;/ref&gt;
+
+==參考資料==
+{{Reflist}}
+
+==外部連結==
+* [http://www.birgit-nietsch.de/Mixed/skewb.html 比吉特·尼采的斜轉方塊網頁]
+* [http://www.jaapsch.net/puzzles/skewb.htm 夏侯的斜轉方塊網頁]
+* [http://www.mud.ca/puzzler/JPuzzler/JPuzzler.html 線上斜轉方塊]
+* [http://www.acubist.com 麥克·Tryczak的斜轉方塊速解頁+互動式斜轉方塊教學]
+
+{{魔術方塊小作品}}
+{{魔方}}
+
+[[Category:玩具]]
+[[Category:魔術方塊]]</str>
+    <str name="title">斜轉方塊</str>
+    <str name="titleText">斜轉方塊</str>
+    <str name="user">一個正常人</str>
+    <int name="userId">1284867</int>
+    <int name="revision">28174156</int>
+    <date name="timestamp">2013-08-11T00:12:34Z</date>
+    <long name="_version_">1484748993598586882</long></doc>
+  <doc>
+    <str name="id">1454560</str>
+    <str name="text">{{noteTA
+|1=zh:魔方;zh-hans:魔方;zh-hant:魔術方塊;zh-hk:扭計骰;zh-tw:魔術方塊;zh-mo:扭計骰;
+|2=zh:艾爾內; zh-hans:艾尔内; zh-hant:艾爾內; zh-tw:厄爾諾;
+}}
+[[File:Rubik360solved.jpg|thumb|280px|已解決的魯比克360]]
+'''魯比克360'''（{{lang-en|Rubik's 360}}）是由[[扭計骰]]的發明人、[[匈牙利]]雕刻家、建築學教授[[厄爾諾·魯比克]]教授發明的一種[[三維空間|三維]]的智力玩具&lt;ref&gt;{{cite news|author=Alastair Jamieson|title=Rubik's Cube inventor is back with Rubik's 360|url=http://www.telegraph.co.uk/lifestyle/4412176/Rubiks-Cube-inventor-is-back-with-Rubiks-360.html|work=[[The Daily Telegraph]]|date=2009-01-31|accessdate=2009-02-06}}&lt;/ref&gt;。魯比克360於2009年2月5日在[[紐倫堡國際玩具展覽會]]首次亮相&lt;ref name=TIME&gt;{{cite news|author=William Lee Adams|title=The Rubik's Cube: A Puzzling Success|url=http://www.time.com/time/magazine/article/0,9171,1874509,00.html|work=[[Time (magazine)|TIME]]|date=2009-01-28|accessdate=2009-02-06}}&lt;/ref&gt;，並提前在八月在全球上市。&lt;ref name=TIME/&gt;
+
+魯比克360的玩法就是把內球體內的六個顏色球分別放到相同顏色的半球裡。不像原來的魔方，沒有公式要記，並與[[數學]]沒有什麼關連，而偏向[[物理學]]方面。
+
+像[[扭計骰]]，魯比克360-{只}-有一個解決辦法，但你不能打破它並解決它，它被認為是適合所有年齡。根據評論，魯比克360是非常令人上癮，引人入勝。&lt;ref&gt;{{cite web|author=Dan Harris|title=Rubik's 360: the first review|url=http://www.telegraph.co.uk/lifestyle/4412103/Rubiks-360-the-first-review.html|work=[[Sunday Telegraph]]|date=2009-01-31|accessdate=2009-02-06}}&lt;/ref&gt;
+
+==註釋==
+{{reflist}}
+
+==外部連結==
+{{commonscat|Rubik's cube}}
+* [http://www.rubiks.com/ 魯比克魔方的官方首頁]
+*[http://www.time.com/time/video/?bcpid=1485842900&amp;bctid=10139824001 Creator Ernő Rubik introduces the Rubik's 360]  Exclusive interview with [[Time (magazine)|TIME]]
+*[http://www.myrubik360.com/ Rubik's 360 News and Discussions]
+*[http://www.playrubiks360.com/ Official UK website for the Rubik's 360]
+
+{{魔方}}
+
+{{魔術方塊小作品}}
+
+[[Category:组合谜题]]
+[[Category:机械谜题]]
+[[Category:智力游戏]]
+[[Category:教学玩具]]
+[[Category:2000年代玩具]]
+[[Category:匈牙利发明]]</str>
+    <str name="title">魯比克360</str>
+    <str name="titleText">魯比克360</str>
+    <str name="user">Lanwi1</str>
+    <int name="userId">1067373</int>
+    <int name="revision">32164912</int>
+    <date name="timestamp">2014-08-06T05:46:12Z</date>
+    <long name="_version_">1484748993416134656</long></doc>
+  <doc>
+    <str name="id">167030</str>
+    <str name="text">{{noteTA
+|1=zh:扭計骰;zh-hans:魔方;zh-hk:扭計骰;zh-tw:魔術方塊;
+}}
+[[File:Rubiksmagic.jpg|right|thumb|魔板]]
+
+'''魔板'''（'''Rubik's Magic'''），是由[[魔方|扭計骰]]的发明人、[[匈牙利]]雕刻家、建筑学教授[[厄尔诺·鲁比克]]教授发明的一种智力玩具，最早在1980年代由Matchbox公司制作。
+
+魔板由8个呈2×4排列的正方形组成，在其对角线的槽中有细线将每个正方形连起来。所有的正方形都能层叠摆放，并且从两个方向展开。魔板的正面图案是三个无联系的圆环，背面则是打乱、连接在一起的三个圆环。游戏的目的就是将原来长方形的魔板经过层叠和展开变成一个心形，并且将背面的3个圆环图案复原。
+
+[[File:Rubiksmagic_solved.jpg|left|thumb|復原后的魔板]]
+
+解决这个谜题的方法有很多，熟练的玩家能在5秒内完成问题的解决，事实上，魔板的世界纪录为0.69秒。其他的关于魔板的玩法有将魔板折叠成给出的形状等。
+
+1987年，一款名叫“[[大師魔板|大师版本]]”的魔板发布，它包含的呈2×6排列的12个正方形都为银色，上面会有5个相互联系的圆环，游戏的目的则是通过变换将图案变成一个“[[W]]”形。1990年代后期，最初版本的魔板经过Oddzon改造后重新发布，这次的魔板的图案颜色发生了变化。也有未经过授权的2×8版本的魔板投入了生产。还有魔板迷自己制作了2×12版本的魔板。目前也已經出現2×20版本的魔板。
+
+鲁比克教授拥有魔板在[[匈牙利]]的专利权（HU 1211/85，1985年3月19日授权），和[[美国]]的专利权（US 4,685,680，1987年8月11日授权）。
+
+2013年，WCA取消了魔板比赛项目。&lt;ref&gt;[http://page.renren.com/601446694/note/865418118?op=next&amp;curTime=1344670825000 WCA在2013年取消魔板项目]&lt;/ref&gt;
+
+==复原方法==
+{{expand-section}}
+
+==參見==
+*[[智力遊戲]]
+
+==注解==
+{{Reflist}}
+
+==外部链接==
+* [http://hkcubeunion.net/ 香港第一個扭計骰組織--好骰同盟]
+* [http://twistypuzzles.com/cgi-bin/pdb-search.cgi?act=sim&amp;key=magic&amp;key2=&amp;field=Mechanism&amp;field2=&amp;type=All&amp;type2=&amp;off=0 各种魔板]
+* [http://www.doyouremember.co.uk/memory.asp?memID=2098 魔板纪念堂]
+
+{{魔術方塊小作品}}
+{{魔方}}
+
+[[Category:魔術方塊]]
+[[Category:玩具]]</str>
+    <str name="title">魔板</str>
+    <str name="titleText">魔板</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30657210</int>
+    <date name="timestamp">2014-03-11T16:41:12Z</date>
+    <long name="_version_">1484748604835889153</long></doc>
+  <doc>
+    <str name="id">2951571</str>
+    <str name="text">[[File:Rubiksmagicmasteredition.jpg|thumb|right|大師魔板]]
+'''魔板：大師版'''（通稱'''大師魔板'''、'''十二片魔板'''，英文：'''Rubik's Magic: Master Edition'''或'''Master Magic'''）是由[[匈牙利]][[雕刻家]]和[[建築學]]教授[[鲁比克·艾尔内]]教授發明的一種智力玩具，最早在1987年由Matchbox公司製作。跟1980年出版的[[魔板]]很像，不同的是大師魔板有12片（2×6），而魔板只有8片（2×4）。
+
+它曾經於2003年－2012年被WCA列為正式比賽項目，但是在2013年被取消。
+[[File:Rubiksmagicmasteredition solved.jpg|right|thumb|復原後的大師魔板]]
+{{魔術方塊小作品}}
+{{魔方}}
+
+[[Category:魔術方塊]]
+[[Category:玩具]]</str>
+    <str name="title">大師魔板</str>
+    <str name="titleText">大師魔板</str>
+    <str name="user">Doraencyclopedia</str>
+    <int name="userId">1245799</int>
+    <int name="revision">28265810</int>
+    <date name="timestamp">2013-08-17T03:39:59Z</date>
+    <long name="_version_">1484749254455984129</long></doc>
+  <doc>
+    <str name="id">47565</str>
+    <str name="text">{{Otheruses|益智游戏|subject=此类问题和游戏的总称|other=由此衍生的电子游戏类型}}
+'''智力遊戲'''是[[娛樂]]性質的[[問題]]，亦是適合單獨玩的[[遊戲]]。智力游戏通常亦同時屬於[[數學遊戲]]或[[文字遊戲]]。
+
+日本《數理科學》雜誌評選的智力遊戲界裡三大不可思議的是：英國的[[華容道 (遊戲)|華容道]]、匈牙利的[[魔術方塊]]、法國的[[獨立鑽石棋]]。&lt;ref&gt;[http://bjqn.ynet.com/article.jsp?oid=50796841 华容道]&lt;/ref&gt;
+
+==著名的智力遊戲==
+{{col-begin}}
+{{col-3}}
+*[[Connect the dots]]
+*[[填字遊戲]]
+*[[八皇后问题]]
+*[[數字推盤遊戲]]
+*[[拼圖遊戲]]
+*[[騎士巡邏]]
+*[[失踪的正方形]]
+*[[Nonogram]]
+*[[孔明棋]]
+*[[九連環]]
+*[[七巧板]]
+*[[十五巧板]]
+*[[相十副]]
+*[[魔術方塊]]
+{{col-3}}
+*[[Sangaku]]
+*[[柯尼斯堡七桥问题]]
+*[[數獨]]
+*[[索瑪立方體]]
+*[[三間小屋問題]]
+*[[三個杯子問題]]
+*[[汉诺塔]]
+*[[迷宮]]
+{{col-3}}
+{{col-end}}
+
+==參考資料==
+{{reflist}}
+
+==外部連結==
+*[http://www.taiwanpuzzlemuseum.com.tw 台灣益智玩具博物館]
+
+{{entertain-stub}}
+
+[[Category:智力游戏|*]]
+[[Category:游戏类型|P]]</str>
+    <str name="title">智力游戏</str>
+    <str name="titleText">智力游戏</str>
+    <str name="user">Outlookxp</str>
+    <int name="userId">28923</int>
+    <int name="revision">28961240</int>
+    <date name="timestamp">2013-10-19T07:00:30Z</date>
+    <long name="_version_">1484748561085104128</long></doc>
+</result>
+</response>

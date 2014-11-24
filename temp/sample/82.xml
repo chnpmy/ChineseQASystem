@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">挑战者号坠毁时载有多少位宇航员？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="743490" start="0">
+  <doc>
+    <str name="id">580487</str>
+    <str name="text">{{noteTA
+|1=zh-cn:美国国家航空航天局; zh-tw:美國國家航空暨太空總署; zh-hk:美國太空總署;
+|2=zh-cn:肯尼迪航天中心; zh-tw:甘迺迪太空中心;
+|3=zh-cn:航天飞机; zh-tw:太空梭; zh-hk:太空穿梭機;
+|4=zh-cn:宇航员; zh-tw:太空人;
+}}
+
+{{Infobox Astronaut
+| 姓名=迈克尔·史密斯
+| 照片=MichaelJSmith.jpeg
+| 标题=宇航员
+| 国籍={{flagicon|USA}}[[美国]]
+| 出生日期=1945年4月30日
+| 出生地点=[[美国]][[北卡罗来纳州]]
+| 去世日期={{death_date_and_age|1986|1|28|1945|4|30}}
+| 去世地点={{flagicon|USA}}[[佛罗里达州]][[卡纳维拉尔角]]
+| 职业=[[试飞员]]
+| 军阶=[[美国海军]][[上校]]
+| 太空时间=
+| 选择=
+| 任务 =[[STS-51-L]]
+| 任务徽章=[[File:STS-51-L.svg|30px]]
+|}}
+
+'''迈克尔·约翰·史密斯'''（{{lang|en|Michael John Smith}}，{{bd|1945年|4月30日|1986年|1月28日|catIdx=S}}），[[美国]][[宇航员]]，[[挑战者号]][[航天飞机]]的[[驾驶员]]。在[[STS-51-L]]任务途中由于[[挑战者号航天飞机灾难|飞机失事坠毁]]，与其余六名机组成员一同身亡。
+
+==紀念==
+* [[小行星3351]]
+
+==参考==
+* {{En icon}}[http://www.jsc.nasa.gov/Bios/htmlbios/smith-michael.html 美国国家航空航天局的传记]
+* {{En icon}}[http://www.challenger.org/about/smith.cfm 挑战者号航天飞机中心的传记]
+* {{En icon}}[http://www.arlingtoncemetery.net/michaelj.htm 阿灵顿国家公墓传记]
+
+{{國會太空榮譽勳章}}
+{{astronaut-stub}}
+[[Category:國會太空榮譽勳章獲得者]]
+[[Category:美國宇航員|S]]
+[[Category:殉職者|S]]</str>
+    <str name="title">迈克尔·约翰·史密斯</str>
+    <str name="titleText">迈克尔·约翰·史密斯</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30604551</int>
+    <date name="timestamp">2014-03-08T17:23:55Z</date>
+    <long name="_version_">1484748723961462784</long></doc>
+  <doc>
+    <str name="id">73844</str>
+    <str name="text">'''挑战者号'''可能指：
+*[[挑战者号航天飞机]]：[[美国国家航空航天局]]（NASA）肯尼迪太空中心旗下的一架航天飞机。1983年开始启用不幸在1986年时于任务中爆炸坠毁。
+*[[挑战者号航天飞机灾难]]：详细介绍挑战者号失事过程。
+*[[挑战者号科学考察]]：介绍1872~1876年间英国“挑战者号”海洋科学考察的过程和成果。
+*[[挑战者号 (电影)]]：讲述[[理查德·費曼]]调查航天飞机挑战者号灾难的电影。
+*[[挑战者号 (电视电影)]]：重现了航天飞机挑戰者號發射时的事故的电视电影。
+
+{{disambig|Cat=四字消歧义|Y}}</str>
+    <str name="title">挑战者号</str>
+    <str name="titleText">挑战者号</str>
+    <str name="user">Blove maple</str>
+    <int name="userId">486969</int>
+    <int name="revision">10332561</int>
+    <date name="timestamp">2009-06-16T00:00:55Z</date>
+    <long name="_version_">1484748572871098369</long></doc>
+  <doc>
+    <str name="id">371195</str>
+    <str name="text">{{太空任务信息框|
+  任务名称         = {{lang|en|STS-41-G}}|
+  任务徽章         = STS-41-G_patch.png|
+  航天飞机         = [[挑戰者號太空梭|挑战者号]]|
+  成员                 = 7 |
+  发射地点         = 佛罗里达州[[肯尼迪航天中心]]&lt;br /&gt;{{lang|en|LC 39A}} |
+  发射                 = 1984年10月5日&lt;br /&gt;7:03:00 {{lang|en|EST}} |
+  降落                 = 1984年10月13日&lt;br /&gt;0:26:33 {{lang|en|PST}}|
+  质量                 = 发射：110,127千克&lt;br /&gt;有效载荷：10,643千克&lt;br /&gt;降落：91,744千克|
+  任务时间         = 8天5小时23分钟33秒|
+  远地点             = 390千米|
+  近地点             = 350千米|
+  地球轨道倾角 = 57.0°|
+  地球轨道周期 = 92.0分钟|
+  地球轨道         = 133|
+  高度                 = 404千米|
+  飞行距离         = 5,293,847千米|
+  成员合影         = STS-41-G_crew.jpg|
+  成员介绍         = 后排左起：斯库里-鲍威尔、克里彭、加诺&lt;br /&gt;前排左起：麦克布莱德、莱德、萨利文、里茨马|
+  后次任务         = [[File:Sts-51-a-patch.png|26px]] {{lang|en|[[STS-51-A]]}}|
+  前次任务         = [[File:Sts-41-d-patch.png|25px]] {{lang|en|[[STS-41-D]]}}|
+|}}
+
+'''{{lang|en|STS-41-G}}'''是历史上第十三次航天飞机任务，也是[[挑戰者號太空梭|挑战者号航天飞机]]的第六次太空飞行。
+
+== 任务成员 ==
+* '''[[罗伯特·克里彭]]'''（{{lang|en|Robert Crippen}}，曾执行{{lang|en|[[STS-1]]}}、{{lang|en|[[STS-7]]}}、{{lang|en|[[STS-41-C]]}}以及{{lang|en|STS-41-G}}任务），指令长
+* '''[[乔恩·麦克布莱德]]'''（{{lang|en|Jon A. McBride}}，曾执行{{lang|en|STS-41-G}}任务），飞行员
+* '''[[凯瑟琳·萨利文]]'''（{{lang|en|Kathryn D. Sullivan}}，曾执行{{lang|en|STS-41-G}}、{{lang|en|[[STS-31]]}}以及{{lang|en|[[STS-45]]}}任务），任务专家
+* '''[[萨莉·莱德]]'''（{{lang|en|Sally Ride}}，曾执行{{lang|en|[[STS-7]]}}以及{{lang|en|STS-41-G}}任务），任务专家
+* '''[[大卫·里茨马]]'''（{{lang|en|David C. Leestma}}，曾执行{{lang|en|STS-41-G}}、{{lang|en|[[STS-28]]}}以及{{lang|en|[[STS-45]]}}任务），任务专家
+* '''[[马克·加诺]]'''（{{lang|en|Marc Garneau}}，[[加拿大]]宇航员，曾执行{{lang|en|STS-41-G}}、{{lang|en|[[STS-77]]}}以及{{lang|en|[[STS-97]]}}任务），有效载荷专家
+* '''[[保罗·斯库里-鲍威尔]]'''（{{lang|en|Paul D. Scully-Power}}，曾执行{{lang|en|STS-41-G}}任务），有效载荷专家
+
+== 替补有效载荷专家 ==
+* '''[[罗伯特·瑟斯克]]'''（{{lang|en|Robert Thirsk}}，曾执行{{lang|en|STS-78}}任务）
+
+{{挑战者号航天飞机}}
+
+[[Category:载人航天]]
+[[Category:航天飞机任务]]
+[[Category:1984年]]</str>
+    <str name="title">STS-41-G</str>
+    <str name="titleText">STS-41-G</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30134870</int>
+    <date name="timestamp">2014-02-10T03:39:28Z</date>
+    <long name="_version_">1484748655965503490</long></doc>
+  <doc>
+    <str name="id">376450</str>
+    <str name="text">{{Infobox Space mission|
+  任务名称     = {{lang|en|STS-51-L}}|
+  任务徽章     = STS-51-L.svg|
+  航天飞机     = [[挑戰者號太空梭|挑战者号]]|
+  成员         = 7 |
+  发射地点     = 佛罗里达州[[肯尼迪航天中心]]&lt;br /&gt;{{lang|en|LC 39A}} |
+  发射         = 1986年1月28日&lt;br /&gt;11:38:00 {{lang|en|EST}} |
+  降落         = 1986年2月3日&lt;br /&gt;0:12:00 {{lang|en|EST}} (计划)|
+  质量         = 发射：121,778千克&lt;br /&gt;有效载荷：21,937千克&lt;br /&gt;降落：90,584千克 (计划)|
+  任务时间     = 1分钟13秒&lt;br /&gt;6天0小时34分钟 (计划)|
+  远地点       = 295千米 (计划)|
+  近地点       = 285千米 (计划)|
+  环绕地球轨道 = 96 (计划)|
+  地球轨道倾角 = 28.45° (计划)|
+  地球轨道周期 = 90.4分钟 (计划)|
+  高度         = 280千米 (计划)|
+  成员合影     = Challenger flight 51-l crew.jpg|
+  成员介绍     = 后排左起：鬼塚、麦考利芙、贾维斯、蕾斯尼克&lt;br /&gt;前排左起：史密斯、斯科比、麦克内尔|
+  后次任务     = [[File:Sts-26-patch.png|25px]] {{lang|en|[[STS-26]]}}|
+  前次任务     = [[File:STS-61-c-patch.png|25px]] {{lang|en|[[STS-61-C]]}}|
+|}}
+
+'''{{lang|en|STS-51-L}}'''是历史上第25次[[航天飞机]]任务，也是[[挑戰者號太空梭|挑战者号航天飞机]]的第10次太空飞行。发射73秒后，航天飞机于升空过程中突然爆炸，七名宇航员全部遇难。
+
+== 任务成员 ==
+* '''[[迪克·斯科比]]'''（{{lang|en|Dick Scobee}}，曾执行{{lang|en|[[STS-41-C]]}}以及{{lang|en|STS-51-L}}任务），指令长
+* '''[[迈克尔·约翰·史密斯]]'''（{{lang|en|Michael J. Smith}}，曾执行{{lang|en|STS-51-L}}任务），飞行员
+* '''[[朱迪斯·蕾斯尼克]]'''（{{lang|en|Judith Resnik}}，曾执行{{lang|en|[[STS-41-D]]}}以及{{lang|en|STS-51-L}}任务），任务专家
+* '''[[鬼塚承次]]'''（{{lang|en|Ellison S. Onizuka}}，曾执行{{lang|en|[[STS-51-C]]}}以及{{lang|en|STS-51-L}}任务），任务专家
+* '''[[罗纳德·麦克内尔]]'''（{{lang|en|Ronald E. McNair}}，曾执行{{lang|en|[[STS-41-B]]}}以及{{lang|en|STS-51-L}}任务），任务专家
+* '''[[格里高利·贾维斯]]'''（{{lang|en|Gregory Jarvis}}，曾执行{{lang|en|STS-51-L}}任务），有效载荷专家
+* '''[[克里斯塔·麦考利芙]]'''（{{lang|en|Christa McAuliffe}}，曾执行{{lang|en|STS-51-L}}任务），有效载荷专家
+
+== 相關條目 ==
+*[[挑戰者號太空梭災難]]
+
+{{挑战者号航天飞机}}
+
+[[Category:载人航天]]
+[[Category:航天飞机任务]]
+[[Category:1986年]]</str>
+    <str name="title">STS-51-L</str>
+    <str name="titleText">STS-51-L</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30134921</int>
+    <date name="timestamp">2014-02-10T03:42:46Z</date>
+    <long name="_version_">1484748656680632320</long></doc>
+  <doc>
+    <str name="id">373933</str>
+    <str name="text">{{Infobox Space mission|
+  任务名称     = {{lang|en|STS-61-A}}|
+  任务徽章     = STS-61-a-patch.png|
+  航天飞机     = [[挑戰者號太空梭|-{zh-hans:挑战者号; zh-hant:挑戰者號;}-]]|
+  成员         = 8 |
+  发射地点     = 佛罗里达州[[肯尼迪航天中心]]&lt;br /&gt;{{lang|en|LC 39A}} |
+  发射         = 1985年10月30日&lt;br /&gt;17:00:00 {{lang|en|UTC}} |
+  降落         = 1985年11月6日&lt;br /&gt;17:44:51 {{lang|en|PDT}}|
+  质量         = 发射：110,568千克&lt;br /&gt;有效载荷：14,451千克&lt;br /&gt;降落：97,144千克|
+  任务时间     = 7天0小时44分钟51秒|
+  远地点       = 331千米|
+  近地点       = 319千米|
+  环绕地球轨道 = 127|
+  地球轨道倾角 = 57.0°|
+  地球轨道周期 = 91.0分钟|
+  成员合影     = STS-61-A crew.jpg|
+  成员介绍     = 后排左起：纳格尔、布鲁福德、梅瑟施米德、欧克尔斯&lt;br /&gt;前排左起：弗瑞尔、唐巴尔、布克利、哈特斯菲尔德|
+  后次任务     = [[File:Sts-61-b-patch.png|25px]] {{lang|en|[[STS-61-B]]}}|
+  前次任务     = [[File:Sts-51-j-patch.png|25px]] {{lang|en|[[STS-51-J]]}}|
+|}}
+
+'''{{lang|en|STS-61-A}}'''是历史上第二十二次航天飞机任务，也是[[挑戰者號太空梭|-{zh-hans:挑战者号航天飞机; zh-hant:挑戰者號太空梭;}-]]的第九次太空飞行。
+
+== 任务成员 ==
+* '''[[亨利·哈特斯菲尔德]]'''（{{lang|en|Henry W. Hartsfield}}，曾执行{{lang|en|[[STS-4]]}}、{{lang|en|[[STS-41-D]]}}、{{lang|en|STS-61-A}}任务），指令长
+* '''[[斯蒂芬·纳格尔]]'''（{{lang|en|Steven R. Nagel}}，曾执行{{lang|en|[[STS-51-G]]}}、{{lang|en|STS-61-A}}、{{lang|en|[[STS-37]]}}以及{{lang|en|[[STS-55]]}}任务），飞行员
+* '''[[波妮·唐巴尔]]'''（{{lang|en|Bonnie J. Dunbar}}，曾执行{{lang|en|STS-61-A}}、{{lang|en|[[STS-32]]}}、{{lang|en|[[STS-50]]}}、{{lang|en|[[STS-71]]}}以及{{lang|en|[[STS-89]]}}任务），任务专家
+* '''[[詹姆斯·布克利]]'''（{{lang|en|James Buchli}}，曾执行{{lang|en|[[STS-51-C]]}}、{{lang|en|STS-61-A}}、{{lang|en|[[STS-29]]}}以及{{lang|en|[[STS-48]]}}任务），任务专家
+* '''[[圭恩·布鲁福德]]'''（{{lang|en|Guion Bluford}}，曾执行{{lang|en|[[STS-8]]}}、{{lang|en|STS-61-A}}、{{lang|en|[[STS-39]]}}以及{{lang|en|[[STS-53]]}}任务），任务专家
+* '''[[雷恩哈德·弗瑞尔]]'''（{{lang|en|Reinhard Furrer}}，[[德国]]宇航员，曾执行{{lang|en|STS-61-A}}任务），有效载荷专家
+* '''[[恩斯特·梅瑟施米德]]'''（{{lang|en|Ernst Messerschmid}}，[[德国]]宇航员，曾执行{{lang|en|STS-61-A}}任务），有效载荷专家
+* '''[[乌波·欧克斯]]'''（{{lang|en|Wubbo Ockels}}，[[荷兰]]宇航员，曾执行{{lang|en|STS-61-A}}任务），有效载荷专家
+
+== 替补有效载荷专家 ==
+* '''[[乌尔夫·默博尔德]]'''（{{lang|en|Ulf Merbold}}，[[西德]]宇航员，曾执行{{lang|en|[[STS-9]]}}、{{lang|en|[[STS-42]]}}以及{{lang|en|[[联盟TM-20号]]}}任务）
+
+{{挑战者号航天飞机}}
+
+[[Category:载人航天]]
+[[Category:航天飞机任务]]
+[[Category:1985年]]</str>
+    <str name="title">STS-61-A</str>
+    <str name="titleText">STS-61-A</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30134954</int>
+    <date name="timestamp">2014-02-10T03:44:47Z</date>
+    <long name="_version_">1484748656389128193</long></doc>
+  <doc>
+    <str name="id">363017</str>
+    <str name="text">{{Infobox Space mission|
+  任务名称     = {{lang|en|STS-6}}|
+  任务徽章     = Sts-6-patch.png|
+  航天飞机     = [[挑戰者號太空梭|挑战者号]]|
+  成员         = 4 |
+  发射地点     = 佛罗里达州[[肯尼迪航天中心]]&lt;br /&gt;{{lang|en|LC 39A}} |
+  发射         = 1983年4月4日&lt;br /&gt;18:30:00 {{lang|en|UTC}} |
+  降落         = 1983年4月9日&lt;br /&gt;18:53:42 {{lang|en|UTC}}|
+  质量         = 发射：116,457千克&lt;br /&gt;有效载荷：21,305千克&lt;br /&gt;降落：86,330千克|
+  任务时间     = 5天0小时23分钟42秒|
+  远地点       = 295千米|
+  近地点       = 288千米|
+  地球轨道倾角 = 28.5°|
+  地球轨道周期 = 90.4分钟|
+  高度         = 330千米|
+  飞行距离     = 3,370,437千米|
+  成员合影     = Sts-6-crew.jpg|
+  成员介绍     = 左起：彼得森、威兹、马斯格雷夫，鲍勃科|
+  后次任务     =  {{lang|en|[[STS-7]]}}|
+  前次任务     = [[File:Sts-5-patch.png|25px]] {{lang|en|[[STS-5]]}}|
+|}}
+
+'''{{lang|en|STS-6}}'''是历史上第六次航天飞机任务，也是[[挑戰者號太空梭|挑战者号航天飞机]]的第一次太空飞行。
+
+== 任务成员 ==
+*'''[[保罗·维兹]]'''（{{lang|en|Paul Weitz}}，曾执行曾执行[[天空实验室2号]]以及{{lang|en|STS-6}}任务），指令长
+* '''[[卡罗尔·鲍勃科]]'''（{{lang|en|Karol J. Bobko}}，曾执行{{lang|en|STS-6}}、{{lang|en|[[STS-51-D]]}}以及{{lang|en|[[STS-51-J]]}}任务），飞行员
+* '''[[唐纳德·彼得森]]'''（{{lang|en|Donald H. Peterson}}，曾执行{{lang|en|STS-6}}任务），任务专家
+* '''[[斯多里·马斯格雷夫]]'''（{{lang|en|Story Musgrave}}，曾执行{{lang|en|STS-6}}、{{lang|en|[[STS-51-F]]}}、{{lang|en|[[STS-33]]}}、{{lang|en|[[STS-44]]}}、{{lang|en|[[STS-61]]}}以及{{lang|en|[[STS-80]]}}任务），任务专家
+
+{{挑战者号航天飞机}}
+
+[[Category:载人航天]]
+[[Category:航天飞机任务]]
+[[Category:1983年]]</str>
+    <str name="title">STS-6</str>
+    <str name="titleText">STS-6</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30134945</int>
+    <date name="timestamp">2014-02-10T03:44:15Z</date>
+    <long name="_version_">1484748654784806915</long></doc>
+  <doc>
+    <str name="id">522625</str>
+    <str name="text">{{宇航员信息框
+| 姓名                  = 弗兰西斯·理-{查}-德·斯科比
+| 照片                  = Scobee-fr.jpg
+| 照片大小          = 215px
+| 标题                  = 美国国家航空航天局宇航员
+| 国籍                  = {{flagicon|USA}} [[美国]]
+| 状态                  = [[STS-51-L]]任务中牺牲
+| 出生日期          = 1939年5月19日
+| 出生地点          = {{flagicon|USA}} [[西弗吉尼亚州]]，查尔斯顿
+| 去世日期          = {{death_date_and_age|1986|1|28|1939|5|19}}
+| 去世地点          ={{flagicon|USA}} [[佛罗里达州]]，[[卡纳维拉尔角]]
+| 军阶                  = [[中校]]（[[美国空军]]）
+| 之前职业          = [[飞行员]]
+| 选择                  = [[第八组宇航员]]
+| 太空时间          = 8天5小时23分钟
+| 任务                  = [[STS-41-C]]、[[STS-51-L]]
+| 任务徽章          = [[File:STS-41-G patch.png|30px]]
+|}}
+
+'''弗兰西斯·理-{查}-德·“迪克”·斯科比'''（'''{{lang|en|Francis Richard "Dick" Scobee}}'''，{{bd|1939年|5月19日|1986年|1月28日|catIdx=S}}）出生于[[美国]][[华盛顿州]]{{lang|en|Cle Elum}}，是一名美国[[宇航员]]，他在[[挑戰者號太空梭]][[STS-51-L]]任务中任航天飞机机长，在起飞时因推进器爆炸而丧身。
+
+斯科比在[[奥本 (华盛顿州)|奥本]]读小学至高中，1957年毕业，此后加入[[美国空军]]，他在德克萨斯州[[凯利空军基地]]任[[往复式发动机]]机务师。在执勤时间之外他参加高校学习，1965年获得[[亚利桑那大学]][[宇航]]工程科学[[学士]]学位。同年他被提升为军官。此后他参加飞行学校，于1966年获得飞行执照，在[[越南战争]]中当战斗机飞行员。他获得[[优异飞行十字勋章]]、[[飞行奖章]]和其它勋章。
+
+此后他加入[[加利福尼亚州]][[洛杉矶]]附近[[爱德华兹空军基地]]的航空研究飞行学校。1972年他从该校毕业后他成为空军[[试飞员]]，他试飞了十多种机型，飞行时间达数千小时，其中包括[[波音747]]、[[X-24试验机]][[升力体]]、[[F-111]]和[[C-5運輸機]]。他退伍时的军衔为[[中校]]。
+
+1978年1月他被获选进入[[美国国家航空航天局]]宇航员培训，1979年8月培训结束。在等待他首次轨道飞行期间他出任[[航天飞机载运机]]的教练飞行员。1984年4月他成为挑战者号[[STS-41-C]]任务的飞行员，这次任务成功地发射了一颗[[人造卫星]]，修理了另一颗人造卫星。
+
+在挑战者号的STS-51-L任务中斯科比被提升为机长。这次飞行的任务包括发射一枚观察正在接近的[[哈雷彗星]]的人造卫星以及开始[[太空教师计划]]。由于天气恶劣和技术问题起飞一再被推迟。当航天飞机最终起飞后由于一枚密封环的缺陷导致飞机在起飞73秒后爆炸，包括斯科比在内的全部机组人员丧身。许多人通过电视实况转播直接看到了这次悲剧，此后美国进行数日国家哀悼，美国国家航空航天局内部进行巨大重组。
+
+斯科比被葬在[[阿灵顿国家公墓]]，他有一个妻子和两个孩子。业余斯科比喜欢各种户外活动以及飞行、油画、木刻、骑摩托车和跑步。2004年斯科比被追授[[国会荣誉航天奖章]]和被纳入宇航员名人堂。
+
+挑战者号失事后斯科比读过小学的北奥本小学改名为迪克·斯科比小学，奥本机场也改名来纪念他&lt;ref&gt;[http://www.s50wa.com/overview.html]&lt;/ref&gt;。[[小行星3350]]以他的名字作為紀念。
+
+[[南卡罗来纳州]][[默特尔比奇]]有一条以斯科比命名的街道&lt;ref&gt;[http://www.mapquest.com/maps/map.adp?formtype=address&amp;addtohistory=&amp;address=%5b1%2d36%5d%20Dick%20Scobee%20Rd&amp;city=Myrtle%20Beach&amp;state=SC&amp;zipcode=29579&amp;country=US&amp;location=N62N07Uej3rteby9jK%2f%2fXlY2L%2fZbs%2fKqvzPx4lv1O7qX0Gqw%2beRsIXhWxQ0M1MUlFpTkREV4IiDqMTB60E6MDGI6wVqvxiLgF8YjTuqEmBoqHP2QzgK3pminVpIwSISGSKvGgnzpEjJEkAQGe5UkBQ%3d%3d&amp;ambiguity=1]&lt;/ref&gt;，其附近还有以[[罗纳德·麦克内尔]]和[[克里斯塔·麦考利芙]]命名的街道。
+
+在1990年的电视剧《挑战者号》中[[巴里·博斯特威克]]饰迪克·斯科比。
+
+== 参考资料 ==
+&lt;div style="font-size:small"&gt;
+&lt;references/&gt;
+&lt;/div&gt;
+
+{{第八组宇航员}}
+{{國會太空榮譽勳章}}
+[[Category:國會太空榮譽勳章獲得者]]
+[[Category:宇航员|S]]
+[[Category:美国宇航员|Scobee, Francis Richard "Dick"]]
+[[Category:第八组宇航员|S]]
+[[Category:亞利桑那大學校友|S]]
+[[Category:殉職者|S]]</str>
+    <str name="title">迪克·斯科比</str>
+    <str name="titleText">迪克·斯科比</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30605099</int>
+    <date name="timestamp">2014-03-08T18:11:02Z</date>
+    <long name="_version_">1484748697445072897</long></doc>
+  <doc>
+    <str name="id">566665</str>
+    <str name="text">{{宇航员信息框
+| 姓名          =弗拉基米尔·米哈伊洛维奇·科马洛夫
+| 照片         =
+| 标题 =前苏联宇航员
+| 国籍   =[[苏联]]
+| 出生日期    =1927年3月16日
+| 去世日期    ={{death date and age|1967|4|24|1927|3|16}}
+| 出生地点  = {{USSR}}[[莫斯科]]
+| 去世地点   ={{USSR}}[[奥伦堡州]]
+| 职业    =[[工程师]]
+| 军阶          =[[苏联空军]][[上校]]
+| 选择     =[[List of astronauts by selection#1960|Air Force Group 1]]
+| 太空时间          =2d 03h 04m 
+| 任务       =[[上升1号]]、[[联盟1号]]
+| 任务徽章      =[[File:Voskhod1patch.png|20px]] [[File:Soyuz-1-patch.png|40px]]
+|}}
+[[File:Soviet Union-1964-stamp-Vladimir Mikhailovich Komarov.jpg|thumb|right|175px|前苏联在1964发行的为纪念弗拉基米尔·科马洛夫的纪念邮票]]
+
+'''弗拉基米尔·米哈伊洛维奇·科马洛夫'''（[[俄语]]:'''{{lang|ru|Владимир Михайлович Комаров}}'''，{{bd|1927年|3月16日|1967年|4月24日|catIdx=Комаров}}）是一名[[前苏联]][[宇航员]]。他是第一名因载人航天遇难的苏联宇航员，也是第一个多次进入太空的苏联宇航员。
+
+==生平==
+科马洛夫生于[[前苏联]]（现[[俄罗斯]]）[[莫斯科]]市。
+
+科马洛夫于1960年入选苏联第一组宇航员，并曾作为[[帕维尔·波波维奇]]的替补队员参与了[[东方4号]]任务。他本人第一次进入太空是在[[上升1号]]任务，而在他的第二次飞行任务[[联盟1号]]中，他因飞船[[降落伞]]故障而死于飞船坠毁。
+
+坠毁前，苏联总理[[柯西金]]曾告诉科马洛夫“祖国将以他为骄傲”。尽管有许多流言称科马洛夫死前一直在诅咒飞船设计者和飞行控制员，但据美国[[国家安全局]]在[[伊斯坦布尔]]的监听站报告称：科马洛夫的回复无法听清&lt;ref&gt;{{cite web|url=http://www.svengrahn.pp.se/histind/Soyuz1Land/Soyanaly.htm#NSA%20intercepts%20from|title=An analysis of the Soyuz 1 flight}}&lt;/ref&gt;。无论事实如何，在灾难发生之后，苏联指挥计算中心得到一份来自[[西德]]监控站的录音带，这份录音带上记录了科马洛夫的一些语音片断，这些语音片断参杂于其他飞行数据中，据报道科马洛夫近乎发狂且含糊不清的语音片断中包含了“害死”这个单词。很显然，这些录音是记录于坠毁前的最后几次绕地球飞行。
+
+科马洛夫的妻子是瓦伦缇娜·雅科夫勒夫纳·凯瑟尤娃，并有两个孩子：耶夫基尼和艾琳娜。
+
+== 荣誉 ==
+1971年发现的[[小行星]][[1836科马洛夫]]以科马洛夫命名，同样以他名字命名的还有一个[[月球]]上的[[环形山]]。受宇航员和[[小行星]]的启发，作曲家[[贝雷特·迪恩]]创作了一支名为'科马洛夫的陨落'的[[交响乐]]，这支曲子于2006年由[[西蒙·勒顿]]指挥演出，收录[[EMI]]古典音乐专辑系列西蒙·勒顿的[[星球]]。
+
+在众多荣誉中还包含一个于1969年建立在[[卢布尔雅那]]的弗拉基米尔·米哈伊洛维奇·科马洛夫宇航火箭技术俱乐部 （ARK）。
+
+[[国际宇航联合会]]颁发的''科马洛夫奖''是以他的名字命名的。
+
+== 参见 ==
+* [[阿波罗1号]]
+
+==参考资料==
+{{reflist}}
+== 外部链接 ==
+
+* [http://www2.arnes.si/~ljarkvmk5/ ARK Vladimir M. Komarov]
+* [http://www.astronautix.com/astros/komarov.htm Komarov]详细传记[http://www.astronautix.com Encyclopedia Astronautica]
+* [http://news.bbc.co.uk/onthisday/hi/dates/stories/april/24/newsid_2523000/2523019.stm BBC "On this day" 1967: Russian cosmonaut dies in space crash]
+
+
+
+{{DEFAULTSORT:Комаров, Владимир Михайлович}}
+[[Category:苏联英雄]]
+[[Category:蘇聯太空人]]
+[[Category:蘇聯空軍軍官]]
+[[Category:蘇聯空難身亡者]]
+[[Category:莫斯科人]]
+[[Category:安葬於克里姆林宮紅場墓園]]</str>
+    <str name="title">弗拉基米尔·米哈伊洛维奇·科马洛夫</str>
+    <str name="titleText">弗拉基米尔·米哈伊洛维奇·科马洛夫</str>
+    <str name="user">Dexbot</str>
+    <int name="userId">1201250</int>
+    <int name="revision">32669420</int>
+    <date name="timestamp">2014-09-15T02:20:05Z</date>
+    <long name="_version_">1484748716479873030</long></doc>
+  <doc>
+    <str name="id">292596</str>
+    <str name="text">{{newsrelease}}
+{{Expand|time=2013-08-14T10:57:44+00:00}}
+{{Infobox Airliner accident|name=貝爾韋尤航空210號班機空難|
+Date=2005年10月22日 |
+Type=維修不良、雷擊 |
+Site=[[尼日利亞]][[拉各斯]] |
+Fatalities=117 |
+Injuries=0 |
+Aircraft Type=[[波音737|波音737-200]] |
+Operator=[[貝爾韋尤航空]]|
+Tail Number=5N-BFN |
+Passengers=111|
+Crew=6 |
+Survivors = 0 |
+}}
+
+'''[[贝尔韦尤航空公司|贝尔韦尤航空]]210號班機'''（[[英語]]：Bellview Airlines Flight 210），是从[[尼日利亚]]经济首都[[拉各斯]][[穆爾塔拉·穆罕默德國際機場]]飞往首都[[阿布贾]][[納姆迪·阿齊基韋國際機場]]的定期客運航班，使用[[波音737-200]]客机，飞行时间应50分钟。2005年10月22日当地时间22日晚8点45分，载有111名乘客和6名机组人员的班机从穆爾塔拉·穆罕默德国际机场起飞后不久坠毁，機上111名乘客和6名機組人員全數死亡。
+
+==事故經過==
+該架發機係於起飛後3分钟失踪。後來尼日利亚航空当局证实，该飞机已坠毁。尼日利亚总统办公室透露，出事飞机上载有多名高级官员，其中包括邮政局长，他们原定乘飞机前往该国政治首都阿布贾参加一场会议。尼日利亚总统府的一位人士称，失踪客机的飞行员曾在飞机起飞后数分钟发出过求救信号，这表明飞机曾遇到技术问题。尼日利亚新闻部长说，客机坠毁地点位于拉各斯以北约30公里[[奥貢州]]埃佛附近的利萨村。赶赴坠机现场抢救的[[红十字会]]人员称，在失事现场没有发现生还者，到处都是飞机的残骸和遇难者的遗体。[[西非经济共同体]]发言人证实，该组织负责政治、防卫和安全的副执行秘书奥马尔·迪亚拉在飞机上。
+
+尼日利亚民航总局局长奥耶里里称，失事客机的机龄为24年，它于2005年2月通过了全面的技术检测，技术检测的有效期是18个月。飞机在起飞前十小时还进行过一次额外的检测。坠机现场的一名最高级别警官称，尼日利亚警方已找到了坠毁客机上的[[飞行纪录仪]]。当地村民说，他们看见这架飞机坠落前在空中发生[[爆炸]]。
+
+当地警方说，空难发生后，坠机现场出现大量[[洗劫者]]，他们从遇难者身上拿走现金与值钱的物品。
+
+==原因== 
+貝爾韋尤航空於調查進行期間被勒令中止所有從拉各斯起飛的航班。出事的航班於起飛後不久就發出求救訊號，隨後在無線電通訊中聽見一聲強烈的[[雷電]]聲，飛機便失去了聯絡。[[波音]]派出工程師及調查人員前往尼日利亞協助當地政府調查，他們初步指出，飛機的[[維修]][[保養]]不足。而飛機起飛後，因被[[閃電]]擊中右邊機翼，立即引致右邊[[引擎]]著火，而後飛機向左傾側及失去控制，最終[[失速]]墜毀。
+
+== 外部链接 ==
+*{{en icon}} [http://aib.gov.ng/reports/2-2009-BLV-2005-10-22-F.pdf Report on the Accident involving Bellview Airlines Ltd B737 200 Reg. 5N BFN at Lisa Village, Ogun State, Nigeria On 22 October 2005] ([http://www.webcitation.org/6SDIFixoC Archive]). {{link-en|Accident Investigation Bureau|Accident Investigation Bureau (Nigeria)}}.
+*{{zh-cn icon}} "[http://news.sina.com.cn/z/nigcrash05/index.shtml 尼日利亚客机坠毁]"　[[新浪]]网专题&lt;!--Front page archived: http://www.webcitation.org/6SDIcd7f4--&gt;
+
+{{2005年航空事故}}
+
+[[Category:2005年航空事故]]
+[[Category:奈及利亞航空事故]]
+[[Category:天氣因素觸發的航空事故]]
+[[Category:維修失誤觸發的航空事故]]</str>
+    <str name="title">贝尔韦尤航空210号班机空难</str>
+    <str name="titleText">贝尔韦尤航空210号班机空难</str>
+    <str name="user">WhisperToMe</str>
+    <int name="userId">379101</int>
+    <int name="revision">32496268</int>
+    <date name="timestamp">2014-08-29T16:24:07Z</date>
+    <long name="_version_">1484748639041486851</long></doc>
+  <doc>
+    <str name="id">373923</str>
+    <str name="text">{{太空任务信息框|
+  任务名称         = {{lang|en|STS-51-F}}|
+  任务徽章         = Sts-51-f-patch.png|
+  航天飞机         = [[挑戰者號太空梭|挑战者号]]|
+  成员                 = 7 |
+  发射地点         = 佛罗里达州[[肯尼迪航天中心]]&lt;br /&gt;{{lang|en|LC 39A}} |
+  发射                 = 1985年7月29日&lt;br /&gt;21:00:00 {{lang|en|EST}} |
+  降落                 = 1985年8月6日&lt;br /&gt;19:45:26 {{lang|en|UTC}}|
+  质量                 = 发射：114,590千克&lt;br /&gt;有效载荷：15,603千克&lt;br /&gt;降落：98,307千克|
+  任务时间         = 7天22小时45分钟26秒|
+  远地点             = 337千米|
+  近地点             = 203千米|
+  环绕地球轨道 = 127|
+  地球轨道倾角 = 49.5°|
+  地球轨道周期 = 89.9分钟|
+  高度                 = 320千米|
+  飞行距离         = 5,284,350千米|
+  成员合影         = STS-51-F crew.jpg|
+  成员介绍         = 后排左起：马斯格雷夫、埃克顿、巴托&lt;br /&gt;前排左起：英格兰、海因兹、福勒顿、布里奇斯|
+  后次任务         = [[File:Sts-51-i-patch.png|25px]] {{lang|en|[[STS-51-I]]}}|
+  前次任务         = [[File:Sts-51-g-patch.png|25px]] {{lang|en|[[STS-51-G]]}}|
+|}}
+
+'''{{lang|en|STS-51-F}}'''（太空实验室2号）是历史上第十九次航天飞机任务，也是[[挑戰者號太空梭|挑战者号航天飞机]]的第八次太空飞行。
+
+== 任务成员 ==
+* '''[[戈尔登·福勒顿]]'''（{{lang|en|C. Gordon Fullerton}}，曾执行{{lang|en|[[STS-3]]}}以及{{lang|en|STS-51-F}}任务），指令长
+* '''[[罗伊·布里奇斯]]'''（{{lang|en|Roy D. Bridges, Jr.}}，曾执行{{lang|en|STS-51-F}}任务），飞行员
+* '''[[斯多里·马斯格雷夫]]'''（{{lang|en|Story Musgrave}}，曾执行{{lang|en|[[STS-6]]}}、{{lang|en|STS-51-F}}、{{lang|en|[[STS-33]]}}、{{lang|en|[[STS-44]]}}、{{lang|en|[[STS-61]]}}以及{{lang|en|[[STS-80]]}}任务），任务专家
+* '''[[安东尼·英格兰]]'''（{{lang|en|Anthony W. England}}，曾执行{{lang|en|STS-51-F}}任务），任务专家
+* '''[[卡尔·海因兹]]'''（{{lang|en|Karl Henize}}‎，曾执行{{lang|en|STS-51-F}}‎任务），任务专家
+* '''[[罗伦·埃克顿]]'''（{{lang|en|Loren Acton}}，曾执行{{lang|en|STS-51-F}}任务），有效载荷专家
+* '''[[约翰-大卫·巴托]]'''（{{lang|en|John-David F. Bartoe}}，曾执行{{lang|en|STS-51-F}}任务），有效载荷专家
+
+== 替补有效载荷专家 ==
+* '''[[乔治·西蒙]]'''（{{lang|en|George W. Simon}}）
+* '''[[戴安·普林兹]]'''（{{lang|en|Diane K. Prinz}}）
+
+{{挑战者号航天飞机}}
+
+[[Category:载人航天]]
+[[Category:航天飞机任务]]
+[[Category:1985年]]</str>
+    <str name="title">STS-51-F</str>
+    <str name="titleText">STS-51-F</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30134912</int>
+    <date name="timestamp">2014-02-10T03:42:06Z</date>
+    <long name="_version_">1484748656388079616</long></doc>
+</result>
+</response>

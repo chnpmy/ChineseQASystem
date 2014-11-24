@@ -1,0 +1,1492 @@
+{{noteTA
+|G1=Games
+}}
+
+{{Infobox video game
+| title = 憤怒的小鳥GO<br>''Angry Birds GO''
+| image = [[File:Angry Birds GO -Logo.png|200px]]
+| caption= 
+| developer = [[Rovio Entertainment]]
+| publisher = [[Clickgamer.com|Clickgamer Media]]<br />[[Chillingo]]
+| producer =
+| designer =
+| composer =
+| series = 
+| engine = 
+| version = 
+| released = 2013年12月11日
+| genre = [[益智遊戲]][[赛车游戏]]
+| modes = [[單人遊戲]]、[[赛车游戏]]
+| ratings = 
+| platforms = [[iOS]]<br />[[Android]]<br />[[Windows Phone]]<br />
+| media =
+| requirements =
+| input = [[多點觸控]]
+}}
+[[File:Angry birds go icon.png|200px|thumb|right|愤怒的小鸟GO]]
+《'''憤怒的小鳥Go!'''》（{{lang-en|Angry Birds Go!}}），是[[芬蘭]][[Rovio娛樂|Rovio公司]]推出的一款[[卡丁車]][[賽車遊戲]]，為《[[憤怒的小鳥]]》電子遊戲系列的第一款卡丁車賽車遊戲。《愤怒的小鸟GO！》也是Rovio首个免费的[[愤怒的小鸟|“愤怒的小鸟”]]游戏，亦是Rovio旗下第一个有着3D视觉效果的游戏，遊戲是與[[紅牛能量飲料|紅牛]]的賽車手機遊戲合作，並已於2013年12月11日发售<ref>{{cite web|first=Marcus|last=Yam|url=http://www.tomsguide.com/us/angry-birds-go-kart-racing,news-17456.html |title=Angry Birds Go Will Be Rovio's Kart Racing Game |work=Tom's Guide |date=2013-08-28 |accessdate=2013-09-13}}</ref> 。遊戲與[[孩之寶]]Telepods和積木玩具兼容，可讓玩家召喚特定卡丁車。<ref>{{cite web|url=http://www.pocketgamer.co.uk/r/Android/Angry+Birds+Go!/news.asp?c=54012 |title=Rovio confirms that you'll be able to use Telepods and Jenga toys in Angry Birds Go! |date=2013-09-24 |accessdate=2013-09-24}}</ref>遊戲的賽道位於3D小豬島。卡丁車可以升級，每個人物都有特殊能力。<ref>{{cite web|author=[[The Verge]] |url=http://www.theverge.com/2013/10/15/4840888/angry-birds-go-racing-game-trailer |title=Rovio takes on 'Mario Kart' with 'Angry Birds Go' |publisher=The Verge |date=2013-09-30 |accessdate=2013-10-15}}</ref>
+
+== 发展 ==
+《愤怒的小鸟GO！》是一个同时发布于四大智能手机操作平台的应用程序之一。<ref name="theguardian1">{{cite web|author=Stuart Dredge |url=http://www.theguardian.com/technology/2013/dec/11/angry-birds-go-review |title=Angry Birds Go! – review &#124; Technology |publisher=theguardian.com |date=2013-11-05 |accessdate=2013-12-11}}</ref> 此应用程序支持登入Rovio帐户，以便用户可以在相同的操作系统的不同设备之间进行同步。
+
+== 比赛类型 ==
+游戏中现在一共有五种不同模式，分别是：
+* 竞速模式
+* 计时模式
+* 粉碎水果模式/切水果模式
+* 对决模式/VS模式
+* 冠軍賽
+
+== 角色技能 ==
+
+=== 普通技能 ===
+
+'''可以使用的角色'''
+
+*紅鳥（Red）：最基本角色，特別功能是可以自身加速。
+*粉紅鳥（Stella）：特别功能是賽車和鳥浮起，一個大泡泡包着，防止其他車手攻擊牠，但降落後會減慢速度也難以控制。
+*黑鳥（Bomb）：特別功能是爆炸，會影響其他車手（被攻擊會轉一圈），增加勝出的機會。
+*藍鳥（The Blues）：特別功能是可以自身加速（威力小），一場比賽可用三次。
+*豬國王（King Pig）：特別功能是發出一堆豬國王型氣球(碰撞後會爆破)，令車升起並同時會加速。
+*大紅鳥/老大哥鳥（Terence）：特別功能是憤怒會召喚烏雲，招引閃電攻擊影響離自己最近的車手（被攻擊會轉三圈）或任何物品，增加勝出的機會。
+*橘鳥（Bubbles）：特別功能是自身膨脹大翻滾同時會加速，會影響其他車手，增加勝出的機會。
+*白鳥（Matilda）：特別功能是投擲會爆炸的蛋攻擊前方車手（被攻擊會轉三圈），增加勝出的機會。
+*領班豬/鬍子豬（Foreman Pig）：特別功能是投擲火藥攻擊前方車手，增加勝出的機會（被攻擊會轉一圈），一場比賽可用三次。
+*綠鳥（Hal）：特別功能是會發動龍捲風影響前方車手（被攻擊會轉二圈），增加勝出的機會，龍捲風也可以收集硬幣和切水果。
+*下士豬/鋼盔豬（Corporal Pig）：特別功能是賽車身旁出現頭盔旋轉並同時會加速，會影響其他車手（被攻擊會轉一圈），增加勝出的機會，一場比賽可用三次且可重疊。
+*黃鳥（Chuck）：特別功能是長程自身加速，如果加速時沒有撞上其他車輛則最容易勝出。
+
+'''無法使用的角色'''
+
+*普通豬/小小豬（Minion Pigs）：無特別功能。
+
+=== 冠軍賽角色技能 ===
+
+赢了冠軍賽3次可獲得上方可以使用的角色，比賽時冠軍賽角色會向後面發射東西攻擊玩家的車手和車。
+*粉紅鳥（Stella）:比賽時會向後面發射泡泡，威力較小。
+*黑鳥（Bomb）：比賽時會向後面發射炸彈，威力一般。
+*藍鳥（The Blues）：比賽時會向後面發射木材、冰塊和石塊(1次各一塊)。
+*國王豬（King Pig）：比賽時會向後面發射豬，撞到後會减慢速度。
+*大紅鳥/老大哥鳥（Terence）：比賽時會向後面發射一塊大冰塊，比藍鳥的冰塊威力更大。
+*橘鳥（Bubbles）：比賽時會向後面發出一些用氣球吊着的木箱，貼着TNT的撞到後會爆炸，貼着鳥幣圖案的撞到後會爆出鳥幣(不會影響速度)，貼着 Boast Pads 圖案的撞到後會加速。
+*白鳥（Matilda）：比賽時會向後面發出一個巨大而在轉動旁邊有閃電圍着的蛋，威力一般。
+*領班豬/鬍子豬（Foreman Pig）：比賽時會向前面和後面投擲火藥攻擊（被攻擊會轉一圈）。
+*綠鳥（Hal）：比賽時會向後面發射飛標，在一場比賽中被打到後整場比賽速度水平會變慢。
+*下士豬/鋼盔豬（Corporal Pig）：比賽時會向後面投擲TNT炸彈，被攻擊速度會減慢非常多，威力較大。
+*黃鳥（Chuck）：比賽時會向後面投擲汽車車輪，威力較大。
+
+== 多人线上游戏模式 ==
+Rovio于2013年12月13日通过官方的愤怒的小鸟[[Facebook]]页面宣布，多人线上游戏功能将于2014年春季到来。现已推出。
+
+== 参考资料 ==
+{{reflist}}
+== 外部链接 ==
+*{{Official|http://go.angrybirds.com/}}
+*[http://www.rovio.com/en/news/blog/310/ready-set-angry-birds-go/ Rovio's teaser blog post（Rovio的博客）]
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds Go!}}
+[[Category:2013年电子游戏]]
+[[Category:競速遊戲]]
+[[Category:卡丁車電子遊戲]]
+[[Category:IOS遊戲]]
+[[Category:Android遊戲]]
+[[Category:Windows Phone游戏]]
+[[Category:芬兰开发电子游戏]]
+[[Category:鳥類主角故事]]
+{{copyedit}}
+{{Refimprove|time=2013-12-04T04:11:05+00:00}}
+{{Expand|time=2013-12-04T04:11:05+00:00}}
+{{noteTA
+| T=zh-cn:愤怒的小鸟季节版; zh-hk:憤怒鳥季節版; zh-tw:憤怒鳥季節版;
+| G1=Games
+| G2=IT
+| 1=zh-cn:愤怒的小鸟季节版; zh-hk:憤怒鳥季節版; zh-tw:憤怒鳥季節版;
+| 2=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+}}
+{{Infobox video game
+| title = 憤怒鳥季節版<br>''Angry Birds Seasons''
+| image = 
+| caption = 
+| developer = [[Rovio Entertainment]]
+| publisher = [[Rovio Entertainment]]
+| producer = 
+| designer = 
+| composer = 
+| series = ''[[Angry Birds]]''
+| engine = [[Box2D]]
+| version = 
+| released = 2010年10月21日<ref name="Joystiq"/>
+| genre = [[益智遊戲]]
+| modes = [[單人遊戲]]
+| ratings = 
+| platforms = 
+| media = 
+| requirements = 
+| input = 
+}}
+
+'''憤怒鳥季節版'''是[[益智遊戲]]《憤怒鳥》系列的第二個版本，由[[Rovio娛樂]]開發。
+
+== 玩法 ==
+和《憤怒鳥》一樣，在遊戲中，玩家控制一架彈弓發射無翅小鳥來打擊建築物和小豬，並以摧毀關中所有的小豬為最終目的。<ref>{{cite book|title=The business of Android apps development making and marketing apps that succeed|publisher=Apress|location=New York, N.Y.|isbn=9781430239437|last=Rollins|first=Mark}}</ref> 
+
+== 發行歷史 ==
+2010年10月，Rovio發佈了《憤怒鳥》的[[萬聖節]]特別版，和主程式分離，也包含新的關卡，而新的關卡中則包含萬聖節相關的音樂和圖像。<ref name="Joystiq">{{cite web|url=http://www.joystiq.com/2010/10/20/angry-birds-halloween-edition-spooks-ipad-iphone/|title=Angry Birds Halloween edition spooks iPad, iPhone|author=Richard Mitchell|work=Joystiq.com|date=October 21, 2010|accessdate=October 28, 2010}}</ref>同年12月，Rovio發佈聖誕節特別版，引入了以聖誕節為主題的25個關卡，每天發佈其中的一關。<ref name="TNW">{{cite web|url=http://thenextweb.com/apps/2010/12/01/angry-birds-seasons-goes-live-and-free-for-ios-and-android/|title=Angry Birds Seasons goes live and free for iOS and Android|author=Jeff Cormier|work=The Next Web|date=December 1, 2010|accessdate=December 1, 2010}}</ref><ref name="AAS">{{cite web|url=http://www.allaboutsymbian.com/reviews/item/12402_Angry_Birds_Seasons.php|title=Review: Angry Birds Seasons|author=Ewan Spence|work=AllAboutSymbian.com|date=December 17, 2010|accessdate=December 17, 2010}}</ref>
+
+2011年，Rovio再推出此遊戲的[[情人節]]、[[聖博德節]]、[[復活節]]和[[夏日]]版本。<ref>{{cite web|url=http://mashable.com/2011/02/07/angry-birds-valentines-day/|title=Angry Birds Gets Facebook-Infused Valentine's Day Edition|author=Christina Warren|work=Mashable.com|date=February 7, 2011|accessdate=February 8, 2011}}</ref><ref>{{cite web|url=http://www.angrybirdsnest.com/2011/03/angry-birds-seasons-go-green-get-lucky-update-is-here/|title=Angry Birds Seasons Go Green, Get Lucky Update is Here!|date=March 9, 2011|accessdate=March 10, 2011}}</ref><ref>{{cite web|url=http://www.pcmag.com/article2/0,2817,2383717,00.asp|title=Angry Birds Seasons Gets Easter Update|author=Chloe Albanesius|work=PCMag.com|date=April 18, 2011|accessdate=April 20, 2011}}</ref><ref>{{cite web|url=http://www.pocketgamer.co.uk/r/iPhone/Angry+Birds+Seasons/news.asp?c=30902|title=Angry Birds Seasons Summer Pignic update hits the App Store, adds 30 levels|author=Rob Hearn|work=PocketGamer.co.uk|date=June 22, 2011|accessdate=June 22, 2011}}</ref>此後，Rovio發佈此遊戲的[[中秋節]]版。<ref>[http://wireless.ign.com/articles/119/1192115p1.html Angry Birds Seasons Moon Festival Episode Released]</ref>同年，另一個萬聖節特別版推出，此版本新增了橙色小鳥。<ref>[http://www.youtube.com/watch?v=D8f4EnDrNwU 官方宣傳影片]</ref>和去年一樣，Rovio也有推出此遊戲的聖誕節版，同樣是每天發佈其中的一關。
+
+2012年，Rovio發佈了《憤怒鳥》的[[農曆新年]]特別版。<ref>{{cite web|title=Angry Birds 將會有農曆新年版！|url=http://www.android-apk.com/2012/01/angry-birds-%E5%B0%87%E6%9C%83%E6%9C%89%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4%E7%89%88%EF%BC%81/|accessdate=2013-08-16}}</ref> 在此版本中，普通版的黑色巨鷹被紅色巨[[龍]]取代，無須付錢免費使用。同年，《憤怒鳥》的日本[[櫻花]]盛放版和夏日版，當中夏日版設水下關卡。<ref>{{cite web|url=http://www.androidauthority.com/angry-birds-seasons-piglantis-update-95509/|title=Angry Birds Piglantis|publisher=David Nelson |date=2012-06-14 |accessdate=2012-06-22}}</ref><ref>{{cite web|url=http://www.angrybirdspiglantis.com|title=Angry Birds Piglantis Update|publisher=David Nelson|date=2012-06-14|accessdate=2012-06-22}}</ref>在9月，回到校園版開放，此版本新增了粉紅色小鳥。12月，Rovio第三次推出此遊戲的聖誕節版，同樣地每天發佈其中的一關。
+
+2013年，《憤怒鳥》推出[[魔術]]版，當中加入了魔術元素。
+2014年，推出“里约版”。
+
+== 關卡 ==
+===Season 1 ===
+*Trick or Treat
+*Season's Greedings
+*Hogs and Kisses
+*Go Green, Get Lucky
+*Easter Eggs
+*Summer Pignic
+*Moon Festival
+
+===Season 2 ===
+*Ham'o'ween
+*Wreck the Halls
+*Year of the Dragon
+*Cherry Blossom
+*Piglantis
+*Back to School
+
+===Season 3 ===
+*Haunted Hogs
+*Winter Wonderham
+*Abra-Ca-Bacon
+
+===Season 4 ===
+*Arctic Eggspedition
+*South Hamerica
+
+== 外界評價 ==
+Metacritic給予《憤怒鳥季節版》6.7分（滿分10分）的分數。<ref>{{cite web|title=Angry Birds: Seasons|url=http://www.metacritic.com/game/ios/angry-birds-seasons|accessdate=2013-08-16}}</ref>GameSpot.com的玩家則認為此遊戲並不是[[憤怒鳥系列]]中最好的版本，但給予良好的評分。<ref>{{cite web|title=Angry Birds: Seasons Reviews|url=http://asia.gamespot.com/angry-birds-seasons/reviews/|accessdate=2013-08-16}}</ref> 
+
+== 參考資料 ==
+{{reflist}}
+
+==參見==
+*[[憤怒鳥]]
+
+== 外部鏈接 ==
+* [https://play.google.com/store/apps/details?id=com.rovio.angrybirdsseasons&hl=zh_TW Google Play Store中的《憤怒鳥季節版》]
+* [http://www.rovio.com/en/our-work/games/view/4 官方網站]
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds Seasons}}
+[[Category:2010年电子游戏]]
+[[Category:IOS遊戲]]
+[[Category:Android遊戲]]
+[[Category:OS X遊戲]]
+[[Category:Windows游戏]]
+[[Category:Windows Phone遊戲]]
+[[Category:益智游戏]]
+[[Category:黑莓遊戲]]
+[[Category:Symbian軟體]]
+[[Category:芬兰开发电子游戏]]
+[[Category:鳥類主角故事]]
+[[Category:節日題材作品]]
+[[Category:四季題材作品]]
+{{copyedit}}
+{{Refimprove|time=2014-05-20T06:51:21+00:00}}
+{{Expand|time=2014-05-20T06:51:21+00:00}}
+{{noteTA
+| T=zh-cn:愤怒的小鸟里约版; zh-hk:憤怒鳥里約版; zh-tw:憤怒鳥里約版;
+| G1=Movie
+| G2=IT
+| G3=Games
+| 1=zh-cn:愤怒的小鸟里约版; zh-hk:憤怒鳥里約版; zh-tw:憤怒鳥里約版;
+| 2=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+}}
+{{Infobox video game
+| title = 憤怒的小鳥里約版
+| english=Angry Birds Rio
+| developer = [[Rovio Entertainment]]
+| publisher = Rovio Entertainment
+| series = [[愤怒的小鸟]]
+| engine = [[Box2D]]
+| released = 2011年3月22日
+| genre = [[益智遊戲]]
+| modes = [[單人遊戲]]
+}}
+{{vgname|憤怒的小鳥里約版|en=Angry Birds Rio}}，是Rovio娛樂開發的第三個[[憤怒的小鳥系列]]休閒益智遊戲。
+
+== 背景及玩法 ==
+
+遊戲的背景為一群憤怒的小鳥被強行帶到[[巴西]]城市[[里約熱內盧]]<ref>{{cite web|title=憤怒鳥:里約大冒險（Angry Birds:Rio）PC版出爐！|url=http://www.soft4fun.net/tech/news/%E6%86%A4%E6%80%92%E9%B3%A5%E9%87%8C%E7%B4%84%E5%A4%A7%E5%86%92%E9%9A%AA-angry-birds-rio-pc%E7%89%88%E5%87%BA%E7%88%90.htm|accessdate=2014-02-15}}</ref> 。和[[憤怒的小鳥]]一樣，在遊戲里，玩家控制一架彈弓發射無翅小鳥來打擊建築物和小豬；但在遊戲中有不少新元素，例如第一次出現[[頭目 (角色類型)|頭目角色]]，並以電影《[[奇鸚嘉年華]]》作為故事藍本<ref>{{cite web|url=http://venturebeat.com/2011/01/28/new-version-of-angry-birds-will-tie-into-animated-movie-rio/ |title=New version of Angry Birds game will tie into animated movie Rio |publisher=VentureBeat |date=2011-01-28 |accessdate=2012-04-25}}</ref>。另外，和憤怒的小鳥不同，玩家並不是以摧毀關中的小豬為最終目的，而是要拯救被困的同類或摧毀關中的[[狨]]。
+
+在第二部中，小鸟受邀请而开展了新故事。
+
+除了以上角色，一隻名為Luiz的狗（同樣是電影中的角色）會協助玩家摧毀關中的建築，以獲得更高分數<ref name="Gamezebo">{{cite web|url=http://www.gamezebo.com/games/angry-birds-rio/review|title=Angry Birds Rio Review|author=Jim Squires|work=Gamezebo.com|date=2011-03-22|accessdate=2011-09-13}}</ref>。
+
+== 關卡 ==
+=== Rio 1 ===
+*Smugglers' Den
+*Jungle Escape
+*Beach Volley
+*Carnival Upheaval
+*Airfield Chase
+*Smugglers' Plane
+*Market Mayhem
+*Golden Beachball（隐藏关）
+
+=== Rio 2 ===
+*Rocket Rumble
+*High Dive
+*Blossom River
+*Timber Tumble
+*Hidden Harbor（隐藏关）
+
+== 市場反應 ==
+[[Metacritic]]給予憤怒的小鳥里約大冒險版本87分（滿分100分）的分數<ref>{{cite web|url=http://www.metacritic.com/game/ios/angry-birds-rio |title=Angry Birds Rio for iPhone/iPad Reviews |publisher=Metacritic |date= |accessdate=2014-01-02}}</ref>，但有[[Pocket Gamer]]用戶指出遊戲雖然質素高，但欠缺新意<ref>{{cite web|url=http://www.pocketgamer.co.uk/r/iPhone/Angry+Birds+Rio/review.asp?c=28581|title=Angry Birds Rio Review|author=Tracy Erickson|work=PocketGamer.co.uk|date=2011-03-23|accessdate=2012-12-17}}</ref>{{NoteTag|1=原文：「what Angry Birds Rio lacks in new ideas and freshness, it makes up in quality gameplay and good value」}}；遊戲評價網站[[Gamezebo]]也有用戶指出遊戲「有點反高潮」<ref name="Gamezebo" />{{NoteTag|1=原文：「a little anti-climactic」}}。
+
+自從推出，憤怒的小鳥里約大冒險版本已被下載超過一千萬次<ref>{{cite web|url=http://www.pcmag.com/article2/0,2817,2383049,00.asp|title=Angry Birds Rio Downloaded 10M Times|author=Chloe Albanesius|work=PCMag.com|date=2011-04-04|accessdate=2011-04-20}}</ref>，並於[[Apple App Store]]及[[Google Play]]成為最熱門的應用程式之一<ref>{{cite web|url=http://www.gamasutra.com/view/news/36820/Top_iPad_Game_Apps_Contre_Jour_Peggle_HD_See_FastSelling_Debuts.php |title=News - Top iPad Game Apps: Contre Jour, Peggle HD See Fast-Selling Debuts |publisher=Gamasutra |date= |accessdate=2012-04-25}}</ref><ref>{{cite web|url=http://www.gamasutra.com/view/news/36583/Top_iPhone_Game_Apps_Cover_Orange_Leads_Free_Charts.php |title=News - Top iPhone Game Apps: Cover Orange Leads Free Charts |publisher=Gamasutra |date= |accessdate=2012-04-25}}</ref><ref>{{cite web|url=http://www.gamasutra.com/view/news/36835/Top_Android_Game_Apps_Cut_the_Rope_Death_Worm_Head_Platform_Sales.php |title=News - Top Android Game Apps: Cut the Rope, Death Worm Head Platform Sales |publisher=Gamasutra |date= |accessdate=2012-04-25}}</ref><ref>{{cite web|url=http://www.androidrank.org/details?id=com.rovio.angrybirdsrio |title=Angry Birds Rio |publisher=Androidrank |date= |accessdate=2012-04-25}}</ref>。
+
+== 原文注釋 ==
+{{NoteFoot}}
+
+== 参考資料 ==
+{{reflist}}
+
+== 外部链接 ==
+
+* {{Official|http://www.rovio.com/zh/our-work/games/view/6/angry-birds-rio}} {{zh}}
+
+{{Angry Birds}}
+
+{{DEFAULTSORT:Angry Birds, RIO}}
+[[Category:2011年电子游戏]]
+[[Category:Android遊戲]]
+[[Category:IOS遊戲]]
+[[Category:OS X遊戲]]
+[[Category:Windows Phone游戏]]
+[[Category:Windows游戏]]
+[[Category:巴西背景电子游戏]]
+[[Category:益智游戏]]
+[[Category:芬兰开发电子游戏]]
+[[Category:行動電話遊戲]]
+[[Category:電子遊戲跨界作品]]
+[[Category:電影改編電子遊戲]]
+{{copyedit}}
+{{Refimprove|time=2013-12-04T04:11:33+00:00}}
+{{Expand|time=2013-12-04T04:11:33+00:00}}
+{{NoteTA
+|T=zh-cn:愤怒的小鸟太空版;zh-hk:憤怒鳥太空版;zh-tw:憤怒鳥太空版;
+| G1=Games
+| G2=IT
+|1=zh-cn:愤怒的小鸟太空版;zh-hk:憤怒鳥太空版;zh-tw:憤怒鳥太空版;
+|1=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+}}
+{{Infobox video game
+| title = 憤怒鳥太空版<br>''Angry Birds Space''
+| image = [[File:Angry Birds Space logo.jpg|150px]]
+| caption =
+| developer = [[Rovio Entertainment]]
+| publisher = [[Rovio Entertainment]]
+| producer = 
+| designer = 
+| composer = 
+| series = ''[[Angry Birds]]''
+| engine = [[Box2D]]
+| version = 1.4.1（2013年2月）([[iOS]], [[Android]], [[Microsoft Windows|Windows]])<br>1.2.2 ([[OS X]], [[BlackBerry Tablet OS]])
+| released = 2012年3月22日
+| genre = [[益智遊戲]]
+| modes = [[單人遊戲]]
+| ratings = 
+| platforms = iOS, Android, Microsoft Windows, BlackBerry Tablet OS, OS X
+| media = 
+<!--Please help add requirements for more platforms-->
+| requirements = iOS:4.0或更高版本的IOS 3G手机（ARMV7）或更高版本的设备才可以运行<br>Mac OS X: 10.6.6及更高
+| input = 
+| Facebook = www.facebook.com/RovioABSpace
+}}
+'''愤怒的小鸟太空版'''是[[Rovio娛樂]]開發的休閒[[益智游戏]]，在遊戲中，玩家控制一架[[彈弓]]<ref>{{cite video
+ | date       = 2012-03-22
+ | title      = Angry Birds Space - Walkthrough 2-30 3 stars cold cuts level guide how to get three star levels
+ | url        = https://www.youtube.com/watch?v=FvK_IDnzbOI
+ | publisher  = HassanAlHajry
+ | accessdate = 2013-03-28
+}}</ref>發射無翅小鳥<ref>{{cite video
+ | date       = 2012-06-05
+ | title      = angry birds space personajes pajaros
+ | url        = https://www.youtube.com/watch?v=osuRSEIZnRU
+ | publisher  = antiaxcruzadoxbnloc1
+ | accessdate = 2013-03-28
+}}</ref>來打擊[[建築物]]和小豬，以摧毀關中所有的小豬為最終目的，但是[[重力]]与地球版完全不同。
+
+== 中文譯名 ==
+遊戲並無官方中文譯名，但“愤怒的小鸟太空版”是最常用的中文譯名<ref>使用[[Google搜尋|Google搜尋引擎]]搜尋愤怒的小鸟太空版，約有3630000項結果</ref>。另外，有[[部落格]]以「星際版」作為遊戲的中文譯名<ref>{{Cite web |url= http://www.soft4fun.net/ipad-iphone/angry-birds-space-%E6%98%9F%E9%9A%9B%E7%89%88%E9%96%8B%E6%94%BE%E4%B8%8B%E8%BC%89%E5%9B%89.htm |title= <nowiki>Angry Birds Space 星際版開放下載囉（iOS、Android、Windows、MAC）</nowiki> }}</ref>。
+
+== 關卡 ==
+=== Pig Bang ===
+
+=== Cold Cuts ===
+
+=== Danger Zone ===
+
+=== Eggsteroids ===
+
+=== Fry Me to the Moon ===
+
+=== Utopia ===
+
+=== Red Planet ===
+在2012年秋季發佈<ref>{{Cite web |url=http://chinese.engadget.com/2012/08/24/rovio-takes-angry-birds-space-for-a-spin-with-nasa-curiosity/|title=Rovio 和 NASA 合作，讓火星好奇號也降落到憤怒小鳥太空版中！（影片）|accessdate=2013-03-28 |work=Bin Chen|publisher=Engadget 中文版|date=2012-08-24}}</ref>，有20個關卡。
+=== Pig Dipper ===
+這版本中加入了液態水體星球<ref>{{Cite web |url=http://tw.tech.yahoo.com/news/%E6%86%A4%E6%80%92%E9%B3%A5%E5%A4%AA%E7%A9%BA%E6%8E%A8%E6%9B%B4%E6%96%B0-%E6%96%B0%E5%A2%9E%E6%B0%B4%E9%AB%94%E6%98%9F%E7%90%83%E9%97%9C%E5%8D%A1pig-dipper-071600783.html|title=憤怒鳥太空推更新！新增水體星球關卡Pig Dipper|accessdate=2013-03-28}}</ref>，有30個關卡。
+=== Cosmic Crystals ===
+
+== 和地球版的差異 ==
+* 红鳥的眼睛變化了。
+* 黄鳥變成紫鳥（雷射鳥）<ref>{{Cite web |url=http://faye.easylife.tw/1227|title=【Angry Birds Space】憤怒鳥太空版！快上太空殺豬去！地心引力抓不住鳥？|accessdate=2013-03-28|quote=每一隻鳥都換上犀利的太空造型，主角紅鳥怎麼有超能特攻隊的fu...，我平常最愛用的黃鳥居然變成了紫色呀！}}</ref>，他的眼睛是长方形状的。
+* 新增的冰鳥可把物品凍成冰，在水裡凍結自身會變成冰塊殞石。
+* 此版本没有白鳥和綠鳥。
+
+==材料==
+* [[木材]]：基本材料之一。
+* [[石塊]]：能抵擋多數小鳥的攻擊。
+以上各種材料皆有空心磚、長方塊、正方體、圓塊、三角磚、梯型磚之分。
+* [[氣泡]]：小豬們的保命和交通工具，只要在大氣層外把氣泡弄破，小豬就會立刻在外太空結凍3秒後致死。
+* [[隕石]]：跟石塊同樣效果，結冰後的隕石破壞後會分開為多數個小隕石。
+* [[警燈]]：能使小豬或任何材料漂浮在空中。
+* [[玉米]]：撞擊後能爆出爆米花。
+* [[火山]]：能產生強大的上升氣流以改變小鳥的飛行路線。
+* [[火球]]：以小鳥撞擊後能爆炸以攻擊小豬，Pig Dipper關卡中爆炸前如果碰到水就會熄掉。
+* [[太空金鳥蛋]]：在某些關卡出現, 擊中後會進入特别關卡。紅色星球的金蛋關卡則是擊中探測船開啟。
+* [[好奇號]]：於紅色星球最終關卡出現，載著小豬在行星上原地繞圈，不會損壞。
+* [[船錨]]：以鐵鍊綁在海洋行星或豬身上。
+* [[冰塊]]：最脆弱的材料。
+* T.N.T炸藥箱：貼著TNT的字條的木箱裝填，爆炸後能產生衝擊力進行連鎖爆炸或隔山打牛等攻擊。
+
+== 登場角色 ==
+=== 小鳥 ===
+* 紅鳥：最基本的角色，對各種材料破壞力一般。
+* 藍鳥：對冰塊有較高的破壞力。
+* 冰鸟：可把物品冻成冰。
+* 太空巨鷹：類似黑色巨鷹，把魚罐頭射出後點擊會有漩渦，這時巨鷹會跑出來，但不一定會殺死所有豬。
+=== 綠色小豬 ===
+每隻豬被擊倒可得5000分。
+* 普通豬（小型）：遊戲中最小的豬，耐久度最差。
+* 普通豬（中型）：比小型的普通小豬大，耐久度較差。
+* 普通豬（大型）：比前兩種豬來得大，耐久度普通。
+* 頭盔豬：戴著頭盔的小豬，與普通中型豬體型差不多，耐久度比普通豬高。
+* 鬍子豬：體型和普通大型豬差不多，耐久度較高。
+* 豬國王：頭目角色，體型大，高。（3-21首次出現，Space1-30首次出現）
+* 肥胖豬：比大型豬大了兩號左右，耐久度普通。
+* 巨型肥胖豬：頭目角色，比肥胖豬大了幾號，耐久度比豬國王高，角色如同Rio版中的耐久，必須餵牠吃隕石、壞掉的爆米花或小鳥（綠色大鳥最有效）才能打敗牠，肚子裡有一顆太空金鳥蛋。
+* 开着火星车的猪：一群开着火星车的猪。
+* 开着潜水艇的猪：一隻开着潜水艇的豬國王。
+
+==参考資料==
+{{Reflist}}
+
+==參見==
+*[[憤怒鳥]]
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds Space}}
+[[Category:2012年电子游戏]]
+[[Category:IOS遊戲]]
+[[Category:Android遊戲]]
+[[Category:OS X遊戲]]
+[[Category:Windows游戏]]
+[[Category:Windows Phone遊戲]]
+[[Category:移动电话游戏]]
+[[Category:益智游戏]]
+[[Category:黑莓遊戲]]
+[[Category:芬兰开发电子游戏]]
+[[Category:鳥類主角故事]]
+[[Category:太空背景电子游戏]]
+{{noteTA
+| G1=Games
+| 1=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+}}
+{{Infobox company
+| logo             = [[Image:Rovio Logo.png|120px]]
+| company_name     = Rovio娱乐
+| company_type     = [[私人公司]]
+| foundation       = 2003年以「理路迪」之名成立
+| founder          =
+| location         = {{FIN}}[[埃斯波]]
+| key_people       = 米克尔·亨达 <small>[[執行長]]</small><br/>尼克拉斯·亨达 <small>[[首席營運長]]</small><br/>彼得·维斯特巴卡 <small>[[行銷長]]</small>
+| revenue          =
+| industry         = [[电子游戏产业]]
+| products         =
+| num_employees    = 約300人<small>（2011）</small><ref>{{cite news|title=Roviossa ensi vuonna 600–700 työntekijää|url=http://www.tekniikkatalous.fi/ict/quotroviossa+ensi+vuonna+600ndash700+tyontekijaaquot/a718687|newspaper=Tekniikka&Talous|language=Finnish}}</ref> 
+| divisions        =
+| revenue          = 7540萬歐元（2011年）
+| net_income     = 4800萬歐元（2011年）
+| owner            = 凯伊·亨达（70%公司股份）
+| homepage         = [//www.rovio.com rovio.com]
+}}
+[[File:Rovio Entertainment Hdqtrs 2.jpg|thumb|Rovio於[[埃斯波]]的总部]]
+'''Rovio娱乐有限公司'''（[[英文]]：'''Rovio Entertainment Ltd.'''）簡稱'''Rovio'''，亦有'''Rovio移动'''（'''Rovio Mobile'''），是一間[[芬蘭]][[游戏开发者|遊戲開發公司]]，總部位於[[埃斯波]]，於2003年成立，當時名為'''理路迪'''（'''Relude'''），於2005年更改名稱為Rovio<ref>{{cite web|url=http://www.rovio.com/index.php?page=contact/|title=Rovio - Contact|date=2010-10-01|accessdate=2010-10-01|publisher=Rovio}}</ref>。該公司最有名的電子遊戲產品為[[憤怒的小鳥|憤怒鳥]]。
+
+Rovio娱乐的中国办事处位於[[上海市]][[宝山区 (上海市)|宝山区]]。<ref>[http://www.rovio.com/zh Home]. Rovio China. "ROVIO娱乐有限公司 上海市宝山区沪太路2388号"</ref>
+
+==公司历史==
+於2003年，赫尔辛基科技大学（今[[阿尔托大学]]）的三位學生尼克拉斯·亨达、雅诺·赫戈威爾南和金·迪卡兹於参与了一个手机游戏开发大赛，[[程序集演示会]]。這個比赛是由[[诺基亚]]和[[惠普公司]]贊助<ref>[http://www.assembly.org Assembly.org — Official website]</ref>。這三人以他們設計的实时多人游戏「白菜世界之王」勝出了這個比賽<ref>[http://www.demoparty.net/assembly2003/results.html Results from Assembly 2003]</ref>。因此，他們便開設了自己的公司理路迪，並他們將白菜世界之王售予苏美亞（今[[数码巧克力]]的子公司）。而苏美亞則把遊戲重新命名為「鼹鼠战争」並成為了世界上首個商业化的实时多人手机游戏。於2005年1月，理路迪由[[天使投资者]]手中得到了它的第一筆资金，並且不久將公司重新命名為「Rovio手机」。<ref>[http://www.criticalgamer.co.uk/2011/07/11/interview-rovio%E2%80%99s-peter-vesterbacka-on-the-history-of-the-company/ Interview: Rovio’s Peter Vesterbacka on the history of the company,]</ref>
+
+於2009年初，Rovio因（2011年）產品銷情慘淡而接近破產的邊緣。因此，Rovio的遊戲開發人員便盡量設計一個能夠幫助公司起死回生的遊戲<ref>{{cite web|url=http://www.theatlantic.com/technology/archive/2011/03/how-rovio-fought-off-bankruptcy-to-make-angry-birds/72250/|title=How Rovio Fought Off Bankruptcy to Make Angry Birds|publisher=The Atlantic|date=2011-03-09 12:32|accessdate=2013-01-09}}</ref>。經過51次的嘗試，Rovio創作了其代表作「憤怒鳥」，於2009年12月发布，一個平台為[[iPhone]]的弹弓益智游戏。憤怒鳥至今累積逾10億次下載<ref>{{cite web|url=http://allthingsd.com/20120509/rovio-ceo-when-to-go-public-is-up-to-dad-other-owners/ |title=Rovio Passes a Billion Angry Birds Downloads, Still Mulling IPO - Ina Fried - Mobile |publisher=AllThingsD |date=2012-05-09 |accessdate=2012-07-14}}</ref>，而收費下載次數更佔了全部下載次數逾25%，致使憤怒鳥成為了[[苹果公司]][[App Store (iOS)|App Store]]上收費下載次數最多的应用程序。<ref>[http://www.macobserver.com/tmo/article/apple_names_all-time_top_app_store_apps/ Apple Names All-Time Top App Store Apps | The Mac Observer] Retrieved May 14, 2012.</ref><ref>{{cite web|url=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=500873243&mt=8 |title=Connecting to the iTunes Store |publisher=Itunes.apple.com |date= |accessdate=2013-01-09}}</ref>
+
+於2011年3月，Rovio從阿塞尔合伙公司、亞當米科和菲利薩斯风险投资公司手中筹集了總值4200万美元的风险投资资金。<ref name=post>{{cite news |title=Angry Birds Turn Rich, Get $42 Million in Funding |work=Mashable |date=March 10, 2011 |url=http://mashable.com/2011/03/10/angry-birds-42-million-funding/ }}</ref>於2011年7月，Rovio正式更名為Rovio娱乐有限公司。
+
+於2012年3月，Rovio收購了開發未来马克游戏工作室，其收购金额不详。<ref>{{cite web|last=Ratcliffe|first=Chris|title="Angry Birds" creator adds Futuremark Game Studio’s team to fleet of talent|url=http://www.washingtonpost.com/business/techology/angry-birds-creator-adds-futuremark-game-studios-team-to-fleet-of-talent/2012/03/27/gIQAHWooeS_story.html|publisher=Bloomberg|accessdate=28 March 2012}}</ref>於2012年9月5日，Rovio宣布其手机游戏憤怒鳥的總下載次數突破十亿次。该公司的通讯人员先尼·馬蒂卡南在一封电子邮件中指出：「我们非常感谢我们支持者的支持，而且我們已經急不及待讓他們知道我們將會推出的東西。」<ref>{{cite web|last=Pan|first=Joann|title=Rovia Rejoices Over Billionth Angry Birds Download|url=http://mashable.com/2012/05/09/angry-birds-1-billion-downloads/|publisher=Mashable|accessdate=9 May 2012}}</ref>
+
+於2012年10月，Rovio暗示了新的遊戲「愤怒鸟星球大战」將會推出。<ref>{{cite web|title=Oh God, They Really Are Making Angry Birds: Star Wars|url=http://www.uproxx.com/gammasquad/2012/10/oh-god-they-really-are-making-angry-birds-star-wars/#more-156168|publisher=UPROXX}}</ref>
+
+==產品==
+===憤怒鳥系列===
+{| class="wikitable sortable"
+|-
+!編號
+!名稱
+!日期
+!平台
+|-
+|style="text-align:center"| 1 || [[憤怒的小鳥|憤怒鳥]] || 2009年11月11日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 4 || [[愤怒的小鸟季节版|憤怒鳥季節版]] || 2010年10月11日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 6 || [[愤怒的小鸟里约版|憤怒鳥里約版]] || 2011年3月22日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"|  || 憤怒鳥朋友版 || 2012年2月13日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 43 || [[愤怒的小鸟太空版|愤怒鸟太空版]] || 2012年3月22日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 47 || 愤怒鸟“三部曲” || 2012年9月25日 ||
+|-
+|style="text-align:center"| 47 || [[搗蛋豬]] || 2012年9月27日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 50 || [[憤怒的小鳥星球大戰版|憤怒鳥星球大戰版]] || 2012年11月8日 || [[iOS]]、[[安卓]]、[[Mac OS|Mac]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 50 || 愤怒鸟星球大战版 2 || 2013年9月19日 || [[iOS]]、[[安卓]]、[[Windows Phone|WP]]、[[個人電腦|PC]]
+|-
+|style="text-align:center"| 50 || 愤怒鸟三部曲 wii/wii u || 2013年8月13日 ||
+|-
+|style="text-align:center"|  || [[憤怒的小鳥Go!|憤怒鳥 Go!]] || 2013年12月11日 || [[iOS]]、[[安卓]]、[[Windows Phone|WP]]
+|-
+|style="text-align:center"|  || [[憤怒鳥英雄傳]] || 2014年5月17日 || [[iOS]]、[[安卓]]、[[Windows Phone|WP]]
+|-
+|style="text-align:center"|  || 憤怒鳥史黛拉版 || 2014年9月4日 || [[iOS]]、[[安卓]]、[[Windows Phone|WP]]
+|-
+|style="text-align:center"|  || 憤怒鳥變形金剛 || 2014年9月25日 || [[iOS]]、[[安卓]]、[[Windows Phone|WP]]
+|}
+
+===其他產品===
+{| class="wikitable sortable"
+|-
+!名稱
+!平台
+!年份
+|-
+|[[神奇的阿力]] ||| [[iOS]]、[[安卓]] || 2012年
+|-
+|弹跳进化 || [[諾基亞 N900]] || 2009年
+|-
+|弹跳传说 || [[N-Gage]] || 2009年
+|-
+|轻触弹跳 || N-Gage || 2009年
+|-
+|弹跳博英之旅 || N-Gage || 2008年
+|-
+|汉堡火拼 || [[Java ME|J2ME]] ||
+|-
+|火爆狂飙 || J2ME || 2007年
+|-
+|崩溃混乱 || J2ME|| 
+|-
+|网络血液 || J2ME ||
+|-
+|最黑暗的恐惧 || iOS、J2ME || 2005年
+|-
+|最黑暗的恐惧2 || J2ME ||
+|-
+|最黑暗的恐惧3 || J2ME ||
+|-
+|沙漠狙击手 || J2ME ||  2006年
+|-
+|龙与玉 || J2ME ||
+|-
+|GP方程式赛车 || J2ME||
+|-
+|宝石掉落 || J2ME|| 2008年
+|-
+|海洋狙击手 || J2ME||
+|-
+|鼹鼠战争 || J2ME||
+|-
+|极品飞车：碳 || J2ME ||2006年
+|-
+|付费杀 || J2ME||
+|-
+|纸飞机 || J2ME||2008年
+|-
+|守护天使 || J2ME||
+|-
+|玩乐男子冬季运动会|| J2ME||
+|-
+|疯狂购物|| J2ME ||2008年
+|-
+|宇宙冲击：流星之盾 || [[诺基亚N97]]、 J2ME||
+|-
+|天星海洋 || J2ME ||2007年
+|-
+|蘇美亞滑雪跳台|| J2ME||
+|-
+|斯瓦特精锐部队 || J2ME||
+|-
+|美海军陆战队侦察兵狙击手 || J2ME ||2006年
+|-
+|托托米 || iPhone、J2ME||
+|-
+|缅甸战争日记 || J2ME||
+|-
+|鱼雷战争日记 || J2ME||
+|-
+|沃尔夫月亮 || J2ME||
+|-
+|X因素2008 || J2ME||
+|-
+|}
+
+==參考資料==
+{{Reflist}}
+
+==外部連結==
+* {{Official website|http://www.rovio.com/zh}} {{zh-cn}}
+* {{Official website|http://www.rovio.com/}} {{en}}
+* [http://www.crunchbase.com/company/rovio-mobile CrunchBase profile] {{en}}
+
+[[Category:芬蘭電子遊戲公司]]
+[[Category:2003年成立的公司]]
+[[Category:國際遊戲開發者協會成員]]
+{{copyedit}}
+{{Refimprove|time=2014-05-20T06:51:18+00:00}}
+{{Expand|time=2014-05-20T06:51:18+00:00}}
+{{NoteTA
+| T=zh-cn:愤怒的小鸟星球大战版; zh-hk:憤怒鳥星球大戰版; zh-tw:憤怒鳥星球大戰版;
+| G1=Games
+| G2=IT
+| 1=zh-cn:愤怒的小鸟星球大战版; zh-hk:憤怒鳥星球大戰版; zh-tw:憤怒鳥星球大戰版;
+| 2=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+}}
+{{Infobox video game
+| title = 憤怒的小鳥星球大戰版
+| english=Angry Birds Star Wars
+| image = Angry Birds Star Wars.png
+| developer = [[Rovio Entertainment]]
+| publisher = [[Rovio Entertainment]]
+| producer =
+| designer =
+| composer =
+| series = [[憤怒的小鳥]]
+| engine = [[Box2D]]
+| released = 2012年11月8日
+| genre = [[益智遊戲]]
+| modes = [[單人遊戲]]
+}}
+{{vgname|憤怒的小鳥星球大戰版|en=Angry Birds Star Wars}}為一[[益智遊戲]]，是[[憤怒的小鳥系列]]的第五個作品。和[[憤怒的小鳥]]一樣，玩家控制[[彈弓]]來打擊[[建築物]]和小豬，以摧毀關中所有的小豬為最終目的，但角色則與憤怒的小鳥的完全不同。截至2013年8月，此遊戲在不同平台上已被下載超過一億次<ref>{{cite web|author=Stuart Dredge |url=http://www.theguardian.com/technology/appsblog/2013/aug/23/angry-birds-star-wars-2-iphone-android-windows-phone |title=Angry Birds Star Wars II to launch for iOS, Android and Windows Phone |publisher=theguardian.com |date= |accessdate=2013-12-02}}</ref>。
+
+== 關卡 ==
+=== Tatooine ===
+
+=== Death Star ===
+
+=== Path of the Jedi ===
+
+=== Golden Droid ===
+
+=== Hoth ===
+
+=== Cloud City ===
+
+=== Boba Fett Missions ===
+
+=== Moon of Endor ===
+
+=== Death Star 2 ===
+
+== 評價 ==
+[[Metacritic]]給予憤怒的小鳥星球大戰版88分（滿分100分）的分數。<ref>{{cite web|url=http://www.metacritic.com/game/ios/angry-birds-star-wars |title=Angry Birds Star Wars for iPhone/iPad Reviews |publisher=Metacritic |date= |accessdate=2013-06-24}}</ref>
+
+於2013年在Rovio網頁上的一項投票，此遊戲被評為憤怒的小鳥系列中最好的作品<ref>{{cite web|url=https://plus.google.com/118177253929143457733/posts/XC1DPhP3ADW |title=Angry Birds - Google+ - Agree or disagree? And why? |publisher=Plus.google.com |date= |accessdate=2013-09-12}}</ref>。此遊戲的[[面書]]版同樣受到好評<ref>{{cite web|url=http://www.techlurk.com/angry-birds-star-wars-for-pc-windows-87xp/|title=Angry Birds Star Wars for PC}}</ref>。
+
+== 續集 ==
+{{main|憤怒的小鳥星球大戰版II}}
+此遊戲的續集—憤怒的小鳥星球大戰版II於2013年7月15日公佈，於同年9月18日推出[[Android OS]]、[[iOS]]以及[[Windows Phone 8]]版本。<ref>{{cite web|author=The Verge |url=http://www.theverge.com/2013/7/15/4524534/angry-birds-star-wars-sequel-in-september |title='Angry Birds Star Wars II' will follow the prequel trilogy and feature physical toys |publisher=The Verge |date=2013-07-15 |accessdate=2013-09-12}}</ref>
+
+== 參考資料 ==
+{{reflist}}
+
+== 參見 ==
+* [[憤怒的小鳥]]
+* [[星球大戰]]
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds Star Wars}}
+[[Category:2012年電子遊戲]]
+[[Category:美國動視遊戲]]
+[[Category:Android遊戲]]
+[[Category:OS X遊戲]]
+[[Category:PlayStation 3遊戲]]
+[[Category:PlayStation 4遊戲]]
+[[Category:PlayStation Vita遊戲]]
+[[Category:Windows Phone遊戲]]
+[[Category:Wii U遊戲]]
+[[Category:Wii遊戲]]
+[[Category:芬蘭開發電子遊戲]]
+[[Category:星球大戰遊戲]]
+[[Category:益智遊戲]]
+[[Category:任天堂3DS遊戲]]
+[[Category:Kinect遊戲]]
+[[Category:iOS遊戲]]
+[[Category:電子遊戲跨界作品]]
+{{refimprove|time=2014-06-27T06:14:37+00:00}}
+{{noteTA
+|G1=Games
+|T=zh-cn:愤怒的小鸟英雄传; zh-hk:憤怒鳥英雄傳; zh-tw:憤怒鳥英雄傳;
+|1=zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;
+|2=zh-cn:益智游戏; zh-hk:益智遊戲; zh-tw:益智遊戲;
+|3=zh-cn:友谊精油; zh-hk:友誼結晶; zh-tw:友誼結晶;
+|4=zh-cn:地牢; zh-hk:迷宮; zh-tw:迷宮;
+|5=zh-cn:老兵; zh-hk:老手; zh-tw:老手;
+|6=zh-cn:精英; zh-hk:菁英; zh-tw:菁英;
+|7=zh-cn:纪事洞; zh-hk:年代紀洞穴; zh-tw:年代紀洞穴;
+|8=zh-cn:魔法盾; zh-hk:魔法盾牌; zh-tw:魔法盾牌;
+|9=zh-cn:四方林; zh-hk:方塊森林; zh-tw:方塊森林;
+|10=zh-cn:红色大谷地; zh-hk:紅色大河谷; zh-tw:紅色大河谷;
+|11=zh-cn:无底洞; zh-hk:無底深淵; zh-tw:無底深淵;
+|12=zh-cn:作坊; zh-hk:工作坊; zh-tw:工作坊;
+|13=zh-cn:雪山峰; zh-hk:積雪峰; zh-tw:積雪峰;
+|14=zh-cn:空中岛屿; zh-hk:天空之島; zh-tw:天空之島;
+|15=zh-cn:沼泽地; zh-hk:曠野; zh-tw:曠野;
+|16=zh-cn:火山崖; zh-hk:火山峭壁; zh-tw:火山峭壁;
+|17=zh-cn:翠竹林; zh-hk:竹林; zh-tw:竹林;
+|18=zh-cn:弹弓林; zh-hk:彈弓森林; zh-tw:彈弓森林;
+|19=zh-cn:黄金地; zh-hk:金色原野; zh-tw:金色原野;
+|20=zh-cn:钴高原; zh-hk:鈷金屬高原; zh-tw:鈷金屬高原;
+|21=zh-cn:大漩涡; zh-hk:漩渦; zh-tw:漩渦;
+|22=zh-cn:沉船礁; zh-hk:海難礁石; zh-tw:海難礁石;
+|23=zh-cn:猪龟岛; zh-hk:豬突佳; zh-tw:豬突佳;
+|24=zh-cn:班卓琴河口; zh-hk:斑鳩河口; zh-tw:斑鳩河口;
+|25=zh-cn:旧巢坟; zh-hk:舊巢山丘; zh-tw:舊巢山丘;
+|26=zh-cn:冬日仙境; zh-hk:寒冬仙境; zh-tw:寒冬仙境;
+}}
+
+{{Infobox video game
+| title = 愤怒的小鸟英雄传
+| english = Angry Birds Epic
+| image = [[File:Angry Birds Epic Logo.png|200px]]
+| caption= 
+| developer = [[Chimera Entertainment]]
+| publisher = [[Rovio Entertainment]]
+| producer =
+| designer =
+| composer =
+| series = 
+| engine = [[Unity (游戏引擎)|Unity]]
+| version = 
+| released = {{Vgrelease|澳大利亚|2014年5月17日}}<br/>{{Vgrelease|新西兰|2014年5月17日}}<br/>{{Vgrelease|新加坡|2014年5月17日}}<br/>{{Vgrelease|全球|2014年6月12日}}
+| genre = [[益智游戏]]，[[角色扮演游戏]]
+| modes = [[单人游戏]]
+| ratings = 
+| platforms = [[iOS]]<br />[[Android]]<br />[[Windows Phone]]<br />
+| media =
+| requirements =
+}}
+《'''愤怒的小鸟英雄传'''》（英语：{{lang|en|''Angry Birds Epic''}}）是一个由[[Chimera Entertainment]]开发、[[芬兰]][[Rovio娱乐|Rovio公司]]发行的《[[愤怒的小鸟]]》系列中的第一款采用回合战斗制的[[角色扮演游戏]]。该游戏在2014年5月17日于[[澳大利亚]]、[[新西兰]]、[[新加坡]]和[[加拿大]]的[[iTunes Store|iTunes商店]]先行上架<ref name="Roberston">{{cite web|url=http://www.forbes.com/sites/andyrobertson/2014/03/18/angry-birds-epic-game-play/|title='Angry Birds Epic' Game-Play Reveals Detailed Tactical Combat|last=Robertson|first=Andy|date=18 March 2014|work=[[Forbes]]|accessdate=19 March 2014}}</ref>，然后于2014年6月12日在全球范围上架多语言版本<ref>{{cite web |url=http://www.angrybirdsnest.com/angry-birds-epic-worldwide-release-this-thursday-june-12th/ |title=Angry Birds Epic Worldwide Release this Thursday, June 12th! |publisher=angrybirdsnest.com |date=2014-06-09 |accessdate=2014-06-12}}</ref>。
+
+== 游戏模式 ==
+
+游戏的故事发生在猪岛上，玩家可以拖动场景，但场景是随着玩家的进度而逐渐显现的。游戏中鸟与猪与其他版本有所不同：有5颗鸟蛋，而且只有五只鸟：红鸟（Red）、黄鸟（Chuck）、白鸟（Matilda）、黑鸟（Bomb）和三只蓝鸟（Jim、Jake和Jay，统称The Blues）；雀斑猪成了波奇王子（Prince Porky），厨师猪成了法师。游戏设有等级制，等级越高，小鸟和猪的血量和攻击就越高。货币有三种：银币、金币和友谊精油。银币用来购买普通物品，金币用来购买贵重物品，友谊精油可以用来重新摇转盘或重新投骰子（锻造系统中）。
+
+[[File:Angry_Birds_Epic_Screenshot.png|240px|thumb|战斗画面]]游戏中玩家会与猪战斗。战斗开始时，玩家可以给小鸟下达命令或选择自动战斗。玩家可以把小鸟拖动到敌人上，小鸟就会攻击敌人，敌人有可能被打倒；单击小鸟或把小鸟拖到队友身上可以启用自身支持技能；当屏幕下方的暴怒椒满格时，玩家可以把暴怒椒拖向一只鸟，这只鸟会启用暴怒技能。当玩家给所有小鸟都下达指令之后，猪就会攻击小鸟，小鸟也有可能被打倒。猪攻击完毕后，一个回合结束，下一个回合开始，玩家继续对小鸟下达命令。玩家还可以点右上角的按钮以使用物品。若猪全部被打倒（包括正在复活的），且至少有一只鸟存活，则玩家胜利，胜利后可以摇奖获得物品。若鸟全部被打倒，则玩家失败，失败后可以获得安慰奖，如几枚银币。
+
+游戏还设有锻造系统以及社交功能，玩家可以用已有的低级材料合成高级材料，或将已有材料合成为物品、武器或防具。材料可以在通关时或资源收集点获得。玩家取得金猪后，可以花钱或看广告摇取武器或防具。有些武器和防具能配套使用以获得额外效果。登录Rovio账号可以在云端保存进度、登录[[Facebook]]账号可以添加好友以获取友谊精油，一定时间可以免费摇取好友的金猪。
+
+== 剧情 ==
+
+猪王（King Pig）要法师猪（Wizpig）去夺取鸟蛋。当时鸟蛋由红鸟和黄鸟值守。法师猪、波奇王子和一群猪抢走了5颗鸟蛋，还把黄鸟、铁砧和金猪夺走了。小鸟们跋山涉水，途中遇到白鳥、黑鳥和藍鳥，他們经历了许多周折，途中红鸟、黄鸟和黑鸟还被猪们绑架。他们到达猪城后，夺取了五颗鸟蛋。然而法师猪准备背叛猪王，夺走了第五颗鸟蛋以及王冠。小鸟们登上猪头山，击破五个魔法屏障，然后进入法师猪的城堡。在第二波战斗中，法师猪变异，成了红色的恶魔法师猪。法师猪召唤波奇王子，可是波奇王子来了后为鸟服务，一起对抗法师猪了。最终，法师猪战败，小鸟们夺得了第五颗鸟蛋，王子猪夺回了王冠，还给猪王。
+
+== 地图部件 ==
+
+* '''关卡'''：进入后是一场战斗（可以是单轮或多轮），战斗胜利后该关卡会插上带有星星的蓝色旗帜。
+
+* '''城堡关卡'''：进入后是一场多轮战斗，战斗胜利后获取一颗鸟蛋（猪王城堡除外），并会插上带有星星的绿色旗帜。
+
+* '''地牢关卡'''：指定时间开放，否则需要花15金币进入。进入后是一场多轮战斗，较难，战斗胜利后获取金钱，并会插上带有星星的黑色旗帜。
+
+* '''大漩涡'''：是一个没有标记的关卡。
+
+* '''职业训练师'''：每个职业训练师都会提供几个职业供玩家购买。
+
+* '''作坊'''：每个作坊都会提供几个武器或护盾的设计图供玩家购买。
+
+* '''资源收集点'''：有岩石、贝壳和树桩三种，定期发出亮光，此时玩家点击它就会获取一定数量的材料。
+
+* '''黄门'''：需要用黄钥匙打开，打开后不会消耗黄钥匙。
+
+* '''蓝门'''：需要用蓝钥匙打开，打开后不会消耗蓝钥匙。
+
+* '''红门'''：需要用红钥匙打开，打开后不会消耗红钥匙。
+
+* '''友谊之门'''：需要用5个[[Facebook]]好友或25金币打开。
+
+* '''营地'''：在南海滩，进入等同于点游戏右下角的按钮。
+
+* '''剧院'''：观看卡通片以及其他视频。
+
+* '''教授猪实验室'''：提供食品炼制图纸，达到一定等级时可以购买获得。
+
+* '''神鹰训练场'''：提供职业的升级，在获取旧巢坟的剑后每次提供3种升级项目，过数小时候刷新。玩家可以花银币或金币依次把鸟的职业升级为老兵（铜牌）、精英（银牌）、大师（金牌）。
+
+* '''纪事洞入口'''：进入纪事洞。
+
+== 地图 ==
+
+=== 南海滩 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| South Beach || 5 || 0 || 2014年5月17日
+|}
+
+游戏开始的地方。
+
+'''关卡'''：南海滩1-4，聚宝林（Cornucopia Woods，通往石灰岩潟湖）。
+
+'''特殊场景'''：营地。
+
+=== 钴高原 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Cobalt Plateaus || 26 || 8 || 2014年5月17日
+|}
+
+南海滩以北的高原，[[憤怒鳥卡通|卡通片]]中是小鸟的栖息地。
+
+'''关卡'''：猪猪监狱（Pig Prison，解救黄鸟），钴高原1-12，钴猪城堡（放置第一颗鸟蛋），南钴高原，东钴高原1-8（进入东钴高原3-8需要'''黄钥匙'''，进入5-8需要'''蓝钥匙'''，进入7-8需要'''红钥匙'''），西钴高原，白鸟花园（White Garden），迷魂桥（Puzzle Bridge，通向黄金地）。
+
+'''特殊场景'''：剧院，岩石资源收集点，职业训练师，作坊X2，黄门，蓝门，红门。
+
+=== 黄金地 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Golden Fields || 4 || 1 || 2014年5月17日
+|}
+
+田地，教授猪实验室所在地。
+
+'''关卡'''：黄金地1-4。
+
+'''特殊场景'''：教授猪实验室。
+
+=== 胡子林 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Beard Forest || 2 || 0 || 2014年5月17日
+|}
+
+需要开启友谊之门进入该场景。
+
+'''关卡'''：胡子林1-2。
+
+'''特殊场景'''：友谊之门。
+
+=== 石灰岩潟湖 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Limestone Lagoon || 8 || 1 || 2014年5月17日
+|}
+
+环绕沙漠岛的一个潟湖，有一个漩涡。
+
+'''关卡'''：石灰岩潟湖1-6，白鲸（The White Whale），大漩涡（与石灰岩潟湖6连接，没有关卡标记）。
+
+'''特殊场景'''：贝壳资源收集点，职业训练师，作坊。
+
+=== 南海 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Southern Sea || 5 || 1 || 2014年5月17日
+|}
+
+位于石灰岩潟湖以南的海域。
+
+'''关卡'''：沉船礁（Shipwreck Reef），南海（Southern Sea）1-4。
+
+'''特殊场景'''：无。
+
+=== 沙漠岛 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Desert Island || 5 || 2 || 2014年5月17日
+|}
+
+放置第二颗鸟蛋的地方，需要打开黄门进入。
+
+'''关卡'''：沙漠岛1-3，沙漠猪城堡（放置第二颗鸟蛋），东沙漠岛。
+
+'''特殊场景'''：黄门，作坊。
+
+=== 海盗海岸 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Pirate Coast || 4 || 2 || 2014年5月17日
+|}
+
+通向弹弓森林和班卓琴河口，海盗猪广布。
+
+'''关卡'''：海盗海岸1-3，猪龟岛（地牢，每周一开放）。
+
+'''特殊场景'''：职业训练师。
+
+=== 弹弓林 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Slingshot Woods || 11 || 4 || 2014年5月17日
+|}
+
+位于猪岛西南部，有一条河穿过。
+
+'''关卡'''：弹弓林1-6，西弹弓林，东弹弓林，北弹弓林1-3（进入北弹弓林2-3需要打开友谊之门）。
+
+'''特殊场景'''：作坊X2，贝壳资源收集点，职业训练师，友谊之门。
+
+=== 班卓琴河口 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Banjo Bayou || 3 || 1 || 2014年5月17日
+|}
+
+深绿色的森林，需要打开蓝门进入。
+
+'''关卡'''：班卓琴河口1-2，漂浮猪屋（Floating Hoghouse，地牢，每周三开放）。
+
+'''特殊场景'''：蓝门。
+
+=== 大峭壁 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Great Cliffs || 4 || 1 || 2014年5月17日
+|}
+
+位于弹弓林以北，有一座桥连到星形礁。
+
+'''关卡'''：大峭壁1-4。
+
+'''特殊场景'''：作坊。
+
+=== 星形礁 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Star Reef || 10 || 5 || 2014年5月17日
+|}
+
+由一条细长的沙滩和珊瑚广布的礁石构成，第三颗蛋放置点。
+
+'''关卡'''：星形礁1-8，幽灵船（Ghost Ship，地牢，每周二开放），星形礁城堡（放置第三颗蛋）。
+
+'''特殊场景'''：职业训练师，贝壳资源收集点，蓝门（在剧情中出现）。
+
+=== 翠竹林 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Bamboo Forest || 13 || 4 || 2014年5月17日
+|}
+
+竹子广布，在游戏中红鸟、黄鸟和黑鸟被绑架的地方。
+
+'''关卡'''：翠竹林1-9，西翠竹林，东翠竹林1-3（东翠竹林1需要开启红门，东翠竹林2-3需要开启友谊之门）。
+
+'''特殊场景'''：蓝门，作坊X2，红门，树桩资源收集点，友谊之门，职业训练师。
+
+=== 火山岛 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Volcano Island || 2 || 2 || 2014年5月17日
+|}
+
+由火山崖和火山岛地牢组成，火山崖是游戏中的十字路口。
+
+'''关卡'''：火山崖（Volcano Cliff），火山岛（地牢，每周四开放）。
+
+'''特殊场景'''：无。
+
+=== 雪山峰 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Snowy Peak || 15 || 6 || 2014年5月17日
+|}
+
+放置第四颗蛋的地方。
+
+'''关卡'''：峡谷地（Canyon Land）1-3，冬日仙境（Winter Wonderland）1-5，雪山峰1-3，山猪城堡（放置第四颗蛋），空中岛屿（Island in the Sky）1-3。
+
+'''特殊场景'''：作坊X2，职业训练师X2，岩石资源收集点。
+
+=== 南瓜高原 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Pumpkin Plateau || 3 || 2 || 2014年5月17日
+|}
+
+神鹰的训练场所在地，南瓜及丧尸猪广布。
+
+'''关卡'''：南瓜高原1-2，没糖果就捣蛋（Trick or Treat，地牢，每周五开放）。
+
+'''特殊场景'''：神鹰的训练场。
+
+=== 四方林 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Square Forest || 4 || 2 || 2014年5月17日
+|}
+
+这里的树木横截面是方形的。
+
+'''关卡'''：四方林1-3，北四方林（需要打开红门进入）。
+
+'''特殊场景'''：红门。
+
+=== 红色大谷地 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Red Giant Valley || 4 || 1 || 2014年5月17日
+|}
+
+在四方林北部。
+
+'''关卡'''：红色大谷地1-4（进入3-4需要友谊之门）。
+
+'''特殊场景'''：作坊，友谊之门，职业训练师。
+
+=== 沼泽地 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Moorlands || 3 || 1 || 2014年5月17日
+|}
+
+连接火山岛和湖泊区。
+
+'''关卡'''：沼泽地1-3。
+
+'''特殊场景'''：作坊。
+
+=== 湖泊区 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Lake Land || 8 || 4 || 2014年5月17日
+|}
+
+湖泊广布，北边是北海（夺潜艇的地方）。
+
+'''关卡'''：湖泊区1-3，无底洞（Bottomless Cave，地牢，每周六开放），北海（Northern Sea）1-4。
+
+'''特殊场景'''：岩石材料收集点，职业训练师，贝壳材料收集点。
+
+=== 东海 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Eastern Sea || 9 || 4 || 2014年5月17日
+|}
+
+猪岛东边的海域，在靠近猪城的一带有水雷。
+
+'''关卡'''：东海1-5，东海6（连接红色大河谷1），东海7（连接红色大河谷4），猪城海港（Pig City Harbor），沉没的金字塔（Sunken Pyramid，地牢，每周日开放）。
+
+'''特殊场景'''：贝壳材料收集点。
+
+=== 旧巢坟 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Old Nesting Barrows || 6 || 1 || 2014年5月17日
+|}
+
+在猪城以南，是拿剑解锁神鹰训练场的地方。
+
+'''关卡'''：旧巢坟1-6。
+
+'''特殊场景'''：作坊X2，职业训练师。
+
+=== 猪城 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Pig City || 4 || 2 || 2014年5月17日
+|}
+
+猪的生活地带，放置第五颗蛋的地方。
+
+'''关卡'''：猪城1-3，猪王城堡。
+
+'''特殊场景'''：纪事洞入口，作坊。
+
+=== 猪头山 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Hog Head Mountain || 14 || 6 || 2014年5月17日
+|}
+
+圆形的山，形似猪，放置被法师猪夺取的第五颗蛋的地方。
+
+'''关卡'''：猪头山1-6，大嘴池（Mouth Pool），北猪头山，魔法盾（Magic Shield）1-5，法师猪城堡。
+
+'''特殊场景'''：树桩材料收集点，岩石材料收集点。
+
+=== 纪事洞 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数
+|-
+| Chronicle Cave || 110 || 99
+|}
+
+'''关卡'''：摇晃的大厅（Shaking Hall）1-10，多雨高原（Rain Plateaus）1-10，雾洞（Misty Hollow）1-10，疗伤穴（Cure Cavern）1-10，燃烧的平原（Burning Plain）1-10，漫漫寒冬（Endless Winter）1-10，被遗忘的堡垒（Forgotten Bastion）1-10，怪地方（Strange Site）1-10，猪窝（Pig Lair）1-10，Citadel 1-10，Mocking Canyon 1-10。
+
+1至5层于2014年5月17日推出；6至7层于2014年7月29日推出Android版本，然后于8月4日推出iOS版本；8至9层于2014年9月5日推出Android版本，然后于9月14日推出iOS版本；第10至11层于2014年10月21日推出。得到5颗鸟蛋后开放，关卡较难，每一层洞穴都有一个对小鸟有害或对猪有益的效果。
+
+=== 黄金之云 ===
+
+{| class="wikitable"
+|-
+! 英文名 !! 关卡数 !! 多轮关卡数 !! 推出时间
+|-
+| Golden Clouds || 1 || 0 || 2014年6月10日
+|}
+
+每天出现，进入该关卡会与金猪战斗，胜利后获取每日奖励。
+
+'''关卡'''：黄金之云
+
+== 参考资料 ==
+
+{{reflist}}
+
+== 外部链接 ==
+
+* http://epic.angrybirds.com
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds Epic}}
+[[Category:角色扮演游戏]]
+[[Category:iOS游戏]]
+[[Category:Android游戏]]
+[[Category:Windows Phone游戏]]
+[[Category:2014年电子游戏]]
+{{Navbox
+| name   = Angry Birds
+| title  = 《[[愤怒的小鸟|-{zh-cn:愤怒的小鸟; zh-hk:憤怒鳥; zh-tw:憤怒鳥;}-]]》系列
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+| above = [[Rovio娱乐]]
+| group1 = 遊戲
+| list1 = [[憤怒的小鳥]]{{.w}}[[憤怒的小鳥季節版|季節版]]{{.w}}[[憤怒的小鳥里約版|里約版]]{{.w}}[[憤怒的小鳥太空版|太空版]]{{.w}}[[憤怒的小鳥星球大戰版|星球大戰版]]{{.w}}[[憤怒的小鳥Friends|Friends]]{{.w}}[[憤怒的小鳥星球大戰版II|星球大戰版II]]{{.w}}[[憤怒的小鳥Go!|Go!]]{{.w}}[[愤怒的小鸟英雄传|英雄传]]{{.w}}[[愤怒的小鸟思黛拉|思黛拉]]{{.w}}[[愤怒的小鸟变形金刚版|变形金刚版]]
+| group2 = 特集
+| list2 = [[憤怒的小鳥Trilogy]]
+| group3 = 派生作品
+| list3 = [[憤怒鳥卡通|卡通]]（[[愤怒的小鸟卡通片集数列表|各集列表]]）{{.w}}[[搗蛋豬]]
+| group4 = 食品
+| list4 = [[憤怒鳥食品]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:电子游戏系列模板]]
+</noinclude>
+{{citecheck|time=2013-05-04T10:06:46+00:00}}
+{{Infobox video game
+| title = 神奇的阿力
+| image = 
+| caption = 
+| developer = [[Rovio Entertainment]]<br />Mystery Coconut Games, Snappy Touch（Casey's Contraptions的开发者）
+| producer = 
+| common = {{vgrelease|TWHK=疯狂的艾力克斯|CN=神奇的阿力}}
+| designer = 
+| level designer = 
+| programmer = 
+| artist = 
+| composer = 
+| engine = 
+| publisher= [[Rovio Entertainment]]
+| version=
+| released = 2012年7月12日<ref>{{cite encyclopedia
+ | encyclopedia =Amazing Alex Wiki
+ | title = Amazing Alex
+ | url = http://amazingalex.wikia.com/wiki/Amazing_Alex
+ | accessdate = 2013-05-03
+ | quote = The game will be launched on July 12, 2012 as a paid game in iOS and Android.
+ | language = en
+}}</ref>
+| genre = [[益智游戏]]
+| modes = 
+| ratings = {{vgratings|[[Google Play]]| 心智成熟度 - 低}}
+| platforms = [[iOS]]、[[Android]]、[[Windows Phone]]<ref>{{Cite web |url=http://www.rovio.com/en/our-work/games/view/45/amazing-alex |title=Amazing Alex |accessdate=2013-05-04 |publisher=[[Rovio Entertainment]] |language=en}}</ref>
+| media =
+| requirements =
+| input =[[觸控]]
+}}
+
+《'''神奇的阿力'''》（Amazing Alex）是一款由开发过《[[愤怒的小鸟]]》<ref>{{Cite web
+|url= http://www.rovio.com/en/our-work/games
+|title= Our Work
+|accessdate= 2013-05-03
+|language= en
+}}</ref>的[[Rovio娱乐]]公司开发的物理类[[益智游戏]]。<ref>{{cite web|url=http://yle.fi/uutiset/new_amazing_alex_game_chases_angry_birds/6091544|title=Amazing Alex}}</ref>这款游戏最初由Rovio的CEO在芬兰[[Yle]]电视台早间节目中提及。<ref>[http://areena.yle.fi/tv/1547595 Ylen aamu-tv: Vieraana Angry Birdsejä johtava Mikael Hed (video clip in Finnish)]</ref>这一游戏的原型是由Noel Llopis（Snappy Touch）与Miguel Ángel Friginal（Mystery Coconut）开发的[[Casey's Contraptions]]，后来被Rovio收购。<ref>{{cite web|url= http://www.gamasutra.com/view/news/170084/Rovio_confirms_acquisition_of_Caseys_Contraptions_IP.php |title=Rovio acquires Casey's Contraptions }}</ref>
+
+== 背景 ==
+游戏的背景是一位对事物充满好奇的男孩[[艾力克斯]]，他拥有无边无际的想像力<ref>{{Cite web
+|url= http://down.tech.sina.com.cn/3gsoft/download.php?id=7819
+|title= 神奇的阿力 Amazing Alex
+|accessdate= 2013-05-03
+|language= zh
+}}</ref>，喜歡通过摆弄周围的物品，產生连锁反应的装置，来达到任务目标。<ref>{{cite video
+ | date       = 2012-07-10
+ | title      = Amazing Alex official launch trailer
+ | url        = http://www.youtube.com/watch?v=xk7vezL36IU
+ | publisher  = Amazing Alex official launch trailer
+ | accessdate = 2013-03-29
+}}</ref>
+
+== 玩法 ==
+這遊戲要利用各種的道具，透過连锁反应的装置，產生物理現象，達到過關的條件，只要你順利達成，就會到下一關。如果在過關的同時能碰觸到那些星星，會有更高的分數。遊戲要先將道具和物品做適當的擺設，等一切都設置妥當後，按開始鍵，物品就會開始運作了。<ref>{{Cite web
+|url= http://www.freegroup.org/2012/08/free-android-apps-amazing-alex/#.UVTyrhynr9w
+|title= &#91;Android&#93; Amazing Alex 憤怒鳥團隊最新力作，透過各種物理作用來玩遊戲！
+|accessdate= 2013-03-29
+|author= Boring
+|date= 2012-08-14
+|publisher= 免費資源網路社群
+|language= zh
+}}</ref><ref>{{cite video
+ | date       = 2012-07-15
+ | title      = Amazing Alex - Level 3-1 - Walkthrough - 3 Stars
+ | url        = https://www.youtube.com/watch?v=yGciq9zu_UI
+ | publisher  = i3Stars
+ | accessdate = 2013-03-29
+ | time       = 0:35
+}}</ref>
+
+玩家也可自行使用各種的道具設計關卡，<ref>{{Cite web
+|url= http://www.soft4fun.net/ipad-iphone/amazing-alex.htm
+|title= 「Amazing Alex」Angry Birds 公司最新力作強勢登場！
+|accessdate= 2013-03-29
+|author= Werboy
+|date= 2012-07-13
+|publisher= 硬是要學
+|language= zh
+|quote= 如果你已經玩出一些心得的話，還可以自己設計關卡來跟世界玩家分享、挑戰，也就是說有無限個關卡等你去挑戰，不錯吧！
+}}</ref>也可以把自行設計的關卡分享出去<ref>{{cite encyclopedia
+ | encyclopedia =Amazing Alex Wiki
+ | title = User created levels
+ | url = http://amazingalex.wikia.com/wiki/User_created_levels
+ | accessdate = 2013-05-03
+ | quote = One of the great featues of Amazing Alex the the ability to create and share your levels.
+ | language = en
+}}</ref>。
+
+== 外界評價 ==
+此遊戲可透過 [[App Store]] 的 [[Game Center]]分享自己的遊戲流程，有玩家認為此舉可增加遊戲的耐玩性。<ref>{{Cite web
+|url= http://techorange.com/2012/08/03/amazing-alex/
+|title= 能否拷貝憤怒鳥經驗？談 Rovio 新作 Amazing Alex
+|accessdate= 2013-03-29
+|author= 唐比爾
+|date= 2012-08-03
+|publisher= 科技報橘
+|language= zh
+|quote= 利用社群及分享的概念，增加遊戲耐玩性
+}}</ref>另外，有玩家認為《神奇的阿力》是一款寓教於樂的遊戲。<ref>{{Cite web |url=http://playpcesor.blogspot.com/2012/07/amazing-alex.html |title=Amazing Alex 憤怒鳥團隊新作下載！神奇的物理益智遊戲 |accessdate=2013-05-03 |author=異塵行者 |publisher=電腦玩物 |quote=「Amazing Alex」是一款寓教於樂，物體動態效果精采的好遊戲，推薦大家可以玩玩看。}}</ref>
+
+在網站[[Pocket Gamer]]中，有玩家指出，把《神奇的阿力》和《[[憤怒的小鳥]]》相比，後者較好：“我並不是說《神奇的阿力》不是一種上癮的體驗 - 它只是和憤怒的小鳥相比，有較少的刺激感。當你完成一個關卡，你很少把你的手臂扔在空中。”<ref>{{Cite web |url=http://www.pocketgamer.co.uk/r/Android/Amazing+Alex/review.asp?c=43021&srch=Amazing+Alex |title=Amazing Alex |accessdate=2013-05-04 |author=Harry Slater |language=en |quote=That's not to say that Amazing Alex isn't an addictive experience - it's just that compared to Angry Birds, there's less excitement involved. You rarely feel like throwing your arms in the air when you've completed a puzzle, for example, and the absence of any kind of antagonist reduces the stakes slightly. }}</ref>
+
+在[[Google Play]]中，該遊戲的平均分數是4.3分（滿分5分）。有玩家在[[Google Play]]上批評，《神奇的阿力》並不是太有趣。
+==参考资料==
+{{reflist}}
+
+{{DEFAULTSORT:Amazing Alex}}
+[[Category:2012年电子游戏]]
+[[Category:Android遊戲]]
+[[Category:IOS遊戲]]
+[[Category:益智游戏]]
+[[Category:战略游戏]]
+{{RoughTranslation}}
+{{noteTA
+|T=zh-cn:愤怒的小鸟卡通片; zh-hk:憤怒鳥卡通; zh-tw:憤怒鳥卡通;
+}}
+{{Infobox television
+|show_name = Angry Birds Toons
+|image = 
+|caption =
+|creator = Mikael Hed<br/>Lauri Konttori<br/>Mikko Pöllä
+|opentheme = "Angry Birds Toons"
+|num_seasons= 2
+|num_episodes = 52
+| list_episodes         = 愤怒的小鸟卡通片集数列表
+|country = [[芬蘭]]
+|language = 芬蘭語 <br/>英語
+|company = [[Rovio Entertainment]]<br/>[[Toon City]] <small>(13-44集;47集-至今)</small><br/>[[Atomic Cartoons]]<small> (45-46集)</small>
+|distributor = [[AdMob]]
+|network = [[Rovio Entertainment#ToonsTV|ToonsTV]]<br/>[[#International distribution|various broadcast]]
+| first_aired = {{Start date|2013|03|16}}
+| last_aired = 至今 
+|status = New series
+|format =  [[電視動畫]]
+|website= http://www.angrybirds.com/toons/
+}}
+'''憤怒鳥卡通'''（[[英語]]：Angry Birds Toons），是根據[[Rovio娛樂]]的[[憤怒的小鳥]]並專營[[芬蘭]][[動畫]]電視連續劇。這個動畫系列描述鳥與豬之間的爭鬥；它也描述鳥與豬（至今為止）喜劇彼此之間以及對彼此的冒險。
+
+有一個介紹性的情節被稱為“相約鸟群”(Meet the Flock)，裡面介紹了角色並給大多數鳥類自己的名字。
+
+至今該動畫情節始終相當短，大多為三分鐘。沒有對話，只有面部表情、聲音效果與簡單的發聲，類似於許多二十世紀中葉的[[湯姆與傑利]]動畫片。使得該漫畫幾乎在所有世界各地的文化理解，且不用進行調整或翻譯。
+
+截至2013年9月，卡通已經被瀏覽超過十億次，於2013年3月推出<ref name="hollywoodreporter1">{{cite web|url=http://www.hollywoodreporter.com/news/rovio-announces-second-season-angry-636435 |title=Rovio Announces Second Season of 'Angry Birds Toons' Series |publisher=The Hollywood Reporter |date=2013-09-17 |accessdate=2013-09-25}}</ref>。
+
+==特色==
+2011年[[尼可國際兒童頻道]]已放映''憤怒鳥：破壞大廳''，一個特別是在2011年12月17日聖誕節播出<ref>Ramin Zahed. (December 19, 2011) [http://www.animationmagazine.net/tv/angry-birds-land-on-nick/ "Angry Birds Lands on Nicktoons"]. Animation Magazine.</ref>，與2012年3月''憤怒鳥太空''之動畫前傳同名遊戲<ref>(March 21, 2012) [http://uk.tv.ign.com/articles/122/1221131p1.html "Angry Birds Space Headed to Nicktoons"]. IGN.</ref>。
+
+==角色==
+*紅鳥（Red，憤怒鳥）
+*黃鳥（Chuck，衝刺鳥）
+*黑鳥（Bomb，炸彈鳥）
+*白鳥（Matilda，下蛋鳥）
+*藍鳥（The Blues，分別為Blue Jay、Blue Jake、Blue Jim，破冰鳥）
+*橘鳥（Bubbles，膨脹鳥）
+*大紅鳥（Terence，大哥鳥）
+*粉紅鳥（Stella，泡泡鳥）
+*綠鳥（Hal，迴旋鳥）
+*豬國王（King Pig）
+*普通豬（Pigs）
+*下士豬（Corporal Pig，鋼盔豬）
+*領班豬（Foreman Pig，鬍子豬）
+*廚師豬（Chef Pig）
+*豬教授（Professor Pig）
+*豬牧師（Chronicler Pig）
+*大肥豬（Fat Pig）
+
+==系列==
+[[Rovio Entertainment|Rovio]]已宣布從憤怒鳥遊戲系列衍生的卡通。&nbsp;他們計劃製作52集短劇。&nbsp;該系列透過芬蘭動畫工作室Kombo製作，它在2011年6月被[[Rovio Entertainment|Rovio]]收購。“我很高興地說，我們將推出今年每週的動畫系列的短格式的內容。”[[Rovio Entertainment|Rovio]]動畫負責人[[Nick Dorra]]表示<ref>{{cite web |url=http://www.bbc.co.uk/newsbeat/17581833 |title=Rovio confirms Angry Birds mobile animation series |deadurl=no |accessdate=30 July 2012}}</ref>。
+
+該系列產品適用於全球所有的憤怒鳥應用程式，[[隨選視訊]]，和[[智能電視]]；此外，它以20個免費電視網路宣傳至世界各地。
+
+2014年，[[Rovio Entertainment|Rovio]]計劃推出憤怒鳥卡通新的一季，分開兩個卡通系列，其中一個是[[黏土動畫]]名叫“小豬故事”，另一個[[3D動畫]]就是憤怒鳥思黛拉的前傳故事<ref name="hollywoodreporter1"/>。
+
+==家庭媒體==
+[[索尼]]影業家庭娛樂公司發布了第一個26集的DVD和藍光於2013年12月3日。
+
+後來，2014年4月15日[[索尼]]發布了下一個26集的DVD和藍光。
+
+==全球分佈==
+{|class=wikitable
+|-
+! 國家
+! 網路
+! 系列首播	
+|-
+| {{ISR}} 
+| [[Arutz HaYeladim]]<ref>{{cite web|url=http://news.walla.co.il/?w=/201/2624332 |title=בקרוב: הסדרה על פי "אנגרי בירדס" בערוץ הילדים - וואלה! חדשות |publisher=News.walla.co.il |date= |accessdate=2013-09-25}}</ref> 
+|
+|-
+| {{FIN}} 
+| [[MTV3]]<br>[[MTV3 Juniori]] 
+|
+|-
+| {{CHL}} 
+| [[Canal 13]] 
+|
+|-
+| {{IND}} 
+| [[卡通頻道]] 
+| 
+|-
+| {{NOR}} 
+| [[TV2]] 
+|
+|-
+| {{BRA}} 
+| [[Gloob]] 
+|
+|-
+| {{POR}}
+| [[Nickelodeon]]
+|
+|-
+| {{AUS}} 
+| [[FOX8]]
+| 
+|-
+| {{ITA}} 
+| [[Super!]]
+| 2013年11月28日
+|-
+| {{GER}} 
+| [[Super RTL]] 
+|
+|-
+| {{FRA}} 
+| [[Gulli]]<br>[[J頻道]] 
+|
+|-
+| {{UK}}  
+| [[POP]] 
+|
+|-
+| {{RUS}} 
+| [[Nickelodeon]]  
+|
+|-
+| {{IDN}} 
+| [[antv]] 
+| 2013年3月16日
+|-
+| {{CAN}} 
+| [[Teletoon]] 
+| 2013年3月16日
+|-
+| {{USA}} 
+| [[Xfinity On Demand]]
+| 2013年3月16日
+|-
+| {{UKR}} 
+| [[1+1]]
+| 2013年3月17日
+|-
+| {{KOR}} 
+| [[:ko:JEI 재능TV|JEI TV]]<br>[[:ko:JEI English TV|JEI English TV]]
+|
+|-
+| {{ESP}}
+| [[Neox]]<br>[[天線3]]
+| 2013年6月29日
+|-
+| {{PHI}}
+| [[GMA網路]]
+| 2013年7月27日
+|-
+| {{NZL}}
+| [[TV2]]
+| 2013年8月19日
+|-
+| {{TUR}}
+| [[TRT Çocuk]]
+| 2013年9月6日
+|-
+| {{MYS}}
+| [[Nickelodeon]]
+| 2013年9月8日
+|-
+| {{GRE}}
+| [[Star Channel]]
+| 2013年9月21日
+|-
+|  [[File:Flag of the Arab League.svg|22px]] [[阿拉伯世界]]
+| [[Jeem TV]]
+|22 Dhu al-Hijjah 1434 <small>I</small>  (2013年10月27日 <small>G</small>)
+|-
+| {{POL}}
+| [[Puls 2]]
+| 2013年12月
+|-
+| {{UAE}} 
+| [[Baraem]]
+|
+|-
+| {{flag|Hungary}}
+| [[Megamax]]
+|
+|-
+| {{flag|Thailand}}
+| [[泰國第3電視台]]
+|
+|}
+
+==參考資料==
+{{Reflist}}
+
+==外部連結==
+*[http://www.angrybirds.com/toons/ 官方網站]
+*[http://www.imdb.com/title/tt3012598/ 憤怒鳥卡通]的[[網路電影資料庫]]
+
+{{Angry Birds}}
+{{DEFAULTSORT:Angry Birds}}
+
+[[Category:電子遊戲改編電視劇]]
+[[Category:Flash動畫]]
+[[Category:變身題材作品]]

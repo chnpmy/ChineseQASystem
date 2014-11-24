@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">挖掘机在台湾被叫做什么？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="592125" start="0">
+  <doc>
+    <str name="id">679271</str>
+    <str name="text">{{noteTA
+|T=zh-hans:挖土機; zh-cn:挖掘机; zh-tw:挖土機;
+|1=zh-hans:挖掘机; zh-cn:挖掘机; zh-tw:挖土機;
+}}
+
+[[File:CAT385-Raupenbagger.jpg|thumb|300px|一輛卡特彼勒385型挖土機。]]
+[[File:JGSDF Tokuoogata semi trailer tractor.jpg|thumb|230px|[[自衛隊]]怪手於卡車上]]
+[[File:Caterpillar5230.jpg|thumb|230px|CAT 5230巨型礦用挖掘機]]
+
+[[File:TFD6-TC2.jpg|thumb|230px|2008年底東京消防廳引進了市面第一台[[雙臂式作業機]]]]
+'''挖掘机'''（香港俗稱：雞頭&lt;ref&gt;[http://www.cmttc.com.hk/index_tc.php/category/courses/excavator 建造業機械訓練中心]&lt;/ref&gt;），在台灣常稱為"怪手"，是一種特殊的[[工程車輛]]，是由旋轉平台、大型鏟子以及機械手臂組成。一般是以[[履帶]]或[[車輪]]行進。由於它的樣子特殊，行內对其有各种稱呼，如怪手、反铲、挖机等。
+
+旋轉平台可以做360度迴轉的挖土機，從最小型的小松PC01、日立EX4、石川島IS4J、神戶製鋼SK005到最大型的小松PC8000、利勃海尔9800、日立EX8000。在挖掘机的轉盤中心部份，都有1個迴轉分流盤（joint Ass'y）裝置，外殼固定在上部機械上面有6~9條油管，中心軸固定在下部機械也有6~9條油管，可做360度旋轉，它的用途是將上部機械的液壓油，分送到底盤結構中的行走油壓馬達組，帶動履帶然後走動，或是操作推土板，所以挖掘机上半部要360度旋轉幾次都可以。
+
+== 挖土機種類和用途 ==
+*'''迷你挖掘机'''：泛指總重量六[[噸]]以下（含六噸）的挖掘機，車型小，方便在狹小作業場地也能安全地運轉，因而特別適用於場地狹小地區。
+&lt;BR&gt;
+小型：6吨至20吨
+*'''中型挖掘机'''：泛指總重量20-30吨的挖掘机，也就是最常見的挖掘機類型。
+&lt;BR&gt;
+*'''大型挖掘机'''：泛指總重量30噸以上的都隸屬於大型挖掘机，一般建築工地也難見到，除非是在運輸過程的路上，使用者多為礦業，用於大型採礦場。具有巨大的車型、大容量的操作、強而有力的引擎及[[泵|加壓泵]]推動巨大的液壓技術，高強度的下部走行體與前臂，滿足礦業中的各項作業要求。
+&lt;BR&gt;
+*'''反鏟挖掘机'''：隸屬於大型挖掘机的一種，擁有強力的[[引擎]]及[[泵|加壓泵]]推動巨大的液壓技術，並將挖斗反裝，能在礦場中以更快的速度挖掘，增加工作效率。
+&lt;BR&gt;
+*'''輪式挖掘机'''：隸屬於中型挖掘机的一種，將下半身的[[履帶]]改製成類似一般[[汽車]]的橡膠輪胎，擁有比一般中型挖掘机更快的移動速度和更強的機動性，能使挖掘中的移動速度增高，增加工作效率，且可像一般車輛直接行駛於路上，無須以卡車載運，缺點是無法像一般使用履帶的中型挖掘机輕鬆行駛於各種狀況較差或較鬆軟的路面。
+&lt;BR&gt;
+*'''浚挖船'''：隸屬於大型挖掘机，將上半部的車身裝至船體上，能自由在水上作業，用於清除河川湖泊或[[水庫]]淤泥。
+&lt;BR&gt;
+*一般安裝於挖土機手臂前端的器械通常為挖掘用的[[挖斗]]，但挖土機本身也可因現場不同用途而換上不同的器械，以執行除挖掘以外的工作
+**如換裝上[[油壓破碎機]]或[[大鋼牙]]則可用來拆除舊房屋或敲破堅硬地面。
+**若用於廢鐵廠則裝上圓形[[電磁盤]]用以吸起大量廢金屬將其放裝到卡車或指定的位置暫時存放。
+
+== 製造商 ==
+===亞洲===
+;中國
+*柳工機械
+*三一重工
+*徐工集团
+*厦工机械
+;南韓
+*三星重工
+*斗山集团（于2005收购大宇重工）
+;日本
+*AIRMAN北越工業株式會社。
+*Hitachi Ltd. [[日立]]（株式会社日立製作所）。
+*IHI Corporation石川島播磨重工業。2008年7月1日更名為IHI建機株式會社。
+*KATO WORKS CO.,LTD [[加藤製作所]]（株式会社加藤製作所）。
+*Kawasaki Heavy Industries, Ltd. [[川崎重工業]]（かわさきじゅうこうぎょう）。
+*Kobe Steel Group [[神戶製鋼]]，或稱神鋼機械，前身為油谷重型機械工業（KOBELCO）。
+*Komatsu Limited [[小松製作所]]（株式会社小松製作所）。
+*Kubota Corporation [[久保田 (企業)|久保田]]（株式会社クボタ）。
+*Mitsubishi Group [[三菱集團]]（三菱グループ）。
+*Sumitomo Group [[住友集團]]。
+*Takeuchi Mfg. Co., Ltd.竹内製作所（株式会社竹内製作所）。
+*Yanmar Co., Ltd.野馬牌（ヤンマー株式会社）。
+
+===美洲===
+;美國
+*Bobcat Company「山貓牌」，其最大特徵是車輛上會有一山貓臉塗裝，也因而此型四輪鏟裝機統稱小山貓，此品牌已被韓國廠商併購。
+*Case Company卡斯牌。
+*Caterpillar Inc.凱特彼勒或卡特彼勒，通常簡稱為卡特CAT。
+*JOHN DEERE &amp; Company約翰迪爾（挖掘机上通標示DEERE，在台灣稱為強鹿牌）。
+
+===歐洲===
+;英國
+*HANIX
+
+;德國
+*Liebherr Group [[利勃海爾]]。
+*Orenstein &amp; Koppel（O&amp;K）。
+*Terex Corporation特瑞克斯。
+
+;瑞典
+*Volvo Group [[富豪集團]]。
+
+== 外部連結 ==
+* [http://www.constructionequipment.com Excavator Evaluations, Specs, &amp; Suppliers]
+* [http://www.specguideonline.com Excavator Specifications and Comparisons]
+* [http://www.spec-check.com Excavator Specifications]
+* [http://cic.nist.gov/vrml/equip.html VRML Simulation of an Excavator, Tower Crane, and Dumptruck]
+* [http://buildandquote.cat.com/ Configure a Hydraulic Excavator] – from the official Caterpillar website
+* NIOSH Publication: [http://www.cdc.gov/niosh/docs/wp-solutions/2004-107/default.html Preventing Injuries When Working With Hydraulic Excavators and Backhoe Loaders]
+*[http://www.immersivetechnologies.com/ Excavator Simulation]
+*[http://www.backhoe.com.tw/ Backhoe Excavator Taiwan]
+
+== 參考 ==
+{{reflist}}
+
+{{commonscat|Excavators}}
+
+[[Category:工程車輛]]</str>
+    <str name="title">挖土機</str>
+    <str name="titleText">挖土機</str>
+    <str name="user">范</str>
+    <int name="userId">1148342</int>
+    <int name="revision">32927965</int>
+    <date name="timestamp">2014-10-10T03:10:00Z</date>
+    <long name="_version_">1484748766214881283</long></doc>
+  <doc>
+    <str name="id">3809938</str>
+    <str name="text">{{unreferenced|time=2014-01-26T06:34:29+00:00}}
+{{暂定名称}}
+'''狗狗币'''（英文名称：Dogecoin&lt;ref&gt;{{cite web|title=Dogecoin|url=https://en.wikipedia.org/wiki/Dogecoin}}&lt;/ref&gt;，俗称：'''多吉币'''，台湾地区也常叫'''旺旺币'''，名字'''多吉'''是doge的谐音，因其寓意吉祥如意而被网友采用）是一种继承自[[莱特币]]的[[虚拟货币]]（[[电子货币]]），其图标表达的正是一条日本[[柴犬]]（[[Shiba Inu]]），它起初由一位名为Billy Markus的IBM的工程师创建，并希望它能够成为一个比Bitcoin更加适用于现实生活支付的[[电子货币]]。'''多吉币'''发行量为1000亿，截止2014年1月26日，已经有36.40%的币被挖掘。有人认为多吉币更容易保持稳定的汇率而不容易被炒家控制汇率，目前已经有少数商业应用的案例。
+
+== 历史概要 ==
+'''多吉币'''的创建者Billy Markus是一名来自[[美国]][[波特兰 (俄勒冈州)|波特兰市]]程序员。起初他正被[[电子货币]]所吸引，并正在研究一种叫做 "Bells"，基于 Nintendo's Animal Crossing 算法的电子货币, 他们希望实现一种更易于被广泛使用于现实生活，而不是被投机家买卖的电子货币。
+
+== 资金募集 ==
+
+== 使用和交易 ==
+
+== 挖矿 ==
+
+=== 矿区一览表 ===
+
+== 货币供应 ==
+
+== 参考 ==
+{{reflist|30em}}
+
+== 外部链接 ==
+ * [http://dogecoin.com 官方网站]
+
+[[Category:加密電子貨幣|D]]
+[[Category:使用MIT许可证的软件]]</str>
+    <str name="title">多吉币</str>
+    <str name="titleText">多吉币</str>
+    <str name="user">Chiefwei</str>
+    <int name="userId">95139</int>
+    <int name="revision">32655840</int>
+    <date name="timestamp">2014-09-13T16:19:23Z</date>
+    <long name="_version_">1484749446885408768</long></doc>
+  <doc>
+    <str name="id">310580</str>
+    <str name="text">{{noteTA
+|T=zh-hans:全断面隧道掘进机;zh-hant:全斷面隧道鑽掘機;
+|1=zh-cn:掘进机; zh-tw:鑽掘機;
+|2=zh-hans:钻爆法;zh-hant:鑽炸工法;
+}}
+{{otheruses|other=TBM|TBF復仇者式轟炸機}}
+{{Expand|time=2009-09-24}}
+[[File:Tunnel Boring Machine (Yucca Mt).jpg|thumb|280px|right|全断面隧道掘进机的正面照片。]]
+'''全断面隧道掘进机'''（Tunnel Boring Machine），或稱'''潛盾機'''，英文缩写为'''TBM'''，是專門用在開鑿隧道的大型機具。該機具具有一次開挖完成隧道的特色，從開挖、推進、撐開全由該機具完成，開挖速度是傳統[[鑽炸工法]]的5倍。然而該機具完全無法模組化，只能依照開挖隧道的[[直徑]]訂作，因此購買價格動輒上億元。
+
+==全断面隧道掘进机的分类==
+全断面隧道掘进机可分为：
+===岩石隧道掘进机===
+* 开敞式（Open-type TBM），也称支撑式TBM或撑靴式TBM。特点是适应硬岩地层，没有盾构，使用支撑靴（gripper）和前后支撑交替撑紧洞壁上以承受TBM向前掘进的巨大反作用力与反扭矩，并可以调整掘进方向。 如果遇到局部不稳定岩层，开敞式TBM使用自带的辅助设备打锚杆、加钢丝网、喷混凝土、加圈梁等方法加固，以保持洞壁稳定。当遇到局部特软弱围岩或破碎带，开敞式TBM使用自带的超前钻及灌浆设备，预先固结掘进前方的一段围岩，待围岩强度自稳后再安全掘进。永久性的洞壁衬砌待全线贯通后再集中进行。在[[西康铁路秦岭隧道]]施工、[[天生桥二级水电站]]引水隧道施工
+* 护盾硬岩TBM（shielded hard rock TBM）用于破碎岩层，在TBM后方混凝土衬砌支撑不稳定的洞壁。又可分为：
+** 双护盾TBM（Double Shield TBM）具有两种模式：在稳定岩层用支撑靴稳定TBM掘进；在不稳定岩层、破碎岩层，用TBM之后的洞壁作为支撑来稳定TBM。
+**单护盾TBM（Single Shield TBM）用于破碎岩层，依靠混凝土洞壁来支撑稳定TBM
+===软土隧道掘进机===
+* 开敞式（open-face）软岩掘进机，用于稳定且少水的地层。掘进出的隧道土质洞壁在短期内保持直立稳定，不需要衬砌支护。
+* 封闭式（closed-face）或压力平衡式软岩掘进机
+** 土压平衡式（Earth Pressure Balanced）TBM 由刀盘切割土层，切削下来的土进入土仓（也叫开挖舱）并与工作面的水土压力保持平衡。土仓内的螺旋输送机出土量与刀盘的推进量取得平衡，进行连续出土工作。土压的稳定依靠刀盘切削速度、推进力和螺旋输送机的转速联合协调进行。
+** 泥水平衡式（Slurry Pressure Balanced）TBM用于水压很大、地下水丰富的土层掘进（如过江、跨海隧道等）。在刀盘后部为泥水室，里面的泥水与工作面的压力保持平衡，以保证开挖面泥土地层稳定。从泥水室取出的泥水要水-土分离，分离出的水用于泥水室与工作面加压；分离出的土装车运出隧道。
+
+==历史==
+全斷面隧道鑽掘機於1853年誕生，設計者為Charles Wilson，首用于[[美國]][[麻薩諸塞州]]西部的霍賽克隧道（Hoosac Tunnel）的挖掘上，在[[页岩]]中边掘进边支护隧道壁。但該台鑽掘機僅僅前進10呎便告損毀，後該隧道改採傳統人工挖掘方式，延遲至1875年始告竣工。全斷面隧道鑽掘機的首起使用成功案例為美國[[南達科他州]]的歐阿希水壩（Oahe Dam），於1952年投入使用，並在1962年竣工。然而隧道鑽掘機的打響名號，仍遲至1988年起的[[英法海底隧道]]建設工程。
+
+== 參與的重大工程 ==
+*1952年，[[美國]][[南達科他州]]的歐阿希水壩，為首起成功案例。
+*1985年，[[日本]]貫通[[北海道]]與[[本州]]之間的[[青函隧道]]。
+*1987年12月1日，[[英法海底隧道]]。
+*1991年7月，[[台灣]][[蔣渭水高速公路]]中的重大隧道工程：[[雪山隧道]]開挖（因臺灣雪山地質破碎，北上線隧道坍塌壓毀TBM導致報廢，而後北上線改為傳統[[鑽炸法]]施工）。
+*1997年12月，[[中国]]首次从德国引进2台敞开式TBM，用于[[西康铁路]][[秦岭隧道 (西康铁路)|秦岭隧道]]I线。
+*2003年，[[马来西亚]]精明隧道。
+*2004年，[[中国]][[武汉]]长江隧道；2011年，武汉[[地铁]]二号线。
+*2008年，[[中国]][[三峽大壩]][[锦屏水电站]]一号引水隧洞。
+
+== 外部連結 ==
+{{commons|Tunnel boring machine|全斷面隧道鑽掘機}}
+*[http://www.cnki.com.cn/Article/CJFDTotal-TDZS200405004.htm 全断面隧道掘进机]
+*[http://www.iosh.gov.tw/data/f17/sdse034t0037.htm TBM全斷面隧道鑽掘機]
+
+[[Category:土木工程]]</str>
+    <str name="title">隧道掘進機</str>
+    <str name="titleText">隧道掘進機</str>
+    <int name="revision">31845801</int>
+    <date name="timestamp">2014-07-10T03:17:59Z</date>
+    <long name="_version_">1484748642165194752</long></doc>
+  <doc>
+    <str name="id">3361162</str>
+    <str name="text">* 「[[哈林搖 (模因)|哈林搖]]」熱潮所拍的短片皆是以'''[[哈林搖 (歌曲)|哪首歌]]'''作為背景音樂？
+* '''[[Enako|哪一位Cosplayer]]'''在日本[[Comic Market|C80]]上扮演了[[帕秋莉·諾雷姬]]而廣受歡迎？
+* '''[[除号|哪一个符号]]'''又被叫做雷恩记号，用以表示除法运算？
+* '''[[专诸|哪一位春秋屠户]]'''以一柄藏在鱼腹中的短匕改写了历史？
+* '''[[大衛·卡普蘭|哪位電視節目製片人]]'''是[[南斯拉夫內戰]]中第一個被殺的美國公民？
+* '''[[彩色视觉|什么]]'''是一个生物体或机器基于物体所反射，发出或透过的光的波长（或频率）以区分物体的能力？
+* '''[[2013年重庆官场不雅照事件|2013年1月的哪起政治事件]]'''使得十一名中共[[重庆]]官员被罢免官职？
+* 在[[声学]]和[[语言学]]中，用'''[[響度|什么]]'''表示主观上感知到的声音大小？</str>
+    <str name="title">Wikipedia:新条目推荐/供稿/2013年3月2日</str>
+    <str name="titleText">Wikipedia:新条目推荐/供稿/2013年3月2日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">25245582</int>
+    <date name="timestamp">2013-03-02T11:00:28Z</date>
+    <long name="_version_">1484749354197581826</long></doc>
+  <doc>
+    <str name="id">1783248</str>
+    <str name="text">{{Infobox Company
+| name             = 徐工集团挖掘机械有限公司
+| logo             = 
+| caption          =
+| type             = [[国有企业]]
+| fate             =
+| predecessor      =
+| successor        =
+| foundation       = 2008年7月
+| founder          = 
+| defunct          =
+| location         = {{CHN}}[[江苏]][[徐州]] 经济开发区东环工业园28号
+| locations        = 
+| area_served      = 
+| company_slogan   = 担大任 行大道 成大器
+| key_people       = [[李宗]]（[[总经理]]）
+| industry         = [[液压挖掘机]]
+| products         = 1.5吨至90吨的全系列[[液压挖掘机]]
+| services         = 
+| revenue          = 
+| operating_income =
+| net_income       =
+| aum              =
+| assets           =
+| equity           =
+| owner            =
+| num_employees    =
+| parent           = [[徐工集团]]
+| divisions        =
+| subsid           = 
+| homepage       = [http://www.xcmgwj.com 徐工徐工-助您成功]
+| footnotes        =
+| intl            =
+}}
+'''徐工集团挖掘机械有限公司'''（简称'''徐工挖机'''），位于[[中国]][[江苏省]][[徐州市]]，是中国最大的工程机械制造商-[[徐工集团]]旗下的全资子公司，主营业务为液压挖掘机。被徐工集团定位为战略支柱企业。
+
+==外部连接==
+*[http://www.xcmgwj.com 徐工集团挖掘机械有限公司主页]
+*[http://www.xcmg.com/Cn/index.aspx 徐工集团主页]
+*[http://business.sohu.com/20080615/n257502976.shtml 《华夏时报》报道]
+*[http://www.xwmg.com/ 徐州徐挖约翰迪尔机械制造有限公司]
+
+[[Category:江蘇公司]]
+[[Category:中國製造公司]]
+[[Category:工程設備製造商]]
+[[Category:2008年成立的公司]]</str>
+    <str name="title">徐工集团挖掘机械有限公司</str>
+    <str name="titleText">徐工集团挖掘机械有限公司</str>
+    <str name="user">Hijk910</str>
+    <int name="userId">1147451</int>
+    <int name="revision">27155556</int>
+    <date name="timestamp">2013-07-06T16:18:26Z</date>
+    <long name="_version_">1484749091672948736</long></doc>
+  <doc>
+    <str name="id">531932</str>
+    <str name="text">{{NoteTA
+|1=zh-hans:电动机;zh-hant:馬達;
+|2=zh-hans:发动机;zh-hant:引擎;
+}}
+
+[[File:Blmexcavsm.jpg|thumb|300px|right|一部在進行挖掘作業的[[挖土機]]]]
+
+[[File:Armored bulldozer DSC00856.jpg|thumb|300px|right|[[裝甲車輛]]通常使用[[履帶]]驅動，並且裝配有高機動性的[[武器]]]]
+
+ [[File:D9-us pic28m.jpg|thumb|300px|right|[[:en:Caterpillar D9|Caterpillar D9]] [[:en:Armored bulldozer|裝甲推土機]]是一部重型[[裝甲工程車]]]]
+
+[[File:DrillingMachine with ConcreteMixer and Pump02.jpg|thumb|300px|right|[[鑽孔機]]]]
+ 
+'''工程作業車輛'''是一種採用[[液壓]]工作的重型運輸設備，經過壓縮的液體通過[[壓力泵]]以極高的[[壓力]]被傳送到設備中的執行機件。而壓力泵由[[發動機]]或者[[电动机]]驅動，通過操縱各種液壓控制閥控制[[液體]]以獲得所需的壓力或者流量，各液壓元件則通過液壓管道相連接。
+
+工程作業車輛運用的範圍遍及[[農業]]、[[採礦業]]、[[林業|伐木業]]、[[軍事]]、[[土木工程|土木]]、[[建築]]、公共服務等領域；根據工作難度的不同可分為固定式、[[履帶]]式、[[半履帶車|半履帶]]式和[[車輪|輪]]式幾種。
+
+==類型==
+{|
+|width=50%|
+*{{tsl|en|Aerial work platform|高空工作台}}
+*{{tsl|en|Air-track (machine)|氣墊導航機}}
+*{{tsl|en|Agricultural Tractor|農用拖拉機}}
+*{{tsl|en|Articulated Truck|曳引卡車}}
+*{{tsl|en|Asphalt Paver|瀝青攤舖機}}
+*{{tsl|en|Asphalt plant|瀝青攪拌機}}
+*{{tsl|en|Backhoe loader|挖掘裝載機}}
+*{{tsl|en|Boomtruck|施工起重機}}
+*[[推土機]]
+*{{tsl|en|Cherry picker|施工升降台}}
+*{{tsl|en|Cold Planer|路面冷銑鉋機}}
+*[[裝甲車輛|裝甲工程車輛]]（[[:en:Combat engineering vehicle|Combat Engineering Vehicle]]）
+*{{tsl|en|Compact excavator|小型挖掘機}}
+*{{tsl|en|Ready-mix concrete|混凝土攪拌機}}
+*[[礦運裝載車]]
+*[[施工起重台]]
+*{{tsl|en|Dragline excavator|吊鏟式挖掘機}}
+*{{tsl|en|Dredging|疏浚}}
+*[[鑽孔機]]
+*[[挖掘机]]
+*{{tsl|en|Bucket-wheel excavator|斗輪挖掘機}}
+*{{tsl|en|Feller buncher|伐木歸堆機}}
+*[[叉車]]
+*{{tsl|en|Fresno Scraper|弗烈士諾推土機}}
+*[[巨無霸挖土機]]
+*{{tsl|en|Harvester (forestry)|集材機}}
+*[[自動傾卸卡車]]
+*[[抓鈎機]]
+*{{tsl|en|Grader|平地機}}
+|width=50%|
+*{{tsl|en|Pile driver|打樁機}}
+*{{tsl|en|Pipelayer|舖管機}}
+*[[後推|後推拖拉機]]（[[:en:Pushback#Equipment|Pushback Tractor]]）
+*{{tsl|en|Reclaimer|堆取料機}}
+*{{tsl|en|Roadheader|掘進機}}
+*[[壓路機]]
+*{{tsl|en|Rotary tiller|旋耕機}}
+*[[装载機]]
+*{{tsl|en|Skidder|集木機}}
+*{{tsl|en|Skip loader|鏟土機}}
+*{{tsl|en|Slipform|滑模攤舖機}}
+*{{tsl|en|Soil stabilizer|穩定土攪和機}}
+*{{tsl|en|Steam shovel|單斗挖掘機}}
+*[[:en:Stomper (machine)|Stomper]]
+*[[街道清理車]]
+*{{tsl|en|Telescopic handler|伸縮臂叉裝機}}
+*[[履帶式拖拉機]]
+*[[拖拉机]]
+*{{tsl|en|Trencher (machine)|挖溝機}}
+*[[全斷面隧道鑽掘機]]
+*{{tsl|en|Underground mining equipment|地下礦用鑿岩設備}}
+*{{tsl|en|Venturi mixer|文丘里混合機}}
+*{{tsl|en|Waste compaction|垃圾壓縮機}}
+*{{tsl|en|Water wagon|灑水車}}
+*{{tsl|en|Wheel forwarder|木桐集裝車}}
+*[[抓鈎機]]
+*{{tsl|en|Wheel tractor-scraper|鏟運車}}
+*[[除雪机]]
+*{{tsl|en|Yarder|集材絞盤機}}
+|}
+
+==附加設備==
+{|
+|width=50%|
+*{{tsl|en|Auger|鑽嘴}}
+*[[反向鏟]]
+*[[矛]]
+*[[掃帚]]
+*[[鏟刀]]
+*[[履帶]]
+*[[:en:Cold plane|Cold Plane]]
+*{{tsl|en|Equipment bucket|升降斗}}
+*{{tsl|en|Excavator bucket|挖掘斗}}
+*[[叉子]]
+*{{tsl|en|grapple (tool)|抓鈎}}
+*{{tsl|en|Breaker (hydraulic)|液壓錘}}
+*[[液壓裝置]]
+*[[:en:Landscape tiller|Landscape Tiller]]
+*[[吊臂]]
+*{{tsl|en|Mechanical pulverizer|粉碎機}}
+|width=50%|
+*{{tsl|en|Mechanical shear|剪切器}}
+*[[多用途處理裝置]]
+*{{tsl|en|Pile driver|打樁台}}
+*{{tsl|en|Power take-off|動力輸出軸驅動裝置}}
+*{{tsl|en|Quick coupler|快速聯接裝置}}
+*{{tsl|en|Rake|犁耙}}
+*[[松土器]]
+*[[羊腳壓實機]]
+*{{tsl|en|Snow blower|螺旋式除雪機}}
+*{{tsl|en|Stump grinder|樹桩研磨機}}
+*[[:en:Thumb|Thumb]]
+*[[:en:Tiltrotator|Tiltrotator]]
+*{{tsl|en|Trencher (machine)|挖溝機}}
+*{{tsl|en|Vibrator (mechanical)|振動平板夯}}
+*[[砂輪]]
+|}
+
+==應用==
+*[[農業]]
+*[[土木工程]]
+*[[軍事]]工程
+*[[建築]]
+*[[水利工程]]
+*[[林業|伐木業]]
+*[[採礦業]]
+*[[廢物]]處理
+
+==參考==
+*[[拖拉機]]
+*[[貨車|載物車輛]]
+*[[火車]]
+
+
+
+
+[[Category:工業]]
+[[Category:工程車輛]]</str>
+    <str name="title">工程作業車輛</str>
+    <str name="titleText">工程作業車輛</str>
+    <str name="user">Dexbot</str>
+    <int name="userId">1201250</int>
+    <int name="revision">32991676</int>
+    <date name="timestamp">2014-10-16T11:05:37Z</date>
+    <long name="_version_">1484748702543249409</long></doc>
+  <doc>
+    <str name="id">1790229</str>
+    <str name="text">{{expand|time=2012-01-11T04:42:02+00:00}}
+'''星探'''（常见英文名：'''''Agent'''''或'''''Talent'''''，更全面的英文词为'''''Talent agent'''''），挖掘有[[明星]]潜质的[[职业]]人。星探是一个兴起于[[欧美]]，随后进入[[香港]]、[[台湾]]，最后才引进[[中国大陆]]的新兴[[行业]]。
+== 名称 ==
+星探，起源于[[欧美]]。它是伴随着人类对[[精神文明]]的日益增加的需要而诞生的一个[[新兴行业]]，在[[改革开放]]后引进[[中国大陆]]。因其主要是挖掘潜在的[[明星]]，故而被称为星探。
+
+星探一般被[[娱乐]]，[[电影]]，[[唱片]]公司所雇用，星探的主要工作是日常在大街上，闹市[[商业]]区，[[商场]]，[[海滩]]，[[学校]]，[[车站]]等人流量庞大的地方探寻拥有[[明星]]潜质、气质、相貌的人，留下被挖掘者的联系方式，经过沟通和交流，随后推荐和介绍他们去自己被雇佣的[[公司]]。部分专门的星探，为所雇用的公司探寻符合公司要求又有发展潜力的人，用一定的包装、训练和幕后制作，将发掘的人培养为[[新星]]。
+
+== 分类 ==
+=== 演员和模特星探（Acting and modeling agents） ===
+演员星探，就是善于发现具有表演天赋的人参加影视剧演出的人，这些人满世界地寻找那些具有明星潜质的人经过公司包装和培训并参加影视剧演出，遇到了他们，这是普通人成为大明星的最佳机遇。比如北京天月明国际文化有限公司星探小组，就是这样一支队伍，他们代表公司四处寻觅那些具有明星潜质的人，一如寻宝探宝的寻宝者，许多大明星就是这样被他们发现挖掘出来的。而模特星探就是寻找具有模特潜质的人。
+
+=== 顶级模特儿星探（Top modeling agencies） ===
+世界著名模特星探公司：
+* 精英模特公司——[[纽约]]、[[洛杉矶]]、[[迈阿密]]、[[多伦多]]、[[芝加哥]]和[[亚特兰大]]（[[Elite Model Management]] - [[New York City]], [[Los Angeles]], [[Miami,Toronto]], [[Chicago]] and [[Atlanta]] ）
+
+* [[福特]]模特公司——[[纽约]]、[[洛杉矶]]、[[旧金山]]、[[巴黎]]、[[圣保罗]]、[[里约热内卢]]、[[迈阿密]]、[[多伦多]]、[[芝加哥]]和[[密尔沃基]]（[[Ford Models]] - [[New York City]], [[Los Angeles]], [[San Francisco]], [[Paris]], [[São Paulo]], [[Rio de Janeiro]], [[Miami, Toronto]], [[Chicago and Milwaukee]]）
+
+* 图片模特公司——[[纽约]]、[[巴黎]]、[[伦敦]]、[[米兰]]、[[香港]]（[[IMG Models]] - [[New York City]], [[Paris]], [[London]], [[Milan]], [[Hong Kong]]）
+
+* [[玛丽莲]]公司——[[巴黎]]（[[Marilyn Agency]] - [[Paris]]）
+
+* 模特1 -[[伦敦]]（[[Models 1]] - [[London]]）
+
+* 纽约模特公司—[[纽约]]（[[New York Model Management]] - [[New York City]]）
+
+* 下一个模特公司—[[纽约]]和[[巴黎]]（[[NEXT Model Management]] - [[New York City]] and [[Paris]]）
+
+* 唯一模特公司—[[纽约]]（[[One Management]] - [[New York City]]）
+
+* 橙色模特公司—[[多伦多]]，[[蒙特利尔]]和[[伦敦]]（[[Orange Model Management]] - [[Toronto]], [[Montreal]] and [[London]]）
+
+* M模特和人才公司——[[多伦多]]（[[M Models and Talent Agency]] - [[Toronto]]）
+
+* 超级模特公司——[[伦敦]]（[[Premier Model Management]] - [[London]]）
+
+* 选择模特公司——[[伦敦]]（[[Select Model Management]] - [[London]]）
+
+* 风暴模特经纪公司——[[伦敦]]（[[Storm Model Agency]] - [[London]]）
+
+* 万岁模特公司——[[巴黎]]，[[巴塞罗那和伦敦]]（[[Viva Models]] - [[Paris]], [[Barcelona]] and [[London]]）
+
+* 维赫纳模特公司-纽约（[[Wilhelmina Models]] - [[New York City]]）
+
+* 女性模特公司——纽约（[[Women Model Management]] - [[New York City]]）
+
+* “为什么”模特公司——[[米兰]]（[[Why Not Model Agency]] - [[Milan]]）
+
+* Easymodelling ——[[瑞士]][[日内瓦]]（[[Easymodelling]] - [[日內瓦]], [[Switzerland]]）
+
+=== 音乐星探（Music agents） ===
+=== 体育星探（Sports agent） ===
+
+[[Category:职业]]</str>
+    <str name="title">星探</str>
+    <str name="titleText">星探</str>
+    <int name="revision">32995791</int>
+    <date name="timestamp">2014-10-17T00:15:31Z</date>
+    <long name="_version_">1484749093263638528</long></doc>
+  <doc>
+    <str name="id">502993</str>
+    <str name="text">{{unreferenced|time=2010-05-08T17:28:10+00:00}}
+{{NoteTA
+|1=zh-hans:营销; zh-hant:營銷; zh-tw:行銷;
+}}
+{{市场营销}}
+'''电话销售'''是一种[[直销]]模式，一般是[[销售员|销售人员]]通过电话向潜在的客户推销商品和服务。电话销售有时候也使用电话自动拨号，然后录音播放录音的方式。
+
+== 历史 ==
+电话营销这个术语在20世纪70年代开始被广泛的使用。
+
+电话营销（Telemarketing）被认为出现于20世纪80年代的美国。随着电话营销流程消费者为主导的市场的形成，以及电话、传真等通信手段的普及，很多企业开始尝试这种新型的市场手法。电话营销决不等于随机的打出大量电话，靠碰运气去推销出几样产品。
+
+== 分类 ==
+电话营销从功能上分为两种:
+1，完全意义上的电话销售，100%的订单都是通过电话来完成的；
+2，电话销售只起到挖掘销售线索、处理订单、跟进客户、服务等的作用。由外部销售人员来配合，共同完成订单。
+
+在企业中，实施电话销售的主要形式分为三种：
+1，企业建立自己的callcenter，通过自己的销售人员来完成整个销售的流程，采用这种模式的企业一般规模较大，例如DELL；
+2，企业有自己的销售人员，但是没有callcenter，这种情况一般电话销售人员只做售前咨询和商机挖掘等，主要还是需要依靠外部销售来完成整个销售流程；
+3，企业和一些callceter运营商合作，将自己的产品委托给callcenter运行商来进行销售，属于电话销售外包服务。
+=== 子类 ===
+
+== 步骤 ==
+电话销售可以在公司的办公室里做，可以在呼叫中心做，也可以在家里做。既有可能是一个大活人在后面电话右面，也可能只是一段录制好的声音，这种方式通常叫做自动电话销售，或者自动呼叫。
+
+一个有效的电话销售步骤通常包括两个或者更多的呼叫。第一次呼叫（或者几次呼叫）来获取用户的需求，最后的呼叫（也可能是多个）来鼓动客户作出购买。
+
+== 否定的声音和批评 ==
+电话销售的消极方面是经常和各种诡计和诈骗联系在一起，比如[[層壓式推銷]]、价格不合理的劣質貨品或假货，亦有電話營銷者頻密致電目標[[顧客]]，令對方感到滋擾。
+
+== 制约 ==
+电话销售通常会受到消费者隐私和保护相关的规定和立法的制约。
+
+== 技术 ==
+* Private Branch eXchange
+* Asterisk (PBX)
+
+== 声音 ==
+
+== 參見 ==
+* [[自动拨号员]]
+* [[呼叫中心]]
+* [[意外訪問|冷呼叫]]
+* [[直销]]
+* [[市场]]
+* [[预定呼叫]]
+* [[垃圾邮件]]
+* [[傻瓜名单]]
+
+== 外部连接 ==
+* [http://www.ht9000.com 华天动力电话营销系统]
+
+{{Marketing-stub}}
+
+[[Category:銷售手法‎]]</str>
+    <str name="title">电话营销</str>
+    <str name="titleText">电话营销</str>
+    <str name="user">这个昵称很帅</str>
+    <int name="userId">1822221</int>
+    <int name="revision">32917197</int>
+    <date name="timestamp">2014-10-08T23:21:22Z</date>
+    <long name="_version_">1484748684538150912</long></doc>
+  <doc>
+    <str name="id">898809</str>
+    <str name="text">*你知道'''[[天下第一城]]'''在哪里吗？
+*[[北京奥运会|奥运会]]期间，河北省境内的主要备降分流机场是'''[[石家庄正定国际机场|哪个机场]]'''?
+*中国佛教禅宗的祖庭是'''[[柏林禅寺|哪座寺庙]]'''？
+*清朝时皇帝秋猎打围的猎苑如今建成'''[[河北塞罕坝国家森林公园|哪座森林公园]]'''？
+*严规[[熙笃会]]（Trappist）在河北省山区建立的该会亚洲第一座隐修院叫做'''[[杨家坪圣母神慰院|什么]]'''?
+*华北地区最大的淡水湖泊是'''[[白洋淀|哪里]]'''?
+*中国的“太极之乡”在'''[[广府城|哪里]]'''？
+*明英宗朱祁镇'''[[土木之变|缘何]]'''被瓦剌太师也先所败而俘获？</str>
+    <str name="title">Portal:河北/你知道吗</str>
+    <str name="titleText">Portal:河北/你知道吗</str>
+    <str name="user">Wangyunfeng</str>
+    <int name="userId">16962</int>
+    <int name="revision">8174605</int>
+    <date name="timestamp">2008-09-24T16:52:41Z</date>
+    <long name="_version_">1484748826995589121</long></doc>
+  <doc>
+    <str name="id">1045214</str>
+    <str name="text">[[File:1946 National Assembly Constitution.jpg|right|80px|中華民國憲法]]
+*[[国共内战]]期间，[[南京]][[国民政府]]一边应战，一边在'''[[行憲|做什么]]'''？
+
+*你知道[[中華民國]]的[[地理極點]]'''[[中華民國地理極點|在哪裡]]'''嗎？
+
+*為什麼[[中華民國]]的[[國慶日]]又叫做「'''[[中華民國國慶日|雙十節]]'''」？
+
+*'''[[蔣中正|誰]]'''是[[中華民國]][[行憲]]後第一任[[中華民國總統|總統]]？
+
+[[File:Sunyatsen1.jpg|right|80px|孫中山]]
+*'''[[孫中山|誰]]'''被尊稱為[[中華民國]][[國父]]，以及[[中國國民黨]]的永久[[總理]]？
+
+*你知道[[中華民國]]的'''[[中華民國疆域|領土面積]]'''有多大嗎？</str>
+    <str name="title">Portal:中華民國/你知道嗎/存檔</str>
+    <str name="titleText">Portal:中華民國/你知道嗎/存檔</str>
+    <str name="user">Bigmorr</str>
+    <int name="userId">92955</int>
+    <int name="revision">9992218</int>
+    <date name="timestamp">2009-05-07T08:54:36Z</date>
+    <long name="_version_">1484748869137858560</long></doc>
+</result>
+</response>

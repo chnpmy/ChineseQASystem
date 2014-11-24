@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="q">《华英字典》的作者是？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="926491" start="0">
+  <doc>
+    <str name="id">525448</str>
+    <str name="text">'''卢戆章'''（{{bd|1854年||1928年|10月28日|catIdx=L卢}}），[[字]]'''雪樵'''， [[福建]][[同安]]人，清末学者，创制[[中国切音新字]]，[[汉字改革|中国文字改革]]的先驱。
+
+==生平==
+卢戆章9岁入[[义学]]，18岁参加[[科举考试]]，但不中，后在[[私塾]]教书。曾往[[新加坡]]攻读英文，三年后即1879年回到了厦门[[鼓浪屿]][http://www.mnfeng.com/xxrw/06_lugangzhang.htm]，以教华人英语和西人华语为业。曾参加翻译《[[华英字典]]》。在教学余暇，潜心研究汉字拼音经过上十年的个人研究，1892年（清[[光绪]]十八年），卢戆章将自己创制的汉字拼音方案[[中国切音新字]]编成著作——《[[一目了然新阶]]》，并个人出资交由[[厦门]]五崎顶倍文斋刊印。卢戆章制定的汉字拼音方案被认为是标志着中国人关注文字体系改革的开端&lt;ref&gt;[[德范克]]（John DeFrancis），《ABC汉英大辞典》，扉页。《汉语大词典出版社》，2003年4月第1版。 ISBN 7-5432-0843-1/H·205 &lt;/ref&gt;。卢戆章还编辑出版了《中国新字北京切音合订》、《制字略解列表》、《中国新字》、《中华新字国语教科书》、《中华新字漳泉语通俗教科学》。1928年12月28日在[[厦门]]去世。
+
+==注释==
+&lt;references/&gt;
+==参考资料==
+*[http://www.fjsq.gov.cn/showtext.asp?ToBook=36&amp;index=382 《福建省志 人物-{志}-·卢戆章》]
+
+{{清朝人物小作品}}
+
+[[Category:卢姓|Z戆]]
+[[Category:清朝翻译家|L卢]]
+[[Category:中華民國大陸時期人物|L卢]]
+[[Category:同安人|L卢]]</str>
+    <str name="title">卢戆章</str>
+    <str name="titleText">卢戆章</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30223423</int>
+    <date name="timestamp">2014-02-16T02:43:15Z</date>
+    <long name="_version_">1484748699744600065</long></doc>
+  <doc>
+    <str name="id">648555</str>
+    <str name="text">'''班华字典'''（[[西班牙语]]：'''Diccionario Español-Chino, dialecto de Fu-an (houc-an)''' ） 是一本反映清末福建省福安方言的方言字典，作者为[[西班牙]]传教士[[伊格那西欧·伊万聂兹]](IGNACIO IBAÑEZ)　自1882年8月2日开始至1893年5月11日历时近11年完成此字典。后经Blas Cornejo的修改于1941~1943由上海商务印书馆Don Bosco学院出版。据序言中所提在核实材料，确定读音，汉字写法等方面得到了tang ngei kung先生的帮助，而这位tang ngei kung 极有可能就是《[[七音字汇]]》的作者[[郑宜光]]。
+
+《班华字典〉是一部大型字典，全书共1041页，以西班牙语·福安话双语对照。当时的福安方言保留了古汉语完整的一套韵尾m,n,ŋ,p,k,t,ʔ。 现在只有少数私人收藏有该字典。
+
+== 参考 ==
+*[[福安话]]
+*[[安腔八音]]
+*[[七音字汇]]
+
+*[[Category:福安话]]
+*
+[[Category:雙語辭典]]</str>
+    <str name="title">班华字典</str>
+    <str name="titleText">班华字典</str>
+    <str name="user">RalfX</str>
+    <int name="userId">12259</int>
+    <int name="revision">28896347</int>
+    <date name="timestamp">2013-10-12T13:17:25Z</date>
+    <long name="_version_">1484748753066786816</long></doc>
+  <doc>
+    <str name="id">1672005</str>
+    <str name="text">{{Unreferenced |time=2011-09-22T11:47:02+00:00 }}
+{{Infobox Book
+| name = 世界神话辞典
+| title_orig = 
+| translator = 
+| image = [[File:世界神话辞典.jpg|230px]]
+| image_caption = 
+| author = [[鲁刚]]（主编）
+| illustrator =
+| cover_artist = 
+| country = [[中国]]
+| language = [[简体中文]]
+| series = 
+| subject =
+| genre = 神话、辞典
+| publisher = [[辽宁人民出版社]]
+| release_date = 1989年11月
+| media_type = 印刷
+| pages = 1096页
+| isbn = ISBN 7-205-00960-X/I·77
+| preceded_by =
+| followed_by =
+}}
+《'''世界神话辞典'''》是1989年11月由[[辽宁人民出版社]]出版发行的一部世界级[[神话]][[辞典]]，共收录了5460个[[词条]]，全面的记载了世界所有地区，所有民族神话的准确故事及人物背景。虽说是世界神话辞典，但其中并没有记载关于[[中国神话]]的内容；前言中，主编[[鲁刚]]笔述中国神话的内容已有[[袁珂]]先生所作的《中国神话传说词典》, 因此而撤消了书中关于中国神话的词条。前言末尾题字该书为献给[[中华人民共和国]]成立40周年的生日礼物。现在该书已绝版。
+
+书中的内容并没有任何[[插图]]的概述，只是在前页中插入了几副与神话有关的著名画作。则分类查阅与普通字典词典一样，以汉字的笔画作为索引。
+
+== 总目录 ==
+*[[凡例]] — 第6页
+*略语表（一） — 第7页
+*略语表（二） — 第7页
+*汉字笔画索引 — 第9页-第52页
+*正文 — 第1页-第1042页
+*部分词目分类索引 — 第1043页-第1045页
+*汉语音序索引 — 第1046页-第1096页
+
+== 创作人员 ==
+*主编：鲁刚
+*副主编：王守义、刘介人、高文风、徐昌汉
+*内容撰写者：刁绍华、王用蜞、王守义、王育伦、王忠亮、王武、方懋、刘介人、刘乡英、刘理、卢康华、陈伯海、李占山、李洪学、李蓉、赵建新、张蓉燕、禹慧灵、高文风、徐昌汉、唐俭、梅荣久、鲁刚、裴兆义、潘绍玺
+*参加编排工作者：王用蜞、王顺、苗长青、鲁蓁
+*彩色画页底版翻拍者：吕少华
+
+{{book-stub}}
+
+{{DEFAULTSORT:Shi Jie Shen Hua Ci Dian}}
+[[Category:词典]]
+[[Category:1989年书籍]]
+[[Category:中华人民共和国书籍]]</str>
+    <str name="title">世界神话辞典</str>
+    <str name="titleText">世界神话辞典</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30147204</int>
+    <date name="timestamp">2014-02-10T22:58:30Z</date>
+    <long name="_version_">1484749067552555012</long></doc>
+  <doc>
+    <str name="id">36123</str>
+    <str name="text">{| class="infobox" align="right" style="font-size:90%"
+|+ align="center" style="font-size:120%"|
+'''新华字典'''
+|-
+| align="center" colspan=2|
+[[File:Xinhua_zidian.jpg|150px|新华字典第11版 2011年出版]]&lt;br&gt;
+&lt;small&gt;2010年版（ISBN 978-7-100-07704-0''）&lt;/small&gt;
+|-
+| bgcolor="#efefef" align="center" colspan=2|
+'''首版信息'''
+|- 
+|'''作者/编者'''||[[新华辞书社]]
+|- 
+|'''国家'''||[[中国]]
+|- 
+|'''城市'''||[[北京]]
+|- 
+|'''出版社'''||[[人民教育出版社]]
+|- 
+|'''首版时间'''||1953年
+|- 
+|'''语言'''||[[汉语]]
+|- 
+| bgcolor="#efefef" align="center" colspan=2|
+'''历次版本'''
+|- 
+| colspan=2 style="font-size:90%"|
+*1954年版
+*1957年[[商务印书馆]]新1版
+*1962年3版修订本
+*1971年修订重排本
+*1972年，1971年修订重排本
+*1977年修订本
+*1979年5版（修订本）
+*1980年，1979年修订重排本
+*1987年北京修订第6版
+*1989年香港改訂本 ISBN 962-07-0112-7（平裝本）&lt;br/&gt;ISBN 962-07-0128-3（精裝本）
+*1993年第8版
+*1998年9版（修订本）ISBN 978-7-100-02601-7
+*2000年新版（大字本）ISBN 978-7-100-02893-6
+*2004年10版 ISBN 978-7-100-03931-4
+*2010年11版 ISBN 978-7-100-07704-0
+|}
+
+《'''新华字典'''》是中国的一部權威性的小型[[现代汉语]]规范[[字典]]，有繁簡對照（第11版《新华字典》新增了1500多个[[繁体字]]，大部分是与偏旁类推简化字相对应的繁体字，主要是《[[简化字总表]]》第三表里的繁体字，之前的版本没有全部附列上&lt;ref&gt;{{cite web|url=http://www.chinanews.com/cul/2011/07-15/3185523.shtml|title=新华字典新增1500余繁体字 专家称为适应读者需求}}&lt;/ref&gt;）和拼音注音。
+目前已出版至第11版，由[[中國社會科學院]]語言研究所編著，[[商務印書館]]出版。
+
+==沿革==
+1950年5月23日[[国家出版总署]]副署长[[葉聖陶]]驰函[[北京大学]]校长，商调在该校中文系当系主任的[[魏建功]]到国家出版总署编审局筹建主持[[新华辞书社]]，着手早有计议的《新华字典》编写工作。此项工作不仅是魏建功、叶圣陶等人计议中要幹的事，也是新形势急需新政权得有自己的普及性字典，让新社会的读者广泛使用。
+
+1953年由新华辞书社编，主编者为语言学家魏建功。1953年由[[人民教育出版社]]印行第一版；1954年11月才付印，发行20万册，按[[注音符号]]顺序排列；以后的修订版本改用[[汉语拼音]]字母顺序，转由[[商务印书馆]]重排出版。目前最新版为第11版，于2011年7月上市。
+
+《新华字典》是[[中国大陆]]的中小学生和教师必备[[工具书]]之一，也是学习中文的主要参考字典之一，历经几代上百名专家学者10余次大规模的修订，重印200多次，冊數過億。
+
+2012年中共中央編列預算，全國1.3億以上的中小學生將可以免費獲得《新华字典》一本，解決長期以來學校體系版本不一甚至有人用盜版的現象。&lt;ref&gt;[http://news.cntv.cn/2013/05/05/VIDE1367735041248348.shtml 中央電視台-字典質量報告]&lt;/ref&gt;
+
+== 外部链接 ==
+*[http://www.cp.com.cn/scrp/book.cfm?sFieldname=bname&amp;skeyword=%D0%C2%BB%AA%D7%D6%B5%E4 商务印书馆新华字典官方网站]
+
+== 参见 ==
+*[[新華詞典]]
+*[[现代汉语词典]]
+*[[辞海]]
+*[[辞源]]
+{{reflist}}
+
+{{汉语辞书}}
+
+[[Category:字典]]
+[[Category:商务印书馆]]</str>
+    <str name="title">新华字典</str>
+    <str name="titleText">新华字典</str>
+    <int name="revision">33131572</int>
+    <date name="timestamp">2014-10-30T18:44:20Z</date>
+    <long name="_version_">1484748547738828808</long></doc>
+  <doc>
+    <str name="id">321404</str>
+    <str name="text">[[File:WorcesterDictionary-Title Page.JPG|thumb|right|约瑟夫·爱默生·伍斯特的《英語詞典》]]
+[[File:JosephWorcesterGrave.jpg|thumb|right|约瑟夫·爱默生·伍斯特之墓]]
+'''约瑟夫·爱默生·伍斯特'''（Joseph Emerson Worcester，{{bd|1784年||1865年|10月27日|catIdx=W}}），19世纪中期[[美国]][[辞典编纂者]]，[[韦氏词典]]的主要竞争人。
+
+伍斯特于1784年8月24日生于新罕布什尔州，小时候在农场工作，十四岁上学。1809年他进入耶鲁大学学习并于两年后毕业。此后他在马萨诸塞州的中学任教数年，其间他写了几本地理方面的书籍，包括1817年的《古今地名辞典》。他还编写了一部常用的历史课本《古今历史元素及历史地图》，出版于1827年。
+
+他编撰的第一部字典是删节版的[[塞缪尔·约翰逊]]的《英语词典》，与韦氏字典同样于1828年出版。他曾为韦氏工作过，并编写了1929年出版的缩编本《美国英语词典》。与韦氏不同的是，他反对拼写改革，并使用[[伦敦]]口音作为发音标准。
+
+1830年他出版了自己的《英語綜合發音與釋義詞典》，这本词典引发了他剽窃韦氏词典的指责，伍斯特则辩解说这是他自己研究的成果，早在为韦氏工作之前他已开始为编写这部词典做准备。这通常被称为"[[字典之战]]"，两人之间的竞争和论战一直持续到1843年韋伯斯特去世，后来韋伯斯特的后继者[[梅里亚姆-韦伯斯特|G.&amp;C.梅里亞姆公司]]买下韦氏字典的版权。
+
+1946年他将自己的字典改良成为《英語通用校勘詞典》。1860年他出版了最后的作品《英語詞典》，曾在短期内成为美国词典的主流，直到1864年新版《韋氏英語詞典》的出版。伍斯特的词典是首先通篇使用插图的美国词典，并加入了近义词元素——这一传统后来被大多数词典沿用。在他去世以后，1886年他的词典被改良。但在1890年版《韋氏國際詞典》和其他19世纪[[1890年代|九十年代]]的词典的对比下黯然失色，在世纪之交之前就停止付印了。
+
+[[Category:美国词典编纂者]]</str>
+    <str name="title">约瑟夫·爱默生·伍斯特</str>
+    <str name="titleText">约瑟夫·爱默生·伍斯特</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30530314</int>
+    <date name="timestamp">2014-03-04T03:48:59Z</date>
+    <long name="_version_">1484748648648540163</long></doc>
+  <doc>
+    <str name="id">426588</str>
+    <str name="text">{{Infobox book &lt;!-- See [[Wikipedia:WikiProject Novels]] or [[Wikipedia:WikiProject Books]] --&gt;
+| name           = 英語詞典（詹森字典）
+| image          = [[File:JohnsonDictionary.png|200px]]
+| image_caption  = 《詹森字典》第二版扉頁
+| author         = [[塞繆爾·詹森]]
+| illustrator    =
+| cover_artist   =
+| country        = 大英帝國
+| language       = 英語
+| series         = 
+| subject        = [[字典]]
+| publisher      = 合夥人
+| release_date   = 1755年4月15日
+| english_release_date =
+| pages          = }}
+'''《约翰逊字典》'''（'''''{{lang|en|A Dictionary of the English Language}}'''''），是英國文學家[[塞缪尔·约翰逊]]編輯的英文[[字典]]，於西元1755年4月15日出版。是[[英語]]歷史中最具影響力的字典之一。
+
+人們對當時的字典存在一些不滿，所以於1746年6月，一群倫敦的書商與詹森簽約，報酬1500[[堅尼 (英國貨幣)|堅尼]]（1,575英鎊，相當於2013年的23萬英鎊），要他寫一本字典。他花了近9年才完成這部作品，雖然他曾聲稱能在3年內完成。值得注意的是，除了複製標在書上的說明引文等文書上的協助外，他是單槍匹馬地完成這部作品。詹森在他有生之年中出版了幾個修訂版。
+
+直到173年之後的[[牛津英語辭典]]完成之前，這本字典被認為是超群絕倫的。根據華特·傑克森·貝特（Walter Jackson Bate），這本字典「輕鬆地被評為最偉大的學術成就之一，可能是有史以來最偉大的由一個人在一切劣勢與無可比擬的長時間下努力的傑作。」
+
+==背景==
+在當時的一百年之前，書籍已經被視為接近敬仰的東西，但到了十八世紀中葉，隨著普羅大眾的識字率上升與印刷和裝訂技術的進步之下，第一次書籍、文字、地圖、宣傳冊和報紙以合理的價格提供給廣大的市民，這種情況已經不再。在印刷文字所需的固定文法模式、單字定義與拼法的需求爆炸的情況下，可以通過一本權威性的英文字典解決。在1746年，倫敦最成功的印刷機財團，包括羅伯特·多德斯理（Robert Dodsley）、湯瑪士·朗曼（Thomas Longman）都無法獨自承擔得起發布滿足日益增長的閱讀與公共寫作需求的字典。
+
+约翰逊的字典既不是第一次英語詞典，也不是前幾強。過去150年內有超過20本英文詞典出版，英國最古老的拉丁美洲英語“字典”由爵士湯瑪士·埃利奧特（Thomas Elyot）在1538年出版。1583年理查·馬爾卡斯特（Richard Mulcaster）出版第二套字典。1598年意大利的英文字典由約翰·弗洛里奧（John Florio）出版。這些詞典的缺點大多是組織不善，解釋過於生硬模糊。
+
+還有幾個字典如下：[[拉丁語]]、[[英語]]、[[法語]]和[[意大利語]]。班傑明·馬丁的英文語言改革（Lingua Britannica Reformata，1749）和愛因斯沃許的的拉丁語辭庫（Thesaurus Linguae Latinae，1737）在他們對條目的定義與不同的感官、觀點上都是顯要的作品。在英語（包括其他語言），約翰·考威爾的口譯員於1607年出版了法律字典，以及愛德華·菲利普斯的英語單詞的新世界（The new world of English words）出版於1658年，和包含40,000字的字典已經準備在1721年由南森·貝利出版，雖然沒有全面的廣泛度或詹森的風格。
+===约翰逊的努力===
+约翰逊出生於書商之家，家境貧寒，他苦學有成，寫起文章妙趣橫生。1747年他擬訂計劃，要出版一本英文字典（The Dictionary of the English Language），這時他尋求贊助人，登門拜訪國務大臣[[蔡斯菲爾德伯爵]]（[[:en:Philip Stanhope, 4th Earl of Chesterfield|Philip Stanhope, 4th Earl of Chesterfield]]），不料被拒於門外。约翰逊只好帶著六位助理，獨力著手編辭典。費時八年半之久，期間飽受疾疢、蹉跎、貧困之苦，又逢喪妻之痛。1753年他在日記中寫道：“著手字典第二冊，並預留序言，文法，歷史等尚未動筆的項目，老天，有誰支持我完成這艱鉅工作？”约翰逊進駐高富院（Gough Square）17号，前後聘用六位助手，摘抄引例，整理稿笺。
+
+《约翰逊字典》終於自1755年4月15日出版，有42,773字釋義，以114,000個引例說明，這在19世紀《[[牛津英文字典]]》（OXFORD ENGLISH DICTIONARY）出版之前，是史無前例的著作。约翰逊本人宣稱這本書是"Vasta mole superbus"（「因它巨大的體積而自豪」）。
+
+在標題頁內容如下：
+&lt;blockquote&gt;
+&lt;center&gt;
+A
+&lt;br /&gt;'''DICTIONARY'''
+&lt;br /&gt;of the
+&lt;br /&gt;'''English Language:'''
+&lt;br /&gt;in which
+&lt;br /&gt;The WORDS are deduced from their ORIGINALS,
+&lt;br /&gt;and
+&lt;br /&gt;ILLUSTRATED in their DIFFERENT SIGNIFICATIONS
+&lt;br /&gt;by
+&lt;br /&gt;EXAMPLES from the best WRITERS.
+&lt;br /&gt;To which are prefixed,
+&lt;br /&gt;A '''HISTORY''' of the '''LANGUAGE,'''
+&lt;br /&gt;and AN '''ENGLISH GRAMMAR.'''
+&lt;br /&gt;By SAMUEL JOHNSON, A.M.
+&lt;br /&gt;In TWO Volumes
+&lt;br /&gt;VOL. I
+&lt;/center&gt;
+&lt;/blockquote&gt;
+&lt;!--
+    A字母a
+    DICTIONARY 詞典
+    of the的
+    English Language: 英文語言：
+    in which其中
+    The WORDS are deduced from their ORIGINALS,二字，推導出它們的原件，
+    and和
+    ILLUSTRATED in their DIFFERENT SIGNIFICATIONS說明了其不同的意義
+    by通過
+    EXAMPLES from the best WRITERS.例子最好作家。
+    To which are prefixed,這是前綴，
+    A HISTORY of the LANGUAGE, 史語言，
+    and AN ENGLISH GRAMMAR.和英語語法。
+    By SAMUEL JOHNSON, AM由塞繆爾約翰遜，調幅
+    In TWO Volumes兩卷
+    VOL.第一卷。 I我 
+--&gt;
+他在字典的序中寫道：“好奇的讀者也許願知道，作者編纂這本字典時，既無碩學鴻儒可供咨詢，有力人士之贊助亦付闕如，既非完成於舒適的寧靜書齋，亦乏宏偉學術殿廊之庇蔭，而是完成於無盡的窘困，旁騖，疾病，悲苦中。若竟無人讚揚此書，我亦甘之若素，縱有一二獎掖之語，對我孤寂清冷的人生復有何益？我的工作再三延宕，直至我最想取悅的親友均已辭世，成功與失敗對我同是空言……”&lt;ref&gt;鄭德音：《从牛津英文字典想起》&lt;/ref&gt;現代編製字典之基本原則，最先由约翰逊所奠基。
+
+這時國務大臣蔡斯菲爾德伯爵又向他眉來眼去，他抱怨說，字典缺乏結構和主張：“我們必須訴諸舊羅馬適宜時期的混亂，並選擇了一個獨裁者。在此原則上，我給我投票給约翰逊先生來填補這一偉大而艱鉅的職務。”&lt;ref&gt;鄭德音：《从牛津英文字典想起》&lt;/ref&gt;
+
+結果约翰逊沒好氣的寫了一封信給他：“自鄙人見摒於大人門外，翹首鵠候於大人會客室內，於茲七年矣！大人，七年來鄙人備嚐艱辛，而今嗟嘆亦無益，鄙人無依無援，大人未曾有一字之慰勉，一笑之恩典，鄙人亦不復抱任何期望，此字典之竣事實未得贊助人之一毫相助。”&lt;ref&gt;鄭德音：《从牛津英文字典想起》&lt;/ref&gt;。
+
+==文采==
+《约翰逊字典》是一本可讀性相當高的著作，充滿典雅的文學詞句以及各種古怪有趣的知識。它最大特色是它的例句廣泛取材自著名的文學作品，如[[莎士比亞]]（Shakespeare）、[[約翰·彌爾頓]]（Milton）、阿狄生（Addison）、[[培根]]（Francis Bacon）、蒲伯（Pope）、聖經（the Bible）等等，當代著述一概不取，例如curse（诅咒）一条，引自莎剧《暴风雨》（The Tempest）中丑人卡戾笨（Caliban）的台词：“我知道如何诅咒”（I know how to curse），约翰逊在know后面加上not，變成我不知如何诅咒（I know not how to curse）。又如短语“with bated breath”意思是“屏息地”，即出自《[[威尼斯商人]]》，又如“a foregone conclusion”意思是“预料中的结局”，出自《[[奥赛罗]]》。培根的一句名言被约翰逊所引用：“讀書時不可存心詰難作者，不可盡信書上所言，亦不可只為尋章摘句，而應推敲細思。”&lt;ref&gt;《並非舞文弄墨》，頁八，王佐良編譯，牛津大學出版社&lt;/ref&gt;整本字典更像是一冊文集，隨時隨地取閱以排解沉悶。對字義的解釋盡可能具體而微，一改過去“大而化之”的風格。為此他特地向新聞人大卫·盖里克（David Garrick）借了一套《莎士比亚全集》，专抄莎翁名句，結果整套被拆爛了。
+
+《约翰逊字典》錯誤在所難免，《[[约翰逊傳]]》中記載他把PATERN 這個字定義為“馬的膝蓋”，原義是“馬的腳部”，有一位女士問他怎麼會犯此錯誤，他答：“無知，夫人，純粹的無知。”
+
+约翰逊博闻强记、妙语连珠，常在词条的解释中开玩笑，因此《约翰逊字典》亦編寫得有趣，例如：
+*「枯燥」一詞的例句就是：“編詞典是件枯燥的事情。”
+* 他不喜歡蘇格蘭人，定義[[燕麥]]（OAT）為“英國人用來餵馬，蘇格蘭人拿來食用的穀物”。
+* 又說[[十四行诗]]（sonnet）是“一種14行短詩體，…不太適合英語。”
+* 恩俸（Pension）：“付给与某人能力不相称的津贴，在英国，颁给公务员以感谢他对国家的反叛。”
+* 国税（Excise）：“一种人人恨之入骨的货物税，按抽税者的兴致任意调整。”
+* 赞助人（patron）:“通常是捐助以骄横而被报以诌媚的可怜虫。”
+* 辞典编纂人（lexicographer）：“辞典的编辑，長期追溯字源字義，累已而無傷於他人的穷人。”
+
+==逸事==
+[[錢鍾書]]去英国时，在轮船上唯一以约翰逊博士的[[字典]]自随&lt;ref&gt;[[鄒文海]]：《憶錢鐘書》&lt;/ref&gt;。
+
+==注釋==
+{{reflist|2}}
+
+==參考==
+* [[鄭德音]]，《從牛津英文字典想起》
+
+{{DEFAULTSORT:A Dictionary of the English Language}}
+
+[[Category:英语词典]]
+[[Category:英國文化]]</str>
+    <str name="title">约翰逊字典</str>
+    <str name="titleText">约翰逊字典</str>
+    <str name="user">Jdh8</str>
+    <int name="userId">404675</int>
+    <int name="revision">32244639</int>
+    <date name="timestamp">2014-08-12T05:52:22Z</date>
+    <long name="_version_">1484748666247839745</long></doc>
+  <doc>
+    <str name="id">944010</str>
+    <str name="text">{{Unreferenced |time=2008-12-20T01:14:55+00:00 }}
+'''邝祺照'''曾任清末驻美商务外交官员和教育部官员。1886年清光绪十二年六月，创办《广报》，成为广州第一家报社。邝祺照一生从事商务，撰著群书，创办报业，是广东的新闻界人物。
+
+==著作==
+*1880年
+**《中外年表》
+*1988年
+**《英语汇腋》
+**《英文成语》
+**《地球说略》
+**《应酬补笈》
+**《华英字典集成》
+等书。现只找寻到《华英字典集成》和《英语成语词典》2本。
+
+[[Category:台山人|鄺祺照]]
+[[Category:鄺姓]]</str>
+    <str name="title">邝祺照</str>
+    <str name="titleText">邝祺照</str>
+    <str name="user">Kjmboy</str>
+    <int name="userId">970070</int>
+    <int name="revision">33117026</int>
+    <date name="timestamp">2014-10-28T16:28:58Z</date>
+    <long name="_version_">1484748839599472642</long></doc>
+  <doc>
+    <str name="id">95801</str>
+    <str name="text">{{otheruse|subject=宋代王应麟所著的典籍|other=三字經的其他意思|三字經 (消歧義)}}
+{{wikisource|三字經}}
+{{wikisourcelang|en|San Tzu Ching|San Tzu Ching (翟理斯譯註)}}
+《'''三字经'''》是[[中国]]的傳統兒童啟蒙教材，在中國古代經典當中，三字經是最淺顯易懂的讀本之一，歷久不衰。《三字经》取材典故範，包括中國五千年傳統文化的文學、歷史、哲學、天文地理、人倫義理、忠孝節義等等，內容相當豐富。背誦《三字經》的同時，就了解了常識、傳統國學及歷史故事，以及故事內涵中的做人做事道理。&lt;ref&gt;{{cite web | url=http://www.eslite.com/product.aspx?pgid=1001115431908298#top | title=三字經 正統文化教材精解 | publisher=益群書店股份有限公司 | date=2009/11/20}}&lt;/ref&gt;
+
+在格式上，三字一句朗朗上口，因其文通俗、顺口、易记等特点，使其与《[[百家姓]]》、《[[千字文]]》、《[[千家詩]]》同为中国古代[[私塾]]的初级入门课本，合稱「三百千千」。
+
+==作者==
+=== 原典作者 ===
+
+*一说是宋代人[[王应麟]]。初著傳說為[[宋朝]][[王應麟]]，明、清两代人（如清初[[康熙]]年間[[王相]]與清末大學問家[[章太炎]]）多認定作者是王應麟。其次，從文風看，王應麟的其他著作也多三字句，幾年前，在[[鄞州]]還出土了王應麟用“三字經”句式作結尾撰寫的廟記。另外，王應麟是一個關心兒童教育的學者，除了《三字經》，他還有六本兒童啟蒙讀物(《词学指南》、《小学绀珠》、《姓氏急就篇》、《小学讽咏》、《蒙训》……)。&lt;ref&gt; {{cite journal | title = 《王应麟著作集成》总序 | journal = 《清华大学学报（哲学社会科学版）》 | date = 2011-04-01 | first = 璇宗 | last = 傅 | volume = 26 | issue = 4 | pages = 47| id = | accessdate = 2012-03-31}}&lt;/ref&gt;這些都是非常有力的證據。
+*一说是宋代人[[區適子]]。明末清初[[屈大均]]在「廣東新語」卷十一中記載：「童蒙所誦三字經乃宋末[[區適子]]所撰。適子，順德登洲人，字正叔，入元抗節不仕」，認為廣東順德人[[區適子]]才是《三字經》的真正作者。
+*一说是明代人[[黎貞]]。清代[[邵晉涵]]詩：「讀得貞黎三字訓」，自注：「《三字經》，南海黎貞撰。」即以為明代[[黎貞]]撰。
+中國宁波大学文学院教授张如安在《北京大学学报》2009年第二期上发表了《历史上最早记载〈三字经〉的文献——〈三字经〉成书于南宋中期新说》一文，判断《三字经》应成书于[[南宋]][[绍熙]]（1190年-1194年）至[[嘉定]]（1208年-1224年）年间，其时代要早于[[王应麟]]（1223年-1296年）和区适子。而[[宁波]]是目前已知的《三字经》最早流传的地区。&lt;br /&gt;
+
+=== 增改作者 ===
+原典內容之外，後經[[章太炎]]等人多次增改，故三字經內容在「敘史」部份，也已包含[[元朝|元]]、[[明朝|明]]、[[清朝|清]]、[[中华民国|民國]]時期。
+
+== 参考文献 ==
+{{Reflist}}
+
+== 外部連結 ==
+
+* [http://big5.zhengjian.org/node/44509 正統文化教材：《三字經》免費電子書（含錄音）]
+* [http://ctext.org/three-character-classic/zh?en=on 《三字經》原文及英文翻譯] - [[中國哲學書電子化計劃]]
+* [http://www.xinhuanet.com/video/sanzijing.htm 解读《三字经》 钱文忠]
+
+== 参见 ==
+*[[臺灣三字經]]
+*[[新三字经]]
+
+[[Category:蒙學]]
+[[Category:中国教育史]]
+[[Category:宋朝典籍]]</str>
+    <str name="title">三字经</str>
+    <str name="titleText">三字经</str>
+    <int name="revision">32043867</int>
+    <date name="timestamp">2014-07-27T21:27:45Z</date>
+    <long name="_version_">1484748584736784384</long></doc>
+  <doc>
+    <str name="id">219375</str>
+    <str name="text">《'''牛津英語詞典'''》（[[英語]]：'''O'''xford '''E'''nglish '''D'''ictionary，'''OED'''）是由[[牛津大學出版社]]出版的20卷[[詞典]]，被視為最全面和權威的[[英語]]詞典。截至2005年11月30日，該詞典收錄了301,100主詞彙，字母數目達3億5千萬個。詞典亦收錄了157,000個以粗體印刷的組合和變形，以及169,000個以粗斜體印刷的短語和組合，令詞典收錄的詞彙達到616,500個。另外，詞典共列出137,000條[[讀音]]、249,300個[[詞源]]、577,000個互相參照和2,412,400句例子。
+
+牛津詞典旨在收錄所有已知詞彙的用法，以及詞彙在不同地區之英語的變化（請參看1933版詞典的前言）。第一版前後花了71年編寫，其中22年是準備工作（1857年至1879年）。在實際編輯的49年間（1879年至1928年），共用了四個主編，每名主編約有六個助手，還有在英美登報招募的約1,300個義工提供引句。
+
+不少對英語詞彙的學術研究都以牛津詞典作為切入點。而詞典對詞彙拼法的要求，影響了不同地區的書面英語。
+
+== 起源 ==
+詞典並非由[[牛津大學]]發起編寫。19世紀50年代，[[語言學會]]（Philological Society）的會員有感於當時英文詞典之不足，於是發起編寫詞典的計劃。1857年6月，他們成立「未被收錄詞彙委員會」（Unregistered Words Committee），旨在列出並未被當時詞典收錄的詞彙，後來研究範圍更擴展到針對當時詞典的缺點。委員會成員理查德·切尼维克斯·特倫奇（Richard Chenevix Trench）認為一本全新而全面的詞典是必須的，更建議讀者把例句寄給編者。及至1858年，該學會基本上同意編寫新的詞典，並名為《按歷史原則編訂的新英語辭典》（A New English Dictionary on Historical Principles）。
+
+《牛津英語詞典》不收录NBA、CPI、CEO、GDP、GPS之类的字母词。
+
+== 首批編者 ==
+特倫奇在計劃初期扮演重要角色，但他的教會工作繁重，他難以兼顧需時動輒十年的詞典編纂工作，遂最後退出，由[[赫伯特·柯爾律治]]（Herbert Coleridge）接替並成為詞典的首位編者。赫伯特是詩人[[柯爾律治]]的孫子，博聞強記，在牛津大學同時取得[[數學]]與古典語言的一級榮譽學位，以[[律師]]為業，但主要將精力用於語言研究。
+
+1860年5月12日，赫伯特公布他的計劃詳情，編纂工作全面展開。他的家成為編寫詞典的辦公室。他特別訂製設有54格的木箱，着手把10萬條引文分類。1861年4月，詞典部分初稿出版；同月，赫伯特因[[肺結核]]病逝，享年僅31歲。
+
+接手編纂詞典工作的是弗尼瓦爾（[[:en:Frederick James Furnivall|Frederick James Furnivall]]）。他是早期英語文獻的專家，對編纂工作充滿熱誠，但缺乏長期投入的耐性。起初他邀請了很多助手，收集了大量讀者提供的引文和其他物資。隨着熱情漸退，詞典編寫計劃陷入膠着狀態；弗尼瓦爾與助手失去聯絡，助手則以為計劃胎死腹中。不少給助手拿去的引文沒有退回，後來在[[托斯卡纳]]竟發現整套為H字開頭詞彙而收集的引文，其他則可能已當柴燒掉。
+
+弗尼瓦爾找過斯威特（[[:en:Henry Sweet|Henry Sweet]]）、尼科爾（Henry Nicol），希望他們接手編纂工作，但均被拒絕（前者是以粗魯聞名的語音學家，[[蕭伯納]]的名劇《[[窈窕淑女]]》中的教授，即以他為原型）。到1876年，在語言學會的一次會議上，出身寒微、靠自學成才的[[詹姆斯·穆雷]]表示願意接手這項工作。
+
+== 牛津接手 ==
+與此同時，學會與出版社接洽，希望出版這部厚重的詞典。他們曾接觸[[劍橋大學出版社]]和牛津大學出版社，卻不得要領。到1879年，經過兩年的商議，牛津大學出版社同意出版，還同意向墨里付薪編纂詞典。他們計劃用10年時間完成。
+
+墨里能夠駕馭如此規模龐大的計劃，令編纂工作重上軌道。由於他有很多小孩，他的家不適合作辦公室，於是在他家旁建了一幢鐵造小屋為繕寫室，內置一個有1092格的木箱和大量書架，他把小屋命名為「藏經樓」（Scriptorium）。
+
+墨里重新整理由弗尼瓦爾之前收集的引文，但他發現提供引文的讀者只着重罕見和有趣的字，忽略了常用字。於是他在[[報章]]、[[書店]]、[[圖書館]]宣傳，呼籲讀者除了注意罕見、過時、古怪的字，也希望他們提供常用字的引文。墨里同時邀請了[[美國]][[賓夕法尼亞州]]的語言學者馬奇（Francis March）收集北美讀者的引文。不久，每天1,000條引文送到「藏經樓」，到1882年，數目累計350萬條。
+
+1884年2月1日，赫伯特的詞典試樣公布後的23年，詞典的雛形終於出現，樣版頁面正式出版。該初版詞典的書名為《基於由語言學會所收集的材料、以歷史原則編訂的新英語詞典》（''A New English Dictionary on Historical Principles; Founded Mainly on the Materials Collected by The Philological Society''），全書352頁，收錄了由''A''至''Ant''的字，英國售價12[[先令]]6[[便士]]、美國售3.25[[美元]]。銷量並不理想，僅印行4000本。
+
+牛津大學出版社明白，若沿用舊方法編寫，詞典出版將會遙遙無期。於是出版社承諾提供額外援助，但墨里要接受兩個條件。第一，他要搬進[[牛津市]]進行編寫工作，他於1885年照做。第二，如果他未能依時完成工作，他必須聘請一個不受他監督的資深編者，負責詞典不同部分的工作。墨里對第二個要求不以為然，他想獨自完成工作，又認為當他熟習編寫後進度便會加快。但事實並非如此，最終牛津大學出版社的蓋爾（Philip Lyttelton Gell）決定擢升墨里的副手布拉德利（Henry Bradley），他於1888年與墨里分頭編寫詞典。布拉德利的工作間設於[[倫敦]]的[[大英博物館]]。到1896年他也搬進牛津。
+
+本着商業精神，蓋爾不斷向兩名編者施壓，意圖減少支出，計劃差點因此而被逼中止。但當報紙將情況報道出來之後，輿論支持兩名編者，更令蓋爾被解僱，牛津大學亦全力支持編寫工作。
+
+可惜，兩名編者在詞典正式面世前就過世。墨里於1915年逝世，他生前一直負責編寫'''A至D'''、'''H至K'''、'''O至P'''和'''T'''開頭的字，佔詞典近半篇幅。布拉德利則於1923年過世，他負責'''E至G'''、'''L至M'''、'''S至Sh'''、'''St'''和'''W至We'''的字。由於早已有兩位副手被擢升為編者，各自負責詞典的不同部分，故詞典編寫的工作沒有受到太大影響。克雷吉（William Craigie）於1901年開始編寫'''N'''、'''Q至R'''、'''Si至Sq'''、'''U至V'''及'''Wo至Wy'''的字，而奧尼恩斯（Charles Talbut Onions）則於1914年開始負責餘下的'''Su至Sz'''、'''Wh至Wo'''和'''X至Z'''。
+
+== 分冊 ==
+截至1894年初，已有11本分冊出版，共分三組：四冊是'''A至B'''、五冊是'''C'''、兩冊是'''E'''，平均每年出一冊。當中有8部長352頁，而每組的最後一冊都較薄。由1895年開始，每本分冊的規模縮減，並改為每三個月出一冊，每冊只有64頁，每本2先令6便士或1美元。有時也會出版較厚的分冊，頁數為128甚至192。出版步伐直至[[第一次世界大戰|一戰]]爆發才被拖慢。
+
+自1895年起，詞典終於採用《牛津英語詞典》（''Oxford English Dictionary''）的名字，但只出現在分冊的封面，原本的書名仍然是正式名稱，出現在書中不同地方。
+
+最後一本分冊是第125部，於1928年4月19日出版，包含了由'''Wise'''到'''W'''最後一個字，詞典的完整版本隨即推出。
+
+== 第一版和第一次增補 ==
+這本新英文詞典最初計劃出版10冊，分別以'''A'''、'''C'''、'''D'''、'''F'''、'''H'''、'''L'''、'''O'''、'''Q'''、'''Si'''及'''Ti'''作開頭。但隨着計劃不斷發展，每冊變得越來越厚。雖然1928年完整版推出時仍保留了分冊的編號，但第九和第十部都要分成兩本印刷，第九部由'''Su'''分開，而第十部則由'''V'''分開。該部詞典也有推出20冊裝，視乎不同訂裝，價錢分別為50或55[[基尼]]（即52.5或57.75英鎊)。
+
+詞典的第一版出版距離分冊'''A至Ant'''的出版已有44年，期間英語不斷發展，出現不少轉變，所以較早期面世的分典已變得不合時宜。解決辦法是推出「增補」，列出所有新出現的詞彙和用法，同時修正原版的錯漏。
+
+增補冊子同樣由兩位編者分別編寫。當時身處美國的克雷吉主要負責添加美式用法，同時他也修訂了'''L至R'''和'''U至Z'''，奧尼恩斯則負責'''A至K'''及'''S至T'''，全部需時5年。
+
+1933年，詞典首次正式以《牛津英文詞典》的名義發行。為了平均每部分冊的厚度，分冊內容經過調整，令整部詞典共分12冊，分別以'''A'''、'''C'''、'''D'''、'''F'''、'''H'''、'''L'''、'''N'''、'''Poyesye'''、'''S'''、'''Sole'''、'''T'''和'''V'''做開頭，增補冊子則成為第13冊。售價減至20基尼（21英鎊）。
+
+== 第二版和第二次增補 ==
+語言不斷發展，20年後的1950年代，1933年版的牛津詞典的內容已變得過時。出版社初步構思有三種方法更新詞典。最方便的方法是保留原來版本，只附上新的增補集；第二種方法是更新原本的增補集；最昂貴的方法是重新修訂詞典，增加冊數。牛津出版社選擇了第二種方案，重新編寫增補集。1957年，伯奇菲爾德(Robert Burchfield)獲聘為編者，而已年屆84歲的奧尼恩斯也有參與編寫。原本計劃7至10年完成，最後卻用了足足29年，增補集的冊數增至4冊，分別以'''A'''、'''H'''、'''O'''和'''Sea'''作開頭。4冊分別於1972年、1976年、1982年和1986年出版，令整部詞典增至16冊。
+
+
+為了讓詞典電子化，'''新牛津英文詞典'''（英文簡稱：'''''NOED'''''）計劃展開。為了保留詞典的原來格式，詞典內容不是簡單以鍵盤輸入電腦，而是以[[SGML]]語言輸入。同時，一個專門的[[搜尋引擎]]和軟件需要開發來閱讀電子化的內容。根據1985年的協議，[[加拿大]]的[[滑鐵盧大學]]成立了'''新牛津英文詞典中心'''，負責開發部分軟件；這項計劃亦間接促成了軟件公司Open Text的成立。NOED計劃的電腦硬件、資料庫和其他軟件開發人員，均由[[IBM]]的英國附屬公司贊助。
+
+1989年，NOED計劃達成目標，編者韋納(Edmund Weiner)、辛普森(John Simpson)利用電腦將詞典正文及伯奇菲爾德編寫的增補，以及小量新資料結合成一本完整的詞典，牛津英文詞典第二版（''OED2'''）正式出版（故第一版稱作''OED1''）。
+
+OED2的印刷本共有20冊，每本厚度相若，並放棄以字母劃分，分別以'''A'''、'''B.B.C.'''、'''Cham'''、'''Creel'''、'''Dvandra'''、'''Follow'''、'''Hat'''、'''Interval'''、'''Look'''、'''Moul'''、'''Ow'''、'''Poise'''、'''Quemadero'''、'''Rob'''、&lt;br /&gt;'''Ser'''、'''Soot'''、'''Su'''、'''Thru'''、'''Unemancipated'''和'''Wave'''作開首字。
+
+雖然OED2很大程度只是把原有內容重新整合，但由於重新排版，對詞典格式作了兩個重要修改。首先，主詞目不再是大寫，讓讀者知道那些字的首字母需要大寫。另外，墨里編寫詞典時，拼音未有標準格式，故使用了他自創的拼寫，而OED2則採取了[[國際音標]]。
+
+《詞典增編》（''Oxford English Dictionary Additions Series''）加入了新的資料，在1993年出版了兩小冊，第3本於1997年面世，令整部詞典增至23冊。
+
+== 縮印版 ==
+1971年，全部13冊的1933年版OED1重新印刷成只有兩冊的縮印版（''Compact Edition''）。其實只是把4頁縮印成1頁，縮印版的兩冊分別以'''A'''和'''P'''做開頭。裝着詞典的盒子附有[[放大鏡]]，輔助讀者閱讀縮小了的字體。1991年，OED2的縮印版出版，9頁縮印成1頁，首次以單冊出版。
+
+== 電子版 ==
+[[File:OED2-CD-1.png|thumbnail|190px|OED第一個CD-ROM版本的屏幕截圖]]
+現時已發行了四個[[CD-ROM]]版本。第一版CD-ROM（1992年）包含了OED2的內容，而且沒有版權保護。第二版CD-ROM（1999年）增添了內容、新加了搜尋功能，但由於過分保護版權，令軟件難以使用，甚至出版社的工作人員示範軟件時亦遇到困難。第三版CD-ROM build 2.1（2002年）沒有解決問題，亦只能在[[Windows]]中使用。第四版CD-ROM Version 4.0（2009年）增加 MAC平台與Windows7的安裝。单机版本 OED4  CD-ROM  Verion 4.0 共两张光盘，约 200 美元左右；可安装在硬盘上使用，无需再用CD-ROM。
+
+[[File:Oed.png|thumbnail|190px|OED Online的屏幕截圖]]
+2000年3月，詞典網上版(''OED Online''）提供訂閱。它包含了整部OED2，並每季進行修訂，將來會成為OED3的內容，是現時最新的版本。
+
+雖然已在2004年減了價，個人訂閱網上版每年仍要支付195英鎊或295美元。主要訂閱者來自大型機構，如大學、公共圖書館等。
+
+== 第三版 ==
+進行中的第三版（'''''OED3'''''）將會大幅修訂現有版本。現任主編是 John Simpson 。編者慣常會從頭開始修訂詞典，內容的質量可能會因修訂次序不同而不平均，為了作出平衡，OED3的修訂將會由'''M'''開始。當網上版於2000年3月推出，它己包含了少部分已修訂的詞目（稱作草稿條目）：由'''M'''至'''mahurat'''，而之後的詞彙亦按每季推出。截至2005年12月，修訂部分已到了以'''ph'''開頭的字。
+
+第三版的製作充分應用了電腦科技，尤其是2005年6月推出的新軟件'''Pasadena'''。該軟件採用了[[XML]]，令詞典編纂者能夠更專注改善詞典的內容，而不需分神於詞典的格式。新系統亦簡化了引文資料庫的操作，令身處[[紐約]]的工作人員能夠與在牛津工作的編者一樣，直接修改詞典。而利用[[電郵]]，公眾可以將用法會引文傳送給編者。
+
+== 拼法 ==
+牛津詞典OED把[[英式英語]]的拼法（如labour和centre）放在前，而把其他拼法（labor和center）放在較後位置。另外，雖然部分詞的詞尾普遍使用"-ize"，但是OED堅持用"-ise"[http://www.askoxford.com/asktheexperts/faq/aboutspelling/ize?view=get]。
+
+牛津出版社以例句"The group analysed labour statistics published by the organization"表現英式拼法。這種拼法（[[IANA]]把它標為'''en-GB-oed'''）被[[聯合國]]、[[世貿]]、[[國際標準化組織]]和其他組織，以及學術刊物（如[[自然 (杂志)|《自然》]]）所採納。
+
+== 軼聞 ==
+* [[约翰·罗纳德·瑞尔·托尔金|托爾金]]曾替OED研究'''Waggle'''至'''Warlock'''的字源，並把四位主編塑造成他的短篇故事《哈姆蓋爾的農夫》（''Farmer Giles of Ham''）中的「牛津四智者」（The Four Wise Clerks of Oxenford）。
+* [[莎士比亞]]是被引用得最多的作家。
+* [[乔治·艾略特]]是被引用得最多的女作家。
+* 不同版本的[[聖經]]加起來，成了被引用得最多的作品；以單一版本來算，引用得最多的是[[中世紀]]的長篇宗教詩《世界的運行者》(''Cursor Mundi'')。
+* '''set'''(v.)很长时间都是解释最多的单词，但是在2007年3月修订之后，'''make'''(v.)超过了它，编辑组指出，在不久的将来，set可能又会超过它，因为目前set还未被修订。
+* 现在解释最多单词排行榜为：'''make'''(v.已修订),'''set'''(v.),'''run'''(v.),'''take'''(v.),'''go'''(v.),'''pre-'''(prefix已修订),'''non-'''(prefix已修订),'''over-'''(prefix已修订),'''stand'''(v.),'''red'''(a.;n.),'''point'''(n.已修订).
+* 在生造字（neologism）方面，引用得最多的作家是17世紀英語散文大家[[布朗]]爵士（Sir Thomas Browne）。
+* 邁納醫生（Dr. W. C. Minor）是詞典編輯初期最熱心的貢獻者之一，他當時因為殺人而被關在瘋人院，他與墨里的一段交往被寫成暢銷書《教授與瘋子》（''The Professor and the Madman: A Tale of Murder, Insanity, and the Making of The Oxford English Dictionary''）。
+* 黑爾塔哲（S.J. Herrtage）是整個計畫裡首個獲聘用的助手，但也是首個遭解僱的工作人員，他因為被發現有偷竊癖而被革職。
+* 安蒙·佘亚用了一年的时间来阅读《牛津英语词典》，还把他的阅读感想写成了一本书。
+* 傳聞2014年將會新增Tuhao（土豪）、Dama（大妈）和Guanggun（光棍）等中国大陸新詞。
+
+== 其他牛津詞典 ==
+* 《簡短牛津英語詞典》(''Shorter Oxford English Dictionary'')
+* 《新牛津英語詞典》(''New Oxford Dictionary of English'')
+* 《牛津簡明英語詞典》(''Concise Oxford English Dictionary'')
+* 《牛津高阶詞典》(''Oxford Advanced Learner's Dictionary'')（供[[母語]]不是英語的人使用）
+* 《牛津加拿大詞典》(''Canadian Oxford Dictionary'')
+* 《新牛津美國詞典》(''New Oxford American Dictionary'')
+* 《牛津英語詞源詞典》(''Oxford Dictionary of English Etymology'')
+
+== 參考書籍 ==
+* &lt;cite&gt;Oxford English Dictionary&lt;/cite&gt;, second edition, edited by John Simpson and Edmund Weiner, Clarendon Press, 1989, twenty volumes, hardcover, ISBN 0-19-861186-2
+* &lt;cite&gt;Caught in the Web of Words: James Murray and the Oxford English Dictionary&lt;/cite&gt;, K. M. Elisabeth Murray, Yale University Press, 2001, trade paperback, ISBN 0-300-08919-8
+* &lt;cite&gt;Empire of Words, The Reign of the Oxford English Dictionary&lt;/cite&gt;, John Willinsky, Princeton University Press, 1995, hardcover, ISBN 0-691-03719-1
+* &lt;cite&gt;The Meaning of Everything: The Story of the Oxford English Dictionary&lt;/cite&gt;, Simon Winchester, Oxford University Press, 2003, hardcover, ISBN 0-19-860702-4
+* (UK title) &lt;cite&gt;The Surgeon of Crowthorne&lt;/cite&gt; / (US title) &lt;cite&gt;The Professor and the Madman&lt;/cite&gt;: &lt;cite&gt;A Tale of Murder, Insanity, and the Making of The Oxford English Dictionary&lt;/cite&gt;, Simon Winchester, HarperCollins, 1998, hardcover, ISBN 0-06-017596-6
+* &lt;cite&gt;Lost for Words: The Hidden History of the Oxford English Dictionary&lt;/cite&gt;, Lynda Mugglestone, Yale University Press, 2005, hardcover, ISBN 0-300-10699-8
+
+== 外部連結 ==
+* [http://www.oed.com/ 官方網頁]
+** [http://oed.com/archive/ 詞典資料庫]
+** [http://oed.com/about/facts.html OED統計]
+** [http://dictionary.oed.com/about/contributors/tolkien.html 托尔金與OED]
+** [http://www.askoxford.com/dictionaries/?view=uk 搜尋簡明OED]
+* [http://oed.hertford.ox.ac.uk/main/ 透視OED(''Examining the OED'')]{{en}}
+
+[[Category:詞典|N牛]]
+[[Category:英國文化|N牛]]
+[[Category:英语词典]]
+{{Template:英语词典}}</str>
+    <str name="title">牛津英語詞典</str>
+    <str name="titleText">牛津英語詞典</str>
+    <str name="user">IfYouWereGone</str>
+    <int name="userId">1647045</int>
+    <int name="revision">33014866</int>
+    <date name="timestamp">2014-10-18T21:16:37Z</date>
+    <long name="_version_">1484748623012954112</long></doc>
+  <doc>
+    <str name="id">2891537</str>
+    <str name="text">'''英语圈'''（[[英語]]：Anglosphere）是一个[[新词]]，指将[[英语]]作为常用语言的国家的合称。有时也特别表示为经过[[英国]]殖民后拥有共同[[语言]]及[[文化]]的国家，包括英国本身，[[澳大利亚]]、[[新西兰]]、[[爱尔兰]]、[[加拿大]]（不包括[[魁北克]]）和[[美国]]。
+
+== 定义 ==
+Anglosphere這個詞是由美國科幻作家[[尼爾·斯蒂芬森]]在他的書《[[鑽石年代]]》（1995年出版）中創造出的，但是最初並沒有詳細定義。 &lt;ref&gt;[http://www.wordspy.com/words/Anglosphere.asp Word Spy]&lt;/ref&gt; 《[[韋氏字典]]》將其定義為“這個世界上英語語言及文化主宰的國家”。&lt;ref&gt;{{cite web |url=http://www.merriam-webster.com/dictionary/anglosphere |title=Anglosphere |year=2012 |work=Free Merriam-Webster Dictionary |publisher=Merriam-Webster, Incorporated |accessdate=30 November 2012}}&lt;/ref&gt; 《[[簡短牛津英語字典]]》的定義則是“英語是主要的本國語言的國家群”&lt;ref&gt;{{ShorterOxfordEnglishDictionary}}&lt;/ref&gt;
+
+== 英语世界地图 ==
+[[File:Anglospeak(800px).png|thumb|750x533px|center|{{legend|#0000ff|英语为国家语言或者主要语言的国家}}
+{{legend|#8ddada|英语作为官方语言或者在科学界及上层社会使用，但不是主要语言}}]]
+
+== 英语国家列表 ==
+{{main|英语国家和地区列表}}
+
+== 参见 ==
+* [[英语世界]]
+* [[英语国家和地区列表]]
+
+==参考文献==
+{{reflist}}
+
+{{English official language map}}
+
+[[Category:文化圈]]
+[[Category:英语]]</str>
+    <str name="title">英语圈</str>
+    <str name="titleText">英语圈</str>
+    <str name="user">淺藍雪</str>
+    <int name="userId">602004</int>
+    <int name="revision">25847107</int>
+    <date name="timestamp">2013-03-19T05:08:52Z</date>
+    <long name="_version_">1484749236563083268</long></doc>
+</result>
+</response>

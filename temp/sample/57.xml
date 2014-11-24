@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="q">第一位获得菲尔兹奖的女性是？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="932637" start="0">
+  <doc>
+    <str name="id">972252</str>
+    <str name="text">'''保罗·约瑟夫·寇恩'''（{{lang-en|Paul Joseph Cohen}}，{{bd|1934年|4月2日|2007年|3月23日}}) 是一位[[美国]][[数学家]]，他证明[[策梅洛-弗兰克尔集合论|策梅洛-弗兰克尔公理系统]]加上选择公理 (ZFC) 不能反驳[[连续统假设]] (CH) 的否命题，而ZF不能反驳[[选择公理]] (AC) 的否命题。这一划时代的工作与[[哥德尔]]在1930年代的工作一起，证明了CH和AC分别独立于ZFC和ZF。寇恩在证明中创造了[[力迫法]]，如今力迫法已经成为[[公理集合论]]的一项基本技术。寇恩凭借连续统假设的独立性证明于1966年获得[[菲尔兹奖|菲尔兹奖章]]。
+
+== 早年经历 ==
+保罗·寇恩生于美国[[新泽西州]]长滩（[[:en:Long Branch, New Jersey|Long Branch]]）的一个[[犹太]]家庭，1950年毕业于[[纽约市]]的Stuyvesant高中。
+
+1950年寇恩入读[[纽约市立大学]]布鲁克林学院。不过他了解到申请[[芝加哥大学]]的研究生院只需两年大学经历，因此于1953年从布鲁克林学院肄业。1954年寇恩在芝加哥大学取得硕士学位，1958年他在 [[:en:Antoni Zygmund|Antoni Zygmund]]的指导下获得博士学位。寇恩的博士论文题为《三角级数唯一性理论的一些问题》（''Topics in the Theory of Uniqueness of Trigonometric Series''）。
+
+== 学术生涯 ==
+* 1957-1959年，在获得博士学位之前曾先后执教于[[罗彻斯特大学]]和[[麻省理工大学]]。
+* 1959-1961年，[[普林斯顿高等研究院]]博士后研究员。
+* 1961年，获聘为[[斯坦福大学]]数学系助理教授。
+* 1962年，升任斯坦福大学数学系副教授，同年获得 [[:en:Sloan Fellowship|Sloan 基金奖励]]。
+* 1963年，凭借连续统假设的独立性证明获得 Research Corp. 奖。
+* 1964年，升任斯坦福大学数学系教授。
+* 1966年，获得菲尔兹奖章。
+* 1967年，获得美国国家科学奖章。
+* 2004年，从斯坦福大学退休，但任教直至2007年春季。
+* 生前是[[美国国家科学院]]和[[美国艺术科学院]]的院士。
+
+== 数学贡献 ==
+寇恩的博士论文和早期的研究内容是[[调和分析]]。1964年寇恩凭借[[数学分析|分析学]]论文《关于[[约翰·恩瑟·李特尔伍德|李特尔伍德]]猜想和幂等测度》（''On a conjecture of Littlewood and idempotent measures''）获得[[美国数学学会]]颁发的[[博修奖]]（[[:en:Bôcher Memorial Prize|Bôcher Memorial Prize]]）。
+
+1960年代初，寇恩开始对连续统假设感兴趣。最终他发明了力迫法。在ZF协调的假设下，他运用力迫法构造了一个ZFC的模型M，M不满足CH，因此ZFC不能证明CH。另外，同样在ZF协调的假设下，寇恩运用力迫法扩张一个给定的ZFC模型M得到M[G]，然后取M[G]的一个子模型N，N满足ZF、然而不满足AC。寇恩的这两项工作和哥德尔在1930年代的工作一起，证明了CH独立于ZFC而AC独立于ZF，因此CH是ZFC上的一个[[不可判定]]问题。
+
+凭借CH的独立性证明，寇恩于1966年获得菲尔兹奖章，并于1967年获得[[美国国家科学奖章]]。直至今天，寇恩的菲尔兹奖章依然是数理逻辑界获得的唯一一枚菲尔兹奖章。
+
+寇恩生前是[[斯坦福大学]]的教授，也是一位出色的教师，他指导的博士生彼得·萨纳克（[[:en:Peter Sarnak|Peter Sarnak]]）是一位杰出的数学家、美国科学院院士和英国[[皇家学会]]会士。
+
+== 连续统假设 ==
+据说在研究连续统假设的过程中，寇恩曾经感到其他数学家认为没有希望解决这个问题，因为当时没有构造集合论模型的新方法。1985年寇恩接受采访时提到，人们甚至认为考虑这个问题的人多少有点疯狂。
+
+寇恩的独立性证明引入了力迫法，如今力迫法成为一项强有力的技术，不计其数的数学家们运用这一方法构造模型，检验给定的假设可否与不同的公理系统协调。
+
+== 外部链接 ==
+* [[数学谱系计划]]上的 [http://genealogy.math.ndsu.nodak.edu/id.php?id=6479 寇恩]
+* [http://paulcohen.org paulcohen.org] - 寇恩纪念网站
+* [http://news-service.stanford.edu/news/2007/april4/cohen-040407.html 斯坦福大学的寇恩讣文]
+
+{{菲尔兹奖}}
+
+{{DEFAULTSORT:Cohen, Paul Joseph}}
+[[Category:美国数学家]]
+[[Category:美國邏輯學家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:美国国家科学院院士]]
+[[Category:美国文理科学院院士]]
+[[Category:集合論者|C]]</str>
+    <str name="title">保罗·寇恩</str>
+    <str name="titleText">保罗·寇恩</str>
+    <str name="user">578985s</str>
+    <int name="userId">1577013</int>
+    <int name="revision">32470367</int>
+    <date name="timestamp">2014-08-28T01:06:11Z</date>
+    <long name="_version_">1484748844548751361</long></doc>
+  <doc>
+    <str name="id">362500</str>
+    <str name="text">[[File:Wendelin Werner.jpg|thumb|文德林·维尔纳在[[里昂高等師範學院]]]]
+'''文德林·维尔纳'''（Wendelin Werner，{{bd|1968年|9月23日|||W}}）是[[法国]]数学家，[[菲尔兹奖]]得主。他生于[[西德]][[科隆]]，1977年获得法国国籍。
+
+== 生平 ==
+维尔纳于1987年至1991年就读于[[巴黎高等師範學院]]。1993年在[[巴黎第六大学]]（皮埃尔与玛丽·居里大学）获得博士学位，导师是[[讓-弗朗索瓦·勒加爾]]。1991年至1997年在[[法国國家科学研究中心]]做研究工作。
+
+他研究兴趣主要是概率论，尤其是自回避[[隨機游走]]和平面[[布朗運動]]。他和[[格雷戈里·勞勒]]及[[奧代德·施拉姆]]在1999年解決[[本華·曼德博]]猜想，證明平面布朗運動的包絡的[[豪斯多夫維]]數為4/3。三人在2006年获得[[美国工业与应用数学学会]]（SIAM）颁发的[[波利亚奖]]。同年他也获得[[国际数学联盟]]颁发的[[菲尔兹奖]]，是第一位以概率論研究獲獎者。他目前任教于[[巴黎南大学]]，并在[[法國高等師範學院]]任兼职教授。
+
+他还获得过[[劍橋大學]]Rollo Davidson奖（1998年），费马奖（2001年）和Loève奖（2005年）。
+
+1982年他參演法國電影《無憂的過客》(La Passante du Sans-Souci)，飾演少年時的男主角。這部電影是女明星[[羅密·施奈德]]的最後作品。
+
+他最喜欢的歌曲是Vox Angeli的L'oiseau
+
+== 外部链接 ==
+* {{en}} [http://www.math.u-psud.fr/~werner/ 巴黎南大学的个人主页]
+* {{en}} [http://www.math.u-psud.fr/%7Ewerner/briefcv.html 简历]
+* {{en}} [http://www.eurekalert.org/pub_releases/2006-07/sfia-gfl071806.php 波利亚奖公告]
+* {{fr}} [http://www.tous-les-savoirs.com/index.php?op=conferenciers&amp;f=432&amp;a=video 維爾納講解隨機平面曲線影片]
+
+{{菲爾茲獎}}
+
+{{DEFAULTSORT:Werner, Wendelin}}
+[[Category:20世紀数学家]]
+[[Category:21世紀数学家]]
+[[Category:法国数学家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:法兰西科学院院士]]
+[[Category:巴黎高等师范学院校友]]
+[[Category:巴黎第六大學校友]]</str>
+    <str name="title">文德林·維爾納</str>
+    <str name="titleText">文德林·維爾納</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30347195</int>
+    <date name="timestamp">2014-02-24T01:17:45Z</date>
+    <long name="_version_">1484748654708260866</long></doc>
+  <doc>
+    <str name="id">597798</str>
+    <str name="text">{{Infobox scientist
+| name              = Lars Hörmander
+| image             = Lars Hörmander.jpg
+| image_size        = 200px
+| caption           = 拉尔斯·霍尔曼德尔
+| birth_date        = {{birth date|1931|01|24|}}
+| birth_place       = [[瑞典]]
+| death_date        ={{death date and age|2012|11|25|1931|01|24|df=y}}
+| death_place       = Malmö
+| nationality       =[[瑞典]]
+| fields            = 
+| workplaces        = 
+| alma_mater        = 
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = 
+| awards            = [[菲尔兹奖]]&lt;br&gt;[[沃尔夫数学奖]]
+}}
+'''拉尔斯·霍尔曼德尔'''（{{lang|se|Lars Valter Hörmander}}，{{bd|1931年|1月24日|2012年|11月25日|catIdx=H}}），[[瑞典]][[数学家]]，涉及的研究领域很广，尤其在现代线性[[偏微分方程]]现代理论做出了巨大贡献。他于1962年荣获[[菲尔兹奖]]，1988年荣获[[沃尔夫奖]]。他的''Analysis of Linear Partial Differential Operators'' I - IV（《线性偏微分算子分析》）被认为是线性偏微分算子领域的经典文献。他于1955年在[[隆德大学]]获得博士学位，指导老师是[[Marcel Riesz]]和[[Lars Gårding]]。1968年起任该校教授，直至1996年退休。其间他曾经在[[斯德哥尔摩大学]]、美国的[[斯坦福大学]]和[[普林斯顿高等研究所]]等地任教和进行研究。1987—1990年间，他曾任[[国际数学联盟]]副主席。
+
+{{菲尔兹奖}}
+{{Wolf Prize in Mathematics}}
+{{DEFAULTSORT:Hormander, Lars}}
+
+[[Category:瑞典数学家|H]]
+[[Category:20世纪数学家|H]]
+[[Category:21世纪数学家|H]]
+[[Category:菲尔兹奖获得者|H]]
+[[Category:沃尔夫数学奖得主|H]]
+[[Category:隆德大學校友|H]]
+[[Category:隆德大學教授|H]]</str>
+    <str name="title">拉尔斯·霍尔曼德尔</str>
+    <str name="titleText">拉尔斯·霍尔曼德尔</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30340950</int>
+    <date name="timestamp">2014-02-23T16:54:20Z</date>
+    <long name="_version_">1484748735106777088</long></doc>
+  <doc>
+    <str name="id">3132792</str>
+    <str name="text">'''格列戈里·亞歷山德羅維奇·馬爾古利斯'''（{{lang-ru|Григо́рий Алекса́ндрович Маргу́лис}}，{{lang-en|Gregori Aleksandrovich Margulis}}，{{bd|1946年|2月24日|}}），俄裔美籍数学家。[[菲尔兹奖]]、[[沃尔夫数学奖]]双料得主。
+
+==生平==
+生于苏联[[莫斯科]]。1970年，于[[莫斯科大学]]获得博士学位。以在相群和[[李群]]上的研究著名。他在[[丢番图逼近]]中引入了[[遍历理论]]。他在1978年[[芬兰]][[赫尔辛基]][[国际数学家大会]]上被授予[[菲尔兹奖]]，2005年获得[[以色列]][[沃尔夫数学奖]]，是历史上第七位双料得主。1991年，加盟[[耶鲁大学]]，现为耶鲁数学系讲席教授。2001年，当选[[美国科学院]][[院士]]。
+
+==逸事==
+1978年获得菲尔兹奖时，苏联政府禁止他赴赫尔辛基领奖。1979年，他访问[[德国]][[波恩]]后，才获得自由身，得以领奖。
+
+==外部链接==
+* 数学家传记系列：[http://www-history.mcs.st-andrews.ac.uk/Biographies/Margulis.html Gregori Aleksandrovic Margulis]
+* [[数学谱系计划]]：[http://www.genealogy.math.ndsu.nodak.edu/id.php?id=15062 Gregory Aleksandrovic Margulis]
+* 美国[[耶鲁大学]]数学系个人网站：[http://directory.math.yale.edu/public_html/People/Margulis.html Gregory A. Margulis]
+
+{{菲尔兹奖}}
+
+[[Category:1946年出生|M]]
+[[Category:美国数学家|M]]
+[[Category:耶鲁大学校友|M]]
+[[Category:菲尔兹奖得主|M]]
+[[Category:沃尔夫数学奖得主|M]]
+[[Category:美国科学院院士|M]]</str>
+    <str name="title">格列戈里·馬爾古利斯</str>
+    <str name="titleText">格列戈里·馬爾古利斯</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30392414</int>
+    <date name="timestamp">2014-02-26T15:29:54Z</date>
+    <long name="_version_">1484749300799897600</long></doc>
+  <doc>
+    <str name="id">1178573</str>
+    <str name="text">{{Infobox Scientist
+|name              = 丹尼尔·奎伦&lt;br /&gt;Daniel Quillen
+|box_width         =
+|image             =
+|birth_date        = {{birth date|1940|06|22}}
+|birth_place       = 
+|death_date        = {{death date and age|2011|04|30|1940|06|22}}
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = [[美国]]
+|ethnicity         = 
+|field             = [[数学]]
+|work_institutions = 
+|alma_mater        = 
+|doctoral_advisor  = [[拉乌尔·博特]]
+|doctoral_students = 
+|known_for         = 
+|influences        = 
+|influenced        = 
+|prizes            =  [[菲尔兹奖]]
+|religion          = 
+|signature         =
+}}
+'''丹尼尔·格雷·“丹”·奎伦'''（{{lang|en|Daniel Gray "Dan" Quillen}},{{bd|1940年|6月22日|2011年|4月30日||catIdx=Q}}），[[美国]][[数学家]]。1984年至2006年間擔任[[牛津大学马德林学院]][[温弗利特教授|纯粹数学温弗利特教授]]。他以高阶[[代数K-理论]]的“总设计师”（{{lang|en|prime architect}}）而闻名，并因在該領域的貢獻獲得1975年[[科尔奖]]与1978年[[菲尔兹奖]]。
+
+== 教育与职业 ==
+奎伦生于美国[[新泽西州]][[奥兰奇]]。他在[[哈佛大学]]获得[[学士]]学位（1961年）以及[[哲学博士]]学位（1964年）。博士指导老师为[[拉乌尔·博特]]，博士论文关于[[偏微分方程]]。他是1959年的[[普特南数学竞赛|普特南 fellow]]。
+
+奎伦博士毕业后在[[麻省理工学院]]获得一个职位，但他同时在其它多所学校工作过许多年。这些经历后来证明对他的研究方向有重要影响。他两次访问法国：第一次于1968-69年度在巴黎做[[阿尔弗雷德·斯隆基金|斯隆fellow]]，在那里他深受[[格罗滕迪格]]的影响；第二次是在1973-74年度作为[[Gugenheim fellow]]。1969-70年度，他成为[[普林斯顿]][[高等研究所]]的访问学者，在那里他开始受到[[迈克尔·阿蒂亚]]的影响。
+
+1978年，奎伦在[[赫尔辛基]]举办的[[国际数学家大会]]上获得菲尔兹奖。
+
+他指导的博士学生包括 Kenneth Brown, Howard Hiller, Jeanne Duflot, Mark Baker, [[Mathai Varghese|Varghese Mathai]] (with whom he collaborated on the Mathai-Quillen formalism), and Jacek Brodzki.
+
+奎伦已在2006年底退休。
+
+== 数学贡献 ==
+
+奎伦最有名的贡献（特别是在他获菲尔兹奖时提及）是他在1972年对高阶代数 K-理论的表述，这是一个从代数 K-理论诞生起就困扰数学家们的问题。新工具是用同伦论表述的，已证明在表述以及解决代数中的主要问题是成功的，特别是环论与模论。更一般地，奎伦发展可将代数拓扑工具使用于其它情形的工具（特别是他的[[模型范畴]]理论）。
+
+在他定义高阶代数 K-理论这项开创性工作之前，奎伦证明了由[[同伦论]]中[[弗兰克·亚当斯]]提出的[[亚当斯猜想]]。他对该猜想的证明使用了[[群]]的[[模表示]]论中的技巧，后来他将其使用到群的[[上同调]]以及[[代数K-理论]]中。他还证明了[[复配边]]，证明了其[[形式群公理]]本质上是普适的。
+
+在相关工作中，他还给出了关于[[仿射空间]]上代数[[向量丛]]的平凡性之[[奎伦-苏斯林定理|塞尔猜想]]的一个证明。
+
+他（与[[丹尼斯·苏利文]]）也是[[有理同伦论]]的创立者。
+
+== 著作选 ==
+
+* {{citation|id={{MR|0258031}}|first=D. |last=Quillen|title=Rational homotopy theory|journal=Annals of Math|volume=90|year=1969|pages=205–295
+|url=http://links.jstor.org/sici?sici=0003-486X%28196909%292%3A90%3A2%3C205%3ARHT%3E2.0.CO%3B2-S|doi=10.2307/1970725  }}
+
+== 参考文献 ==
+* {{MacTutor Biography|id=Quillen}}
+* {{MathGenealogy |id=13325}}
+
+{{菲尔兹奖}}
+
+{{DEFAULTSORT:Quillen, Daniel}}
+
+[[Category:20世纪数学家]]
+[[Category:美国国家科学院院士|Q]]
+[[Category:21世纪数学家]]
+[[Category:美国数学家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:拓扑学家]]</str>
+    <str name="title">丹尼尔·奎伦</str>
+    <str name="titleText">丹尼尔·奎伦</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30166443</int>
+    <date name="timestamp">2014-02-12T14:13:04Z</date>
+    <long name="_version_">1484748917605138434</long></doc>
+  <doc>
+    <str name="id">1555379</str>
+    <str name="text">[[File:Timothy Gowers Washington 2009.jpg|thumb|right|蒂莫西·高爾斯]]
+'''威廉·蒂莫西·高爾斯'''爵士，[[KBE]]，[[皇家學會院士|FRS]]（{{lang-en|Sir '''William Timothy Gowers'''}}，{{bd|1963年|11月20日|||catIdx=Gowers, Sir Timothy}}），[[英国]][[数学家]]、数学[[作家]]，1998年[[菲尔兹奖]]得主。
+
+==教育背景==
+
+高尔斯早年受教于[[英格兰]][[剑桥郡]]的国王学院（英语：[[:en:King's College School, Cambridge|King's College School, Cambridge]]；注意：并非[[剑桥大学国王学院]]），并在[[伊顿公学]]求学。他在伊顿公学学习期间表现优异，曾获得“国王学者”的称号（英语：[[:en:King's Scholar|King's Scholar]]）。高尔斯于1990年在[[剑桥大学]]（[[剑桥大学三一学院]]）获得[[博士]][[学位]]，博士论文题为“[[巴拿赫空间]]中的对称结构”（英语：''Symmetric Structures in Banach Spaces''）。他的博士导师是著名[[数学家]][[贝拉·波罗巴斯]]（[[:en:Béla Bollobás|Béla Bollobás]]）。
+
+==研究经历==
+
+1991年至1995年，高尔斯在[[伦敦大学学院]]的数学系从事研究工作&lt;ref name="高爾斯——AMS"&gt;{{cite web|url=http://www.ams.org/samplings/feature-column/fcarc-gowers |title=1998 Fields Medalist William Timothy Gowers |publisher=[[美国数学学会]] |accessdate=2011年1月10日 |language=en}}&lt;/ref&gt;。1996年，高尔斯获得欧洲数学会奖&lt;ref name="高爾斯——AMS"/&gt;。1998年，他获得数学界最高奖之一的[[菲尔兹奖]]&lt;ref name="高爾斯——AMS"/&gt;。1999年，高尔斯当选为[[英国]][[皇家学会]][[院士]]。2011年，获得[[美国数学协会]]的[[欧拉数学著作奖]]（英语：[[:en:Euler Book Prize|Euler Book Prize]]）
+
+高尔斯的主要供现在[[泛函分析]]和[[组合数学]]领域。他巧妙运用组合数学的方法，在巴拿赫空间中塑造了一系列完全不具备对称性的结构。
+
+==家庭==
+
+高尔斯出生于学术世家，他的父亲是作曲家[[帕特里克·高尔斯]]（[[:en:Patrick Gowers|Patrick Gowers]]）。祖父是英国著名政府官员和[[作家]][[欧内斯特·高尔斯]][[爵士]]。先祖是研究[[帕金森氏症]]的先驱神经学家[[威廉·理查德·高尔斯]]（[[:en:William Richard Gowers|William Richard Gowers]]）
+
+==代表作==
+* 2002年首版：《数学：极短介绍》（Mathematics: A Very Short Introduction） （ISBN 0192853619）
+
+==参考链接==
+{{reflist}}
+
+{{菲尔兹奖}}
+{{DEFAULTSORT:Gowers, Sir Timothy}}
+[[Category:21世纪数学家]]
+[[Category:20世纪数学家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:英国数学家]]
+[[Category:剑桥大学三一学院校友]]
+[[Category:伦敦大学学院校友]]
+[[Category:KBE勳銜]]
+[[Category:英國皇家學會院士]]
+[[Category:组合学家|G]]</str>
+    <str name="title">蒂莫西·高爾斯</str>
+    <str name="titleText">蒂莫西·高爾斯</str>
+    <str name="user">578985s</str>
+    <int name="userId">1577013</int>
+    <int name="revision">32470700</int>
+    <date name="timestamp">2014-08-28T01:34:42Z</date>
+    <long name="_version_">1484749028962861056</long></doc>
+  <doc>
+    <str name="id">131085</str>
+    <str name="text">{{japanese|japanese=広中 平祐|kana=ひろなか へいすけ|romaji=Hironaka Heisuke|舊寫=廣中 平祐}}
+'''廣中平祐'''（{{bd|1931年|4月9日|||Hironaka, Heisuke}}），日本数学家，出生于[[日本]][[山口县]]。[[日本学士院]]会员。1970年由于其在[[代数几何]]上的成就获得[[菲尔兹奖]]。
+
+其夫人为曾任日本环境厅长官的[[广中和歌子]]。
+
+== 简历 ==
+* 1954年毕业于日本[[京都大学]]理学部。
+* 1960年获得[[哈佛大学]]博士学位。
+* 1970年9月3日，被授予菲尔兹奖。
+* 1996年-2002年任日本[[山口大学]]校长。
+* 2003年任[[创造学园大学]]（予2004年开学）首任校长。
+
+== 轶事 ==
+
+广中有一次用日本俳句诗人[[小林一茶]](Kobayashi Issa)为笔名投稿。其结果是，在[[复变函数论]]中多了一个[[一茶定理]](Issa's Theorem)。&lt;!-- 来自英文维基 ---&gt;
+
+== 外部链接 ==
+* {{en}} [http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Hironaka.html 廣中平祐小传@The MacTutor]
+
+{{菲尔兹奖}}
+{{DEFAULTSORT:Hironaka, Heisuke}}
+[[Category:日本数学家]]
+[[Category:山口縣出身人物]]
+[[Category:菲尔兹奖获得者]]
+[[Category:法兰西科学院院士]]
+[[Category:文化勳章獲得者]]</str>
+    <str name="title">廣中平祐</str>
+    <str name="titleText">廣中平祐</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30309396</int>
+    <date name="timestamp">2014-02-21T12:07:37Z</date>
+    <long name="_version_">1484748594467569664</long></doc>
+  <doc>
+    <str name="id">956721</str>
+    <str name="text">[[File:Deligne.jpg|thumb|皮埃尔·德利涅]]
+
+'''皮埃尔·勒内·德利涅子爵'''（{{lang-fr|Vicomte Pierre René Deligne}}，{{lang-en|Pierre Deligne}}，{{bd|1944年|10月3日}}），生于[[布鲁塞尔]]，[[比利时]][[数学家]]。他最重要的贡献之一是20世纪70年代关于[[韦伊猜想]]的工作。
+
+德利涅早年就读于[[布鲁塞尔自由大学]]，1968年在[[格罗滕迪克]]指导下完成[[博士]]论文。1970年26岁的德利涅成为[[法國高等科學研究所]]教授。他在那里完成了关于[[霍奇理论]]和[[韦伊猜想]]的工作。德利涅1984年移居美国，进入[[普林斯顿高等研究院]]。
+
+德利涅1978年获得[[菲尔兹奖]]，1988年获得[[克拉福德奖]]，2008年获得[[沃尔夫奖]]，2013年获得[[阿贝尔奖]]。
+
+2006年比利时国王封德利涅为[[子爵]]。
+
+{{菲尔兹奖}}
+{{Wolf Prize in Mathematics}}
+
+{{DEFAULTSORT:Deligne, Pierre René}}
+[[Category:比利时数学家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:沃尔夫数学奖得主]]
+[[Category:法兰西科学院院士]]
+[[Category:阿贝尔奖获得者]]</str>
+    <str name="title">皮埃尔·德利涅</str>
+    <str name="titleText">皮埃尔·德利涅</str>
+    <str name="user">漢浩</str>
+    <int name="userId">1637871</int>
+    <int name="revision">31122576</int>
+    <date name="timestamp">2014-04-27T08:37:54Z</date>
+    <long name="_version_">1484748841695576075</long></doc>
+  <doc>
+    <str name="id">362705</str>
+    <str name="text">[[File:Andrei Okounkov.jpg|thumb|220px|{{PAGENAME}}]]
+'''安德烈·奧昆科夫'''（{{lang-ru|Андрей Окуньков}}，{{lang-en|Andrei Okounkov}}，{{bd|1969年|7月26日|catIdx=O}}）是[[俄罗斯]]数学家，[[普林斯顿大学]]教授。2006年因为“将[[概率论]]、[[表示论]]和[[代数几何]]联系起来所做出的贡献”而获得[[菲尔兹奖]]。
+
+奧昆科夫出生於莫斯科，1995年在[[莫斯科大学]]取得博士学位，师从[[Alexander Kirillov]]。在普林斯顿大学之前，他曾经执教[[加州大学伯克利分校]]。
+
+== 外部链接 ==
+* [http://math.berkeley.edu/~okounkov/ 安德烈·奧昆科夫在伯克利的主页]
+* [http://www.icm2006.org/dailynews/fields_okounkov_info_en.pdf 菲尔兹奖公告]
+* [http://www.dailyprincetonian.com/archives/2006/05/19/news/15718.shtml 普林斯顿的报道]
+
+{{菲尔兹奖}}
+{{DEFAULTSORT:Окуньков, Андрей Юрьевич}}
+
+[[Category:菲尔兹奖获得者|O]]
+[[Category:21世紀數學家|O]]
+[[Category:普林斯頓大學教師|O]]
+[[Category:芝加哥大學教師|O]]
+[[Category:俄国数学家]]
+[[Category:莫斯科大學校友]]
+[[Category:莫斯科人]]</str>
+    <str name="title">安德烈·奧昆科夫</str>
+    <str name="titleText">安德烈·奧昆科夫</str>
+    <str name="user">Addbot</str>
+    <int name="userId">1382735</int>
+    <int name="revision">25423574</int>
+    <date name="timestamp">2013-03-12T05:41:00Z</date>
+    <long name="_version_">1484748654718746626</long></doc>
+  <doc>
+    <str name="id">1601756</str>
+    <str name="text">[[File:Simon Donaldson.jpg|thumb|220px|Simon Donaldson]]
+'''西蒙·唐纳森'''，[[皇家學會院士|FRS]]（'''Simon Donaldson'''， {{bd|1957年|8月20日}}）[[英国]][[数学家]]，研究领域为四维[[微分流形]]的[[几何]]与[[拓扑学|拓扑]]。利用从[[规范场论]]发展出来的技术手段，尤其是对[[椭圆偏微分方程]]的创造性应用，他于80年代找到了四维流形的系列[[不变量]]，进而发现特定的四维流形容许无穷多个[[微分结构]]，“震惊了数学界”(Atiyah，1986)。
+
+西蒙·唐纳森获得的荣誉包括：[[菲尔兹奖]](1986)，[[克拉福德奖]](1994)和[[邵逸夫奖]](2009)。
+
+==参考资料==
+*{{Cite journal |last=Atiyah |first=Michael |authorlink=Michael Atiyah |lastauthoramp=yes |title=On the work of Simon Donaldson |journal=[[Proceedings of the International Congress of Mathematicians]] |year=1986}}
+
+{{菲尔兹奖}}
+{{Shaw Prize}}
+
+{{DEFAULTSORT:Donaldson, Simon}}
+
+[[Category:1957年出生]]
+[[Category:在世人物]]
+[[Category:英国数学家]]
+[[Category:菲尔兹奖获得者]]
+[[Category:英国皇家学会院士]]
+[[Category:微分几何学家]]
+[[Category:下級勳位爵士]]
+[[Category:瑞典皇家科學院院士]]
+[[Category:美国国家科学院院士]]
+[[Category:皇家獎章獲得者]]
+[[Category:倫敦帝國學院校友]]
+[[Category:劍橋大學校友]]
+[[Category:牛津大學伍斯特學院校友]]</str>
+    <str name="title">西蒙·唐纳森</str>
+    <str name="titleText">西蒙·唐纳森</str>
+    <str name="user">淺藍雪</str>
+    <int name="userId">602004</int>
+    <int name="revision">29721535</int>
+    <date name="timestamp">2014-01-03T08:10:23Z</date>
+    <long name="_version_">1484749047904337923</long></doc>
+</result>
+</response>

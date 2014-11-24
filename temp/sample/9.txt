@@ -1,0 +1,1016 @@
+{{noteTA
+|1=zh-hans:史蒂夫·乔布斯;zh-hk:史提夫·喬布斯;zh-tw:史提夫·賈伯斯;
+}}
+{{Selected picture
+  |image=IPhone at Macworld (angled view).jpg
+  |size=
+  |caption=
+  |text='''[[iPhone]]'''是[[苹果公司]]旗下的一个[[智能手機]]系列，此系列的手机搭载苹果公司研发的[[iOS]]手机操作系统。[[iPhone (第一代)|第一代iPhone]]于2007年1月9日由时任苹果公司[[CEO]]的[[史蒂夫·乔布斯]]发布，并在6月29日正式发售。它在2007年被《[[时代 (杂志)|时代]]》评为年度最佳发明。
+  |credit=[http://www.flickr.com/photos/blake4tx/352328462/ blakeburris]
+  |link=iPhone
+}}
+[[File:IPhone 5.png|right|100px|iPhone 圖像]]
+
+[[iPhone]]是[[苹果公司]]旗下的一个[[智能手機]]系列，此系列的手机搭载苹果公司研发的[[iOS]]手机操作系统。[[iPhone (第一代)|第一代iPhone]]于2007年1月9日由时任苹果公司[[CEO]]的[[史蒂夫·乔布斯]]发布，并在6月29日正式发售；最新一代的[[iPhone 5]]于2012年9月12日发布，并于同年9月21日正式发售。iPhone是一款结合了照相手机、个人数码助理、媒体播放器以及无线通信设备的掌上设备、智能手机，拥有收发[[电子邮件]]、网页浏览等功能，并支持[[Wi-Fi]]、[[2G]]、[[3G]]和[[4G LTE]]连接。以及基于上述链接访问[[VPN]]服务器，实现虚拟专线网络服务。
+
+[[苹果]]旗下智慧型手機iPhone，是全球销量第二大的智慧型手機。
+[[File:IPhone 4S No shadow.png|90px|left]]
+'''[[iPhone]]'''是[[苹果公司]]旗下的一个[[智能手機]]系列，此系列手机搭载苹果公司研发的[[iOS]]手机操作系统。[[iPhone (第一代)|第一代iPhone]]于2007年1月9日由时任苹果公司[[CEO]]的[[史蒂夫·乔布斯]]发布，并在6月29日正式发售；最新一代的[[iPhone 5]]于2012年9月12日发布，并于同年9月21日正式发售。iPhone是一款结合了照相手机、个人数码助理、媒体播放器以及无线通信设备的掌上设备、智能手机，拥有收发[[电子邮件]]、网页浏览等功能，并支持[[Wi-Fi]]、[[2G]]、[[3G]]和[[4G]]连接。
+-{T|iPhone}-
+{{noteTA
+|G1=IT
+|1=zh-hans:史蒂夫·乔布斯;zh-hk:史提夫·喬布斯;zh-tw:史提夫·賈伯斯;
+|2=zh-hans:通过; zh-hant:透過
+}}
+{{Infobox Mobile
+|name = iPhone
+|image =IPhone 2G PSD Mock.png
+|imagesize = 250px
+|developer = [[蘋果公司]]（[[ARM架構|ARM]] 1176 CPU）
+|manufacturer = [[蘋果公司]]
+| predecessor     = 
+| successor       = [[iPhone 3G]]
+|carrier = {{flagicon|USA}} [[AT&T Mobility]]<br /> 
+{{flagicon|United Kingdom}} {{flagicon|Ireland}} [[O2]] <br /> {{flagicon|Germany}} [[T-Mobile]]<br /> {{flagicon|France}} [[Orange]]<br /> {{flagicon|Australia}} {{flagicon|Czech Republic}} {{flagicon|Egypt}} {{flagicon|Greece}} {{flagicon|Italy}} {{flagicon|India}} {{flagicon|Portugal}}  {{flagicon|New Zealand}} {{flagicon|South Africa}} [[Vodafone]]<br />
+{{flagicon|Australia}} [[Optus]]
+|available={{flagicon|USA}} 2007年6月29日<br />{{flagicon|United Kingdom}}{{flagicon|Germany}} 2007年11月9日<br />{{flagicon|France}} 2007年11月29日
+|screen = 3.5吋，320x480&nbsp;px at 160&nbsp;ppi
+|camera = 200[[像素#.E5.85.86.E5.83.8F.E7.B4.A0|萬畫素]]
+|memory = 4&nbsp;[[Gigabyte|GB]]、8&nbsp;GB、16&nbsp;GB，內建[[快閃記憶體]]
+|networks = [[2.5G]][[四頻]][[全球移动通信系统|GSM]]（850/900/1800/1900 MHz），[[通用分组无线服务|GPRS]]／[[EDGE]]，傳輸速率最高為每秒 220 kbit
+|connectivity = 透過30針的 [[iPod]] dock connector與電腦連結、[[Wi-Fi]]（802.11b/g）、[[Bluetooth#Bluetooth 2.0|Bluetooth 2.0]]
+|size = 115×61×11.6&nbsp;mm<br />（4.5×2.4×0.46&nbsp;吋）
+|form = 平板式
+|weight = 135&nbsp;克
+|music = [[iPod]]、[[iTunes]]與[[H.264]]
+|status       = 已停售
+}}
+{{Iphone系列}}
+'''iPhone'''是[[苹果公司]]推出的第一代智能電話，该款智能電話于2007年1月9日正式发布，并于同年6月29日正式发售。第一代iPhone支持[[2.5G]][[四頻]][[全球移动通信系统|GSM]]（850/900/1800/1900 MHz）、[[通用分组无线服务|GPRS]]／[[EDGE]]，傳輸速率最高為每秒220kbit。在[[IOS]]3.1.3之后，苹果公司不再对第一代iPhone进行更新支持<ref>{{cite web
+ | url = http://www.macworld.com/article/54764/2007/01/liveupdate.html
+ | title = Macworld Expo Keynote Live Update
+ | first = Peter
+ | last = Cohen
+ | date = March 13, 2007
+ | work = Macworld
+ | accessdate =July 21, 2010}}</ref><ref>{{cite web
+ | url = http://www.zdnet.com/blog/btl/jobs-today-apple-is-going-to-reinvent-the-phone/4249
+ | title = Jobs: Today Apple is going to reinvent the phone
+ | first = Dan
+ | last = Farber
+ | date = January 9, 2007
+ | work = ZDNet "Between the Lines" blog
+ | accessdate =June 20, 2010}}</ref>。
+
+== 历史 ==
+[[File:Waiting for iPhones NYC.jpg|thumb|left|280px|在AT&T商店门口排队等待第一代iPhone发售的苹果发烧友。]]
+
+=== 研发 ===
+2004年，[[苹果公司]]召集1000多名内部员工组成团队开始研发iPhone，当时的项目名称为“Project Purple”，被苹果公司列为高度机密<ref name=RWW12>[http://www.readwriteweb.com/mobile/2012/08/4-real-secrets-weve-learned-so-far-about-apple.php 4 Real Secrets We've Learned So Far About Apple<!-- Bot generated title -->]</ref>。时任苹果公司[[CEO]]的[[史蒂夫·乔布斯]]一开始的想法是研发一款类似于[[iPad]]的[[平板电脑]]，但随后他改变主意，决定进军智能電話领域<ref>{{cite news|last=Murtazin|first=Eldar|url=http://mobile-review.com/articles/2010/iphone-history3-en.shtml|title=Apple's Phone: From 1980s' Sketches to iPhone. Part 3|publisher=Mobile-review|date=June 20, 2010|accessdate =March 27, 2011}}</ref>。在研发iPhone时，苹果公司曾与[[AT&T]]有过秘密合作，AT&T向iPhone项目进行了投资，并给予苹果公司极大的自由去开发iPhone的硬件及软件<ref name="CNN secrets">{{cite news|url=http://money.cnn.com/2007/01/10/commentary/lewis_fortune_iphone.fortune/index.htm|title=How Apple kept its iPhone secrets|last=Lewis|first=Peter|date=January 12, 2007|publisher=[[CNN|CNN Money]]|accessdate=January 11, 2009}}</ref><ref>{{cite news|last=Vogelstein|first=Fred|title=The Untold Story: How the iPhone Blew Up the Wireless Industry|url=http://www.wired.com/gadgets/wireless/magazine/16-02/ff_iphone|work=Wired News|date=January 9, 2008|accessdate=January 10, 2008}}</ref>。作为交换，苹果公司保证在4年内，[[美国]]市场的iPhone将会由AT&T独家发售<ref>{{cite web|last=Cheng|first=Jacqui|title=AT&T remains sole iPhone carrier in US, revenue sharing axed (Updated)|url=http://arstechnica.com/apple/news/2008/06/att-remains-sole-iphone-carrier-in-us-revenue-sharing-axed.ars|publisher=Ars Technica|accessdate=May 4, 2011|date=June 9, 2008}}</ref>。2007年1月9日，史蒂夫·乔布斯在Macworld大会上向公众正式介绍了iPhone智能電話，第一代iPhone分为4GB容量与8GB容量版，售价分别为499[[美元]]与599美元。
+
+=== 发售 ===
+第一代iPhone于同年6月29日晚6点整（当地时间）正式发售，全美有上千名苹果发烧友为抢购iPhone而在[[苹果公司]]与[[AT&T]]的零售店门口提前一天排队<ref name="AppleQ32007">{{cite web|url=http://images.apple.com/pr/pdf/q307data_sum.pdf|title=Apple Inc. Q3 2007 Unaudited Summary Data|accessdate=June 6, 2008|date=July 25, 2007|format=PDF|publisher=[[Apple Inc.|Apple]]|quote=Consists of iPhones and Apple-branded and third-party iPhone accessories.}}</ref><ref>{{cite web
+ | url = http://images.apple.com/pr/pdf/q307data_sum.pdf
+ | title = Apple Inc. Q3 2007 Unaudited Summary Data
+ | accessdate =June 6, 2008
+ | date = July 25, 2007
+ | format = PDF
+ | publisher = [[Apple Inc.]]}}</ref>。第一代iPhone上市后引发了热潮，一些媒体甚至称这款智能電話为“Jesus phone”（上帝的手提電話）<ref>{{cite news |url=http://www.bbc.co.uk/newsbeat/10005038 |title=Speculation that Apple may launch touchscreen 'iSlate' |author=Iain Mackenzie |publisher=BBC |date=January 26, 2010 |accessdate=September 27, 2011}}</ref><ref>{{cite news |url=http://www.economist.com/node/9443542 |title=Where would Jesus queue? |work=The Economist |date=July 5, 2007 |accessdate=September 27, 2011}}</ref>，很多零售店在一小时内即告iPhone售罄，并在一段时间内面临货物短缺。2007年11月，第一代iPhone在[[英国]]、[[法国]]和[[德国]]上市，并于第二年春天在[[澳大利亚]]上市<ref>{{cite news
+ | url = http://www.guardian.co.uk/news/2007/jun/29/usnews.apple
+ | title = iPhone causes big Apple swarm in Big Apple storms
+ | first = Bobbie
+ | last = Johnson
+ | date = June 30, 2007
+ |work=The Guardian 
+ | accessdate =February 1, 2007
+ | location=London}}</ref>。
+
+=== 发售后 ===
+2007年9月5日，苹果公司很罕见的降低了8GB版本的价格，并停止生产4GB版本<ref>{{cite web|title=Apple Sets iPhone Price at $399 for this Holiday Season|url=http://www.apple.com/pr/library/2007/09/05iphone.html|publisher=Apple|accessdate=June 21, 2010}}</ref>。五天后，苹果公司宣布已卖出100万部iPhone<ref>{{cite web|title=Apple Sells One Millionth iPhone|url=http://www.apple.com/pr/library/2007/09/10iphone.html|publisher=Apple|accessdate=June 21, 2010}}</ref>。在iPhone降价后，上百名以原价购买iPhone的消费者发送邮件至苹果公司，表达了自己的不满，这迫使[[史蒂夫·乔布斯]]举办新闻发布会，在发布会上向这些消费者致歉，并补偿这些消费者100美元App Store代金券<ref>{{cite web|last=Jobs|first=Steve|title=To all iPhone customers:|url=http://www.apple.com/hotnews/openiphoneletter/|publisher=Apple}}</ref>。2008年2月5日，苹果公司放出iPhone16GB版本<ref>{{cite web|title=Apple Adds New iPhone & iPod touch Models|url=http://www.apple.com/pr/library/2008/02/05iphoneipodtouch.html|publisher=Apple|accessdate=June 21, 2010}}</ref>，并在2008年3月6日宣布将会支持[[软件开发工具包]]，允许第三方为iPhone开发应用程序。2008年6月9日，苹果公司发布了新一代的iPhone 3G，并于同年7月11日正式发售<ref>{{cite web|title=Apple Introduces the New iPhone 3G|url=http://www.apple.com/pr/library/2008/06/09iphone.html|publisher=Apple|accessdate=June 21, 2010}}</ref>，第一代iPhone则在iPhone 3G上市后彻底停产；第一代iPhone共计售出了6,124,000部<ref name = sales_data>{{cite web|title=Table of iPhone sales by quarter|url=http://en.wikipedia.org/wiki/File:IPhone_sales_per_quarter_simple.svg#Data_and_references|accessdate=June 21, 2010}}</ref><ref>{{cite web
+ | url = http://www.apple.com/pr/library/2010/07/02appleletter.html
+ | title = Statement by Apple on iPhone 4 reception issues
+ | date = {{Start date|2010|07|02}}
+ | publisher = Apple
+ | accessdate = {{Start date|2010|07|02}}}}</ref>。
+
+== 设计 ==
+[[File:Original iPhone rear.jpg|thumb|180px|left|第一代iPhone的背面，由铝和塑料制成。]]
+iPhone的主体是一面3.5英寸（89毫米）[[多点触控]]触摸屏，除触摸屏外仅有五个物理按键，分别为音量键、静音键、关闭键与Home键。第一代iPhone有一层铬镀层，iPhone的背面主要为铝制，但为防止金属阻隔信号的发送与接收，其背面底部为塑料制<ref>{{cite web|url=http://blogs.zdnet.com/Apple/?p=828|title=That damned recessed iPhone headphone jack|publisher=ZDNet|accessdate=June 6, 2008}}</ref>。摄像头位于iPhone背面左上方，耳机插槽则在顶部，但由于特殊的设计，若不适用适配器，市面上大部分音响设备不能直接与iPhone相连<ref>{{cite web|url=http://blogs.zdnet.com/Apple/?p=828|title=That damned recessed iPhone headphone jack|publisher=ZDNet|accessdate=June 6, 2008}}</ref>。
+
+== 系列特點和功能 ==
+iPhone是一部4频段[[GSM]]制式的智能電話，支持[[EDGE]]和[[802.11]]b/g无线上网，支援-{zh-hans:电邮; zh-hant:電子郵件;}-、[[手機|-{zh-hans:移动; zh-hant:行動;}-通话]]、[[簡訊]]、網路瀏覽以及其他的無線通訊服務。iPhone没有鍵盤，而是创新地引入了[[多點觸控]]的[[觸控式螢幕|-{zh-hans:触摸屏界面; zh-hant:觸控螢幕;}-]]，於當時在操作性上与其他品牌的手提電話相比占有领先地位。iPhone包括了[[iPod]]的媒体播放功能，和為了移動設備修改後的[[Mac OS X]]操作系统
+
+== 软件 ==
+{{main|iOS}}
+在iPhone发行过程中，iPhone的操作系统曾被命名为“iPhone OS”，但在之后的升级版本中，苹果公司将系统名称改为“[[iOS]]”。尽管苹果公司已经停止对第一代iPhone进行升级更高版本iOS的支持，但用户可通过[[iOS越狱]]来进行升级。甚至有黑客曾将[[Android]]系统安装到iPhone中<ref name="体验升级 iPhone成功运行Android 2.3">{{cite news
+ |url = http://tech.sina.com.cn/mobile/n/2011-01-11/08565081363.shtml
+ |title = 体验升级 iPhone成功运行Android 2.3
+ |publisher = 新浪网
+ |date = 2011年01月11日
+}}</ref>。第一代iPhone发售时支持虚拟语音信箱、HTML电子邮件、Safari网页浏览器、YouTube等功能，但并没有剪切、复制和粘贴功能。但在2009年6月17日放出的iPhone OS 3.0版本升级中，iPhone开始支持这些功能<ref>{{cite web|title=Whited00r|url=http://www.whited00r.com/}}</ref>。
+
+== 评价 ==
+《[[纽约时报]]》与《[[华尔街日报]]》都曾对iPhone有正面的评价，但都对iPhone的前景表示谨慎，并且对[[AT&T]]的网络速度与信号强度颇有微词，由于iPhone由AT&T独家发售，信号问题也影响到了媒体与消费者对iPhone的评价。《华尔街日报》科技版评论家认为iPhone有一些缺陷，但这是一部十分出色的掌上电脑<ref>{{cite news
+ | url = http://www.theaustralian.com.au/australian-it/iphone-rush-despite-mixed-reviews/story-e6frgalx-1111113871271
+ | title = iPhone rush despite mixed reviews
+ | date = July 3, 2007
+ |work=The Australian
+ | accessdate =February 1, 2007}}</ref>。《[[时代周刊]]》则对iPhone大加赞扬，并且提名iPhone为2007年年度创新产品<ref>{{cite news
+ | author = Grossman, Lev
+ | title = Invention Of the Year: The iPhone
+ | url = http://www.time.com/time/business/article/0,8599,1678581,00.html
+ | date = October 31, 2007 | accessdate =June 6, 2008
+ | work=Time}}</ref>。
+[[File:IPhone(第一代)和iPhone4.jpg|thumb|IPhone(第一代)左和iPhone4]]右
+
+== 参考资料 ==
+{{reflist|2}}
+
+{{S-start}}
+{{Succession box
+ | title  = iPhone (第一代)
+ | years  = 第一代
+ | with   =
+ | before = –
+ | after = [[iPhone 3G]]
+}}
+{{S-end}}
+
+{{Apple}}
+{{IPhone}}
+{{Apple hardware since 1998}}
+{{移动电话}}
+[[Category:IPhone]]
+[[Category:智能手機]]
+{{lowercase}}
+{{noteTA|G1=IT}}
+'''iPhone'''可指：
+== Apple iPhone ==
+[[iPhone]]，蘋果公司推出的一系列智慧型手機：
+;歷史機種
+*[[iPhone (第一代)]]，2007年1月发布的首款產品
+*[[iPhone 3G]]，2008年发布，加入3G和GPS功能的第二代產品
+*[[iPhone 3GS]]，2009年发布，加入羅盤、更高速的處理器和可錄影的相機鏡頭
+;新式機種（可採用iOS 7）
+*[[iPhone 4]]，2010年6月发布，採用-{zh-hans:Retina显示屏; zh-hant:Retina顯示器;}-。
+*[[iPhone 4S]]，2011年推出，支援語音助理Siri。。
+*[[iPhone 5]]，2012年推出，螢幕尺寸擴大至4英寸。
+*[[iPhone 5c]]，2013年9月推出，採用iOS 7系统。
+*[[iPhone 5s]]，2013年9月推出，採用iOS 7系统，是首部64位元手機。
+*[[iPhone 6]]，2014年9月推出，搭载iOS 8系统。
+
+== Apple iPhone OS ==
+*[[iOS]]，原名iPhone OS，蘋果公司推出的手機作業系統，在2010年6月改名為iOS
+== 其他 ==
+*[[IPhone_(Linksys)|Linksys iPhone]]，思科系統（CISCO）開發的網際網路電話
+
+{{disambig}}
+{{Infobox software
+|name                   = JailbreakMe
+|developer              = [http://twitter.com/comex comex]
+|latest_release_version = 3.0
+|latest_release_date    = {{start date and age|2011|07|06}}
+|operating_system       = [[iOS]]
+|website                = {{URL|www.jailbreakme.com}}
+|purpose                = [[iOS jailbreaking]] utility
+|platform               = Apple: [[iPhone]] 3G, 3GS, 4; [[iPod Touch]] 2G, 3G; [[iPad]] 1, 2, Wi-Fi, 3G, CDMA
+|firmware               = 4.3.3
+}}
+'''JailberakMe'''是一个[[iOS]][[iOS越獄|越狱]]工具，由越狱开发者comex维护并开发<ref>[http://www.jailbreakme.com JailbreakMe的越狱网站]</ref>。JailbreakMe利用了[[iOS]]版[[Safari]]的漏洞使浏览器崩溃来达到越狱的目的，如JailbreakMe 3.0就利用了Safari显示[[PDF]]文稿时的一个漏洞。<ref>{{cite web |url=http://www.pcworld.com/businesscenter/article/202436/jailbreakme_exploits_serious_iphone_security_flaw.html |title=JailbreakMe Exploits Serious iPhone Security Flaw |last=Bradley |first=Tony |date=August 3, 2010 |work=Net Work |publisher=PCWorld Communications, Inc. |accessdate=October 15, 2010}}</ref> 不同于 {{link-en|Blackra1n|Blackra1n}}{{notetag|有时也被翻译作“黑雨”}}、[[redsn0w]]{{notetag|有时也被翻译作“红雪”}}、[[Absinthe]]{{notetag|经常会被人误解、误翻译为“绿毒”（greenpois0n），但实际上两者是不同的越狱工具。被翻译成“绿毒”的有“greenpois0n”，“Chronic Dev Team（绿毒小组）”和常常被误解的“Absinthe”}}等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC{{notetag|也包括运行[[Linux]]的PC}}。在使得Safari崩溃后，会自动添加[[Cydia]]到桌面。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[http://www.jailbreakme.com jailbreakme.com]即可。
+[[File:JailbreakMe 3.0.png|thumb|JailbreakMe 3.0]]
+JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[[iPhone]]和[[iPod touch]]的。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe 3.0越狱<ref>{{cite web |url=http://blogs.forbes.com/andygreenberg/2011/08/01/meet-comex-the-iphone-uber-hacker-who-keeps-outsmarting-apple/ |title=Meet Comex, The 19-Year-Old iPhone Uber-Hacker Who Keeps Outsmarting Apple |last=Greenberg |first=Andy |date=August 1, 2011 |work=The Firewall |publisher=Forbes |accessdate=August 2, 2011}}</ref> 。但是随着comex被苹果招安，他也宣布了不再从事越狱开发。但是JailbreakMe依然会提供越狱服务<ref>[http://www.weiphone.com/apple/news/2011-09-02/Behind_Apple_s_amnesty_Comex_240691.shtml。 comex被招安的背后]</ref>。
+
+==版本==
+
+===JailbreakMe 1.0===
+1.0的JailbreakMe开始于2007年，提供用于1.1.1固件的第一代iPhone和iPod touch越狱，它利用了一个Safari的[[tiff]]漏洞来安装[[installer.app]]<ref>{{cite web |url=http://reviews.cnet.com/8301-19512_7-10115225-233.html |title=One-step method for adding third-party apps to iPhone 1.1.1, iPod Touch debuts |date=October 29, 2007 |publisher=CNET |last=Wilson |first=Ben |accessdate=August 25, 2011}}</ref>。苹果通过1.1.2固件修复了这个漏洞。
+
+===JailbreakMe 2.0 Star===
+2010年8月1日，comex公布了JailbreakMe 2.0，它利用了在渲染[[PDF]]文件时的[[FreeType]]字体解析器漏洞。它是第一个iPhone 4越狱工具，可以越狱iOS 3.1.2-4.0.1的iPhone,iPad,iPod touch<ref>{{cite web|url=http://www.engadget.com/2010/08/01/official-iphone-4-jailbreak-hits-from-iphone-dev-team/ |title=Official: iPhone 4 jailbreak hits from iPhone Dev Team (updated with video) |publisher=Engadget |date=August 1, 2010 |last=Hollister |first=Sean |accessdate=September 11, 2010}}</ref> 。苹果在iOS 4.0.2时，封堵了这个漏洞<ref>{{cite web |url=http://www.engadget.com/2010/08/11/apple-releases-ios-4-0-2-for-iphone-and-3-2-2-for-ipad-fixes-pd/ |title=Apple releases iOS 4.0.2 for iPhone and 3.2.2 for iPad, fixes PDF vulnerability |publisher=Engadget |last=Patel |first=Nilay |date=August 11, 2010 |accessdate=2010-09-11}}</ref>。
+
+===JailbreakMe 3.0 Saffron===
+JailbreakMe 3.0于2011年7月6日发布。适用于iOS 4.3-4.3.3的所有iOS设备。这也是首个公开的iPad 2越狱<ref>{{cite web |url=http://blog.iphone-dev.org/post/7295551750/jailbreakme-times-3 |title=jailbreakme times 3   |date=July 6, 2011 |publisher=iPhone Dev Team Blog |author=iPhone Dev Team |accessdate=August 2, 2011}}</ref> 。JailbreakMe 3.0依然利用了[[FreeType]]字体解析器漏洞。comex也提供了一个免费的修复补丁，用户在越狱后可以通过[[Cydia]]免费下载<ref name="Eng[10]">{{cite news |title=Apple iOS Zero-Day PDF Vulnerability Exposed |last=Schwartz |first=Mathew J. |url=http://www.informationweek.com/news/231001147 |newspaper=InformationWeek |date=July 7, 2011 |accessdate=October 23, 2011}}</ref>。
+在正式版发布的前几天，有人现行发布了与JailbreakMe 3.0同样漏洞的越狱工具，声称是JailbreakMe 3.0的测试版，但是仅提供iPad 2的iOS 4.3越狱，而当测试版工具发出时，最新的iOS固件已经是4.3.2了。<ref name="Eng[10]"></ref>
+7月15日，苹果发布了4.3.4{{notetag|针对于GSM版本的iPhone 4和所有的iPad,iPod touch型号}}和4.2.9{{notetag|针对于CDMA版本的iPhone 4}}来修补这个漏洞<ref>{{cite web |url=http://www.pcworld.com/article/235836/ios_434_is_out_fixes_jailbreakme_30_exploit.html |title=iOS 4.3.4 Is Out; Fixes JailbreakMe 3.0 Exploit |last=Mediati |first=Nick |date=July 15, 2011 |work=Geek Tech |publisher=PCWorld |accessdate=October 23, 2011 }}</ref>。
+
+==被苹果招安后的JailbreakMe==
+comex在2011年8月被苹果以实习生身份聘用，他在[[twitter]]上宣称以后不再从事越狱活动<ref>{{cite web |url=http://www.forbes.com/sites/andygreenberg/2011/08/26/apple-hacker-extraordinaire-comex-takes-an-internship-at-apple/ |title=Apple Hacker Extraordinaire Comex Takes An Internship At Apple |last=Greenberg |first=Andy |date=August 26, 2011 |work= |publisher=Forbes |accessdate=November 2, 2011 }}</ref>。但是JailbreakMe依然会提供越狱服务，但是不会提供新版本的iOS的越狱服务。
+
+==支持设备==
+{| class="wikitable sortable"
+|-
+! 设备名称
+! 支持越狱的iOS固件版本
+|-
+| 第一代iPhone<br />
+| 3.1.2 到 3.1.3
+|-
+| [[iPhone 3G]]
+| 3.1.2 到 4.0.1
+|-
+| [[iPhone 3GS]]
+| 3.1.2 到 4.0.1, 4.3 到 4.3.3
+|-
+| [[iPhone 4]] <br /><small>[[GSM]]版本</small>
+| 4.0 到 4.0.1, 4.3 到 4.3.3
+|-
+| [[iPhone 4]] <br /><small>[[CDMA]]版本</small>
+| 4.2.6 到 4.2.8
+|-
+| 第一代[[iPod Touch]] 
+| 3.1.2 到 3.1.3
+|-
+| 第二代iPod Touch<br /><small>(MB model)</small>
+| 3.1.2 到 4.0
+|-
+| 第二代iPod Touch <br /><small>(8 GB MC model)</small>
+| 3.1.2 到 4.0
+|-
+| 第三代iPod Touch 
+| 4.3, 4.3.2, 4.3.3
+|-
+| 第四代iPod Touch
+| 4.3 到 4.3.3
+|-
+| [[iPad]] <br /><small>Wi-Fi版本</small>
+| 3.2 到 3.2.1, 4.3 到 4.3.3
+|-
+| iPad <br /><small>Wi-Fi + 3G 版本</small>
+| 3.2 到 3.2.1, 4.3 到 4.3.3
+|-
+| [[iPad 2]] <br /><small>Wi-Fi 版本</small>
+| 4.3.3 {{notetag|name="beta"|在正式版JailbreakMe推出之前，先泄漏出来的用同样PDF漏洞越狱的“测试版”也可以越狱4.3版本，但不可以越狱4.3以后的版本，而当时测试版泄漏出来时已经有了4.3.2}}
+|-
+| iPad 2 <br /><small>Wi-Fi + 3G 版本</small>
+| 4.3.3 {{notetag|name="beta"}}
+|}
+
+==脚注==
+{{notefoot}}
+
+==参考资料==
+{{reflist}}
+
+
+[[Category:IPhone]]
+[[Category:IOS软件]]
+[[Category:自製軟件]]
+{{更新|time=2014-09-25T10:28:49+00:00}}
+{{lowercase}}
+{{for|[[思科]]開發，用於網路設備的[[作業系統]]|思科IOS}}
+{{noteTA
+|G1=IT
+|G2=PP
+|1=zh-hans:计算机; zh-hant:電腦; 
+}}
+{{Infobox OS
+| name                   = iOS
+| logo                   = [[File:Apple iOS new.svg|110px|Apple Inc. iOS Logo]]
+| logo caption           = 
+| screenshot = [[File:IOS8-CHN.png|230px]]
+| caption = iOS 8運行於[[iPhone 5]]
+| collapsible            = 
+| developer              = [[Apple Inc.]]
+| family                 = [[Unix-like]],<!--Although not considered functional or branded UNIX, iOS is still genetic UNIX--> based on [[Darwin (operating system)|Darwin]] ([[Berkeley Software Distribution|BSD]])
+| working_state          = Current
+| source_model           = 闭源，含有开源组件
+| released               = {{start date and age|2007|06|29}}
+| frequently_updated     = yes
+| marketing_target       = 
+| programmed_in          = [[C (programming language)|C]], [[C++]], [[Objective-C]], [[Swift (编程语言)|Swift]]
+| language               = 34 個語言<ref>{{cite web |url=http://www.apple.com/ipad-air/specs/ |title=Apple – iPad Air  – View the technical specifications for iPad Air |publisher=Apple |accessdate=January 1, 2014}}</ref><ref>{{cite web |url=http://www.apple.com/ipad-mini/specs/ |title=Apple – iPad mini  – View the technical specifications for iPad mini|publisher=Apple |accessdate=January 1, 2014}}</ref><ref>{{cite web|url=http://www.apple.com/iphone-5c/specs/|title=Apple - iPhone 5c - Technical Specifications|publisher=Apple|accessdate=January 1, 2014}}</ref><ref>{{cite web|url=http://www.apple.com/iphone-5s/specs/|title=Apple - iPhone 5s - Technical Specifications|publisher=Apple|accessdate=January 1, 2014}}</ref>
+| prog_language          = 
+| updatemodel            = <!-- APT, Windows Update, etc. -->
+| supported_platforms    = [[64-bit|64-]] and [[32-bit]] [[ARM architecture]]s ([[iPhone]], [[iPod]], [[iPad]], [[iPad Mini]], and 2nd gen. and higher [[Apple TV]]), [[Apple A4]], [[Apple A5]], [[Apple A5X]], [[Apple A6]], [[Apple A6X]], [[Apple A7]], [[Apple A8]]
+| kernel_type            = [[Hybrid kernel|Hybrid]] ([[XNU]])
+| userland               = 
+| ui                     = [[Cocoa Touch]] ([[multi-touch]], [[graphical user interface|GUI]])
+| license                = [[proprietary software|Proprietary]] [[End-user license agreement|EULA]] except for open-source components
+| preceded_by            = 
+| succeeded_by           = 
+| website                = {{URL|http://www.apple.com/hk/ios/}}
+}}
+
+'''iOS'''（原名：'''iPhone OS'''）是由[[蘋果公司]]为移动设备所開發的[[操作系統]]，支持的设备包括[[iPhone]]、[[iPod touch]]、[[iPad]]、[[Apple TV]]。与[[Android]]及[[Windows Phone]]不同，iOS不支持非苹果硬件的设备。系统操作（iOS 7）占用约700-900[[MB]]左右的储存空间(其中[[iPhone]]、[[iPod touch]]占约700[[MB]]，[[iPad]]占约900[[MB]]）。目前，iOS的最新版本为8.1，Apple已经于2014年9月17日發佈8.0正式版本。
+
+==开发历史==
+{{com.chnpmy.Main|iOS版本历史}}
+
+2007年1月9日苹果在Macworld大会公布iOS，并于同年6月29日发布了iOS的第一个版本，目前已发布iOS 8。2014年9月18日可公开下载。[[iOS]]可以通过[[iTunes]]对设备进行升级，iOS 5.0及以上版本亦可以通过[[空中下載|OTA]]的方式进行软件更新。[[iOS]]必须要与设备通过苹果服务器进行激活，激活方式可以通过[[iTunes]]，iOS 5.0及以上版本可以通过[[iCloud]]服务激活，并且自动同步。最新版本的iOS大约占用约1[[Gigabyte|GB]]左右的储存空间。<ref name=VersatileFlash>{{ cite web | url=http://www.macworld.co.uk/ipod-itunes/news/index.cfm?newsid=16927 | title=Macworld Expo: Optimised OS X sits on ' versatile' flash | first=Karen|last=Haslam | publisher=''[[Macworld]]'' | date=January 12, 2007 | accessdate=2007-10-15 }}</ref>WWDC2013发布iOS 7，彻底更改用户界面接口，并加入近200项新功能，超过1500个APIs。WWDC2014上苹果发布iOS 8 beta。
+最初，苹果公司并没有给随iPhone发行的iOS一个独立的称谓，直到2008年3月6日才给它取名为iPhone OS，并于2010年6月改名为现在的名字iOS。
+
+==系统构架==
+*'''框架：'''iOS使用基于与苹果麦金塔计算器不同的[[ARM架构]]的64位或32位[[中央处理器]]，使用由[[PowerVR]]视频卡渲染的[[OpenGL ES|OpenGL ES 3.0]]以[[Apple Darwin|Darwin]]作为基础<ref>[http://tech.sina.com.cn/it/2010-06-08/02504281978.shtml iPhone OS 4重新命名为iOS4引入微软Bing新浪科技]</ref><ref>[http://cn.engadget.com/2010/06/07/ios-4-revealed/ 顺应广大子民需求，iPhone OS改名为iOS，iOS 4六月二十一号上路！瘾科技中文版]</ref>。
+*'''系统架构层次：'''核心操作系统层（the Core OS layer），[[核心]]服务层（the Core Services layer），[[媒体]]层（the Media layer），触控应用层（the Cocoa Touch layer）。
+
+==使用界面==
+*'''设计特点：'''iOS使用者界面能使用按键、[[多点触控]]对设备进行控制。此外透过其内建的加速器，可以令其旋转装置以使屏幕改变方向，这样的设计令设备更便于使用。
+*'''实体按键：'''包括屏幕下方的Home按键（用于退出应用程序、回到主界面、长按开启语音控制或[[Siri]]，iPhone 5s集成Touch ID传感器），顶部的Power按键（用于锁定屏幕、关机），侧面的音量控制按键。
+*'''多点触控：'''包括滑动（Swiping）、轻按（Tapping）、挤压（Pinching）、反向挤压（Reverse Pinching or unpinching），可以与系统互动。
+*'''屏幕界面：'''以应用程序方格的形式呈现，最底部的一栏成为Dock，可以有最多四个（iPad系列產品則為6個）程序图标被固定在Dock上，其他可以通过“滑动”的方式进行变换显示的应用程序。状态栏处于屏幕上方，能显示时间、电池电量和讯号强度等信息。从屏幕顶端向下轻扫可以显示通知中心。将图标向下轻扫可以启动Spotlight，从屏幕底端向上轻扫可以显示控制中心。
+
+==应用程序==
+*'''应用商店：'''[[App Store (iOS)|App Store]]是[[蘋果公司]]為iOS操作系统所創建和維護的數字化[[應用軟件|應用]]發布平台，允許用戶從[[iTunes Store]]瀏覽和下載一些由[[iOS SDK]]或者Mac SDK開發的應用程序。根據應用發布的不同情況，用戶可以付費或者免費下載。應用程序可以直接下載到iOS設備，也可以通過[[Mac OS X]]或者[[Windows]]平台下的[[iTunes]]下載到電腦中。其中包含遊戲、日程管理、詞典、圖庫及許多實用的軟體。
+
+*'''内置程序：'''iOS最新版本中的应用（因设备不同部分应用可能有所差异）：电话、[[Mail_(Mac_OS_X)|Mail]]、[[Safari]]、音乐、视频、SpringBoard、短信、日历、照片、相机、[[FaceTime]]、Photo Booth、股市、地图（Apple Map）、天气、备忘录、杂志、提醒事项、时钟、计算器、指南针、语音备忘录、[[App Store]]、[[Game Center]]、设置、通讯录、[[iTunes]]、[[Nike+iPod]]、Voice Control、[[Siri]]、[[Passbook]]；在最新版本被移除的软件：YouTube（iOS 6中被移除）、iPod（iOS 5中被拆分成“音乐”和“视频”）、地图（iOS 7和6中使用[[地图 (应用)|Apple Map]]，iOS 4中使用[[AGPS]]辅助的[[Google地图]]；iOS 5中使用[[格洛纳斯系统]]辅助的Google地图）<ref>{{cite web|url= http://docs.info.apple.com/article.html?artnum=306003|title=iPhone Applications|author=[[Apple Inc.]]|date=2008-07 -10|accessdate=2008-07-11}}</ref>
+
+*'''Web应用程序：'''在2007年苹果全球开发者大会上，苹果宣布[[iPhone]]和[[iPod Touch]]将会通过Safari网络浏览器支持某些第三方应用程序，这些应用程序被称为Web应用程序。它们能通过[[AJAX]]网络技术编写出来。<ref>Ziegler, Chris. [http://www.engadget.com/2007/06/11/apple-announces-third-party-software-details-for-iphone/ Apple announces third-party software details for iPhone] , ''[[Engadget]]'', (2007-06-11),于2007年6月20日查阅.</ref>
+
+*'''第三方软件：'''iOS只支持从[[App Store]]用官方的方法安装软件。<ref>{{cite web|author=Baig, Edward C.|url=http://www.usatoday.com/tech/columnist/edwardbaig/2007-06-26-iphone-review_N.htm|title=Apple's iPhone isn't perfect, but it's worthy of the hype|publisher=''[[USA Today]]''|date=2007-06-26|language=en|accessdate=2014-04-27}}</ref>但经过[[iOS越狱]]后，一款名为[[Cydia]]的软件会被安装在设备，通过安装破解补丁即可通过第三方平台安装软件。<ref>{{cite news|last=Healey|first=Jon|title=Hacking the iPhone|publisher=''[[Los Angeles Times]]''|date=2007-08-06|url=http://www.latimes.com/opinion/la-oew-healey6aug06,0,6585787.story#axzz304S3gF2l|accessdate=2007-08-06}}</ref>
+
+==恢复模式==
+DFU模式（英文：'''D'''evice '''F'''irmware '''U'''pgrade mode；中文：设备固件升级模式）是[[iOS]]设备的一种[[固件]]升级模式，该模式允许设备从任何状态进行恢复。
+
+;进入DFU模式
+
+* 方法一（官方说明）：<ref>{{cite web|url=http://theiphonewiki.com/wiki/DFU_Mode|title=DFU Mode|language=en|accessdate=2014-04-27}}</ref>
+# 将装置连接到[[计算机]]；
+# 关闭设备；
+# 按住电源键3秒；
+# 按住Home键，同时不放开电源键10秒钟；
+# 松开电源键，继续按住Home键；
+# 直到计算机发现新硬件，并在[[iTunes]]中检测到设备进入恢复模式时松开按键即进入DFU模式。
+
+*方法二：
+# 将装置连接到计算机；
+# 在任何状态下，同时按住Home键和电源键
+# 待到手机黑屏后，过3～5秒，放开电源键而Home键不放
+# 直到计算机发现新硬件，并在iTunes中检测到设备进入恢复模式时松开按键即进入DFU模式。
+
+;退出DFU模式
+
+* 同时按住Home和电源键，直到出现[[苹果]]标志。
+
+==开发人员==
+{{main|iOS开发者计划}}
+'''iOS开发者计划'''（英语：'''iOS Developer Program'''）是[[苹果公司]]为iOS开发人员提供的官方项目，该计划包括为开发人员提供开发工具，技术支持培训，资格及程序发布审核等支持<ref>[http://www.ioskaifa.com/blog/2012/09/ 苹果开发者计划中的标准计划和企业计划/ 苹果开发者计划中的标准计划和企业计划]</ref>。[[苹果公司]]的iOS Dev Center网站亦提供了大量技术和学习资料。此外[[苹果公司]]每年都会举办[[苹果公司全球软件开发者年会]]。
+
+开发者每年拥有两次技术支持事件（TSI），每次允许开发者请求技术支持工程师提供代码级支持。问题将被分配给合适的工程师以帮助排除代码问题，指出获取其他技术资源的途径，或者提供能够加速其开发过程的变通方法或相应的技术文档。开发者可以通过会员中心的“Programs & Add-ons”（计划和附加项目）购买额外的技术支持事件，包括99美元2次技术支持和249美元5次技术支持两种选择。
+
+==开发工具==
+[[File:IPhone SDK - New Project.png|thumb|right|基於Xcode 3.1最終版本的iPhone軟體開發工具包。]]
+{{com.chnpmy.Main|iOS软件开发工具包}}
+
+'''iOS软件开发工具包'''（[[英文]]：'''iOS SDK'''（'''S'''oftware '''D'''evelopment '''K'''it）；亦称：'''iPhone SDK'''）是由苹果公司开发的为iOS设计的应用程序开发工具包。首个版本于2008年2月发布。软件开发工具包需要在Mac OS X Leopard及以上系统并拥有[[英特尔]][[处理器]]才能运行，其他的操作系统，包括[[微软]]的[[Windows]]操作系统和旧版本的[[Mac OS X]]操作系统都不被支持。
+
+然而，只有在交付iOS开发者计划的费用后才能发布应用程序。开发人员可以通过应用商店发布任意设价的应用程序，付费应用将让开发人员获得70％的费用配额，免费的应用程序没有任何费用配额。
+
+2007年10月17日，乔布斯在苹果网站的一封公开信上宣布“[[软件开发工具包]]”将会于2008年2月提供给第三方开发商。软件开发工具包于2008年3月6日发布，允许开发者开发[[iPhone]]、[[iPod touch]]应用程序，并通过“iPhone模拟器”对其进行测试。
+
+自从[[Xcode]] 3.1发布以后，Xcode就成为了iOS软件开发工具包的开发环境。和[[Mac OS X]]的应用程序一样，iOS应用程序使用Objective-C语言，一些应用程序可以写成C或C++语言。苹果通常会发布两个iOS软件开发工具包，包括主要的iOS X.0（例如iOS 6.0）和次要的iOS X.X（例如iOS 6.1）。正式版发布前会有几个测试版公布，目的是测试应用程序的兼容性并增加新的功能。
+
+==设备越狱==
+{{main|iOS越狱}}
+
+'''iOS越狱'''（{{lang-en|'''iOS Jailbreaking'''}}）是用于获取[[苹果公司]]移动设备操作系统[[iOS]]最高权限（ROOT）的一种技术手段。越狱完成后设备将运行带有root权限的iOS操作系统，一般来说越狱工具会辅助在已root的iOS环境下安装一款名为[[Cydia]]的软件。[[Cydia]]是一款由开发者[[Jay Freeman]]主导开发的iOS第三方插件应用商店，通过此软件可以完成越狱前不可能进行的动作，例如安装[[App Store]]以外的软件、更换外观主题、运行[[Shell]]程序、甚至可能解开运营商对手机网络的限制（即俗称的“解锁”）。<ref>[http://unloc.kr/ Can I Unlock My iPhone]</ref>如果进行了“不完美越狱”（Tethered Jailbreak），那么设备将无法在没有电脑辅助启动的环境下重新启动。[[Jay Freeman]]在2010年10月估计，全球大概有10%的iPhone曾进行过越狱<ref>{{cite web|last=Freeman |first=Jay |url=http://www.saurik.com/id/12 |title=Caching Apple's Signature Server |publisher=saurik.com |accessdate=2010-12-18}}</ref>。
+
+==设备列表==
+{{main|iOS设备列表}}
+{{refbegin|1}}
+{{col-begin}}
+{{col-3}}
+:{{note|P1|P1}} [[iPhone (第一代)|iPhone 2G (第1代)]]
+:{{note|P2|P2}} [[iPhone 3G]]
+:{{note|P3|P3}} [[iPhone 3GS]]
+:{{note|P4|P4}} [[iPhone 4]]
+:{{note|P4D|P4D}} iPhone 4（CDMA版）
+:{{note|P5|P5}} [[iPhone 4S]]
+:{{note|P6|P6}} [[iPhone 5]]
+:{{note|P7|P7}} [[iPhone 5c]]
+:{{note|P8|P8}} [[iPhone 5s]]
+{{col-3}}
+:{{note|T1|T1}} [[iPod touch|iPod touch (第1代)]]
+:{{note|T2|T2}} [[iPod touch#iPod Touch第二代|iPod touch (第2代)]]
+:{{note|T3|T3}} [[iPod touch#iPod Touch第三代|iPod touch (第3代)]]
+:{{note|T4|T4}} [[iPod touch#iPod Touch第四代|iPod touch (第4代)]]
+:{{note|T5|T5}} [[iPod touch#iPod Touch第五代|iPod touch (第5代)]]
+{{col-3}}
+:{{note|S1|S1}} [[iPad]] [[Wi-Fi]]
+:{{note|S1C|S1C}} iPad Wi-Fi + [[3G]]
+:{{note|S2|S2}} [[iPad 2]] Wi-Fi
+:{{note|S2C|S2C}} iPad 2 Wi-Fi + [[GSM]]
+:{{note|S2D|S2D}} iPad 2 Wi-Fi + [[CDMA]]
+:[[iPad 3|The new iPad]]（第三代）
+:[[iPad 4|iPad with Retina Display]]（第四代）
+:[[iPad Air]]（第五代）
+:[[iPad mini]]
+:[[iPad mini with Retina Display]]（第二代）
+{{col-end}}
+{{refend}}
+
+{{Timeline of iOS devices}}
+
+==参考资料==
+{{reflist|2}}
+
+==外部链接==
+* [http://www.apple.com/hk/ios/ Apple - iOS Software Update]{{zh-hant}}
+* [http://www.apple.com.cn/ios/ Apple - iOS Software Update]{{zh-hans}}
+* [http://developer.apple.com/iphone 苹果开发者网站]
+* [http://www.apple.com 苹果官方网站]
+
+{{IOS}}
+{{Apple}}
+{{Template:Unix-like}}
+{{Template:智能手機操作系統}}
+{{移动电话}}
+
+[[Category:智能手機]]
+[[Category:嵌入式操作系統]]
+[[Category:行動作業系統]]
+[[Category:Mach]]
+<noinclude>[[Category:湖南主页模板]]</noinclude>
+<!--留六条，新的放在最上面-->
+[[File:yang du.jpg|80px|right]]
+* 湖南也有[[苗疆长城|长城]]吗？
+* “旷代逸才”[[杨度]]是位怎样的传奇人物？
+* [[中国]]第一位驻外外交官是[[郭嵩焘|谁]]？
+* [[长株潭经济一体化]]是怎么一回事？
+* [[:Category:长沙古城区|长沙文化街区]]在什么位置？
+* [[文夕大火]]也称“长沙大火”，其损失有多大？
+<!-- * [[马楚|马楚国]]是什么时候建立的王国？ -->
+<div align="right" style="font-size:small;">
+'''[[Special:Newpages|更多]]'''
+《'''蓝猫幽默系列'''》，即'''《[[蓝猫淘气3000问]]·幽默舞台系列》'''，是'''《[[蓝猫淘气3000问]]》'''开篇之作。每集8分30秒，共424集<ref>[http://www.topbluecat.com/cartoon/bluecat/edu3000.htm 官方“幽默舞台”页面] -三辰卡通集团</ref>。
+
+==介绍==
+幽默舞台系列之下还有许多不满100集的小系列，如：星座故事，地形地貌，科技创新，自然现象等。
+
+==配音演员==
+配音演員如下：<ref>[蓝猫淘气3000问].[ED][地厚天高(音乐)][1999][VCDReMux][MPEG1.MP2][Dean@BCCT].mkv BCCT小组</ref>
+*'''[[葛平]]'''——[[蓝猫]]
+*'''[[付以琳]]'''——[[淘气]]、[[咖喱 (动漫人物)|咖喱]]
+*'''[[袁文君]]'''——[[肥仔]]、[[鸡大婶]]
+*'''[[罗沐]]'''——[[菲菲]]
+*'''[[陈蕾 (配音演员)|陈蕾]]'''——[[甜妞]]
+*'''[[李一兵]]'''——（[[旁白]]）
+
+==目录==
+{{Non-free |time=2012-03-17T15:30:00+00:00 }}
+{{hideH|Head=蓝猫幽默系列目錄}}
+<small>注意：部分片名可能因您观看的版本不同而不同。</small><ref>本表依[http://www.wcicm.com/tvcatalog/edu3000.htm WCICM--片名目錄--幽默舞台系列]整理。</ref>
+* 第001集 地球是怎样形成的？
+* 第002集 地球是个大磁体吗？
+* 第003集 地心到底是什么样子？
+* 第004集 地球那边的人为什么不会掉下去？
+* 第005集 地球的表面为什么不是平的？
+* 第006集 地球到底有多重？
+* 第007集 地球会毁灭吗？
+* 第008集 为什么说我们只有一个地球？
+* 第009集 天上的星星数得清吗？
+* 第010集 星星为什么会眨眼睛？
+* 第011集 为什么夏夜的星星比冬夜的多？
+* 第012集 为什么星星的亮度不一样？
+* 第013集 太阳是怎样形成的？
+* 第014集 太阳风暴真的很可怕吗？
+* 第015集 振荡不停的太阳
+* 第016集 银河系的中心是太阳吗？
+* 第017集 太阳系是怎样形成的？
+* 第018集 为什么说金星是蒙着面纱的维纳斯？
+* 第019集 木星上的大红斑是什么？
+* 第020集 水星为什么形迹诡秘？
+* 第021集 为什么说火星是地球的“孪生兄弟”？
+* 第022集 土星为什么环绕着光环？
+* 第023集 远离太阳的“三兄弟”是谁？
+* 第024集 小行星到底有多小？
+* 第025集 彗星掠日是怎么回事？
+* 第026集 为什么月球上没有生命？
+* 第027集 月球上的环形山是怎么来的？
+* 第028集 为什么会发生日食和月食？
+* 第029集 雪崩是怎样形成的？
+* 第030集 地震是怎样形成的？
+* 第031集 火山是怎样产生的？
+* 第032集 为什么会发生泥石流？
+* 第033集 风从哪里来？
+* 第034集 为什么会发生龙卷风？
+* 第035集 台风是怎样发生的？
+* 第036集 沙漠风暴是怎样形成的？
+* 第037集 雷电是怎样形成的？
+* 第038集 黑色闪电
+* 第039集 滚雷是怎样形成的？
+* 第040集 飑风是怎么回事？
+* 第041集 云是怎样形成的？
+* 第042集 天为什么会下雨？
+* 第043集 为什么会西边日出东边雨？
+* 第044集 连绵不断的梅雨
+* 第045集 极光是怎样形成的？
+* 第046集 冰川是怎样形成的？
+* 第047集 为什么南极的冰比北极的多？
+* 第048集 什么是第四纪冰川？
+* 第049集 温泉是怎样形成的？
+* 第050集 湖泊是怎样形成的？
+* 第051集 瀑布是怎样形成的？
+* 第052集 海岛是怎样形成的？
+* 第053集 海平面为什么会升降？
+* 第054集 海底为什么不是平的？
+* 第055集 黑潮是什么？
+* 第056集 为什么海洋是个大空调？
+* 第057集 为什么大海是蓝色的？
+* 第058集 海水为什么不能喝？
+* 第059集 海雾是怎么形成的？
+* 第060集 海里也有大峡谷吗？
+* 第061集 北极熊是怎样生活的？
+* 第062集 谁是南极真正的主人？
+* 第063集 海底真有美人鱼吗？
+* 第064集 小海马是从爸爸肚子里钻出来的吗？
+* 第065集 为什么说蝙蝠是活雷达？
+* 第066集 鸟儿为什么会飞？
+* 第067集 鸟儿停在电线上为什么不会触电？
+* 第068集 火烈鸟的故乡在哪里？
+* 第069集 蜜蜂是怎样酿蜜的？
+* 第070集 蜜蜂是怎样繁衍后代的？
+* 第071集 鳄鱼是怎样生活的？
+* 第072集 蛇都有毒吗？
+* 第073集 人为什么要睡觉？
+* 第074集 梦游是怎么回事？
+* 第075集 人为什么会感冒？
+* 第076集 为什么跑步时心跳会加快？
+* 第077集 最初的生命是怎样形成的？
+* 第078集 生命细胞是怎样演化的？
+* 第079集 DNA是什么？
+* 第080集 克隆是怎么回事？
+* 第081集 植物也有感情吗？
+* 第082集 为什么仙人掌在沙漠里也能活？
+* 第083集 为什么沙漠有五颜六色？
+* 第084集 为什么要保护森林资源？
+* 第085集 造纸术是谁发明的？
+* 第086集 活字印刷术是谁发明的？
+* 第087集 地动仪是谁发明的？
+* 第088集 火药是怎样发明的？
+* 第089集 指南针是怎样发明的？
+* 第090集 指南针为什么会指示方向？
+* 第091集 为什么说中国是风筝的故乡？
+* 第092集 脸谱艺术是怎样产生的？
+* 第093集 为什么要过中秋节？
+* 第094集 为什么要过年？
+* 第095集 元宵节为什么要张灯结彩？
+* 第096集 为什么剪纸艺术深受人们的喜爱？
+* 第097集 为什么要开凿大运河？
+* 第098集 为什么说郑和下西洋是个伟大的创举？
+* 第099集 为什么说赵州桥是古代桥梁的杰作？
+* 第100集 为什么说敦煌莫高窟是世界艺术长廊？
+* 第101集 世界屋脊青藏高原是怎样形成的？
+* 第102集 地质断层是怎么回事？
+* 第103集 板块漂移是怎么回事？
+* 第104集 一线天是怎么形成的？
+* 第105集 丹霞地貌是怎样形成的？
+* 第106集 石林是怎样形成的？
+* 第107集 黄土高原是怎样形成的？
+* 第108集 戈壁是什么样子？
+* 第109集 溶洞是怎样形成的？
+* 第110集 盆地是怎样形成的？
+* 第111集 山崩是怎样造成的？
+* 第112集 奇特的天生拱桥
+* 第113集 风城是怎样形成的？
+* 第114集 南极洲的地形有何特点？
+* 第115集 河流两岸的平台是怎么形成的？
+* 第116集 河流的入海口为何呈三角形？
+* 第117集 地球是圆的吗？
+* 第118集 地球会发光吗？
+* 第119集 地光的秘密
+* 第120集 地球上的水会用完吗？
+* 第121集 天上掉下来的石头是什么？
+* 第122集 为什么会出现流星雨？
+* 第123集 火流星为什么与众不同？
+* 第124集 飞向马头星云.
+* 第125集 “十字连星”会引起灾难吗？
+* 第126集 太空垃圾有什么危害？
+* 第127集 潜伏在太空中的“杀手”.
+* 第128集 为什么要研究小行星？
+* 第129集 天上的比翼鸟——双星.
+* 第130集 土星有多少颗卫星？
+* 第131集 木星的卫星有生命吗？
+* 第132集 慧木相撞是怎么回事？
+* 第133集 X星球存在吗？
+* 第134集 水内行星存在吗？
+* 第135集 太阳伴星存在吗？
+* 第136集 永不照面的B地球存在吗？
+* 第137集 真的有时空隧道吗？
+* 第138集 黑洞是怎么回事？
+* 第139集 什么叫“白洞”？
+* 第140集 “法厄同”是毁于核战争吗？
+* 第141集 恒星是怎样形成的？
+* 第142集 恒星为什么会爆炸？
+* 第143集 恒星的颜色都一样吗？
+* 第144集 恒星真的是不动的吗？
+* 第145集 宇宙到底由什么组成？
+* 第146集 宇宙有边吗？
+* 第147集 宇宙的年龄有多大？
+* 第148集 宇宙的未来会怎样？
+* 第149集 星系是怎样演化的？
+* 第150集 星系会相互吞食吗？
+* 第151集 外星球有人吗？
+* 第152集 外星人究竟长什么样子？
+* 第153集 百慕大三角为什么又称“死亡三角”？
+* 第154集 通古斯大爆炸是怎么回事？
+* 第155集 神秘的飞碟
+* 第156集 USO=UFO吗？
+* 第157集 火箭是怎样上天的？
+* 第158集 隐形飞机真的不能发现吗？
+* 第159集 全程遥控是怎么回事？
+* 第160集 潜水器为什么能上下潜浮？
+* 第161集 海面上为什么会出现海火？
+* 第162集 海浪是怎么回事？
+* 第163集 无风三尺浪的奥秘.
+* 第164集 大海潮流是怎么回事？
+* 第165集 海底也有森林吗？
+* 第166集 珊瑚是怎样形成的？
+* 第167集 海里到处有鱼吗？
+* 第168集 鲨鱼是怎样捕食的？
+* 第169集 海豚也能成明星吗？
+* 第170集 海上霸王——逆戟鲸
+* 第171集 海象是怎样生活的？
+* 第172集 海獭是怎样生活的？
+* 第173集 海狗是怎样生活的？
+* 第174集 河马为什么总泡在水中？
+* 第175集 鱼儿会说话吗？
+* 第176集 为什么有些鱼会发光？
+* 第177集 厄尔尼诺是怎么回事？
+* 第178集 赤潮之谜
+* 第179集 空气是什么组成的？
+* 第180集 氧气会用完吗？
+* 第181集 什么是海市蜃楼？
+* 第182集 在死海里游泳为什么不会沈下去？
+* 第183集 间歇泉是怎样形成的？
+* 第184集 潮汐是怎样形成的？
+* 第185集 机器人能干什么？
+* 第186集 间谍的“耳朵”——窃听器.
+* 第187集 电子鼻子是怎么回事？
+* 第188集 真的有测谎器吗？
+* 第189集 自动汽车.
+* 第190集 什么是智能住宅？
+* 第191集 什么是智能手枪？
+* 第192集 计算机芯片能植入人脑吗？
+* 第193集 什么叫网络犯罪？
+* 第194集 什么叫网络逻辑炸弹？
+* 第195集 什么叫网络学校？
+* 第196集 什么叫网络医院？
+* 第197集 什么叫防火墙？
+* 第198集 怎样防范计算器病毒？
+* 第199集 “美莉萨”病毒是什么？
+* 第200集 计算机网络有什么优势？
+* 第201集 什么是卫星定位系统？
+* 第202集 为什么人造卫星可以用来探测地球资源？
+* 第203集 信息高速公路是由什么组成的？
+* 第204集 什么是信息战？
+* 第205集 电视制导导弹为什么能自动寻找目标？
+* 第206集 导弹头部防护罩有什么作用？
+* 第207集 自寻的地雷为什么能自动捕捉目标？
+* 第208集 机器人为什么能成为新军？
+* 第209集 什么是光脑？
+* 第210集 什么是无盘工作站？
+* 第211集 什么是“电子书刊”？
+* 第212集 光敏胶为什么可以用于光刻？
+* 第213集 声纳传感器是做什么用的？
+* 第214集 什么是汽车飞机？
+* 第215集 什么是肌电手？
+* 第216集 泡沫灭火器是怎样灭火的？
+* 第217集 万能胶有哪些用途？
+* 第218集 石棉真的能防火吗？
+* 第219集 固氮高手
+* 第220集 氢为什么是未来新能源？
+* 第221集 稀土是土吗？
+* 第222集 能吃的石头——石盐
+* 第223集 “愚人金”是金子吗？
+* 第224集 多色翡翠是怎样形成的？
+* 第225集 玛瑙是怎样形成的？
+* 第226集 琥珀是怎样形成的？
+* 第227集 煤是怎样形成的？
+* 第228集 石油是怎样形成的？
+* 第229集 金刚石的奥秘
+* 第230集 失踪的楼兰古国
+* 第231集 世界七大奇迹之首——金字塔
+* 第232集 流经沙漠的“绿色走廊”——尼罗河
+* 第233集 人为什么会肚子饿？
+* 第234集 人为什么会有不同肤色？
+* 第235集 人的肚子里会长西瓜吗？
+* 第236集 植物人是怎么回事？
+* 第237集 肌肉是怎么锻炼出来的？
+* 第238集 血液为什么是红色的？
+* 第239集 左撇子聪明些吗？
+* 第240集 有使人发笑的气体吗？
+* 第241集 催泪弹为何会使人落泪？
+* 第242集 兴奋剂到底是什么？
+* 第243集 不倒翁为什么能不倒？
+* 第244集 棉袄能取暖吗？
+* 第245集 基因疗法
+* 第246集 老鼠尿有什么药用价值？
+* 第247集 为什么生物的行为可以遗传？
+* 第248集 笨拙的呆鸟——信天翁
+* 第249集 野牛是怎样生活的？
+* 第250集 美洲豹是怎样生活的？
+* 第251集 为什么说大红毛猿是“树人”？
+* 第252集 雪猴是怎样生活的？
+* 第253集 隐秘杀手—吸髓蚊
+* 第254集 驯鹿是怎样生活的？
+* 第255集 你了解大象吗？
+* 第256集 美洲虎真的很厉害吗？
+* 第257集 天上的国度——星座
+* 第258集 星座的名称是怎样取的？
+* 第259集 为什么星座的形状会发生改变？
+* 第260集 刀枪不入的凶狮——狮子座
+* 第261集 拐走王子的神鹰——天鹰座
+* 第262集 巧计破敌的勇士——英仙座
+* 第263集 成为海怪祭品的公主—仙女座
+* 第264集 拐走美女的牡牛——金牛座
+* 第265集 小马座的传说
+* 第266集 莽撞少年的悲剧——波江座
+* 第267集 企图咬死猎户的大毒蝎——天蝎座
+* 第268集 看守金苹果的毒龙——天龙座
+* 第269集 天上的四轮车——大熊座
+* 第270集 追逐大熊、小熊的猎犬——猎犬座
+* 第271集 赶牛人的星座——牧夫座
+* 第272集 趴在大狮头上的小狮——小狮座
+* 第273集 为民牺牲爱女的国王—仙王座
+* 第274集 爱慕虚荣的王后——仙后座
+* 第275集 埃及王后的美发——后发座
+* 第276集 农业女神的悲伤——室女座
+* 第277集 神王宙斯的化身——天鹅座
+* 第278集 酒神送给新娘的华冠——北冕座
+* 第279集 音乐神童的遗物——天琴座
+* 第280集 天猫座的秘密
+* 第281集 长着翅膀的金羊毛——白羊座
+* 第282集 被踩扁的螃蟹——巨蟹座
+* 第283集 友爱的孪生兄弟—双子座
+* 第284集 双鱼座的秘密
+* 第285集 天箭座的故事
+* 第286集 蛇夫座的传说
+* 第287集 神医的宠物——巨蛇座
+* 第288集 带有双翼的马——飞马座
+* 第289集 拯救诗人的海豚—海豚座
+* 第290集 猎户的忠实伙伴——大犬座
+* 第291集 酒神巴克斯的酒杯——巨爵座
+* 第292集 剑鱼座的故事
+* 第293集 狐狸座的秘密
+* 第294集 半鱼半羊的山林之神——摩羯座
+* 第295集 南门双星——半人马座
+* 第296集 南极的路灯——天燕座
+* 第297集 灯笼骨架——南十字座
+* 第298集 飞鱼座的秘密
+* 第299集 咬死主人的猎犬——小犬座
+* 第300集 长着九个头的巨蛇——长蛇座
+* 第301集 天上的香炉——天炉座
+* 第302集 太空几何图——三角座
+* 第303集 贪吃的乌鸦——乌鸦座
+* 第304集 天上的牧羊人——御夫座
+* 第305集 勘测员的水平仪——矩尺座
+* 第306集 变成岩石的海怪——鲸鱼座
+* 第307集 众神酒宴的水瓶——宝瓶座
+* 第308集 正义女神的天秤——天秤座
+* 第309集 鹿豹座的秘密
+* 第310集 天兔座的故事
+* 第311集 蝎虎座的秘密
+* 第312集 唧筒座的来历
+* 第313集 十八世纪的绘图工具——绘架座
+* 第314集 多才多艺的半马人——人马座
+* 第315集 南天开屏——孔雀座
+* 第316集 美神的化身——南鱼座
+* 第317集 英勇无比的大英雄——武仙座
+* 第318集 大熊卡利斯托的父亲——豺狼座
+* 第319集 吉祥幸运物——天鸽座
+* 第320集 天上的布谷——杜鹃座
+* 第321集 船尾座的秘密
+* 第322集 天上的桂冠——南冕座
+* 第323集 赫维利斯的工具——六分仪座
+* 第324集 天上的大钟——时钟座
+* 第325集 天球的南极——南极座
+* 第326集 仙鸟之王——凤凰座
+* 第327集 苍蝇的眼睛—苍蝇座
+* 第328集 浮游太空的水蛇座
+* 第329集 一个民族的象征——印第安座
+* 第330集 动感十足的天鹤座
+* 第331集 山案座的秘密
+* 第332集 雕刻师的作坊——玉夫座
+* 第333集 类人机器人是什么样子？
+* 第334集 怎样对付军用卫星的侦察？
+* 第335集 以细胞为靶子的基因枪
+* 第336集 电话机在网络中有什么作用？
+* 第337集 威力无比的粒子束武器
+* 第338集 什么是生物导弹？
+* 第339集 什么是“智能机”？
+* 第340集 地雷也能打飞机吗？
+* 第341集 无声杀手——次声波
+* 第342集 什么是JAVA语言？
+* 第343集 气压引信导弹
+* 第344集 反舰重拳——飞鱼导弹
+* 第345集 什么是网络城市？
+* 第346集 机器人能放入人体吗？
+* 第347集 焦桃弹为什么有很强的杀伤力？
+* 第348集 夜视镜为什么能在黑夜观看物体？
+* 第349集 不在土壤里种蔬菜也行吗？
+* 第350集 死亡谷里有生命吗？
+* 第351集 鹈鹕是怎样捕鱼的？
+* 第352集 熊有哪些生活习性？
+* 第353集 洞察微小事物的显微镜座
+* 第354集 天上的天度——圆规座
+* 第355集 天上的指南针——罗盘座
+* 第356集 天上的祭坛——天坛座
+* 第357集 黑客是什么人？
+* 第358集 什么是网络战？
+* 第359集 “三金工程”是指什么？
+* 第360集 什么是纳米材料？
+* 第361集 机器人也能成为电子宠物吗？
+* 第362集 激光为什么能站岗放哨？
+* 第363集 什么是外星探测器？
+* 第364集 为什么电子侦察卫星被称为“空间的耳朵”？
+* 第365集 避弹衣为什么能避弹？
+* 第366集 用光束作炮弹的激光武器
+* 第367集 机器人为什么能说话？
+* 第368集 威力无比的中子弹
+* 第369集 为什么说瑞雪兆丰年？
+* 第370集 怎样进行人工降雨？
+* 第371集 为什么施肥过量植物会死？
+* 第372集 什么是白色污染？
+* 第373集 大气层有多厚？
+* 第374集 月球是怎样形成的？
+* 第375集 什么是气象武器？
+* 第376集 什么是生物武器？
+* 第377集 盾牌座的秘密
+* 第378集 南天的钻石——网罟座
+* 第379集 奔驰的吉祥兽——麒麟座
+* 第380集 南天几何图——南三角座
+* 第381集 为什么说特异功能不存在？
+* 第382集 真的有“外气隔碗探物”吗？
+* 第383集 “外气护杯”是特异功能吗？
+* 第384集 人体最大的单一器官——皮肤
+* 第385集 什么是原子？
+* 第386集 什么是无源雷达？
+* 第387集 什么是恒星际光子飞船？
+* 第388集 飞行员为什么喜欢头盔瞄准具？
+* 第389集 青霉素是怎样产生的？
+* 第390集 什么是半导体？
+* 第391集 陶瓷之王——刚玉
+* 第392集 什么是复合材料？
+* 第393集 航空母舰为什么能潜到水下航行？
+* 第394集 什么是电磁炮？
+* 第395集 怎样防护核武器？
+* 第396集 天上的交通警——导航卫星
+* 第397集 为什么能用信用卡取款？
+* 第398集 现代的天气预报
+* 第399集 河外的岛——河外星系
+* 第400集 未来南天极的母亲——蝘蜓座
+* 第401集 为什么说清明时节雨纷纷？
+* 第402集 人工能消雾吗？
+* 第403集 寒潮是怎么回事？
+* 第404集 为什么可以进行人工消雹？
+* 第405集 我国长征系列运载火箭有哪几种？
+* 第406集 宇航员能进入外层空间行走吗？
+* 第407集 什么是磁浮列车？
+* 第408集 为什么不久将会出现核动力飞机？
+* 第409集 神奇的转基因植物
+* 第410集 种子是怎样萌芽的？
+* 第411集 有能使害虫断子绝孙的妙法吗？
+* 第412集 生命的发动机——心脏
+* 第413集 微波通讯是怎么回事？
+* 第414集 什么叫新概念武器？
+* 第415集 弹道导弹有眼睛吗？
+* 第416集 什么是计算机病毒？
+* 第417集 船底座的秘密
+* 第418集 天上的千里眼——望远镜座
+* 第419集 雕具座
+* 第420集 什么是幽灵岛？
+* 第421集 水晶是什么东西？
+* 第422集 世界上最硬的新材料——氮化碳
+* 第423集 全息商标为什么具有防伪功能？
+* 第424集 为什么在国际长途通话时有异样的感觉？
+{{hideF}}
+
+==参考==
+<div class="references-small">
+<references />
+</div>
+{{湖南卫视综艺节目}}
+
+[[Category:中國動畫影集]]
+[[Category:三辰卡通]]
+[[Category:蓝猫]]
+{{noteTA
+|T=zh-hans:Retina显示屏; zh-hant:Retina顯示器;
+|1=zh-hans:Retina显示屏; zh-hant:Retina顯示器;
+|2=zh-hans:显示屏; zh-hant:顯示器;
+|3=zh-hans:乔布斯; zh-tw:賈伯斯; zh-hk:喬布斯;
+|4=zh-hans:史蒂夫; zh-tw:史蒂夫; zh-hk:史提夫;
+}}
+
+{{redirect2|Retina|脊椎动物和一些头足纲动物眼球玻璃体后部的一层非常薄的感光细胞层|视网膜}}
+
+[[File:'Map' on Retina Display.jpg|thumb|显示“地图”二字的Retina显示屏|337px]]
+
+'''Retina显示屏'''（[[英文]]：'''Retina Display'''）是一种由[[苹果公司]]设计和委托制造的显示屏，具备足够高像素密度而使得人体肉眼无法分辨其中单独像素点的液晶屏，最初采用该种屏幕的产品[[iPhone 4]]由執行長[[史蒂夫·乔布斯]]于WWDC2010发布，其屏幕分辨率为960×640（[[每英寸像素]]数326ppi）。这种分辨率在正常观看距离下足以使人肉眼无法分辨其中的单独像素。<ref>[http://www.apple.com.cn/channel/iphone/iphone-4/tour#features-retina Apple中国：iPhone 4 - 视频通话、多任务处理、HD 高清视频以及更多]</ref>如今苹果正逐步将其推广到全线产品之上。
+
+==特点及规格==
+这种屏幕通常带有[[橫向電場效應顯示技術|IPS]]技术，视野大，漏光少，色域广，色彩还原准确的特点，具有极佳的观赏效果。它现在被应用在以下产品上：
+{| class="wikitable" style="text-align:center"
+! 设备 !! 屏幕类型 !! 屏幕尺寸(英寸) !! 分辨率 !! 每英寸像素数(PPI) !! 宽高比 
+|- 
+|[[iMac with Retina 5K display]]
+| rowspan=1 align="center"| Oxide TFT, IPS
+| rowspan=1 align="center"| 27
+| rowspan=1 align="center"| 5120x2880
+| rowspan=1 align="center"| 217
+| rowspan=1 align="center"| 16:9
+|-
+|[[MacBook Pro#第三代产品(With Retina Display) |Macbook Pro]](3rd-Gen,15-inch) || IPS || 15.4 || 2880x1800 || 220 || 16:10
+|-
+|[[MacBook Pro#第三代产品(With Retina Display) |Macbook Pro]](3rd-Gen,13-inch) || IPS || 13.3 || 2560x1600 || 227 || 16:10
+|- 
+|[[iPad Air 2]]
+| rowspan=2 align="center"| 多点触控IGZO IPS
+| rowspan=2 align="center"|  9.7
+| rowspan=2 align="center"| 2048x1536
+| rowspan=2 align="center"| 264
+| rowspan=2 align="center"| 4:3
+|-
+|[[iPad Air]]
+|-
+|[[iPad (第四代)|iPad with Retina Display]]
+| rowspan=1 align="center"| 多点触控a-Si IPS
+| rowspan=1 align="center"|  9.7
+| rowspan=1 align="center"| 2048x1536
+| rowspan=1 align="center"| 264
+| rowspan=1 align="center"| 4:3
+|- 
+|[[iPad mini|iPad mini 2]]
+| rowspan=2 align="center"| 多点触控a-Si IPS
+| rowspan=2 align="center"| 7.9
+| rowspan=2 align="center"| 2048x1536
+| rowspan=2 align="center"| 326
+| rowspan=2 align="center"| 4:3
+|-
+|[[iPad mini|iPad mini 3]]
+|-
+|[[iPhone 6 Plus]]
+| rowspan=2 align="center"| LTPS IPS on-cell 
+| rowspan=1 align="center"| 5.5
+| rowspan=1 align="center"| 1920x1080
+| rowspan=1 align="center"| 401
+| rowspan=1 align="center"| 16:9
+|-
+|[[iPhone 6]]
+| rowspan=1 align="center"| 4.7
+| rowspan=1 align="center"| 1334x750
+| rowspan=1 align="center"| 326
+| rowspan=1 align="center"| 16:9
+|-
+|[[iPhone 5]]
+| rowspan=2 align="center"| 多点触控IPS (LTPS, in-cell)
+| rowspan=2 align="center"| 4.0
+| rowspan=2 align="center"| 1136x640
+| rowspan=2 align="center"| 326
+| rowspan=2 align="center"| 16:9
+|-
+|[[iPod touch#iPod Touch 第五代|iPod touch(5th-Gen)]]
+|-
+|[[iPhone 5s]]
+| rowspan=2 align="center"| 多点触控IPS (LTPS, on-cell)
+| rowspan=2 align="center"| 4.0
+| rowspan=2 align="center"| 1136x640
+| rowspan=2 align="center"| 326
+| rowspan=2 align="center"| 16:9
+|-
+|[[iPhone 5c]]
+|-
+|[[iPhone 4S]]
+| rowspan=2 align="center"| 多点触控IPS (LTPS)
+| rowspan=2 align="center"| 3.5
+| rowspan=2 align="center"| 960x640
+| rowspan=2 align="center"| 326
+| rowspan=2 align="center"| 3:2
+|-
+|[[iPhone 4]]
+|-
+|[[iPod Touch 4|iPod touch(4th-Gen)]]|| 多点触控TN-LCD || 3.5 || 960x640 || 326 || 3:2
+|}
+
+==理论依据==
+[[iPad3|第三代iPad]]<ref>[http://www.apple.com/hk/ipad/features/ Apple香港：iPad的Retina-Display]</ref>发布会上，苹果给出了Retina设计标准的公式:
+
+<math> a=2\arctan\left(\frac h{2d}\right) </math> 
+
+其中 <math>a</math> 代表人眼视角，<math>h</math> 代表像素间距，<math>d</math> 代表肉眼与屏幕的距离。符合以上条件的屏幕可以使肉眼看不见单个物理像素点。这样的IPS屏幕就可被苹果称作“Retina显示屏”。将通常使用距离及正常眼能区分屏幕上两点的最小视角约为1’代入上公式可知：行动电话显示器的像素密度达到或高于300ppi就不会再出现颗粒感；手持平板类电器显示器的像素密度达到或高于260ppi就不会再出现颗粒感，而苹果行动电脑的Retina显示器像素密度只要超过200ppi就无法区分出单独的像素。
+
+==工作方式==
+以[[MacBook Pro#第三代产品(With Retina Display)|MacBook Pro with Retina Display]]<ref>[http://www.apple.com.cn/macbook-pro/features/ Apple中国：MacBook Pro的Retina-Display]</ref>为例，工作时[[显卡]]渲染出2880x1800个像素，其中每四个像素一组，输出原来屏幕的一个像素显示的大小区域内的图像。这样一来，用户所看到的图标与文字的大小与原来的1440x900分辨率显示屏相同，但精细度是原来的4倍，但对于特殊元素，如视频与图像，则以一个图片像素对应一个屏幕像素的方式显示。故不会产生[[Windows]]中分辨率提升使屏幕文字與圖像变小，造成阅读困难的问题。这样在设计软件时只需将所有的UI元素的精细度都提高到原来的4倍就可以既保持了观看舒适度，又提高了显示效果。关于[[iOS设备列表|iOS设备]]，也由四个像素代替原来一个像素，通过下图对比就可以较明显地观察到这种关系。
+<gallery widths="420px" heights="280px" perrow="2">
+image:Non-Retina Display.jpg|iPhone 3GS
+Image:Retina Display.jpg|iPhone 4
+</gallery>
+
+==缺陷分析==
+===软件技术===
+在iPhone的Retina显示屏刚问世时，支持Retina显示屏的软件技术还没有完全成熟。2010年刚发布[[iPhone 4]]时，尽管[[App Store]]中并没有大量支持Retina的应用，但由于iPhone的屏幕宽高比并没有改变，仅需将图像文件增加到原有的4倍大小即可。因此大多数软件开发者迅速更新了自己的软件来支持[[iPhone 4]]，软件技术日渐成熟。但当时因为还有普通屏幕的[[iPhone]]在售，所以一款软件要同时支持两种屏幕，导致软件包较大。而目前，随着[[iPhone 3GS]]的退市，市面上所有在售的iPhone均配备了Retina显示屏，[[App Store]]中大部分应用均只支持Retina显示屏，软件包的大小较之前小了一些。对于[[iPhone 5]]，因为[[Xcode]]中具备了应用自动排版的功能，所以尽管[[iPhone 5]]的屏幕变大了（仅高度变大，长度不变），但[[App Store]]上的软件都能很容易地重新编排来适应[[iPhone 5]]。[[iPad (第四代)|iPad with Retina Display]]问世以后，由于开发者早已了解Retina显示屏的运作方式，因此早有准备，并没有软件上的问题。[[MacBook Pro#2012年Retina Display产品（3rd-Gen）|Macbook Pro With Retina Display]]也如此，第三方软件公司推出软件更新只是时间问题。
+
+===硬件技术===
+在2012年推出15英寸[[MacBook Pro#第三代产品(With Retina Display)|MacBook Pro with Retina Display]]后，由于个别面版的缺陷，一些用户反映电脑的显示屏出现了残影和抖动，使得使用受到影响。理论上所有的液晶萤幕或多或少都会有残影现象发生，不过有个别用户指出他们的电脑需要五分钟才能让萤幕残影消失，对于一台专业产品来说，那些用户无法接受。<ref>该屏幕有两个主要供应商：LG Display和Samsung。一些用户指出，出现问题的均为LG Display的屏幕，Samsung屏幕没有发现该问题。</ref>苹果亦会为这些用户提供产品更换服务。
+
+==用户体验==
+苹果在一些开发者文档中提到，线宽对于用户界面设计尤其的重要，因为线宽定义了图形物体的边缘。如果用户界面的边缘变得模糊，那么整个用户界面设计就会非常失败。苹果提出的解决方案就是为图形用户界面物体创造多个属性，比如图标或者鼠标指针。将这些属性和相关的数值保存在另一个文件中。这样当屏幕的分辨率改变时，系统会自动读取相应的数值，确保用户界面元素在任何分辨率下看起来都很完美。苹果的操作系统可以根据分辨率的不同自动为图形界面元素计算出最佳的数值。例如当显示器的分辨率介于界面设计师支持的两种分辨率之间，那么操作系统的渲染引擎会根据这两种数值自动计算出最适合的数值。
+
+==备注和参考文献==
+<references />
+
+{{Apple}}
+[[Category:笔记型电脑]]
+[[Category:苹果公司硬件]]
+[[Category:IPhone|件]]
+[[Category:IPad|件]]

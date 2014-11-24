@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">42</int>
+  <lst name="params">
+    <str name="q">哪部电影是唯一一部获得奥斯卡最佳外语片的华语电影？</str>
+    <str name="indent">true</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="976074" start="0">
+  <doc>
+    <str name="id">3810768</str>
+    <str name="text">* 西班牙的'''[[阿尔塔米拉洞|哪个洞穴]]'''最早被发现拥有[[旧石器时代]]人类的绘画作品？
+* '''[[歐華路|哪位天主教神職人員]]'''是[[主業會]]創辦人施禮華的第一任繼承人及主業會的首任監督？
+* [[斯蒂芬·斯皮尔伯格]]在'''[[第66届奥斯卡金像奖|哪届学院奖角逐中]]'''首次获[[奥斯卡最佳导演奖|导演奖]]，同时这年还有[[陈凯歌]]的《[[霸王别姬 (电影)|霸王别姬]]》和[[李安]]的《[[喜宴 (电影)|喜宴]]》两部华语电影角逐[[奥斯卡最佳外语片奖|外语片奖]]？
+* '''[[昌化路 (上海)|哪条道路]]'''是由[[上海]]一条名为徐公浦的河流填浜筑路而成？
+* '''[[AMR 33輕型坦克|哪款法國1933年造輕型坦克]]'''曾經被中華民國滇軍使用，并參加緬甸戰役？
+* 臺灣'''[[玉里麵|哪一種麵食]]'''發源自[[玉里鎮]]而得名？
+* 臺灣[[明潭發電廠]]的'''[[明潭發電廠濁水機組|哪一座機組]]'''是為了提供[[嘉南大圳]]工程所需電力而興建，完工後成為雲林、嘉義地區唯一的水力發電廠？
+* '''[[吴伟申|哪一位羽毛球選手]]'''與[[林钦华]]被馬來西亞媒體合稱為「武林組合」？
+* 北美洲23个主权国家发行[[北美洲货币列表|'''多少种货币''']]？</str>
+    <str name="title">Wikipedia:新条目推荐/供稿/2014年1月27日</str>
+    <str name="titleText">Wikipedia:新条目推荐/供稿/2014年1月27日</str>
+    <str name="user">Liangent-bot</str>
+    <int name="userId">504154</int>
+    <int name="revision">29985022</int>
+    <date name="timestamp">2014-01-27T14:00:32Z</date>
+    <long name="_version_">1484749447118192643</long></doc>
+  <doc>
+    <str name="id">662339</str>
+    <str name="text">{{Infobox Film
+| name = 史格芬顿先生
+| original_name = Mr. Skeffington
+| image =Mr. Skeffington.jpg
+| caption = 
+| director = [[文森特·谢尔曼]]
+| producer = [[杰克·华纳]]
+| writer = 
+| narrator =
+| starring = [[贝蒂·戴维斯]]&lt;br /&gt;[[克劳德·雷恩斯]]
+| music = 
+| cinematography = 
+| editing = 
+| distributor = [[华纳兄弟]]
+| released = 1944年
+| runtime = 145分钟
+| country = {{USA}}
+| language = [[英语]]
+| budget =
+| preceded_by =
+| followed_by =
+| website =
+| amg_id = 
+| imdb_id = 0037094
+}}
+'''《史格芬顿先生》'''（英文原名：{{lang|en|Mr. Skeffington}}）是一部1944年发行的电影，主演[[贝蒂·戴维斯]]、[[克劳德·雷恩斯]]、[[沃尔特·艾贝尔]]、[[乔治·库鲁里斯]]。
+
+[[贝蒂·戴维斯]]凭借此片再度获得[[奥斯卡最佳女主角奖]]提名，[[克劳德·雷恩斯]]则获得[[奥斯卡最佳男配角奖]]提名。
+
+==外部连接==
+{{Commons}}
+*{{imdb title|0037094}}
+*{{tcmdb title|id=2372}}
+
+{{movie-stub}}
+{{DEFAULTSORT:Mr. Skeffington}}
+
+[[Category:1944年电影]]
+[[Category:美国电影作品]]
+[[Category:英语电影]]
+[[Category:劇情片]]
+[[Category:愛情片]]
+[[Category:黑白電影]]
+[[Category:華納兄弟電影]]</str>
+    <str name="title">史格芬顿先生</str>
+    <str name="titleText">史格芬顿先生</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30229901</int>
+    <date name="timestamp">2014-02-16T10:52:00Z</date>
+    <long name="_version_">1484748760242192386</long></doc>
+  <doc>
+    <str name="id">967106</str>
+    <str name="text">{{NoteTA
+|T=zh-hans:和巴什尔跳华尔兹;zh-hk:與魔共舞;zh-tw:與巴席爾跳華爾滋;
+|1=zh-hans:和巴什尔跳华尔兹;zh-hk:與魔共舞;zh-tw:與巴席爾跳華爾滋;
+|2=zh-hans:巴什尔; zh-hant:巴席爾
+}}
+{{Infobox Film
+| name           = 和巴什尔跳华尔兹
+| original_name  = {{lang|he|ואלס עם באשיר}}
+| image          = Waltz with Bashir.jpg
+| image_size     = 215px
+| caption        = 和巴什尔跳华尔兹电影海报
+| director       = [[阿里·福尔曼]]
+| producer       = 阿里·福尔曼&lt;br /&gt;Serge Lalou&lt;br /&gt;Gerhard Meixner&lt;br /&gt;Yael Nahlieli&lt;br /&gt;Roman Paul
+| writer         = 阿里·福尔曼
+| music          = Max Richter
+| editing        = Feller Nili
+| distributor    = [[索尼经典影片]]&lt;br /&gt;Bridgit Folman Film Gang(以色列)
+&lt;br /&gt;les films d'ici(法国)&lt;br /&gt;Razor Film Produktion GmbH(德国)
+| released       = 2008年5月13日([[戛纳电影节]])&lt;br /&gt;2008年6月5日([[以色列]])&lt;br /&gt;2008年12月25日
+| runtime        = 90分钟
+| country        = [[以色列]]&lt;br /&gt;[[德国]]&lt;br /&gt;[[法国]]&lt;br /&gt;[[美国]]
+| language       = [[希伯来语]]&lt;br /&gt;[[德语]]&lt;br /&gt;[[英语]]&lt;br /&gt;[[黎巴嫩阿拉伯语]]
+| budget         = $ 2,000,000 &lt;ref&gt;[http://www.iht.com/articles/2008/05/19/arts/ari.php?page=2 Ari Folman's journey into a heart of darkness], ''[[International Herald Tribune]]''&lt;/ref&gt;
+| gross          = $ 7,760,838
+| website        = http://waltzwithbashir.com/
+| amg_id         = 1:449999
+| imdb_id        = 1185616
+| tw_name        = 與巴席爾跳華爾滋
+| hk_name        = 與魔共舞
+}}
+
+《'''和巴什尔跳华尔兹'''》（{{lang-he|'''ואלס עם באשיר'''}} - ''Vals Im Bashir''；{{lang-en|'''''Waltz With Bashir'''''}}）是2008年一部由[[以色列]][[导演]][[阿里·福尔曼]]制作的[[动画]][[战争]][[电影]]。该片耗时四年，由以色列、[[德国]]、[[法国]]3国共同完成。这部动画纪录片讲述的是1982年在[[黎巴嫩]]发生[[贝鲁特难民营大屠杀|萨布拉-夏蒂拉大屠杀]]的故事。
+
+这部电影与《[[9.99美元]]》都是以色列首次制作的动画长片并在电影放映。《和巴什尔跳华尔兹》在[[戛纳电影节]]首映，并参加了[[金棕榈奖]]的角逐。该片获得了多项奖项和提名，并收到广泛的称赞。电影获得了以色列电影Ophir Award6个奖项包括最佳电影奖，以及获得[[金球奖]]最佳外语片的奖项，并获得了同年[[奥斯卡]]最佳外语片的提名。
+
+== 剧情 ==
+
+1982年，19岁的阿里·福尔曼在以色列国防军服兵役。后在2006年，当他与以前的战友将其如梦靥般在战争经历时，福尔曼惊奇的发现他对当时的一切都无法回忆起来。于是他开始去拜见和采访他以前在部队的战友和老朋友，在与他们的交流之中，福尔曼把以前关于萨布拉-夏蒂拉大屠杀的事情都回忆了起来。
+
+== 电影题目 ==
+电影的题目是来自于电影中一段采访，叙述中说道福尔曼所在部队的指挥官，他拿着機關槍，在枪林弹雨中，以华尔兹的脚步向敌人射击，而街道旁的建筑物就挂有[[巴什尔·格玛雅尔]]巨型画像。
+
+== 制作 ==
+该部记录电影的不同在于使用动画的手法来表现。电影将[[古典音乐]]，19世纪八十年代的[[摇滚音乐]]，现实画面和超现实的场景融合在一起。电影除了结尾处的镜头使用了有关萨布拉-夏蒂拉大屠杀的真实记录影像，其余的都是用动画手法来完成。
+
+电影的制作是导演阿里·福尔曼对参加过黎巴嫩战争的当事人进行采访，并录制成90多分钟的片子，最后将录影转成动画，这也就是我们最后看到的动画效果。根据录影电影共画制了2300个插图，最后使用[[flash动画]]，[[原始动画]]和[[3D动画]]技术整合起来，制作成片。&lt;ref&gt;[http://www.israel21c.org/bin/en.jsp?enDispWho=Articles^l2116&amp;enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enVersion=0&amp;enZone=Culture Israeli filmmakers head to Cannes with animated documentary]，Israel21c.org&lt;/ref&gt;
+
+电影的原声音乐由电子音乐家[[马克思·李希特]]（Max Richter）制作，其中[[OMD (乐团)|OMD]]演唱《Enola Gay》、PiL演唱《This is Not a Love Song》、Navadei Haucaf 演唱《Good Morning Lebanon》、Zeev Tene演唱《Beirut》。
+
+== 所获荣誉 ==
+《和巴什尔跳华尔兹》收到广泛的赞誉，在[[烂番茄]]网站上，从77个评价中95%给出了积极肯定的评价&lt;ref&gt;{{cite web | url=http://www.rottentomatoes.com/m/waltz_with_bashir/ | title=Waltz with Bashir Movie Reviews | work=[[Rotten Tomatoes]] | publisher=IGN Entertainment, Inc | accessdate=2009-01-25 }}&lt;/ref&gt;，在[[Metacritic]]网站中，在28个评分中得到90分（以百分为满分）&lt;ref&gt;{{cite web | url=http://www.metacritic.com/film/titles/waltzwithbashir2008 | title=Waltz with Bashir (2008): Reviews | work=[[Metacritic]] | publisher=CNET Networks, Inc | accessdate=2009-01-25 }}&lt;/ref&gt;，[[卫报]]称此电影是“一部非凡、惨痛、激进的电影”&lt;ref&gt;{{cite web | last=Brooks | first=Xan | title=Bring on the light relief | work=Cannes diary | publisher=''[[The Guardian]]'' | date=2008-05-15 | url=http://film.guardian.co.uk/cannes2008/story/0,,2280032,00.html | accessdate=2008-05-15}}&lt;/ref&gt;。
+
+=== 获奖与提名 ===
+{{Col-begin}}
+{{Col-2}}
+* ''' [[第81届奥斯卡金像奖|奥斯卡]]：
+** 最佳外语片
+* ''' [[安妮奖]]：
+** 最佳动画片
+** 最佳动画制作设计奖（[[阿里·福尔曼]]）
+** 最佳动画音乐奖（[[马克思·李希特]]）
+** 最佳动画编剧奖（阿里·福尔曼）
+* ''' [[英国电影和电视艺术学院]]：
+** 最佳动画片
+** 最佳外语片
+* ''' [[英国独立电影奖]]：
+** 最佳国外独立电影（获奖）
+* ''' [[广播影评人协会奖]]：
+** 最佳外语片（获奖）
+** 最佳动画（提名）
+* ''' [[戛纳电影节]]：
+** 金棕榈奖（提名）
+* ''' [[欧洲电影奖]]：
+** 最佳电影（提名）
+** 最佳作曲（马克思·李希特，获奖）
+** 最佳导演（阿里·福尔曼，提名）
+** 最佳剧本（阿里·福尔曼，提名）
+{{Col-2}}
+* '''[[金球奖]]：
+** 最佳外语片（获奖）
+* ''' [[洛杉矶影评人协会奖]]：
+** 最佳动画电影（获奖）
+** 最佳记录片\最佳非叙事电影（亚军）
+* ''' [[国家影评人协会]]：
+** 最佳电影（获奖）
+* ''' 以色列电影学院奖(Ophir Awards):
+** 最佳电影（获奖）
+** 最佳导演（阿里·福尔曼，获奖）
+** 最佳剧本（阿里·福尔曼，获奖）
+** 最佳艺术设计（David Polonskey，获奖）
+** 最佳编辑（Nili Feller，获奖）
+** 最佳声音设计（Aviv Aldema，获奖）
+** 最佳摄影（Yoni Goodman，提名）
+* ''' [[卫星奖]]：
+** 最佳动画和混媒体奖（提名）
+** 最佳纪录片（提名）
+{{Col-end}}
+
+== 参考 ==
+{{reflist}}
+
+== 外部链接 ==
+* [http://waltzwithbashir.com/ 官方网站]
+* {{imdb title|id=1185616|title=和巴什尔跳华尔兹}}
+* {{mojo title|id=waltzwithbashir|title=和巴什尔跳华尔兹}}
+* {{rotten-tomatoes|id=waltz_with_bashir|title=和巴什尔跳华尔兹}}
+* {{metacritic film|id=waltzwithbashir2008|title=和巴什尔跳华尔兹}}
+
+
+{{start box}} {{s-ach|aw}}
+{{succession box
+| title = [[金球奖最佳外语片]]
+| years = 2008
+| before= 《[[潜水钟与蝴蝶]]》 &lt;br /&gt; {{flagcountry|France}}
+| after = TBD
+}}
+{{end}}
+
+{{DEFAULTSORT:Waltz With Bashir}}
+[[Category:2008年电影]]
+[[Category:以色列電影作品]]
+[[Category:法国电影作品]]
+[[Category:德国电影作品]]
+[[Category:以色列動畫電影]]
+[[Category:纪录片]]
+[[Category:战争片]]
+[[Category:超現實主義電影]]
+[[Category:希伯來語電影]]
+[[Category:金球奖最佳外语片]]
+[[Category:亞洲太平洋電影獎最佳動畫片]]</str>
+    <str name="title">和巴什尔跳华尔兹</str>
+    <str name="titleText">和巴什尔跳华尔兹</str>
+    <str name="user">Mikepanhu</str>
+    <int name="userId">47833</int>
+    <int name="revision">30613876</int>
+    <date name="timestamp">2014-03-09T03:07:11Z</date>
+    <long name="_version_">1484748843538972672</long></doc>
+  <doc>
+    <str name="id">557990</str>
+    <str name="text">{{noteTA
+|G1=Show}}
+{{Infobox Film 
+  | name = 扬帆
+  |original_name = Now, Voyager
+  | image = NowVoyagerPoster.jpg
+  | caption = 《扬帆》电影海报
+  | director = [[欧文·拉帕尔]]
+  | producer = [[哈尔·B·沃利斯]]
+  | writer = [[奥利夫·希金斯·普劳蒂]] (小说)&lt;br /&gt;凯西·罗宾逊
+  | starring = [[贝蒂·戴维斯]]&lt;br /&gt;[[保罗·亨里德]]
+  | music = [[马克思·斯坦纳]]
+  | cinematography =
+  | editing =
+  | distributor = [[华纳兄弟]]
+  | released = 1942年10月22日（[[美国]]）
+  | runtime = 117分钟
+  | language = [[英语]]
+  | budget = 
+  | imdb_id = 0035140
+}}
+《'''扬帆'''》（{{lang-en|''Now, Voyager''}}）是一部拍摄于1942年的[[电影]]，导演[[欧文·拉帕尔]]，主演[[贝蒂·戴维斯]]和[[保罗·亨里德]]。影片根据[[奥利夫·希金斯·普劳蒂]]1941年创作的同名小说改编，编剧凯西·罗宾逊。影片上映时间和小说出版时间非常接近。原著中的主角夏洛特·维尔居住在[[地中海]]，而电影中则改成了[[南美]]地区。
+
+该片获得[[奥斯卡最佳原创音乐奖]]，[[贝蒂·戴维斯]]获得[[奥斯卡最佳女主角奖|最佳女主角奖]]提名，[[格拉迪斯·库柏]]则获得[[奥斯卡最佳女配角奖|最佳女配角奖]]提名。
+
+==演員表==
+[[File:Bette Davis in Now Voyager trailer 1.jpg|thumb|[[贝蒂·戴维斯]]在電影中的造型]]
+* [[贝蒂·戴维斯]]
+* [[保罗·亨里德]]
+* [[格拉迪斯·库柏]]
+* [[凯瑟琳·亚历山大]]
+* [[弗兰克·普格利亚]]
+* [[约翰·洛德]]
+* [[克劳德·雷恩斯]]
+* [[伊尔卡·蔡斯]]
+* [[富兰克林·潘伯恩]]
+* [[博尼塔·格兰维尔]]
+* [[玛丽·威克斯]]
+
+
+==外部连接==
+* {{imdb title|id=0035140|title=扬帆}}
+
+{{DEFAULTSORT:Now, Voyager}}
+[[Category:1942年电影]]
+[[Category:华纳兄弟电影]]
+[[Category:黑白电影]]
+[[Category:英语电影]]
+[[Category:美國劇情片]]
+[[Category:1940年代劇情片]]
+[[Category:美國國家電影保護局典藏]]</str>
+    <str name="title">扬帆</str>
+    <str name="titleText">扬帆</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30340323</int>
+    <date name="timestamp">2014-02-23T15:37:34Z</date>
+    <long name="_version_">1484748713137012736</long></doc>
+  <doc>
+    <str name="id">284803</str>
+    <str name="text">*[[北野武]]的首部电影作品是'''[[凶暴的男人|哪一部]]'''？
+*[[瑪莉安·歌迪雅]]主演的電影《[[玫瑰人生 (电影)|玫瑰人生]]》描寫'''[[艾迪特·皮雅芙|哪一位法國歌手]]'''的一生？
+*'''[[北国走一遭|哪部美国儿童电影]]'''是关于艾迪塔罗德狗拉雪橇比赛的？
+*'''[[寻枪|哪部电影]]'''是导演陆川的处女作？
+*'''[[凱文·斯貝西|哪位电影演员]]'''凭借在《普通嫌疑犯》中的出色表现获得第68届奥斯卡最佳男配角奖？
+*1999年，中国导演冯小刚拍摄了'''[[没完没了|哪部贺岁电影]]'''？
+*皮克斯动画工作室的'''[[日與夜|哪一部动画短片]]'''于2010年6月18日开始与《玩具总动员3》并映？
+*'''[[親密關係_(電影)|哪一部电影]]'''曾获得1983年奥斯卡最佳影片奖？
+*'''[[挪威的森林 (电影)|哪部日本电影]]'''改编自村上春树的成名作，并在角逐第67届威尼斯国际电影节的最高殊荣金狮奖？
+*'''[[杰米·福克斯|哪位演员兼歌手]]'''在2004年奥斯卡奖上因两部不同的影片分获提名？
+*'''[[全民公敌|1998年的哪一部电影]]'''讲述了有关美国国家安全局暗杀议员阴谋的故事？
+&lt;div align="right" style="font-size: 90%;"&gt;
+'''[[Wikipedia:新条目推荐|存档]] | [[Help:如何创建新页面|创建新条目]] | [[Special:Newpages|更多新条目...]]'''&lt;/div&gt;
+&lt;small class="editlink noprint plainlinksneverexpand"&gt;&lt;div align=right&gt;[[{{SERVER}}{{localurl:Portal:电影/你知道嗎？|action=edit}} 編輯]]&lt;/div&gt;&lt;/small&gt;
+&lt;noinclude&gt;[[Category:电影主题|{{PAGENAME}}]]&lt;/noinclude&gt;</str>
+    <str name="title">Portal:电影/你知道嗎？</str>
+    <str name="titleText">Portal:电影/你知道嗎？</str>
+    <str name="user">Msh.spike</str>
+    <int name="userId">596093</int>
+    <int name="revision">19824215</int>
+    <date name="timestamp">2012-04-04T23:24:15Z</date>
+    <long name="_version_">1484748637599694850</long></doc>
+  <doc>
+    <str name="id">3998900</str>
+    <str name="text">{{refimprove|time=2014-06-05T00:28:51+00:00}}
+{{Infobox film
+| name           = 犯罪的都市&lt;br&gt;{{lang|en|The Front Page}}
+| image          = The Front Page (1931 film) poster.jpg
+| image_size     = 
+| caption        = 
+| director       = [[刘易斯·迈尔斯通]]
+| producer       = 刘易斯·迈尔斯通&lt;br/&gt;[[霍华德·休斯]]
+| writer         = [[Bartlett Cormack]]&lt;br/&gt;[[Charles Lederer]]
+| starring       = {{link-en|阿道夫·门吉欧|Adolphe Menjou}}&lt;br&gt;{{link-en|帕特·奥布里|Pat O'Brien (actor)}}&lt;br&gt;[[Mary Brian]]&lt;br&gt;[[Edward Everett Horton]]
+| music          = 
+| cinematography = [[Glen MacWilliams]]
+| editing        = [[W. Duncan Mansfield]]
+| distributor    = [[联艺公司]]
+| released       = {{Film date|1931|04|04}}
+| runtime        = 101分钟
+| country        = {{USA}}
+| language       = 英语
+| budget         = 
+}}
+《'''犯罪的都市'''》（{{lang-en|'''The Front Page'''}}）是一部1931年的美国喜剧电影，由[[刘易斯·迈尔斯通]]导演，{{link-en|阿道夫·门吉欧|Adolphe Menjou}}和{{link-en|帕特·奥布里|Pat O'Brien (actor)}}主演。该片由[[霍华德·休斯]]制片，改编自{{link-en|同名百老汇戏剧|The_Front_Page}}。本电影获得3项奥斯卡奖提名，分别为[[奥斯卡最佳影片奖|最佳影片]]，[[奥斯卡最佳导演奖|最佳导演]]和[[奥斯卡最佳男主角奖|最佳男主角奖]]。《犯罪的都市》因其在“文化、历史和审美方面的显著成就”，被[[國會圖書館 (美國)|美国国会图书馆]]列入[[国家电影登记部]]下属的国家电影保存委员会保护电影名单。
+
+== 外部链接 ==
+* {{douban|1295504}}
+* {{imdb title|0021890|The Front Page}}
+* {{Internet Archive film|id=TheFrontPage1931AdolpheMenjouPatOBrienLewismiles|name=The Front Page}}
+* {{tcmdb title|id=5902|title=The Front Page}}
+* {{amg movie|id=1:18776|title=The Front Page}}
+
+&lt;!--{{Lewis Milestone}}
+{{Howard Hughes}}
+{{The Front Page}}--&gt;
+
+{{DEFAULTSORT:Front Page}}
+[[Category:1931年电影]]
+[[Category:美國電影作品]]
+[[Category:黑白电影]]
+[[Category:1930年代喜剧电影]]
+[[Category:英语电影]]
+[[Category:刘易斯·迈尔斯通电影]]
+[[Category:记者相关电影]]
+[[Category:死刑題材電影]]
+[[Category:美國喜劇片]]
+[[Category:美國國家電影保護局典藏]]</str>
+    <str name="title">犯罪的都市 (1931年电影)</str>
+    <str name="titleText">犯罪的都市 (1931年电影)</str>
+    <str name="user">Cwek</str>
+    <int name="userId">886047</int>
+    <int name="revision">31497001</int>
+    <date name="timestamp">2014-06-04T16:28:53Z</date>
+    <long name="_version_">1484749484428623880</long></doc>
+  <doc>
+    <str name="id">4181151</str>
+    <str name="text">'''卡洛琳·林克''' (Caroline Link, 1964年6月2日生于[[西德]][[巴特瑙海姆]])，是一名[[德国]]女性电影导演和编剧，2001年作品《[[何处是我家]]》获得[[奥斯卡最佳外语片]]。
+
+==生平==
+
+她母亲是Jürgen，父亲是 Ilse Link。1986年至1990年她在[[慕尼黑影视学院]](HFF)学习，后来成为一名助理导演和剧作者。早期的作品主要是一些[[短片]]，如 ''Bunte Blumen''。她也是[[纪录片]] ''Das Glück zum Anfassen'' (1989)的联合导演。并为[[侦探]]电视剧 ''Der Fahnder'' (''The Investigators'')写过两集的剧本。
+
+1996年林克执导的首部电影长片''Jenseits der Stille'' (''Beyond Silence'', 1996) 获得奥斯卡最佳外语片提名，引起世人关注&lt;ref&gt;{{cite news | author=Dinitia Smith | title= Families Joined or Divided by Silence; Film Shed Light on Emotional Issues of the Deaf | url=http://query.nytimes.com/gst/fullpage.html?res=9F00E7D7133AF932A25755C0A96E958260&amp;sec=&amp;spon=&amp;pagewanted=all | work=The New York Times | date=1998-06-11 | accessdate=2008-01-22}}&lt;/ref&gt;。第二部电影 ''Annaluise and Anton'' (1999)改编自[[Erich Kästner]]所写的小说。第三部作品 ''Nirgendwo in Afrika'' (''[[何处是我家]]'', 2001)改编自[[Stefanie Zweig]]所写的传记小说，并在[[肯尼亚]]取景拍摄&lt;ref&gt;{{cite news |author=Stefanie Zweig | title=Strangers in a Strange Land |url=http://www.guardian.co.uk/culture/2003/mar/21/artsfeatures |work=The Guardian | date=2003-02-23 | accessdate=2008-01-22}}&lt;/ref&gt;，赢得了[[德国电影奖]]最佳影片、最佳导演和奥斯卡最佳外语片。
+
+== 个人生活 ==
+卡洛琳的伴侣为电影导演 Dominik Graf，两人有一个生于2002年的女儿&lt;ref&gt;{{cite news | author=Laura Winters | title=In the African Sun While Dark Came Over Europe |url=http://www.nytimes.com/2003/02/23/movies/film-in-the-african-sun-while-dark-came-over-europe.html | work=The New York Times | date=2003-03-21 | accessdate=2008-01-22}}&lt;/ref&gt;。
+
+==奖项==
+*1996 [[Bayerischer Filmpreis|Bavarian Film Award]], 最佳新导演
+*1998 Bavarian Film Award, Best Young People's Film [http://www.bayern.de/Anlage19170/PreistraegerdesBayerischenFilmpreises-Pierrot.pdf]
+
+==影视作品==
+*''Der Fahnder'' (1985) (TV Series)
+*''Bunte Blumen (1988)
+*''Glück zum Anfassen'' (1989)
+*''Sommertage (1990)
+*''Kalle der Träumer (1992) (TV)
+*''Jenseits der Stille (1996)
+*''Annaluise &amp; Anton (1999)
+*[[何处是我家]]/''Nowhere in Africa'' (2001)
+*''Im Winter ein Jahr'' (2008)
+*''Exit Marrakech'' (2013)
+
+==参考资料==
+{{Reflist}}
+
+==外部链接==
+* {{IMDb name|id=0512862|name=Caroline Link}}
+
+{{奥斯卡最佳外语片奖}}
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Link, Caroline
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = German film director
+| DATE OF BIRTH     = 1964-06-02
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Link, Caroline}}
+[[Category:1964年出生]]
+[[Category:德国电影导演]]
+[[Category:德语电影导演]]
+[[Category:女性电影导演]]
+[[Category:德国编剧]]
+[[Category:女性编剧]]
+[[Category:在世人物]]</str>
+    <str name="title">卡洛琳·林克</str>
+    <str name="titleText">卡洛琳·林克</str>
+    <str name="user">Huandy618</str>
+    <int name="userId">863767</int>
+    <int name="revision">32433793</int>
+    <date name="timestamp">2014-08-25T05:14:00Z</date>
+    <long name="_version_">1484749502158995457</long></doc>
+  <doc>
+    <str name="id">1513847</str>
+    <str name="text">{{Infobox film
+| name           = Going My Way
+| image          = GoingmywayBing.jpg
+| director       = [[Leo McCarey]]
+| producer       = [[Leo McCarey]]
+| writer         = [[Frank Butler (writer)|Frank Butler]]&lt;br /&gt;[[Frank Cavett]]
+| starring       = [[Bing Crosby]]&lt;br /&gt;[[Barry Fitzgerald]]&lt;br /&gt;[[Frank McHugh]]&lt;br /&gt;[[James Brown (actor)|James Brown]]
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1944|5|3}}
+| runtime        = 130 分钟
+| country        = {{Film US}}
+| language       = 英语
+| budget         =
+}}
+《'''与我同行'''》（''Going My Way''）是一部1944年上映的美国电影，获得了包括最佳影片在内的七个奥斯卡奖。歌影双星Crosby作为主演为其演唱了五首歌曲，影片采取的把圣诗改编成流行歌曲的方式以及新老两位主角个性鲜明反差巨大的喜剧效果打破了以往宗教电影严肃的面貌，因而受到广泛的欢迎，成为当年票房最高的影片。
+
+1945年续集《[[圣玛莉的钟声]]》（The Bells of St. Mary’s）上映；1992年表现黑人修女的喜剧故事片《[[修女也疯狂]]》的灵感也来源于本片。
+
+==剧情==
+讲述的是一位名叫Chuck的年轻新任[[神甫]]去接管一座状况不佳的[[教堂]]，它已经由一名叫Fitzgibbon的年老神甫管理了20多年。他最终采取人性化的方法训练那些街头的孩子成为了教堂的[[唱诗班]]，不但成功解决了教堂的债务问题，亦积极影响和改变了周围的一些人。
+
+==演员表==
+*[[Bing Crosby]] as Father Chuck O'Malley
+*[[Barry Fitzgerald]] as Father Fitzgibbon
+*[[Frank McHugh]] as Father Timothy O'Dowd
+*[[James Brown (Rin Tin Tin)|James Brown]] as Ted Haines, Jr.
+*[[Gene Lockhart]] as Ted Haines, Sr.
+*[[Risë Stevens]] as Genevieve Linden
+*[[Jean Heather]] as Carol James
+*[[Porter Hall]] as Mr. Belknap
+*[[Fortunio Bonanova]] as Tomaso Bozanni
+*[[Eily Malyon]] as Mrs. Carmody
+*[[Stanley Clements]] as Tony Scaponi
+*[[Carl Switzer|Carl "Alfalfa" Switzer]] as Herman Langer
+
+==奖项==
+在第17届奥斯卡中10提7中，最值得一提的是Barry Fitzgerald同时获得最佳男主角和最佳男配角两个表演奖的提名，最终他获得最佳男配角，这是奥斯卡历史上唯一的一次，之后评选规则立即做出修正以确保演员只能在一类中获得提名。
+{| class="wikitable" border="1"
+|-
+! 奖项 !! 结果 !! 获奖者
+|-
+| &lt;small&gt;最佳影片&lt;/small&gt; || {{won}} || [[Paramount Pictures]] ([[Leo McCarey]], producer)
+|-
+| &lt;small&gt;最佳导演&lt;/small&gt; || {{won}} || [[Leo McCarey]]
+|-
+| &lt;small&gt;最佳男主角&lt;/small&gt; || {{won}} || [[Bing Crosby]]
+|-
+| &lt;small&gt;最佳男主角&lt;/small&gt; || {{nom}} || [[Barry Fitzgerald]]
+|-
+| &lt;small&gt;最佳改编剧本&lt;/small&gt; || {{won}} || [[Frank Butler (writer)|Frank Butler]] and [[Frank Cavett]]
+|-
+| &lt;small&gt;[[Academy Award for Best Story|Best Original Motion Picture Story]]&lt;/small&gt; || {{won}} || [[Leo McCarey]]
+|-
+| &lt;small&gt;最佳男配角&lt;/small&gt; || {{won}} || [[Barry Fitzgerald]]
+|-
+| &lt;small&gt;最佳摄影&lt;/small&gt; || {{nom}} || [[Lionel Lindon]] &lt;br&gt; Winner was [[Joseph LaShelle]] – ''[[Laura (1944 film)|Laura]]''
+|-
+| &lt;small&gt;最佳剪辑&lt;/small&gt; || {{nom}} || [[Leroy Stone]] &lt;br&gt; Winner was [[Barbara McLean]] – ''[[Wilson (film)|Wilson]]''
+|-
+| &lt;small&gt;最佳原创歌曲&lt;/small&gt; || {{won}} || ''[[Swinging on a Star]]'' – Music: [[James Van Heusen]] • Lyrics:[[Johnny Burke (lyricist)|Johnny Burke]]
+|-
+|}
+
+==外部连接==
+* {{IMDb title|0036872|Going My Way}}
+* {{Allmovie title|20120|Going My Way}}
+* {{tcmdb title|76588|Going My Way}}
+* {{Rotten-tomatoes|going_my_way|Going My Way}}
+
+{{奥斯卡最佳影片奖 (1941–1960)}}
+{{DEFAULTSORT:Going My Way}}
+[[Category:1944年电影]]
+[[Category:美国电影作品]]
+[[Category:英语电影]]
+[[Category:黑白电影]]
+[[Category:奥斯卡最佳影片]]
+[[Category:奥斯卡最佳导演获奖电影]]
+[[Category:奥斯卡最佳改编剧本获奖电影]]
+[[Category:奥斯卡最佳男主角获奖电影]]
+[[Category:奥斯卡最佳男配角获奖电影]]
+[[Category:奥斯卡最佳歌曲获奖电影]]
+[[Category:基督教相关电影作品]]</str>
+    <str name="title">与我同行</str>
+    <str name="titleText">与我同行</str>
+    <str name="user">Huandy618</str>
+    <int name="userId">863767</int>
+    <int name="revision">28953067</int>
+    <date name="timestamp">2013-10-18T17:46:16Z</date>
+    <long name="_version_">1484749015581982722</long></doc>
+  <doc>
+    <str name="id">1410314</str>
+    <str name="text">{{expand|time=2010-09-13T09:54:42+00:00}}
+{{BLP unsourced|time=2010-09-13T09:54:42+00:00}}
+{{Infobox actor
+|type=導演
+|image=Stefan Ruzowitzky ROMY2008.jpg
+|birth_date={{birth date and age|1961|12|25}}
+|academyawards='''[[奧斯卡最佳外語片獎|最佳外語片]]'''&lt;br&gt;2007年 《[[伪钞制造者]]》
+}}
+'''斯戴芬·卢佐维茨基'''({{bd|1961年|12月25日}})，[[奥地利]]编剧、导演。
+
+==生平==
+===早年===
+卢佐维茨基生于[[维也纳]]，在[[维也纳大学]]攻读了历史和戏剧。在此期间为[[超级男孩]]等乐团执导了一些[[音乐录像带|MV]]，还拍了一些[[电视广告]]。
+
+===职业生涯===
+1996年卢佐维茨基拍摄了第一部电影《Tempo》。随后他得到了Max Ophüls Preis奖项。1998年他执导了第二部电影《Die Siebtelbauern》，故事设定在[[上奥地利]][[Mühlviertel]]的乡村。该片在[[鹿特丹电影节]]和[[法兰德斯电影节]]均获最佳影片奖。2000年他执导了恐怖片《[[解剖 (电影)|解剖]]》、3年后执导了其续集《[[解剖2]]》。2007年，他的《[[伪钞制造者]]》参选[[柏林电影节]]，并获[[奥斯卡最佳外语片奖]]。
+
+{{奧斯卡最佳外語片獎 (2001–2020)}}
+
+[[Category:奥地利电影导演]]</str>
+    <str name="title">斯戴芬·卢佐维茨基</str>
+    <str name="titleText">斯戴芬·卢佐维茨基</str>
+    <str name="user">Taketa</str>
+    <int name="userId">547162</int>
+    <int name="revision">31547815</int>
+    <date name="timestamp">2014-06-09T12:07:21Z</date>
+    <long name="_version_">1484748983374970880</long></doc>
+  <doc>
+    <str name="id">661835</str>
+    <str name="text">{{Infobox_Film
+| name           = 《卿何薄命》
+|original_name   = Dark Victory
+| image          = Dark movieposter.jpg
+| image_size     = 
+| caption        = 《卿何薄命》电影海报
+| director       = [[埃德蒙·古尔丁]]
+| producer       = 
+| writer         = 
+| starring       = [[贝蒂·戴维斯]]&lt;br&gt;[[乔治·布伦特]]&lt;br&gt;[[亨弗莱·鲍嘉]]&lt;br&gt;[[杰拉尔丁·菲茨杰拉德]]&lt;br&gt;[[罗纳德·威尔逊·里根]]
+| music          = [[马克思·斯坦纳]]&lt;br&gt;[[霍华德·杰克逊]]
+| cinematography = [[厄奈斯特·霍尔]]
+| editing        = 
+| distributor    = [[华纳兄弟]]
+| released       = 1939年4月22日 
+| runtime        = 104分钟
+| country        = {{USA}}
+| language       = [[英语]]
+| amg_id         = 
+| imdb_id        = 0031210
+|}}
+'''《卿何薄命》'''（英文原名：{{lang|en|Dark Victory}}）是一部1939年发行的剧情电影。影片讲述了一个年轻女子爱上并嫁给了治疗她脑瘤的[[医生]]，然而，当她发现肿瘤再度出现时，非常沮丧，直到另一个爱慕者告诉她要振作起来。
+
+该片获得了1939年[[奥斯卡最佳影片奖]]提名，主演[[贝蒂·戴维斯]]也获得了[[奥斯卡最佳女主角奖]]提名。
+
+1963年，该片被翻拍成《[[春残魂断]]》（{{lang|en|Stolen Hours}}）。 
+
+{{DEFAULTSORT:Dark Victory}}
+{{American film-stub}}
+
+[[Category:1939年电影]]
+[[Category:美国电影作品]]
+[[Category:英语电影]]
+[[Category:华纳兄弟电影]]
+[[Category:黑白电影]]</str>
+    <str name="title">卿何薄命</str>
+    <str name="titleText">卿何薄命</str>
+    <str name="user">Yinweichen-bot</str>
+    <int name="userId">552715</int>
+    <int name="revision">30224303</int>
+    <date name="timestamp">2014-02-16T03:46:42Z</date>
+    <long name="_version_">1484748760032477184</long></doc>
+</result>
+</response>
