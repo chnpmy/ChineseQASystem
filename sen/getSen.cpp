@@ -118,7 +118,7 @@ double calc_word_sim(string word1,string word2)
      int x1,x2;
      x1 = hashget(word1);
      x2 = hashget(word2);
-     if(word1 == word2)return 1;
+     if(word1 == word2)return 1.5;
      double s = 0,u;
      int i,j;
      for(i = 1;i <= words[x1].cnt;i++)
